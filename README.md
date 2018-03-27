@@ -4,7 +4,7 @@ Best Songs
 New Additions
 -------------
 Japan big band?
-
+Marry J - aus?
 
 For Real
 --------
@@ -15,7 +15,6 @@ Dick Dale & HisDelTones - Misirlou
 Elvis Presley - Heartbreak hotel
 RHCP - Give it away
 Lewis - Great balls
-The Cure - Boys don't cry
 Stealers Wheel - Stuck In The Middle With You
 Rolling Stones - Satisfaction
 * LCD Soundsystem - yeah (crass) L9:25
@@ -48,6 +47,7 @@ Jefferson Airplane - White rabit
 Prince - Kiss
 * Ramones - Blietzkrieg Bop
 Iggy Pop - Lust for life
+* The Smiths - This Charming Man
 New Order - Blue Monday L
 * Majke - Mrsavi Pas
 Sex Pistols - God save the queen
@@ -57,7 +57,6 @@ Lou Reed - Walk on the Wild Side
 * Pankrti - Sedemnajst
 Kinks - you really Got me
 * LCD - freak out L12:20
-The Smiths - This Charming Man
 * New Bomb Turks - I'm Weak
 Stepenwolf - Born to be wild
 6 was 9
@@ -65,6 +64,7 @@ Stepenwolf - Born to be wild
 LIPPS INC - Funkytown
 * Pankrti - Tovarisi
 beck - lord only knows
+* The Cure - Boys don't cry
 Groove Armada - Superstylin'
 * LCD Soundsystem - losing my edge L7:50
 * LCD Soundsystem - Us v Them L8:30
