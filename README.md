@@ -3,6 +3,8 @@ Best Songs
 
 New Additions
 -------------
+Japan big band?
+
 
 For Real
 --------
@@ -15,8 +17,8 @@ RHCP - Give it away
 Lewis - Great balls
 The Cure - Boys don't cry
 Stealers Wheel - Stuck In The Middle With You
-MC Hammer - U Can't Touch This
 Rolling Stones - Satisfaction
+* LCD Soundsystem - yeah (crass) L9:25
 Astrud Gilberto & Stan Getz - The Girl from Ipanema
 Beck - Loser
 Dylan - Subterranean Homesick Blues
@@ -26,6 +28,7 @@ Clash - London calling
 Black Sabath - Paranoid
 Radiohead - Creep
 Blur - Song 2
+MC Hammer - U Can't Touch This
 Rappers delight L
 The Doors - 5 to 1 (live)
 The Doors - Light my fire L?
@@ -33,9 +36,6 @@ Johny Cash - Hurt
 Johny Cash - Folsom Prison
 violent femes - blister on the sun
 Beck - Scarecrow L?
-LCD Soundsystem - yeah(crass) L9:25
-LCD - freak out L12:20 ?
-RATM - Bullet in your head ???
 * Satyricon - Mother North L6:30
 * Velvet Underground - murder mistery L 
 Beatles - Help
@@ -48,34 +48,46 @@ Jefferson Airplane - White rabit
 Prince - Kiss
 * Ramones - Blietzkrieg Bop
 Iggy Pop - Lust for life
-New Bomb Turks - I'm Weak
 New Order - Blue Monday L
+* Majke - Mrsavi Pas
 Sex Pistols - God save the queen
+* gustav - linz serenade
 Depeche Mode - Enjoy The Silence
 Lou Reed - Walk on the Wild Side
+* Pankrti - Sedemnajst
 Kinks - you really Got me
+* LCD - freak out L12:20
 The Smiths - This Charming Man
+* New Bomb Turks - I'm Weak
 Stepenwolf - Born to be wild
-LCD Soundsystem - losing my edge L7:50
 6 was 9
-* gustav - linz serenade
+* RATM - killing
 LIPPS INC - Funkytown
+* Pankrti - Tovarisi
 beck - lord only knows
 Groove Armada - Superstylin'
+* LCD Soundsystem - losing my edge L7:50
 * LCD Soundsystem - Us v Them L8:30
 ghost on the highway ?
 Underworld - Born Slippy
 Mardi gras in new orlean
 Joy Division - Transmission
-* ramones - 53 and 3rd ?
-* Nirvana - Milk it ?
+
+
 
 Under Concideration
 -------------------
 Bovie - black
 
+
 Just Out
 --------
+Pankrti - Anarhist
+RATM - wake up
+RATM - Bullet in your head
+RATM - know your enemy
+ramones - 53 and 3rd
+Nirvana - Milk it
 jovanoti - penso positivo
 no means no - river
 idoli - maljciki
@@ -88,8 +100,6 @@ mc5 - kick out the jams
 'I FINK U FREEKY' by DIE ANTWOORD
 Fatboy Slim - Push The Tempo
 Shocking Blue - Venus
-RATM - killing ???
-RATM - know your enemy (bombtrack - 6) ???
 Beatles - Help of friends
 Beatles - tomorow never knows
 Beatles - come together
