@@ -5,83 +5,85 @@ New Additions
 -------------
 Japan big band?
 Marry J - aus?
+Bovie - black
+ghost on the highway ?
+Underworld - Born Slippy
+Joy Division - Transmission
+beastie - in 3's ?
+little richard: molly?, tutti?, Long Tall Sally?
+rock around the clock?
+
+
 
 For Real
 --------
-The Chordettes - Mr Sandman
-Marvin Gaye - I Heard It Through The Grapevine
-Link Wray - Rumble
-Dick Dale & HisDelTones - Misirlou
-Elvis Presley - Heartbreak hotel
-RHCP - Give it away
-Lewis - Great balls
-Stealers Wheel - Stuck In The Middle With You
-Rolling Stones - Satisfaction
-* LCD Soundsystem - yeah (crass) L9:25
-Astrud Gilberto & Stan Getz - The Girl from Ipanema
-Beck - Loser
-Dylan - Subterranean Homesick Blues
-Mamas and Papas - California dreamen
-Talking Heads - Psychokiler
-Clash - London calling
-Black Sabath - Paranoid
-Radiohead - Creep
-Blur - Song 2
-MC Hammer - U Can't Touch This
-Rappers delight L
-The Doors - 5 to 1 (live)
-The Doors - Light my fire L?
-Johny Cash - Hurt
-Johny Cash - Folsom Prison
-violent femes - blister on the sun
-Beck - Scarecrow L?
-* Satyricon - Mother North L6:30
-* Velvet Underground - murder mistery L 
-Beatles - Help
-Beatles - Eleanor Rigby (lonely people)
-Beatles - Strawberry Fields Forever
-Beatles - Norwegian Wood (This Bird Has Flown)
-Nirvana - In bloom
-at the drive-in - seasior
-Jefferson Airplane - White rabit
-Prince - Kiss
-* Ramones - Blietzkrieg Bop
-Iggy Pop - Lust for life
-* The Smiths - This Charming Man
-New Order - Blue Monday L
-* Majke - Mrsavi Pas
-Sex Pistols - God save the queen
-* gustav - linz serenade
-Depeche Mode - Enjoy The Silence
-Lou Reed - Walk on the Wild Side
-* Pankrti - Sedemnajst
-Kinks - you really Got me
-* LCD - freak out L12:20
-* New Bomb Turks - I'm Weak
-Stepenwolf - Born to be wild
-6 was 9
-* RATM - killing
-LIPPS INC - Funkytown
-* Pankrti - Tovarisi
-beck - lord only knows
-* The Cure - Boys don't cry
-Groove Armada - Superstylin'
-* LCD Soundsystem - losing my edge L7:50
-* LCD Soundsystem - Us v Them L8:30
-ghost on the highway ?
-Underworld - Born Slippy
-Mardi gras in new orlean
-Joy Division - Transmission
-
-
-
-Under Concideration
--------------------
-Bovie - black
+### 59 | The Chordettes, 'Mr Sandman'
+    Just works.
+### 68 Marvin Gaye, 'I Heard It Through The Grapevine'
+### 62 Dick Dale & HisDelTones, 'Misirlou'
+### 58 Elvis Presley, 'Heartbreak hotel'
+### 93 RHCP, 'Give it away'
+### 65 * Rolling Stones, 'Satisfaction'
+### 05 * LCD Soundsystem, 'yeah (crass)' L9:25
+### 60 Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
+### 94 Beck, 'Loser'
+### 65 Dylan, 'Subterranean Homesick Blues'
+### 58 * Link Wray, 'Rumble'
+### 66 Mamas and Papas, 'California dreamen'
+### 78 Talking Heads, 'Psychokiler'
+### 78 Clash, 'London calling'
+### 70 Black Sabath, 'Paranoid'
+### 95 Radiohead, 'Creep' ?
+### 78 * Rappers delight' L
+### 67 The Doors, '5 to 1' (live)
+### 66 * The Doors, 'Light my fire' (radio)
+### 07 Johny Cash, 'Hurt'
+### 56 Johny Cash, 'Folsom Prison'
+### 85 Violent femes, 'blister on the sun'
+### 91 * Nirvana, 'In bloom'
+### 96 * Satyricon, 'Mother North' L6:30
+### 67 * Velvet Underground, 'murder mistery' L 
+### 65 Beatles, 'Help'
+### 65 Beatles, 'Eleanor Rigby' (lonely people)
+### 66 Beatles, 'Strawberry Fields Forever'
+### 67 Beatles, 'Norwegian Wood' (This Bird Has Flown)
+### 66 Jefferson Airplane, 'White rabit'
+### 84 Prince, 'Kiss'
+### 76 * Ramones, 'Blietzkrieg Bop'
+### 99 * At the drive-in, 'seasior'
+### 76 Iggy Pop, 'Lust for life'
+### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
+### 86 * The Smiths, 'This Charming Man'
+### 82 New Order, 'Blue Monday' L
+### 93 * Majke, 'Mrsavi Pas'
+### 05 * gustav, 'linz serenade'
+### 82 Depeche Mode, 'Enjoy The Silence'
+### 72 Lou Reed, 'Walk on the Wild Side'
+### 78 * Pankrti, 'Sedemnajst'
+### 91 * RATM, 'killing'
+### 64 Kinks, 'you really Got me'
+### 73 * Fela Kuti, 'Zombie' ?
+### 58 * Lewis, 'Great balls'
+### 99 * Groove Armada, 'Superstylin'
+### 95 * Blur, 'Song 2'
+### 06 * LCD, 'freak out' L12:20
+### 76 * Television, 'marque moon' L10:50 (radio?)
+### 68 Stepenwolf, 'Born to be wild'
+### 68 Jimi Hendrix, '6 was 9'
+### 85 LIPPS INC, 'Funkytown'
+### 78 * Pankrti, 'Tovarisi'
+### 59 * Profesor Longhair, 'Mardi gras in new orlean'
 
 
 Just Out
 --------
+The Cure - Boys don't cry ?
+New Bomb Turks - I'm Weak
+Sex Pistols - God save the queen
+LCD Soundsystem - losing my edge L7:50
+LCD Soundsystem - Us v Them L8:30
+MC Hammer - U Can't Touch This
+96 beck - lord only knows ?
 Pankrti - Anarhist
 RATM - wake up
 RATM - Bullet in your head
@@ -130,6 +132,8 @@ White Stripes - Seven Nation ?
 
 Pergutory
 ---------
+07 * Beck - Scarecrow L
+Lamar - blacker the berry
 The Human League - Don't You Want Me
 Eurythmics - Sweet Dreams (Are Made of This)
 Soft Cell - Tainted Love
@@ -144,7 +148,6 @@ Buffalo Springfield - For What It's Worth
 96 tears
 b52s - love shack
 Rolling Stones - Sympathy for the devil L?
-television - marque moon L10:50
 Jet - Are You Gonna Be My Girl
 Lonsome town
 kravitz - arey you gonna go my way
@@ -218,13 +221,13 @@ Pool
 By Band
 -------
 ### Beastie Boys
-'Sabotage', mark on the bus?, right?
+Sabotage, mark on the bus?, right?, in 3's
 
 ### Beatles
 Help of friends?, come together?, sitar?, walrus?, please please?, hard days?, guitar?, Eleanor Rigby (lonely people), Strawberry Fields Forever (original stereo studio mix)   The Beatles?, Norwegian Wood (This Bird Has Flown) (original mono studio mix)   The Beatles?, I Want To Hold Your Hand?, Don't Let Me Down?, Imagine?, sgt peppers?
 
 ### Beck
-Loser, Beercan?, Scarecrow?, Peaches & Cream?, broken?, milk and honey?, beautiful way?, pressure zone?, ramshackel, jack-ass?, novacane?, rowboat?, no money?
+Loser, Beercan?, Scarecrow?, Peaches & Cream?, broken?, milk and honey?, beautiful way?, pressure zone?, ramshackel, jack-ass?, novacane?, rowboat?, no money?, go it alone?
 
 ### Bowie
 heroes, let's dance?, ziggi?, changes?, rebel rebel?
@@ -280,75 +283,54 @@ sunday?, venus?, heroin, what goes on?, murder mistery, jane?, waiting?
 
 Mine
 ----
-Rumble
-Lewis: Great balls, shakin
+Lewis: shakin
 The Ventures - Wipe Out
 pieline?
-Pulp fiction
-Kinks - you really Got me
 cher - you got me babe
-Black Sabbath: Paranoid, War pigs
+Black Sabbath: War pigs
 Entersandman
-Creep
-Song 2
-Rappers delight
 breaks
 grandmasterflash
 slim shady
 ace of spades
-ac/dc: highway to hell?, black?
+ac/dc: highway to hell, black
 smoke on the water
-CCR: suze q?, bad moon?, fortunate son?
-white rabit, someone to love?
-california dreamin
-mr. sandman
-grapevine
+CCR: bad moon, fortunate son
+someone to love
 spell hawkings
 212?
-zombie?, mister folow?
-born to be wild
-King kunta?
-I'm weak?
-Bone machine?
-Mother north?
-Tiger: meat?, purgutory?, graveside?, fairground?
-Rat
-Graveyard shift
+mister folow
+King kunta
+Bone machine
+Tiger: meat, purgutory, graveside, fairground
 Your dog
-God save the queen
 Sonic reducer
 germs
 Damaged goods
-joy division: Radio dance, love will?
-Clash: London calling, stay or go?, cashbach?
-Reed: wild side
-soul sacrifice?
+joy division: love will
+Clash: stay or go, cashbach
 going to los angelees
 chameleon
-Curtis Mayfield - Pusherman?, Move On Up?
-impanema
+Curtis Mayfield - Pusherman, Move On Up
 Mystery Train - Junior Parker
-dancing queen?
+dancing queen
 john lee hooker
-William Onyeabor - Good Name?
-Walk this way?
+William Onyeabor - Good Name
+Walk this way
 Our house
-t rex?
+t rex
 Tanz mit Laibach?
-RHCP - Give it away
-4 Non Blondes - What's Up?
-Soul Asylum - Runaway Train?
-Spin Doctors - Two Princes?
-NIN - closer?
-Sherl crow
-television - marque moon
+4 Non Blondes - What's Up
+Soul Asylum - Runaway Train
+Spin Doctors - Two Princes
+NIN - closer
 
 
 ### Ex-Yu
 Krokodili
 Maljciki
 Mrsavi pas
-Sedemnajst, tovarisi?
+Sedemnajst, tovarisi
 Ona se budi
 Top
 
@@ -395,7 +377,7 @@ cars newman?
 b52s: love shack?, lobster?
 Robert Palmer - Addicted To Love?
 grateful cocaine?
-little richard: molly?, tutti?
+little richard: molly?, tutti?, Long Tall Sally?
 aerosmith: edge?, walk this way?
 dylan: blues, rolling stone?
 Donna Summer, 'I Feel Love'
@@ -428,7 +410,6 @@ Sunshine of Your Love   Cream?
 Buffalo Springfield - For What It's Worth
 Bo Diddley: Bo Diddley?, who do you love?, mona?
 Billie Jean (album / single version)    Michael Jackson?
-Little Richard - Long Tall Sally?
 Louie Louie - The Kingsmen?
 The Weight - The Band (lyrics)
 Canned heat change is gonna come
