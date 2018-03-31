@@ -1,0 +1,20 @@
+{
+  "Heartbreak Hotel": {
+    "Name": "Heartbreak Hotel",
+    "Cover": "Heartbreak.JPG",
+    "Artist": "Elvis Presley",
+    "B-side": "\"I Was the One\"",
+    "Released": "1956.01.27",
+    "Format": "10-inch 78 rpm & 7-inch 45 rpm records",
+    "Recorded": "January 10, 1956, RCA Victor Studios, Nashville, Tennessee",
+    "Genre": "{{flatlist",
+    "Length": "2:08",
+    "Label": "RCA Victor",
+    "Writer": "{{flatlist",
+    "Producer": "Steve Sholes",
+    "Last single": "\"Baby Let's Play House\" (1955)",
+    "This single": "\"'''Heartbreak Hotel'''\" (1956)",
+    "Next single": "\"I Want You, I Need You, I Love You\" (1956)",
+    "Misc": "{{Extra music sample|Type=single |filename=Heartbreakhotel.ogg |title=\"Elvis Presley - Heartbreak Hotel\"}}"
+  }
+}

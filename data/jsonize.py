@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3
 #
 # Usage: jsonize.py 
 # Prints JSON of all files in wiki_data folder, that contain wiki song infobox.
@@ -11,14 +11,24 @@ import os
 
 
 DIR = 'wiki_data'
+SAVE = True
 
 def main():
     filenames = os.listdir(DIR)
     if len(sys.argv) > 1:
-        filenames = [sys.argv[1]]
-    objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
-    out = {obj['Name']: obj for obj in objects}
-    print(json.dumps(out, indent=2))
+        objects = [get_object(sys.argv[1])]
+    else:
+        objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
+    out = {get_name(obj): obj for obj in objects}
+    print(json.dumps(out, ensure_ascii=False, indent=2))
+    if SAVE:
+        write_json('songs', out)
+
+
+def get_name(obj):
+    if 'Name' in obj:
+        return obj['Name']
+    return obj['name']
 
 
 def get_object(filename):
@@ -36,6 +46,9 @@ def get_kv_item(line):
     if not line.startswith('| '):
         return
     line = line.strip('| ')
+    line = nbsp(line)
+    line = remove_comment(line)
+    line = remove_formating(line)
     line = remove_ref(line)
     line = parse_lists(line)
     line = parse_date(line)
@@ -45,25 +58,42 @@ def get_kv_item(line):
         return
     key = re.sub('\|', '', tokens[0]).strip()
     value = tokens[1].strip()
-    if key == 'Length':
+    if key in ['Length', 'length']:
         value = fix_legth(value)
     value = remove_links(value)
+    if not key or not value:
+        return
     return key, value
+
+
+def nbsp(line):
+    return re.sub('&nbsp;', ' ', line)
 
 
 def remove_ref(line):
     return re.sub('<ref.*?>.*?</ref>', '', line)
 
 
+def remove_comment(line):
+    return re.sub('<!--.*?-->', '', line)
+
+
+def remove_formating(line):
+    FORMATINGS = ['small']
+    for a_format in FORMATINGS:
+        line = re.sub(f'</*{a_format}>', '', line, flags=re.IGNORECASE)
+    return line
+
+
 def parse_date(line):
-    if 'Start date' not in line:
+    if not re.search('start date', line, flags=re.IGNORECASE):
         return line
-    tokens = re.split('({{Start date.*?}})', line)
+    tokens = re.split('({{start date.*?}})', line, flags=re.IGNORECASE)
     return ''.join(p_date(token) for token in tokens)
 
 
 def p_date(token):
-    if 'Start date' not in token:
+    if not re.search('start date', token, flags=re.IGNORECASE):
         return token
     return '.'.join(re.findall('[0-9]+', token))
 
@@ -84,8 +114,7 @@ def parse_list(token):
 
 
 def remove_br(line):
-    return re.sub('<br />', ' ', line)
-
+    return re.sub('<br */* *>', ' ', line)
 
 def fix_legth(value):
     return ':'.join(re.findall('[0-9]+', value))
@@ -111,6 +140,12 @@ def remove_link_adr(token):
 def read_file(filename):
     with open(filename, encoding='utf-8') as file:
         return file.readlines()
-                
+       
+
+def write_json(filename, an_object):         
+    with open(filename, 'w', encoding='utf-8') as file:
+        json.dump(an_object, file, ensure_ascii=False, indent=2)
+
+
 if __name__ == '__main__':
     main()

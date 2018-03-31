@@ -28,13 +28,11 @@ For Real
 ### 64 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
 ### 65 * Dylan, 'Subterranean Homesick Blues'
 ### 65 * Rolling Stones, 'Satisfaction'
-### 65 Beatles, 'Norwegian Wood (This Bird Has Flown)'
-### 65 Beatles, 'Help'
-### 65 Beatles, 'Eleanor Rigby'
+### 65 * Beatles, 'Norwegian Wood (This Bird Has Flown)'
+### 65 * Beatles, 'Help'
 ### 66 * Mamas and Papas, 'California dreamen'
 ### 66 * The Doors, 'Light my fire'
-### 66 Jefferson Airplane, 'White rabit'
-### 66 Beatles, 'Strawberry Fields Forever'
+### 67 * Jefferson Airplane, 'White rabit'
 ### 67 * Velvet Underground, 'murder mistery'
 ### 68 * Jimi Hendrix, '6 was 9'
 
@@ -66,7 +64,8 @@ For Real
 ### 04 * LCD Soundsystem, 'yeah'
 ### 04 * gustav, 'linz serenade'
 
-
+### 65 * Beatles, 'Eleanor Rigby' ?
+### 66 * Beatles, 'Strawberry Fields Forever' ?
 ### 68 * Stepenwolf, 'Born to be wild' ?
 ### 73 * Fela Kuti, 'Zombie' ?
 ### 82 * Depeche Mode, 'Enjoy The Silence' ?
