@@ -38,6 +38,7 @@ def get_kv_item(line):
     line = line.strip('| ')
     line = remove_ref(line)
     line = parse_lists(line)
+    line = parse_date(line)
     line = remove_br(line)
     tokens = line.split('=', maxsplit=1)
     if len(tokens) < 2:
@@ -52,6 +53,19 @@ def get_kv_item(line):
 
 def remove_ref(line):
     return re.sub('<ref.*?>.*?</ref>', '', line)
+
+
+def parse_date(line):
+    if 'Start date' not in line:
+        return line
+    tokens = re.split('({{Start date.*?}})', line)
+    return ''.join(p_date(token) for token in tokens)
+
+
+def p_date(token):
+    if 'Start date' not in token:
+        return token
+    return '.'.join(re.findall('[0-9]+', token))
 
 
 def parse_lists(line):
