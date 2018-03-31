@@ -12,37 +12,37 @@ Joy Division - Transmission
 beastie - in 3's ?
 little richard: molly?, tutti?, Long Tall Sally?
 rock around the clock?
-
+Acordion ?
+The Kinks - Lola (Official Audio)
 
 
 For Real
 --------
-### 59 | The Chordettes, 'Mr Sandman'
-    Just works.
-### 68 Marvin Gaye, 'I Heard It Through The Grapevine'
-### 62 Dick Dale & HisDelTones, 'Misirlou'
-### 58 Elvis Presley, 'Heartbreak hotel'
-### 93 RHCP, 'Give it away'
+### 54 * The Chordettes, 'Mr. Sandman'; {released: 'October 1954', length: '2:22', label: 'Cadence', us: 1, uk: 11}
+### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?; {released: 'October 30, 1968', length: '3:16', label: 'Tamla', us: 1, uk: 1}
+### 62 * Dick Dale & HisDelTones, 'Misirlou'
+### 58 * Elvis Presley, 'Heartbreak hotel'
+### 93 * RHCP, 'Give it away' ?
 ### 65 * Rolling Stones, 'Satisfaction'
-### 05 * LCD Soundsystem, 'yeah (crass)' L9:25
-### 60 Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
-### 94 Beck, 'Loser'
-### 65 Dylan, 'Subterranean Homesick Blues'
-### 58 * Link Wray, 'Rumble'
-### 66 Mamas and Papas, 'California dreamen'
+### 05 * LCD Soundsystem, 'yeah (crass)'
+### 60 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
+### 94 * Beck, 'Loser'
+### 65 * Dylan, 'Subterranean Homesick Blues'
+### 58 * Link Wray & His Ray Men, 'Rumble'; {released: 'April 1958', length: '2:25', label: 'Cadence', us: 16}
+### 66 * Mamas and Papas, 'California dreamen'
 ### 78 Talking Heads, 'Psychokiler'
-### 78 Clash, 'London calling'
-### 70 Black Sabath, 'Paranoid'
-### 95 Radiohead, 'Creep' ?
-### 78 * Rappers delight' L
+### 78 * Clash, 'London calling'
+### 70 * Black Sabath, 'Paranoid' ?
+### 95 * Radiohead, 'Creep' ??
+### 78 * Rappers delight'
 ### 67 The Doors, '5 to 1' (live)
 ### 66 * The Doors, 'Light my fire' (radio)
 ### 07 Johny Cash, 'Hurt'
 ### 56 Johny Cash, 'Folsom Prison'
 ### 85 Violent femes, 'blister on the sun'
 ### 91 * Nirvana, 'In bloom'
-### 96 * Satyricon, 'Mother North' L6:30
-### 67 * Velvet Underground, 'murder mistery' L 
+### 96 * Satyricon, 'Mother North'
+### 67 * Velvet Underground, 'murder mistery'
 ### 65 Beatles, 'Help'
 ### 65 Beatles, 'Eleanor Rigby' (lonely people)
 ### 66 Beatles, 'Strawberry Fields Forever'
@@ -50,15 +50,15 @@ For Real
 ### 66 Jefferson Airplane, 'White rabit'
 ### 84 Prince, 'Kiss'
 ### 76 * Ramones, 'Blietzkrieg Bop'
-### 99 * At the drive-in, 'seasior'
+### 72 Lou Reed, 'Walk on the Wild Side'
+### 99 * At the drive-in, 'seasior' ?
 ### 76 Iggy Pop, 'Lust for life'
 ### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
 ### 86 * The Smiths, 'This Charming Man'
-### 82 New Order, 'Blue Monday' L
+### 82 New Order, 'Blue Monday'
 ### 93 * Majke, 'Mrsavi Pas'
 ### 05 * gustav, 'linz serenade'
 ### 82 Depeche Mode, 'Enjoy The Silence'
-### 72 Lou Reed, 'Walk on the Wild Side'
 ### 78 * Pankrti, 'Sedemnajst'
 ### 91 * RATM, 'killing'
 ### 64 Kinks, 'you really Got me'
@@ -66,13 +66,13 @@ For Real
 ### 58 * Lewis, 'Great balls'
 ### 99 * Groove Armada, 'Superstylin'
 ### 95 * Blur, 'Song 2'
-### 06 * LCD, 'freak out' L12:20
-### 76 * Television, 'marque moon' L10:50 (radio?)
+### 06 * LCD, 'freak out'
+### 76 * Television, 'marque moon' (radio?)
 ### 68 Stepenwolf, 'Born to be wild'
 ### 68 Jimi Hendrix, '6 was 9'
 ### 85 LIPPS INC, 'Funkytown'
 ### 78 * Pankrti, 'Tovarisi'
-### 59 * Profesor Longhair, 'Mardi gras in new orlean'
+### 49 * Profesor Longhair, 'Mardi gras in new orlean'
 
 
 Just Out
