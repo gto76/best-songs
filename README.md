@@ -15,64 +15,75 @@ rock around the clock?
 Acordion ?
 The Kinks - Lola (Official Audio)
 
-
 For Real
 --------
 ### 54 * The Chordettes, 'Mr. Sandman'
-### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
-### 62 * Dick Dale & HisDelTones, 'Misirlou'
-### 58 * Elvis Presley, 'Heartbreak hotel'
-### 93 * RHCP, 'Give it away' ?
-### 65 * Rolling Stones, 'Satisfaction'
-### 04 * LCD Soundsystem, 'yeah'
-### 60 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
-### 94 * Beck, 'Loser'
-### 65 * Dylan, 'Subterranean Homesick Blues'
+### 55 * Johny Cash, 'Folsom Prison'
+### 56 * Elvis Presley, 'Heartbreak hotel'
+### 57 * Lewis, 'Great balls'
 ### 58 * Link Wray & His Ray Men, 'Rumble'
-### 66 * Mamas and Papas, 'California dreamen'
-### 78 Talking Heads, 'Psychokiler'
-### 78 * Clash, 'London calling'
-### 70 * Black Sabath, 'Paranoid' ?
-### 95 * Radiohead, 'Creep' ??
-### 78 * Rappers delight'
-### 67 * The Doors, '5 to 1' ?
-### 66 * The Doors, 'Light my fire'
-### 03 Johny Cash, 'Hurt'
-### 56 Johny Cash, 'Folsom Prison'
-### 85 Violent femes, 'blister on the sun'
-### 91 * Nirvana, 'In bloom'
-### 96 * Satyricon, 'Mother North'
-### 67 * Velvet Underground, 'murder mistery'
+
+### 62 * Dick Dale & HisDelTones, 'Misirlou'
+### 64 * Kinks, 'you really Got me'
+### 64 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
+### 65 * Dylan, 'Subterranean Homesick Blues'
+### 65 * Rolling Stones, 'Satisfaction'
+### 65 Beatles, 'Norwegian Wood (This Bird Has Flown)'
 ### 65 Beatles, 'Help'
 ### 65 Beatles, 'Eleanor Rigby'
-### 66 Beatles, 'Strawberry Fields Forever'
-### 67 Beatles, 'Norwegian Wood'
+### 66 * Mamas and Papas, 'California dreamen'
+### 66 * The Doors, 'Light my fire'
 ### 66 Jefferson Airplane, 'White rabit'
-### 84 Prince, 'Kiss'
+### 66 Beatles, 'Strawberry Fields Forever'
+### 67 * Velvet Underground, 'murder mistery'
+### 68 * Jimi Hendrix, '6 was 9'
+
 ### 76 * Ramones, 'Blietzkrieg Bop'
 ### 72 Lou Reed, 'Walk on the Wild Side'
-### 99 * At the drive-in, 'seasior' ?
-### 76 Iggy Pop, 'Lust for life'
-### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
-### 86 * The Smiths, 'This Charming Man'
-### 82 * New Order, 'Blue Monday'
-### 93 * Majke, 'Mrsavi Pas'
-### 04 * gustav, 'linz serenade'
-### 82 * Depeche Mode, 'Enjoy The Silence' ?
-### 78 * Pankrti, 'Sedemnajst'
-### 91 * RATM, 'killing'
-### 64 Kinks, 'you really Got me'
-### 73 * Fela Kuti, 'Zombie' ?
-### 58 * Lewis, 'Great balls'
-### 99 * Groove Armada, 'Superstylin'
-### 95 * Blur, 'Song 2'
-### 06 * LCD, 'freak out' ? after 04
+### 76 * Iggy Pop, 'Lust for life'
+### 78 * Talking Heads, 'Psychokiler'
+### 78 * Clash, 'London calling'
+### 78 * Rappers delight'
 ### 76 * Television, 'marque moon'
-### 68 * Stepenwolf, 'Born to be wild'
-### 68 * Jimi Hendrix, '6 was 9'
-### 85 * LIPPS INC, 'Funkytown'
 ### 78 * Pankrti, 'Tovarisi'
-### 49 * Profesor Longhair, 'Mardi gras in new orlean' ? before 54
+### 78 * Pankrti, 'Sedemnajst'
+
+### 80 * LIPPS INC, 'Funkytown'
+### 83 * The Smiths, 'This Charming Man'
+### 83 * New Order, 'Blue Monday'
+### 83 * Violent femes, 'blister on the sun'
+### 86 * Prince, 'Kiss'
+
+### 91 * RATM, 'killing'
+### 91 * Nirvana, 'In bloom'
+### 93 * Majke, 'Mrsavi Pas'
+### 94 * Beck, 'Loser'
+### 95 * Blur, 'Song 2'
+### 96 * Satyricon, 'Mother North'
+### 99 * Groove Armada, 'Superstylin'
+
+### 03 * Johny Cash, 'Hurt'
+### 04 * LCD Soundsystem, 'yeah'
+### 04 * gustav, 'linz serenade'
+
+
+### 68 * Stepenwolf, 'Born to be wild' ?
+### 73 * Fela Kuti, 'Zombie' ?
+### 82 * Depeche Mode, 'Enjoy The Silence' ?
+### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
+### 99 * At the drive-in, 'seasior' ?
+### 67 * The Doors, '5 to 1' ?
+### 70 * Black Sabath, 'Paranoid' ?
+### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
+### 93 * RHCP, 'Give it away' ?
+### 95 * Radiohead, 'Creep' ??
+
+
+
+Too early/late
+--------------
+### 49 * Profesor Longhair, 'Mardi gras in new orlean'
+### 06 * LCD, 'freak out'
 
 
 Just Out
@@ -337,72 +348,72 @@ Top
 
 Rolling Stone 500
 -----------------
-mgmt: el feel?
-boys dont cry?
-Justin Timberlake, 'Cry Me a River'?
+mgmt: el feel
+boys dont cry
+Justin Timberlake, 'Cry Me a River'
 Ella Fitzgerald - Cry me a river
-Rick James, 'Super Freak'?
-The Strokes, 'Last Nite'?
-Smiths?
-The Staple Singers, 'Respect Yourself'?
-Missy Elliott?
+Rick James, 'Super Freak'
+The Strokes, 'Last Nite'
+Smiths
+The Staple Singers, 'Respect Yourself'
+Missy Elliott
 prince: Kiss?
 Sam and Dave, 'Soul Man'
 groove is in hearth
 nancy - boots
 my way?
-stuck in the middle with you (I i i i i?)
-crying orbison?
-mc hammer?
-Wilson Pickett, 'Mustang Sally'?
-rehab?
+stuck in the middle with you
+crying orbison
+mc hammer
+Wilson Pickett, 'Mustang Sally'
+rehab
 papa was a roling stone
 roling stone
 boys are back in town
 cry me a river
-stevie wonder: higher ground?, superstition?
+stevie wonder: higher ground, superstition
 peter gabriel sledghamer
-talking heads: psychokiler, Burning down the house?, Road To Nowhere?
-moneyt for nothing?
-genesis i cant dance?
-zz top: la grange?, legs?
-Men At Work - Down Under?
+talking heads: psychokiler, Burning down the house, Road To Nowhere
+moneyt for nothing
+genesis i cant dance
+zz top: la grange, legs
+Men At Work - Down Under
 dead or alive, spin me right round
 4 non blondes whats up
 bee gees: stayin alive
 rem everybody hurts
 New Order - Blue Monday
-A Flock Of Seagulls - I Ran?
-cars newman?
-b52s: love shack?, lobster?
-Robert Palmer - Addicted To Love?
-grateful cocaine?
-little richard: molly?, tutti?, Long Tall Sally?
-aerosmith: edge?, walk this way?
-dylan: blues, rolling stone?
+A Flock Of Seagulls - I Ran
+cars newman
+b52s: love shack, lobster
+Robert Palmer - Addicted To Love
+grateful cocaine
+little richard: molly, tutti, Long Tall Sally
+aerosmith: edge, walk this way
+dylan: blues, rolling stone
 Donna Summer, 'I Feel Love'
-grace, libretango?
-alman bros?
-Blue Oyster Cult - (Don't Fear) The Reaper?
-The Lovin' Spoonful, 'Summer in the City'?
-Sam Cooke - What A Wonderful World?
+grace, libretango
+alman bros
+Blue Oyster Cult - (Don't Fear) The Reaper
+The Lovin' Spoonful, 'Summer in the City'
+Sam Cooke - What A Wonderful World
 Sweet Dreams (Are Made of This) Eurythmics
-You Keep Me Hangin’ On (original release)   The Supremes
-Pink floyd: na na na na na na, 
-Da Ya Think I’m Sexy?   Rod Stewart
-Blondie: One Way or Another?, call me?, Heart of Glass (12" disco mix edit)?, rapture?, The Tide Is High
-Walk This Way   Run‐D.M.C.
-Ain’t No Sunshine   Bill Withers?
-Personality Crisis  New York Dolls?
-Wild Thing  The Troggs?
-Chain of Fools  Aretha Franklin?
-96 Tears (original stereo LP version)   Question Mark & the Mysterians?
+You Keep Me Hangin’ On (original release) - The Supremes
+Pink floyd: na na na na na na
+Da Ya Think I’m Sexy - Rod Stewart
+Blondie: One Way or Another?, call me?, Heart of Glass (12" disco mix edit), rapture, The Tide Is High
+Walk This Way - Run‐D.M.C.
+Ain’t No Sunshine   Bill Withers
+Personality Crisis  New York Dolls
+Wild Thing  The Troggs
+Chain of Fools  Aretha Franklin
+96 Tears (original stereo LP version)   Question Mark & the Mysterians
 Papa Was a Rollin’ Stone    The Temptations
-Nothing Compares 2 U    Sinéad O’Connor?
-rock around the clock?
+Nothing Compares 2 U    Sinéad O’Connor
+rock around the clock
 Lust for life
 Buddy Holly - Peggy Sue
-Chuck Berry: Rock and Roll Music?, Bethoven?, johny?, maybellene?
+Chuck Berry: Rock and Roll Music, Bethoven, johny, maybellene?
 Blue Suede Shoes - Carl Perkins/ presley?
 I Got You (I Feel Good) James Brown?
 Summertime Blues    Eddie Cochran?

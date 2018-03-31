@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 #
-# Usage: plot.py 
-# 
+# Usage: jsonize.py 
+# Prints JSON of all files in wiki_data folder, that contain wiki song infobox.
+# If argument is passed, then prints only JSON of passed file.
 
 import sys
 import re
@@ -13,9 +14,11 @@ DIR = 'wiki_data'
 
 def main():
     filenames = os.listdir(DIR)
+    if len(sys.argv) > 1:
+        filenames = [sys.argv[1]]
     objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
     out = {obj['Name']: obj for obj in objects}
-    print(json.dumps(out))
+    print(json.dumps(out, indent=2))
 
 
 def get_object(filename):
@@ -32,14 +35,15 @@ def get_kv_item(line):
     line = line.strip()
     if not line.startswith('| '):
         return
+    line = line.strip('| ')
     line = remove_ref(line)
+    line = parse_lists(line)
+    line = remove_br(line)
     tokens = line.split('=', maxsplit=1)
     if len(tokens) < 2:
         return
     key = re.sub('\|', '', tokens[0]).strip()
     value = tokens[1].strip()
-    if key == 'Genre':
-        value = fix_genre(value)
     if key == 'Length':
         value = fix_legth(value)
     value = remove_links(value)
@@ -47,7 +51,26 @@ def get_kv_item(line):
 
 
 def remove_ref(line):
-    return re.sub('<ref>.*?</ref>', '', line)
+    return re.sub('<ref.*?>.*?</ref>', '', line)
+
+
+def parse_lists(line):
+    if '{{hlist' not in line:
+        return line
+    tokens = re.split('({{hlist\|.*}})', line)
+    if len(tokens) < 1:
+        return line
+    return ''.join(parse_list(token) for token in tokens)
+
+
+def parse_list(token):
+    token = re.sub('{{hlist\|', '', token)
+    token = re.sub('}}$', '', token)
+    return ', '.join(token.split('|'))
+
+
+def remove_br(line):
+    return re.sub('<br />', ' ', line)
 
 
 def fix_legth(value):
