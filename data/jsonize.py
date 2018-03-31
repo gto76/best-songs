@@ -6,11 +6,16 @@
 import sys
 import re
 import json
+import os
 
+
+DIR = 'wiki_data'
 
 def main():
-    obj = get_object('wiki_data/california')
-    print(json.dumps(obj))
+    filenames = os.listdir(DIR)
+    objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
+    out = {obj['Name']: obj for obj in objects}
+    print(json.dumps(out))
 
 
 def get_object(filename):
