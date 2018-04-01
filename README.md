@@ -3,33 +3,25 @@ Best Songs
 
 New Additions
 -------------
-The Kinks - Lola
-Jay-Z - 99 Problems
-Eminem - Lose Yourself
 Dr Dre - Nuthin But A G Thang
 Busta Rhymes - Gimme Some More
+The Kinks - Lola
+Jay-Z - 99 Problems
 
-ice ice baby
-slim shady - without me, my name is
-black dog
-please step up - waits
-celebration of the lizard
-Queen - Another One Bites the Dust
-The Clash - Should I Stay or Should I Go
-The Smiths - Stop Me If You Think You've Heard This One Before 
-The Smiths How Soon Is Now?
-The Cardigans - My Favourite Game “Walkaway Version”
-Deee-Lite - Groove Is In The Heart
-Technova" TOWA TEI 
-Kraftwerk - Das Model
-Nine Inch Nails - Closer
-LCD Soundsystem - Too Much Love 
-Tom Waits - In Shades 
 Seatbelts - Clutch (japan big band)
 Antenat - Slon
-Janko Nilovic - Drug Song
+The Smiths How Soon Is Now?
+ice ice baby
+slim shady - without me, my name is, Lose Yourself
+black dog
+Queen - Another One Bites the Dust
+The Smiths - Stop Me If You Think You've Heard This One Before 
+Deee-Lite - Groove Is In The Heart
+The Cardigans - My Favourite Game “Walkaway Version”
+Tom Waits - Step Right Up
+Kraftwerk - Das Model
+Nine Inch Nails - Closer
 Breeders - Cannonball
-Modest Mouse - Float On
 Red Hot Chili Peppers - Under The Bridge
 Depeche Mode - Just Can't Get Enough
 Pearl Jam - Jeremy
@@ -37,6 +29,10 @@ OutKast - Hey Ya!
 Bomfunk MC's - Freestyler
 Benny Benassi - 'Satisfaction' 
 The Prodigy - Smack My Bitch Up
+Modest Mouse - Float On
+The Dandy Warhols - Bohemian Like You
+
+
 
 
 For Real
@@ -53,23 +49,23 @@ For Real
 ### 65 * Rolling Stones, 'Satisfaction'
 ### 65 * Beatles, 'Help'
 ### 66 * Mamas and Papas, 'California dreamen'
-### 66 * The Doors, 'Light my fire' ?
+### 66 * The Doors, 'Light my fire'
 ### 67 * Jefferson Airplane, 'White Rabit'
 ### 67 * Velvet Underground, 'Murder Mistery'
 ### 68 * Jimi Hendrix, '6 was 9'
 ### 70 * The Doors, 'Celebration of the Lizard'
 ### 72 * Lou Reed, 'Walk on the Wild Side'
-### 76 * Iggy Pop, 'Lust for life'
 ### 76 * Ramones, 'Blietzkrieg Bop'
 ### 76 * Fela Kuti, 'Zombie'
+### 77 * Iggy Pop, 'Lust for life'
+### 77 * Television, 'Marque Moon'
 ### 78 * Talking Heads, 'Psychokiler'
 ### 78 * Clash, 'London calling'
-### 76 * Television, 'Marque Moon'
 ### 78 * Pankrti, 'Tovarisi' ?
-### 78 * Pankrti, 'Sedemnajst'
-### 79 * Joy Division - Transmission
+### 79 * Joy Division, 'Transmission'
+### 80 * Pankrti, 'Sedemnajst'
 ### 80 * The Sugar Hill Gang - 'Rapper's Delight'
-### 80 * LIPPS INC, 'Funkytown' ?
+### 80 * Lipps Inc., 'Funkytown' ?
 ### 83 * The Smiths, 'This Charming Man'
 ### 83 * New Order, 'Blue Monday'
 ### 83 * Violent Femmes, 'Blister on the Sun'
@@ -83,9 +79,17 @@ For Real
 ### 99 * Groove Armada, 'Superstylin'
 ### 03 * Johny Cash, 'Hurt'
 ### 04 * LCD Soundsystem, 'yeah'
-### 04 * gustav, 'linz serenade'
+### 04 * Gustav, 'Linzserenade'
 
-
+04 Strokes, 'Reptilia' ?
+Technova" TOWA TEI ?
+LCD Soundsystem - Too Much Love ? 
+Tom Waits - In Shades ?
+Janko Nilovic - Drug Song
+The Clash - Should I Stay or Should I Go
+Underworld - Born Slippy ?
+Nirvana - Territorial Pissing ?
+Beatles - tomorow never knows
 ### 68 * Stepenwolf, 'Born to be wild' ?
 ### 67 * The Doors, '5 to 1' ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
@@ -102,14 +106,6 @@ For Real
 ### 65 * Beatles, 'Eleanor Rigby' ??
 
 
-Under consideration
--------------------
-Underworld - Born Slippy ?
-Nirvana - Territorial Pissing ?
-Beatles - tomorow never knows
-
-
-
 Too early/late
 --------------
 ### 49 * Profesor Longhair, 'Mardi gras in new orlean'
@@ -120,7 +116,8 @@ DIE ANTWOORD - UGLY BOY
 ### 15 * Bovie - black ?
 ### 17 * Alex Cameron - Candy May
 El Guincho - Bombay
-
+M.I.A. - Paper Planes
+Bloc Party - Banquet
 
 Just Out
 --------
