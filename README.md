@@ -65,14 +65,11 @@ For Real (by year)
 ### 79 * Joy Division, 'Transmission'
 ### 80 * Pankrti, 'Sedemnajst'
 ### 80 * The Sugar Hill Gang - 'Rapper's Delight'
-### 80 * Lipps Inc., 'Funkytown' ?
 ### 83 * The Smiths, 'This Charming Man'
 ### 83 * New Order, 'Blue Monday'
 ### 83 * Violent Femmes, 'Blister on the Sun'
 ### 86 * Prince, 'Kiss'
-### 91 * RATM, 'killing' ?
-### 91 * Nirvana, 'In bloom'
-### 93 * Majke, 'Mrsavi Pas' ?
+### 91 * Nirvana, 'In Bloom'
 ### 94 * Beck, 'Loser'
 ### 95 * Blur, 'Song 2'
 ### 96 * Satyricon, 'Mother North'
@@ -83,6 +80,10 @@ For Real (by year)
 
 Considering
 -----------
+### 80 * Lipps Inc., 'Funkytown' ?
+### 93 * Majke, 'Mrsavi Pas' ?
+### 91 * RATM, 'Killing' ?
+
 ### * 04 Strokes, 'Reptilia' ?
 ### * Technova" TOWA TEI ?
 ### * LCD Soundsystem - Too Much Love ? 
@@ -91,14 +92,15 @@ Considering
 ### * The Clash - Should I Stay or Should I Go
 ### * Underworld - Born Slippy ?
 ### * Nirvana - Territorial Pissing ?
-### * Beatles - tomorow never knows
+### * Beatles - tomorow never knows ?
 ### 68 * Stepenwolf, 'Born to be wild' ?
+### 82 * Grandmaster flash - The Message ?
 ### 67 * The Doors, '5 to 1' ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
 ### 93 * RHCP, 'Give it away' ?
 ### 91 * beastie - in 3's ?
-### 82 * Grandmaster flash - The Message ?
 ### 82 * Depeche Mode, 'Enjoy The Silence' ??
+
 ### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
 ### 99 * At The Drive In, 'One Armed Scissor' ?
 ### 70 * Black Sabath, 'Paranoid' ?
