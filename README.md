@@ -3,79 +3,110 @@ Best Songs
 
 New Additions
 -------------
-Japan big band?
-Marry J - aus?
-Bovie - black
-ghost on the highway ?
-Underworld - Born Slippy
-Joy Division - Transmission
-beastie - in 3's ?
-little richard: molly?, tutti?, Long Tall Sally?
-rock around the clock?
-Acordion ?
-The Kinks - Lola (Official Audio)
+The Kinks - Lola
+Jay-Z - 99 Problems
+Eminem - Lose Yourself
+Dr Dre - Nuthin But A G Thang
+Busta Rhymes - Gimme Some More
+
+ice ice baby
+slim shady - without me, my name is
+black dog
+please step up - waits
+celebration of the lizard
+Queen - Another One Bites the Dust
+The Clash - Should I Stay or Should I Go
+The Smiths - Stop Me If You Think You've Heard This One Before 
+The Smiths How Soon Is Now?
+The Cardigans - My Favourite Game “Walkaway Version”
+Deee-Lite - Groove Is In The Heart
+Technova" TOWA TEI 
+Kraftwerk - Das Model
+Nine Inch Nails - Closer
+LCD Soundsystem - Too Much Love 
+Tom Waits - In Shades 
+Seatbelts - Clutch (japan big band)
+Antenat - Slon
+Janko Nilovic - Drug Song
+Breeders - Cannonball
+Modest Mouse - Float On
+Red Hot Chili Peppers - Under The Bridge
+Depeche Mode - Just Can't Get Enough
+Pearl Jam - Jeremy
+OutKast - Hey Ya!
+Bomfunk MC's - Freestyler
+Benny Benassi - 'Satisfaction' 
+The Prodigy - Smack My Bitch Up
+
 
 For Real
 --------
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 * Johny Cash, 'Folsom Prison'
-### 56 * Elvis Presley, 'Heartbreak hotel'
-### 57 * Lewis, 'Great balls'
+### 56 * Elvis Presley, 'Heartbreak Hotel'
+### 57 * Lewis, 'Great Balls'
 ### 58 * Link Wray & His Ray Men, 'Rumble'
-
 ### 62 * Dick Dale & HisDelTones, 'Misirlou'
-### 64 * Kinks, 'you really Got me'
+### 64 * Kinks, 'You Really Got Me'
 ### 64 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
 ### 65 * Dylan, 'Subterranean Homesick Blues'
 ### 65 * Rolling Stones, 'Satisfaction'
-### 65 * Beatles, 'Norwegian Wood (This Bird Has Flown)'
 ### 65 * Beatles, 'Help'
 ### 66 * Mamas and Papas, 'California dreamen'
-### 66 * The Doors, 'Light my fire'
-### 67 * Jefferson Airplane, 'White rabit'
-### 67 * Velvet Underground, 'murder mistery'
+### 66 * The Doors, 'Light my fire' ?
+### 67 * Jefferson Airplane, 'White Rabit'
+### 67 * Velvet Underground, 'Murder Mistery'
 ### 68 * Jimi Hendrix, '6 was 9'
-
-### 76 * Ramones, 'Blietzkrieg Bop'
-### 72 Lou Reed, 'Walk on the Wild Side'
+### 70 * The Doors, 'Celebration of the Lizard'
+### 72 * Lou Reed, 'Walk on the Wild Side'
 ### 76 * Iggy Pop, 'Lust for life'
+### 76 * Ramones, 'Blietzkrieg Bop'
+### 76 * Fela Kuti, 'Zombie'
 ### 78 * Talking Heads, 'Psychokiler'
 ### 78 * Clash, 'London calling'
-### 78 * Rappers delight'
-### 76 * Television, 'marque moon'
-### 78 * Pankrti, 'Tovarisi'
+### 76 * Television, 'Marque Moon'
+### 78 * Pankrti, 'Tovarisi' ?
 ### 78 * Pankrti, 'Sedemnajst'
-
-### 80 * LIPPS INC, 'Funkytown'
+### 79 * Joy Division - Transmission
+### 80 * The Sugar Hill Gang - 'Rapper's Delight'
+### 80 * LIPPS INC, 'Funkytown' ?
 ### 83 * The Smiths, 'This Charming Man'
 ### 83 * New Order, 'Blue Monday'
-### 83 * Violent femes, 'blister on the sun'
+### 83 * Violent Femmes, 'Blister on the Sun'
 ### 86 * Prince, 'Kiss'
-
-### 91 * RATM, 'killing'
+### 91 * RATM, 'killing' ?
 ### 91 * Nirvana, 'In bloom'
-### 93 * Majke, 'Mrsavi Pas'
+### 93 * Majke, 'Mrsavi Pas' ?
 ### 94 * Beck, 'Loser'
 ### 95 * Blur, 'Song 2'
 ### 96 * Satyricon, 'Mother North'
 ### 99 * Groove Armada, 'Superstylin'
-
 ### 03 * Johny Cash, 'Hurt'
 ### 04 * LCD Soundsystem, 'yeah'
 ### 04 * gustav, 'linz serenade'
 
-### 65 * Beatles, 'Eleanor Rigby' ?
-### 66 * Beatles, 'Strawberry Fields Forever' ?
+
 ### 68 * Stepenwolf, 'Born to be wild' ?
-### 73 * Fela Kuti, 'Zombie' ?
-### 82 * Depeche Mode, 'Enjoy The Silence' ?
-### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
-### 99 * At the drive-in, 'seasior' ?
 ### 67 * The Doors, '5 to 1' ?
-### 70 * Black Sabath, 'Paranoid' ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
 ### 93 * RHCP, 'Give it away' ?
-### 95 * Radiohead, 'Creep' ??
+### 91 * beastie - in 3's ?
+### 82 * Grandmaster flash - The Message ?
+### 82 * Depeche Mode, 'Enjoy The Silence' ??
+### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
+### 99 * At The Drive In, 'One Armed Scissor' ?
+### 70 * Black Sabath, 'Paranoid' ?
+### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
+### 66 * Beatles, 'Strawberry Fields Forever' ?+
+### 65 * Beatles, 'Norwegian Wood (This Bird Has Flown)' ?
+### 65 * Beatles, 'Eleanor Rigby' ??
+
+
+Under consideration
+-------------------
+Underworld - Born Slippy ?
+Nirvana - Territorial Pissing ?
+Beatles - tomorow never knows
 
 
 
@@ -83,17 +114,23 @@ Too early/late
 --------------
 ### 49 * Profesor Longhair, 'Mardi gras in new orlean'
 ### 06 * LCD, 'freak out'
+Justice - D.A.N.C.E. - † 07
+DIE ANTWOORD - BABY'S ON FIRE ?
+DIE ANTWOORD - UGLY BOY
+### 15 * Bovie - black ?
+### 17 * Alex Cameron - Candy May
+El Guincho - Bombay
 
 
 Just Out
 --------
-The Cure - Boys don't cry ?
+The Cure - Boys don't cry
 New Bomb Turks - I'm Weak
 Sex Pistols - God save the queen
 LCD Soundsystem - losing my edge L7:50
 LCD Soundsystem - Us v Them L8:30
 MC Hammer - U Can't Touch This
-96 beck - lord only knows ?
+96 beck - lord only knows
 Pankrti - Anarhist
 RATM - wake up
 RATM - Bullet in your head
@@ -113,7 +150,6 @@ mc5 - kick out the jams
 Fatboy Slim - Push The Tempo
 Shocking Blue - Venus
 Beatles - Help of friends
-Beatles - tomorow never knows
 Beatles - come together
 Beatles - walrus
 Beatles - hard days
@@ -131,13 +167,12 @@ Screamin' Jay Hawkins - I Put A Spell On You
 Beck - Ramshackel
 Tom Waits - Downtown
 Beastie Boys - Sabotage
-Nirvana - Territorial Pissing
 Sherl crow - All I Wanna Do
 stranglers - golden brown
 The Animals - The House of the Rising Sun
 M - Pop Muzik
 Tom Tom Club - Genius of Love
-White Stripes - Seven Nation ?
+White Stripes - Seven Nation
 
 
 Pergutory
@@ -148,7 +183,6 @@ The Human League - Don't You Want Me
 Eurythmics - Sweet Dreams (Are Made of This)
 Soft Cell - Tainted Love
 Aswad
-Grandmaster flash - The Message
 Graveyard shift
 t rex - get it on
 soul sacrifice
@@ -167,10 +201,12 @@ The Trashmen - Surfin Bird
 Zager And Evans - In The Year 2525
 Them - Gloria
 Needles and Pins - ramones
-
+MF doom - Acordion ?
+little richard: tutti, molly?, Long Tall Sally?, Lucille?
 
 Maybe
 -----
+rock around the clock?
 GNR - Paradise citi
 Ramones - KKK
 Entersandman L?
@@ -223,6 +259,8 @@ Da Ya Think I’m Sexy?   Rod Stewart :)
 Toto - Africa :))))))
 cranbaries - zombie
 The Sonics - Strychnine
+Radiohead, 'Creep'
+Afrika bambata and Soul Sonic Force - Planet Rock
 
 
 Pool

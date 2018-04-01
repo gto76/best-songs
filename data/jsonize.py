@@ -58,7 +58,7 @@ def get_kv_item(line):
         return
     key = re.sub('\|', '', tokens[0]).strip()
     value = tokens[1].strip()
-    if key in ['Length', 'length']:
+    if re.search('length', key, flags=re.IGNORECASE):
         value = fix_legth(value)
     value = remove_links(value)
     if not key or not value:
@@ -136,6 +136,10 @@ def remove_link_adr(token):
         return token.strip('[]')
     return token.strip('[]').split('|')[1]
 
+
+###
+##  UTIL
+#
 
 def read_file(filename):
     with open(filename, encoding='utf-8') as file:
