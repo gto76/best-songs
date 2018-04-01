@@ -81,15 +81,17 @@ For Real
 ### 04 * LCD Soundsystem, 'yeah'
 ### 04 * Gustav, 'Linzserenade'
 
-04 Strokes, 'Reptilia' ?
-Technova" TOWA TEI ?
-LCD Soundsystem - Too Much Love ? 
-Tom Waits - In Shades ?
-Janko Nilovic - Drug Song
-The Clash - Should I Stay or Should I Go
-Underworld - Born Slippy ?
-Nirvana - Territorial Pissing ?
-Beatles - tomorow never knows
+Considering
+-----------
+### * 04 Strokes, 'Reptilia' ?
+### * Technova" TOWA TEI ?
+### * LCD Soundsystem - Too Much Love ? 
+### * Tom Waits - In Shades ?
+### * Janko Nilovic - Drug Song
+### * The Clash - Should I Stay or Should I Go
+### * Underworld - Born Slippy ?
+### * Nirvana - Territorial Pissing ?
+### * Beatles - tomorow never knows
 ### 68 * Stepenwolf, 'Born to be wild' ?
 ### 67 * The Doors, '5 to 1' ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
@@ -110,14 +112,14 @@ Too early/late
 --------------
 ### 49 * Profesor Longhair, 'Mardi gras in new orlean'
 ### 06 * LCD, 'freak out'
-Justice - D.A.N.C.E. - † 07
-DIE ANTWOORD - BABY'S ON FIRE ?
-DIE ANTWOORD - UGLY BOY
+### * Justice - D.A.N.C.E. - † 07
+### * DIE ANTWOORD - BABY'S ON FIRE ?
+### * DIE ANTWOORD - UGLY BOY
 ### 15 * Bovie - black ?
 ### 17 * Alex Cameron - Candy May
-El Guincho - Bombay
-M.I.A. - Paper Planes
-Bloc Party - Banquet
+### * El Guincho - Bombay
+### * M.I.A. - Paper Planes
+### * Bloc Party - Banquet
 
 Just Out
 --------
