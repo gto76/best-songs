@@ -8,6 +8,7 @@ Busta Rhymes - Gimme Some More
 The Kinks - Lola
 Jay-Z - 99 Problems
 
+Interpol - Evil
 Seatbelts - Clutch (japan big band)
 Antenat - Slon
 The Smiths How Soon Is Now?
@@ -34,13 +35,12 @@ The Dandy Warhols - Bohemian Like You
 
 
 
-
 For Real (by year)
 ------------------
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 * Johny Cash, 'Folsom Prison'
 ### 56 * Elvis Presley, 'Heartbreak Hotel'
-### 57 * Lewis, 'Great Balls'
+### 57 * Jerry Lee Lewis, 'Great Balls'
 ### 58 * Link Wray & His Ray Men, 'Rumble'
 ### 62 * Dick Dale & HisDelTones, 'Misirlou'
 ### 64 * Kinks, 'You Really Got Me'
@@ -48,66 +48,75 @@ For Real (by year)
 ### 65 * Dylan, 'Subterranean Homesick Blues'
 ### 65 * Rolling Stones, 'Satisfaction'
 ### 65 * Beatles, 'Help'
-### 66 * Mamas and Papas, 'California dreamen'
-### 66 * The Doors, 'Light my fire'
+### 66 * Mamas and Papas, 'California Dreamen'
+### 66 * The Doors, 'Light my Fire'
+### 66 * The Doors, 'The End'
+### 66 * Beatles, 'Tomorow Never Knows'
+### 67 * Velvet Underground, 'Venus in Furs'
 ### 67 * Jefferson Airplane, 'White Rabit'
 ### 67 * Velvet Underground, 'Murder Mistery'
-### 68 * Jimi Hendrix, '6 was 9'
+### 67 * Jimi Hendrix, '6 was 9'
+### 68 * The Doors, 'Five to One'
+### 68 * The Rolling Stones, 'Jumpin' Jack Flash'
 ### 70 * The Doors, 'Celebration of the Lizard'
 ### 72 * Lou Reed, 'Walk on the Wild Side'
+### 74 * Bijelo Dugme, 'Top'
 ### 76 * Ramones, 'Blietzkrieg Bop'
 ### 76 * Fela Kuti, 'Zombie'
 ### 77 * Iggy Pop, 'Lust for life'
 ### 77 * Television, 'Marque Moon'
 ### 78 * Talking Heads, 'Psychokiler'
 ### 78 * Clash, 'London calling'
-### 78 * Pankrti, 'Tovarisi' ?
+### 78 * Pankrti, 'Tovarisi'
 ### 79 * Joy Division, 'Transmission'
+### 80 * Tom Waits, 'In Shades'
 ### 80 * Pankrti, 'Sedemnajst'
-### 80 * The Sugar Hill Gang - 'Rapper's Delight'
+### 80 * The Sugar Hill Gang, 'Rapper's Delight'
 ### 83 * The Smiths, 'This Charming Man'
 ### 83 * New Order, 'Blue Monday'
 ### 83 * Violent Femmes, 'Blister on the Sun'
 ### 86 * Prince, 'Kiss'
+### 88 * Safet Isovic, 'Bosna Moja'
 ### 91 * Nirvana, 'In Bloom'
-### 94 * Beck, 'Loser'
-### 95 * Blur, 'Song 2'
+### 93 * Beck, 'Loser'
 ### 96 * Satyricon, 'Mother North'
+### 97 * Blur, 'Song 2'
 ### 99 * Groove Armada, 'Superstylin'
+### 99 * At The Drive In, 'One Armed Scissor'
+### 00 * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
 ### 03 * Johny Cash, 'Hurt'
-### 04 * LCD Soundsystem, 'yeah'
+### 04 * LCD Soundsystem, 'Yeah'
 ### 04 * Gustav, 'Linzserenade'
+### 05 * LCD Soundsystem, 'Too Much Love'
 
-Considering
+
+Considering (select 8 of 26)
 -----------
-### 80 * Lipps Inc., 'Funkytown' ?
-### 93 * Majke, 'Mrsavi Pas' ?
-### 91 * RATM, 'Killing' ?
+### Antenat - Slon
+### 91 * beastie - in 3's ?
+### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
+Pink Floyd - Money
+Another Brick in the Wall
 
-### * 04 Strokes, 'Reptilia' ?
-### * Technova" TOWA TEI ?
-### * LCD Soundsystem - Too Much Love ? 
-### * Tom Waits - In Shades ?
+### * Joy Division - Disorder
+### * Nirvana - Territorial Pissing
 ### * Janko Nilovic - Drug Song
-### * The Clash - Should I Stay or Should I Go
-### * Underworld - Born Slippy ?
-### * Nirvana - Territorial Pissing ?
-### * Beatles - tomorow never knows ?
+### * Underworld - Born Slippy
+
 ### 68 * Stepenwolf, 'Born to be wild' ?
 ### 82 * Grandmaster flash - The Message ?
-### 67 * The Doors, '5 to 1' ?
-### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
-### 93 * RHCP, 'Give it away' ?
-### 91 * beastie - in 3's ?
-### 82 * Depeche Mode, 'Enjoy The Silence' ??
-
 ### 71 * Stealers Wheel, 'Stuck In The Middle With You' ?
-### 99 * At The Drive In, 'One Armed Scissor' ?
+### * 04 Strokes, 'Reptilia' ?
+### * Technova" TOWA TEI ?
+### 91 * RATM, 'Killing'
+
+### 80 * Lipps Inc., 'Funkytown'
+### 93 * Majke, 'Mrsavi Pas'
+### 90 * Depeche Mode, 'Enjoy The Silence'
+### * The Clash - Should I Stay or Should I Go
+### 93 * RHCP, 'Give it away' ?
 ### 70 * Black Sabath, 'Paranoid' ?
 ### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
-### 66 * Beatles, 'Strawberry Fields Forever' ?+
-### 65 * Beatles, 'Norwegian Wood (This Bird Has Flown)' ?
-### 65 * Beatles, 'Eleanor Rigby' ??
 
 
 Too early/late
@@ -122,9 +131,13 @@ Too early/late
 ### * El Guincho - Bombay
 ### * M.I.A. - Paper Planes
 ### * Bloc Party - Banquet
+### 09 * Poison Lips - Vitalic
 
 Just Out
 --------
+Beatles, 'Norwegian Wood (This Bird Has Flown)'
+Beatles, 'Eleanor Rigby'
+Beatles, 'Strawberry Fields Forever'
 The Cure - Boys don't cry
 New Bomb Turks - I'm Weak
 Sex Pistols - God save the queen
@@ -161,7 +174,6 @@ Nirvana - Teen spirit
 Velvet Underground - waiting
 You spin me right round (like a record baby)
 The Band - The Weight
-Bright Eyes - When the Curious Girl Realizes She is Under Glass
 Aretha Franklin - Respect
 Donna Summer I Feel Love
 Screamin' Jay Hawkins - I Put A Spell On You

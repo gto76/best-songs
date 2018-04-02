@@ -61,6 +61,7 @@ def get_parts(line, i_start):
     i = i_start
     while i <= len(line):
         if re.match('{{', line[i:]):
+            name = re.
             part, i = get_parts(line, i+2)
             if buff:
                 out.append(buff)
