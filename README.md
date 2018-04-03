@@ -2,7 +2,7 @@
 ===============================
 
 ### 54 * The Chordettes, 'Mr. Sandman'
-### 55 * Johny Cash, 'Folsom Prison'
+### 55 * Johny Cash, 'Folsom Prison Blues'
 ### 56 * Elvis Presley, 'Heartbreak Hotel'
 ### 57 * Jerry Lee Lewis, 'Great Balls'
 ### 58 * Link Wray & His Ray Men, 'Rumble'
