@@ -12,9 +12,20 @@ import os
 DIR = 'wiki_data'
 SAVE = True
 
+# def main():
+#     obj = get_object('wiki_data/hearbreak_hotel')
+#     print(json.dumps(obj, ensure_ascii=False, indent=2))
+
 def main():
-    obj = get_object('wiki_data/hearbreak_hotel')
-    print(json.dumps(obj, ensure_ascii=False, indent=2))
+    filenames = os.listdir(DIR)
+    if len(sys.argv) > 1:
+        objects = [get_object(sys.argv[1])]
+    else:
+        objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
+    out = {get_name(obj): obj for obj in objects}
+    print(json.dumps(out, ensure_ascii=False, indent=2))
+    if SAVE:
+        write_json('songs', out)
 
 
 def get_name(obj):
@@ -24,6 +35,7 @@ def get_name(obj):
 
 
 def get_object(filename):
+    print(f'Parsing: {filename}')
     lines = [line.strip() for line in read_file(filename)]
     wiki_obj = ''.join(lines)
     wiki_obj = cleanup(wiki_obj)
@@ -69,18 +81,19 @@ def get_parts(line, i_start):
 
 def tokenize(out, buff, i, name):
     i = i + 2
-    print(f'name:{name}')
     out_parser = check_for_parsers(buff, name)
     if out_parser:
         return out_parser, i
     if name == 'External music video':
         return out, i
+    if name == 'sfn':
+        return '', i
     sep = '|'
     if name == 'flatlist':
         sep = '*'
     if buff:
         out.append(buff.strip())
-    if name in ['flatlist']:
+    if name in ['flatlist', 'hlist']:
         return tokenize_list(out, sep, i)
     else:
         return tokenize_dict(out, sep, i)
@@ -89,11 +102,13 @@ def tokenize(out, buff, i, name):
 def tokenize_list(out, sep, i):
     out_new = []
     for a in out:
+        if not a:
+            continue
         if isinstance(a, str):
-            out_new.append(a.split(sep))
+            out_new.append([b for b in a.split(sep) if b])
         else:
             out_new.append(a)
-    return out_new, i
+    return out_new[0], i
 
 
 def tokenize_dict(out, sep, i):
@@ -109,8 +124,10 @@ def tokenize_dict(out, sep, i):
                 if token.endswith('='):
                     key = re.sub('=$', '', token).strip()
                 else:
-                    print(f'token: {token}')
-                    key, value = token.split('=')
+                    k_v = token.split('=')
+                    if len(k_v) < 2:
+                        continue
+                    key, value = k_v
                     out_new[key.strip()] = value.strip()
         else:
             out_new[key] = a
