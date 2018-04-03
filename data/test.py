@@ -26,33 +26,9 @@ def get_name(obj):
 def get_object(filename):
     lines = [line.strip() for line in read_file(filename)]
     wiki_obj = ''.join(lines)
+    wiki_obj = cleanup(wiki_obj)
     obj, _ = get_parts(wiki_obj, 0)
     return obj
-
-
-# def get_tree(a):
-#     b = re.sub('{{(.*)}}', r'\1', a)
-#     # c = re.split('({{.*}})', b)
-#     c = get_parts(b)
-#     if len(c) == 1:
-#         return c[0]
-#     return ''.join(get_tree(d) for d in c)
-
-
-# def get_parts(line):
-#     parts = []
-#     depth = 0
-#     start = 0
-#     last_part = []
-#     for i in range(line):
-#         if re.match('{{', line[i:]):
-#             i += 1
-#             depth += 1
-#             start = i 
-#         if re.match('}}', line[i:]):
-#             i += 1
-#             depth -= 1
-#         last_part.append(line[i])
 
 
 def get_parts(line, i_start):
@@ -70,11 +46,14 @@ def get_parts(line, i_start):
     while i <= len(line):
         if re.match('{{', line[i:]):
             i += 2
-            part, i = get_parts(line, i)
-            if buff:
-                out.append(buff)
-                buff = ''
-            out.append(part)
+            parts, i = get_parts(line, i)
+            if isinstance(parts, str):
+                buff += parts
+            else: 
+                if buff:
+                    out.append(buff)
+                    buff = ''
+                out.append(parts)
         if re.match('}}', line[i:]):
             return tokenize(out, buff, i, name)
         if re.match('\[\[', line[i:]):
@@ -89,22 +68,53 @@ def get_parts(line, i_start):
 
 
 def tokenize(out, buff, i, name):
+    i = i + 2
     print(f'name:{name}')
-    # out_parser = check_for_parsers(out, name)
-    # if out_parser:
-        # return out_parser, i + 2
+    out_parser = check_for_parsers(buff, name)
+    if out_parser:
+        return out_parser, i
+    if name == 'External music video':
+        return out, i
     sep = '|'
     if name == 'flatlist':
         sep = '*'
     if buff:
-        out.append(buff)
+        out.append(buff.strip())
+    if name in ['flatlist']:
+        return tokenize_list(out, sep, i)
+    else:
+        return tokenize_dict(out, sep, i)
+
+
+def tokenize_list(out, sep, i):
     out_new = []
     for a in out:
         if isinstance(a, str):
             out_new.append(a.split(sep))
         else:
             out_new.append(a)
-    return out_new, i + 2
+    return out_new, i
+
+
+def tokenize_dict(out, sep, i):
+    out_new = {}
+    key = ''
+    for a in out:
+        if isinstance(a, str):
+            tokens = a.split(sep)
+            for token in tokens:
+                token = token.strip()
+                if not token:
+                    continue
+                if token.endswith('='):
+                    key = re.sub('=$', '', token).strip()
+                else:
+                    print(f'token: {token}')
+                    key, value = token.split('=')
+                    out_new[key.strip()] = value.strip()
+        else:
+            out_new[key] = a
+    return out_new, i
 
 
 def get_link(line, i):
@@ -116,14 +126,18 @@ def get_link(line, i):
 
 
 
-def check_for_parsers(out, name):
-    if re.match('start date', name, flags=re.IGNORECASE):
-        return parse_date(out[0])
-
-
 ###
-##  PARSERS
+##  CLEANUP
 #
+
+def cleanup(line):
+    line = nbsp(line)
+    line = remove_ref(line)
+    line = remove_comment(line)
+    line = remove_formating(line)
+    line = remove_br(line)
+    return line
+
 
 def nbsp(line):
     return re.sub('&nbsp;', ' ', line)
@@ -144,48 +158,34 @@ def remove_formating(line):
     return line
 
 
+def remove_br(line):
+    return re.sub('<br */* *>', ' ', line)
+
+
+###
+##  PARSERS
+#
+
+
+def check_for_parsers(out, name):
+    if equals_ic('start date', name):
+        return parse_date(out)
+    if equals_ic('duration', name):
+        return parse_legth(out)
+    if equals_ic('YouTube', name):
+        return parse_youtube(out)
+
+
 def parse_date(token):
     return '.'.join(re.findall('[0-9]+', token))
 
 
-def parse_lists(line):
-    if '{{hlist' not in line:
-        return line
-    tokens = re.split('({{hlist\|.*}})', line)
-    if len(tokens) < 1:
-        return line
-    return ''.join(parse_list(token) for token in tokens)
-
-
-def parse_list(token):
-    token = re.sub('{{hlist\|', '', token)
-    token = re.sub('}}$', '', token)
-    return ', '.join(token.split('|'))
-
-
-def remove_br(line):
-    return re.sub('<br */* *>', ' ', line)
-
-def fix_legth(value):
+def parse_legth(value):
     return ':'.join(re.findall('[0-9]+', value))
 
 
-def fix_genre(line):
-    return ', '.join(re.findall('(\[\[.*?\]\])', line))
-
-
-def remove_links(line):
-    tokens = re.split('(\[\[.*?\]\])', line)
-    return ''.join(remove_link_adr(token) for token in tokens)
-
-
-def remove_link_adr(token):
-    if not token.startswith('[['):
-        return token
-    if '|' not in token:
-        return token.strip('[]')
-    return token.strip('[]').split('|')[1]
-
+def parse_youtube(value):
+    return value.split('|')[0]
 
 ###
 ##  UTIL
@@ -204,7 +204,11 @@ def write_json(filename, an_object):
 def get_location(line, i, regex):
     loc = re.search(regex, line[i:])
     return i + loc.span()[0]
+
  
+def equals_ic(regex, text):
+    return re.match(regex, text, flags=re.IGNORECASE)
+
 
 if __name__ == '__main__':
     main()
