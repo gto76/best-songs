@@ -24,11 +24,9 @@ class Edge:
         self.a_name = a_name
         self.song = song
         self.obj_b = obj_b
-        print(self.song.a_name)
     def __repr__(self):
-        return self.a_name
-        # return f'{self.a_name} ({self.song.a_name})'
-        # return '{}: {}'.format(self.name, self.song.name)
+        # return self.a_name
+        return f'{self.a_name} ({self.song.a_name})'
 
 
 def main():
@@ -52,11 +50,27 @@ def main():
 
 def print_out(nodes):
     interesting_nodes = [n for n in nodes.values() if len(n.edges)>1 and not n.a_type]
+    interesting_nodes = filter_nodes_that_connect_to_single_song(interesting_nodes)
+    if not interesting_nodes:
+        return
     for n in interesting_nodes:
         print(n.a_name)
         for e in n.edges:
             print(e.a_name, ': ', e.song.a_name)
         print()
+
+
+def filter_nodes_that_connect_to_single_song(nodes):
+    return [n for n in nodes if node_has_multiple_songs(n)]
+
+
+def node_has_multiple_songs(node):
+    if len(node.edges) < 2:
+        return False
+    first_song = node.edges[0].song.a_name
+    for edge in node.edges:
+        if edge.song.a_name != first_song:
+            return True
 
 
 def connect(song, edge_name, obj_b_name, nodes):
@@ -75,7 +89,6 @@ def get_obj_b(a_dict, key):
     obj_b = Node(key)
     a_dict[key] = obj_b
     return obj_b
-
 
 
 ###
