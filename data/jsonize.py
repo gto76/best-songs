@@ -1,20 +1,18 @@
 #!/usr/bin/env python3
 #
 # Usage: test.py 
-# 
+# Saves JSON of all files in wiki_data folder, that contain wiki song infobox,
+# to 'wiki_data.json' file. If argument is passed, then it parses only passed 
+# file.
 
 import sys
 import re
 import json
 import os
 
-
 DIR = 'wiki_data'
 SAVE = True
 
-# def main():
-#     obj = get_object('wiki_data/hearbreak_hotel')
-#     print(json.dumps(obj, ensure_ascii=False, indent=2))
 
 def main():
     filenames = os.listdir(DIR)
@@ -25,7 +23,7 @@ def main():
     out = {get_name(obj): obj for obj in objects}
     print(json.dumps(out, ensure_ascii=False, indent=2))
     if SAVE:
-        write_json('songs', out)
+        write_json('wiki_data.json', out)
 
 
 def get_name(obj):
