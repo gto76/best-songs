@@ -54,28 +54,6 @@
       "file": "WhiteRabbit.ogg"
     }
   },
-  "Norwegian Wood (This Bird Has Flown)": {
-    "Name": "Norwegian Wood (This Bird Has Flown)",
-    "Artist": "The Beatles",
-    "Album": "Rubber Soul",
-    "Cover": "Norwegian_Wood_(This_Bird_Has_Flown)_-_The_Beatles.jpg",
-    "Caption": "The 1966 Australian single release of the song, backed with \"Nowhere Man\"",
-    "Released": "1965.12.3",
-    "Recorded": "12 and 21 October 1965, EMI Studios, London",
-    "Genre": [
-      "Folk rock",
-      "raga rock"
-    ],
-    "Length": "2:05",
-    "Writer": "Lennon–McCartney",
-    "Label": "Parlophone",
-    "Producer": "George Martin",
-    "Misc": {
-      "filename": "Beatles norwegian wood.ogg",
-      "title": "Norwegian Wood (This Bird Has Flown)",
-      "Type": "song"
-    }
-  },
   "Folsom Prison Blues": {
     "Name": "Folsom Prison Blues",
     "Artist": "Johnny Cash",
@@ -92,36 +70,6 @@
     "Last single": "\"Hey, Porter\" (1955)",
     "This single": "\"'''Folsom Prison Blues'''\" (1955)",
     "Next single": "\"I Walk the Line\" (1956)"
-  },
-  "Strawberry Fields Forever": {
-    "Name": "Strawberry Fields Forever",
-    "Cover": "pennystrawps.jpg",
-    "Caption": "US picture sleeve",
-    "Border": "yes",
-    "Artist": "the Beatles",
-    "A-side": "\"Penny Lane\" (double A-side)",
-    "Released": "13 February 1967",
-    "Format": "7-inch record",
-    "Recorded": "29 November, 8–22 December 1966",
-    "Studio": "EMI Studios, London",
-    "Genre": [
-      "Psychedelic rock",
-      "art pop",
-      "progressive pop",
-      "psychedelic pop",
-      "acid rock"
-    ],
-    "Length": "4:05",
-    "Label": "Parlophone (UK) Capitol (US)",
-    "Writer": "Lennon–McCartney",
-    "Producer": "George Martin",
-    "Misc": {
-      "Artist": "The Beatles",
-      "Type": "single",
-      "Last single": "\"Eleanor Rigby\" / \"Yellow Submarine\" (1966)",
-      "This single": "\"'''Strawberry Fields Forever'''\" / \"Penny Lane\" (1967)",
-      "Next single": "\"All You Need Is Love\" (1967)"
-    }
   },
   "Mr. Sandman": {
     "Name": "Mr. Sandman",
