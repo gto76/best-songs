@@ -50,9 +50,11 @@ def get_parts(line, i_start):
     buff = ''
     i = i_start
 
-    # name_to = re.search('\|', line[i:])
-    # name_to = i + name_to.span()[0]
     name_to = get_location(line, i, '\|')
+
+    if not name_to:
+        i_end = get_location(line, i, '}}')
+        return line[i:i_end], i_end + 2
 
     name = line[i:name_to].lower()
     i = name_to+1
@@ -241,7 +243,13 @@ def write_json(filename, an_object):
    
 
 def get_location(line, i, regex):
-    loc = re.search(regex, line[i:])
+    # if regex == '\|':
+    #     for i_n, ch in enumerate(line[i:], i):
+    #         if ch == '|':
+    #             return i_n
+    loc = re.search(regex, line[i:], re.MULTILINE)
+    if not loc:
+        return
     return i + loc.span()[0]
 
  

@@ -1,19 +1,30 @@
 {
-  "The Girl from Ipanema": {
-    "name": "The Girl from Ipanema",
-    "cover": "Stan-Getz-The-Girl-From-Ipa-604216.jpg",
-    "artist": "Stan Getz and João Gilberto",
-    "album": "Getz/Gilberto",
-    "released": "25 July 1964",
+  "Subterranean Homesick Blues": {
+    "name": "Subterranean Homesick Blues",
+    "artist": "Bob Dylan",
+    "cover": "Subterranean Homesick Blues cover.jpg",
+    "album": "Bringing It All Back Home",
+    "b-side": "\"She Belongs to Me\"",
+    "released": "March 8, 1965",
+    "recorded": "January 14, 1965",
+    "studio": "Columbia Recording Studios, Studio A, New York",
+    "format": "7\" single",
     "genre": [
-      "Bossa nova",
-      "Jazz"
+      "Folk rock",
+      "Blues rock",
+      "Rock and roll"
     ],
-    "label": "Verve",
-    "writer": [
-      "Antônio carlos jobim & vinicius de moraes",
-      "Norman gimbel (english lyrics)"
-    ],
-    "producer": "Creed Taylor"
+    "length": "2:20",
+    "label": "Columbia",
+    "writer": "Bob Dylan",
+    "producer": "Tom Wilson",
+    "last single": "\"The Times They Are a-Changin'\" (1965)",
+    "next single": "\"Maggie's Farm\" (1965)",
+    "this single": "\"'''Subterranean Homesick Blues'''\" / \"She Belongs to Me\" (1965)",
+    "misc": {
+      "album": "Bringing It All Back Home",
+      "type": "studio",
+      "tracks": "Bringing It All Back Home tracks"
+    }
   }
 }
