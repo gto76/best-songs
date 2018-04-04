@@ -20,6 +20,10 @@ def get_years(songs):
         if 'released' not in song:
             continue
         release = song['released']
+        if len(release) < 1:
+            continue
+        if isinstance(release, list):
+            release = release[0]
         year = re.search('\d{4}', release)
         if year:
             out.append(int(year.group()))

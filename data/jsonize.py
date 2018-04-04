@@ -14,6 +14,7 @@ DIR = 'wiki_data'
 SAVE = True
 
 TOKENIZE = ['genre', 'writer', 'producer']
+IGNORE = ['border']
 
 
 def main():
@@ -36,7 +37,8 @@ def get_name(obj):
 
 def get_object(filename):
     print(f'Parsing: {filename}')
-    lines = [line.strip() for line in read_file(filename)]
+    # lines = [line.strip() for line in read_file(filename)]
+    lines = read_file(filename)
     wiki_obj = ''.join(lines)
     wiki_obj = cleanup(wiki_obj)
     obj, _ = get_parts(wiki_obj, 0)
@@ -52,7 +54,7 @@ def get_parts(line, i_start):
     # name_to = i + name_to.span()[0]
     name_to = get_location(line, i, '\|')
 
-    name = line[i:name_to]
+    name = line[i:name_to].lower()
     i = name_to+1
 
     while i <= len(line):
@@ -63,7 +65,7 @@ def get_parts(line, i_start):
                 buff += parts
             else: 
                 if buff:
-                    out.append(buff)
+                    out.append(buff.strip())
                     buff = ''
                 out.append(parts)
         if re.match('}}', line[i:]):
@@ -105,7 +107,7 @@ def tokenize_list(out, sep, i):
         if not a:
             continue
         if isinstance(a, str):
-            out_new.append([b for b in a.split(sep) if b])
+            out_new.append([b.strip().capitalize() for b in a.split(sep) if b.strip()])
         else:
             out_new.append(a)
     return out_new[0], i
@@ -129,15 +131,27 @@ def tokenize_dict(out, sep, i):
                         continue
                     key, value = k_v
                     key = key.strip().lower()
+                    if key in IGNORE:
+                        continue
                     value = value.strip()
-                    if key in TOKENIZE:
-                        values = value.split(',')
-                        if len(values) > 1:
-                            value = [v.strip() for v in values]
+                    if re.search('\\n\*', value):
+                        value = tokenize_str(value, '*')
+                    elif key in TOKENIZE:
+                        value = tokenize_str(value, ',')
+                        # values = value.split(',')
+                        # if len(values) > 1:
+                        #     value = [v.strip() for v in values]
                     out_new[key] = value
         else:
             out_new[key.lower()] = a
     return out_new, i
+
+
+def tokenize_str(value, sep):
+    values = value.split(sep)
+    if len(values) > 1:
+        value = [v.strip().capitalize() for v in values if v.strip()]
+    return value
 
 
 def get_link(line, i):
@@ -162,7 +176,9 @@ def check_for_parsers(out, name):
 
 
 def parse_date(token):
-    return '.'.join(re.findall('[0-9]+', token))
+    if '|' in token:
+        return '.'.join(re.findall('[0-9]+', token))
+    return token
 
 
 def parse_legth(value):
@@ -191,7 +207,8 @@ def nbsp(line):
 
 
 def remove_ref(line):
-    return re.sub('<ref.*?>.*?</ref>', '', line)
+    line = re.sub('<ref.*?>.*?</ref>', '', line)
+    return re.sub('<ref \S* />', '', line)
 
 
 def remove_comment(line):
