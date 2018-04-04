@@ -62,7 +62,10 @@
     "released": "December 15, 1955 April 1968 (re-recording)",
     "format": "7\" single",
     "recorded": "July 30, 1955, Sun Studio, Memphis, Tennessee",
-    "genre": "Rockabilly, rock and roll",
+    "genre": [
+      "Rockabilly",
+      "rock and roll"
+    ],
     "length": "2:50",
     "label": "Sun",
     "writer": "Johnny Cash",
@@ -70,6 +73,30 @@
     "last single": "\"Hey, Porter\" (1955)",
     "this single": "\"'''Folsom Prison Blues'''\" (1955)",
     "next single": "\"I Walk the Line\" (1956)"
+  },
+  "Great Balls of Fire": {
+    "name": "Great Balls of Fire",
+    "cover": "JLL Great Balls single cover.jpg",
+    "artist": "Jerry Lee Lewis",
+    "b-side": "\"You Win Again\"",
+    "released": "November 11, 1957",
+    "recorded": "October 8, 1957",
+    "studio": "Sun Studio, Memphis, Tennessee",
+    "genre": [
+      "Rock and roll",
+      "rockabilly",
+      "country"
+    ],
+    "length": "1:52",
+    "label": "Sun",
+    "writer": [
+      "Otis Blackwell",
+      "Jack Hammer"
+    ],
+    "producer": "Sam Phillips",
+    "last single": "\"Whole Lotta Shakin' Goin' On\" (1957)",
+    "this single": "\"Great Balls of Fire\" (1957)",
+    "next single": "\"You Win Again\" (1957)"
   },
   "Mr. Sandman": {
     "name": "Mr. Sandman",
@@ -80,7 +107,10 @@
     "released": "October 1954",
     "format": "7\"",
     "recorded": "1954",
-    "genre": "Barbershop music, traditional pop",
+    "genre": [
+      "Barbershop music",
+      "traditional pop"
+    ],
     "length": "2:22",
     "label": "Cadence",
     "writer": "Pat Ballard",
@@ -103,11 +133,13 @@
     ],
     "length": "2:38",
     "label": "Dunhill Records",
-    "writer": "John Phillips, Michelle Phillips",
+    "writer": [
+      "John Phillips",
+      "Michelle Phillips"
+    ],
     "producer": "Lou Adler",
     "last single": "\"Go Where You Wanna Go\" (1965)",
-    "this single": "\"'''California Dreamin",
-    "this single    ": {
+    "this single": {
       "next single": "\"Monday, Monday\" (1966)",
       "misc": []
     }

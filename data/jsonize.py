@@ -13,6 +13,8 @@ import os
 DIR = 'wiki_data'
 SAVE = True
 
+TOKENIZE = ['genre', 'writer', 'producer']
+
 
 def main():
     filenames = os.listdir(DIR)
@@ -126,7 +128,13 @@ def tokenize_dict(out, sep, i):
                     if len(k_v) < 2:
                         continue
                     key, value = k_v
-                    out_new[key.strip().lower()] = value.strip()
+                    key = key.strip().lower()
+                    value = value.strip()
+                    if key in TOKENIZE:
+                        values = value.split(',')
+                        if len(values) > 1:
+                            value = [v.strip() for v in values]
+                    out_new[key] = value
         else:
             out_new[key.lower()] = a
     return out_new, i
@@ -139,6 +147,30 @@ def get_link(line, i):
         link = link.split('|')[1]
     return link, link_end + 2
 
+
+###
+##  PARSERS
+#
+
+def check_for_parsers(out, name):
+    if equals_ic('start date', name):
+        return parse_date(out)
+    if equals_ic('duration', name):
+        return parse_legth(out)
+    if equals_ic('YouTube', name):
+        return parse_youtube(out)
+
+
+def parse_date(token):
+    return '.'.join(re.findall('[0-9]+', token))
+
+
+def parse_legth(value):
+    return ':'.join(re.findall('[0-9]+', value))
+
+
+def parse_youtube(value):
+    return value.split('|')[0]
 
 
 ###
@@ -176,31 +208,6 @@ def remove_formating(line):
 def remove_br(line):
     return re.sub('<br */* *>', ' ', line)
 
-
-###
-##  PARSERS
-#
-
-
-def check_for_parsers(out, name):
-    if equals_ic('start date', name):
-        return parse_date(out)
-    if equals_ic('duration', name):
-        return parse_legth(out)
-    if equals_ic('YouTube', name):
-        return parse_youtube(out)
-
-
-def parse_date(token):
-    return '.'.join(re.findall('[0-9]+', token))
-
-
-def parse_legth(value):
-    return ':'.join(re.findall('[0-9]+', value))
-
-
-def parse_youtube(value):
-    return value.split('|')[0]
 
 ###
 ##  UTIL
