@@ -77,33 +77,15 @@ def connect(song, edge_name, obj_b_name, nodes):
     edge_name, obj_b_name = edge_name.lower(), obj_b_name.lower()
     if equals_ic(IGNORE_EDGES, edge_name):
         return
-    obj_b = get_obj_b(nodes, obj_b_name)
+    obj_b = nodes.setdefault(obj_b_name, Node(obj_b_name))
     edge = Edge(edge_name, song, obj_b)
     song.edges.append(edge)
     obj_b.edges.append(edge)
 
 
-def get_obj_b(a_dict, key):
-    if key in a_dict:
-        return a_dict[key]
-    obj_b = Node(key)
-    a_dict[key] = obj_b
-    return obj_b
-
-
 ###
 ##  UTIL
 #
-
-def read_file(filename):
-    with open(filename, encoding='utf-8') as file:
-        return file.readlines()
-       
-
-def write_json(filename, an_object):         
-    with open(filename, 'w', encoding='utf-8') as file:
-        json.dump(an_object, file, ensure_ascii=False, indent=2)
-   
 
 def read_json_file(filename):
     with open(filename, encoding='utf-8') as file:

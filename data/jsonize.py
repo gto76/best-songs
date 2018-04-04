@@ -46,8 +46,8 @@ def get_parts(line, i_start):
     buff = ''
     i = i_start
 
-    name_to = re.search('\|', line[i:])
-    name_to = i + name_to.span()[0]
+    # name_to = re.search('\|', line[i:])
+    # name_to = i + name_to.span()[0]
     name_to = get_location(line, i, '\|')
 
     name = line[i:name_to]
@@ -126,9 +126,9 @@ def tokenize_dict(out, sep, i):
                     if len(k_v) < 2:
                         continue
                     key, value = k_v
-                    out_new[key.strip()] = value.strip()
+                    out_new[key.strip().lower()] = value.strip()
         else:
-            out_new[key] = a
+            out_new[key.lower()] = a
     return out_new, i
 
 
