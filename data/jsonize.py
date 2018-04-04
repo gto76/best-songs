@@ -14,6 +14,7 @@ DIR = 'wiki_data'
 SAVE = True
 
 TOKENIZE = ['genre', 'writer', 'producer', 'label']
+CAPITALIZE = ['genre', 'label']
 LISTS = ['flatlist', 'plainlist', 'hlist']
 ASTERIX_LISTS = ['flatlist', 'plainlist']
 IGNORE = ['border']
@@ -123,38 +124,68 @@ def tokenize_dict(out, sep, i):
         if isinstance(a, str):
             tokens = a.split(sep)
             for token in tokens:
-                token = token.strip()
-                if not token:
-                    continue
-                if token.endswith('='):
-                    key = re.sub('=$', '', token).strip()
-                else:
-                    k_v = token.split('=')
-                    if len(k_v) < 2:
-                        continue
-                    key, value = k_v
-                    key = key.strip().lower()
-                    if key in IGNORE:
-                        continue
-                    value = value.strip()
-                    if re.search('\\n\*', value):
-                        value = tokenize_str(value, '*')
-                    elif key in TOKENIZE:
-                        value = tokenize_str(value, ',')
-                    if key == 'label':
-                        value = fix_labels(value)
-                    out_new[key] = value
+                new_key = process_token(token, out_new, key)
+                if new_key:
+                    key = new_key
+                # token = token.strip()
+                # if not token:
+                #     continue
+                # if token.endswith('='):
+                #     key = re.sub('=$', '', token).strip()
+                # else:
+                #     k_v = token.split('=')
+                #     if len(k_v) < 2:
+                #         continue
+                #     key, value = k_v
+                #     key = key.strip().lower()
+                #     if key in IGNORE:
+                #         continue
+                #     value = value.strip()
+                #     if re.search('\\n\*', value):
+                #         value = tokenize_str(value, '*')
+                #     elif key in TOKENIZE:
+                #         value = tokenize_str(value, ',')
+                #     if key == 'label':
+                #         value = fix_labels(value)
+                #     out_new[key] = value
         else:
             key = key.strip().lower()
             if key == 'label':
                 a = fix_labels(a)
-            out_new[key.lower()] = a
+            out_new[key] = a
     return out_new, i
 
-def tokenize_str(value, sep):
+
+def process_token(token, out_new, key):
+    token = token.strip()
+    if not token:
+        return
+    if token.endswith('='):
+        return re.sub('=$', '', token).strip()
+    k_v = token.split('=')
+    if len(k_v) < 2:
+        return
+    key, value = k_v
+    key = key.strip().lower()
+    if key in IGNORE:
+        return
+    value = value.strip()
+    if re.search('\\n\*', value):
+        value = tokenize_str(value, '*', key in CAPITALIZE)
+    elif key in TOKENIZE:
+        value = tokenize_str(value, ',', key in CAPITALIZE)
+    if key == 'label':
+        value = fix_labels(value)
+    out_new[key] = value
+
+
+def tokenize_str(value, sep, capitalize=False):
     values = value.split(sep)
     if len(values) > 1:
-        value = [v.strip().capitalize() for v in values if v.strip()]
+        if capitalize:
+            value = [v.strip().capitalize() for v in values if v.strip()]
+        else:
+            value = [v.strip() for v in values if v.strip()]
     return value
 
 
