@@ -13,8 +13,11 @@ import os
 DIR = 'wiki_data'
 SAVE = True
 
-TOKENIZE = ['genre', 'writer', 'producer']
+TOKENIZE = ['genre', 'writer', 'producer', 'label']
+LISTS = ['flatlist', 'plainlist', 'hlist']
+ASTERIX_LISTS = ['flatlist', 'plainlist']
 IGNORE = ['border']
+REMOVE_COUNTRY_FROM_LABEL = True
 
 
 def main():
@@ -37,7 +40,6 @@ def get_name(obj):
 
 def get_object(filename):
     print(f'Parsing: {filename}')
-    # lines = [line.strip() for line in read_file(filename)]
     lines = read_file(filename)
     wiki_obj = ''.join(lines)
     wiki_obj = cleanup(wiki_obj)
@@ -49,7 +51,6 @@ def get_parts(line, i_start):
     out = []
     buff = ''
     i = i_start
-
     name_to = get_location(line, i, '\|')
 
     if not name_to:
@@ -93,11 +94,11 @@ def tokenize(out, buff, i, name):
     if name == 'sfn':
         return '', i
     sep = '|'
-    if name == 'flatlist':
+    if name in ASTERIX_LISTS:
         sep = '*'
     if buff:
         out.append(buff.strip())
-    if name in ['flatlist', 'hlist']:
+    if name in LISTS:
         return tokenize_list(out, sep, i)
     else:
         return tokenize_dict(out, sep, i)
@@ -140,20 +141,34 @@ def tokenize_dict(out, sep, i):
                         value = tokenize_str(value, '*')
                     elif key in TOKENIZE:
                         value = tokenize_str(value, ',')
-                        # values = value.split(',')
-                        # if len(values) > 1:
-                        #     value = [v.strip() for v in values]
+                    if key == 'label':
+                        value = fix_labels(value)
                     out_new[key] = value
         else:
+            key = key.strip().lower()
+            if key == 'label':
+                a = fix_labels(a)
             out_new[key.lower()] = a
     return out_new, i
-
 
 def tokenize_str(value, sep):
     values = value.split(sep)
     if len(values) > 1:
         value = [v.strip().capitalize() for v in values if v.strip()]
     return value
+
+
+def fix_labels(labels):
+    if not isinstance(labels, list):
+        return fix_label(labels)
+    return [fix_label(l) for l in labels]
+
+
+def fix_label(label):
+    out = re.sub('\S*\d+.*', '', label)
+    if REMOVE_COUNTRY_FROM_LABEL:
+        out = re.sub('\(.*\)', '', out)
+    return out.strip()
 
 
 def get_link(line, i):
@@ -243,10 +258,6 @@ def write_json(filename, an_object):
    
 
 def get_location(line, i, regex):
-    # if regex == '\|':
-    #     for i_n, ch in enumerate(line[i:], i):
-    #         if ch == '|':
-    #             return i_n
     loc = re.search(regex, line[i:], re.MULTILINE)
     if not loc:
         return
