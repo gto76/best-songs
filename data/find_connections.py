@@ -3,30 +3,28 @@
 # Usage: create_graph.py 
 # 
 
-import sys
 import re
 import json
-import os
 
 
-IGNORE_EDGES = 'type|prev_year|next_year|caption|format'
+IGNORE_EDGES = 'type|prev_year|next_year|caption|format|track_no|length|genre|recorded'
 
 class Node:
-    def __init__(self, a_name, a_type=None):
-        self.a_name = a_name
+    def __init__(self, name, a_type=None):
+        self.name = name
         self.edges = []
         self.a_type = a_type
     def __repr__(self):
-        return str('{}: {}'.format(self.a_name, ', '.join(str(e) for e in self.edges)))
+        return str('{}: {}'.format(self.name, ', '.join(str(e) for e in self.edges)))
 
 class Edge:
-    def __init__(self, a_name, song, obj_b):
-        self.a_name = a_name
+    def __init__(self, name, song, obj_b):
+        self.name = name
         self.song = song
         self.obj_b = obj_b
     def __repr__(self):
-        # return self.a_name
-        return f'{self.a_name} ({self.song.a_name})'
+        return self.name
+        # return f'{self.name} ({self.song.name})'
 
 
 def main():
@@ -51,12 +49,13 @@ def main():
 def print_out(nodes):
     interesting_nodes = [n for n in nodes.values() if len(n.edges)>1 and not n.a_type]
     interesting_nodes = filter_nodes_that_connect_to_single_song(interesting_nodes)
+    interesting_nodes = filter_nodes_that_have_single_artist(interesting_nodes)
     if not interesting_nodes:
         return
     for n in interesting_nodes:
-        print(n.a_name)
+        print(n.name)
         for e in n.edges:
-            print(e.a_name, ': ', e.song.a_name)
+            print(e.name, ': ', e.song.name)
         print()
 
 
@@ -67,20 +66,49 @@ def filter_nodes_that_connect_to_single_song(nodes):
 def node_has_multiple_songs(node):
     if len(node.edges) < 2:
         return False
-    first_song = node.edges[0].song.a_name
+    first_song = node.edges[0].song.name
     for edge in node.edges:
-        if edge.song.a_name != first_song:
+        if edge.song.name != first_song:
             return True
+
+
+def filter_nodes_that_have_single_artist(nodes):
+    return [n for n in nodes if has_multiple_artist(n)]
+
+
+def has_multiple_artist(node):
+    first_song = node.edges[0].song
+    if not first_song:
+        return
+    first_artist = get_artist(first_song)
+    if not first_artist:
+        return
+    for edge in node.edges:
+        if get_artist(edge.song) != first_artist:
+            return True
+
+
+def get_artist(song):
+    for edge in song.edges:
+        if edge.name == 'artist':
+            return edge.obj_b.name
+
 
 
 def connect(song, edge_name, obj_b_name, nodes):
     edge_name, obj_b_name = edge_name.lower(), obj_b_name.lower()
     if equals_ic(IGNORE_EDGES, edge_name):
         return
+    if edge_name == 'label':
+        obj_b_name = remove_brackets(obj_b_name)
     obj_b = nodes.setdefault(obj_b_name, Node(obj_b_name))
     edge = Edge(edge_name, song, obj_b)
     song.edges.append(edge)
     obj_b.edges.append(edge)
+
+
+def remove_brackets(name):
+    return re.sub('\(.*?\)', '', name).strip()
 
 
 ###

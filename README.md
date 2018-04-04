@@ -18,7 +18,7 @@
 ### 66 * Beatles, 'Tomorow Never Knows'
 ### 67 * Velvet Underground, 'Venus in Furs'
 ### 67 * Jefferson Airplane, 'White Rabit'
-### 67 * Velvet Underground, 'Murder Mistery'
+### 67 * Velvet Underground, 'Murder Mystery'
 ### 67 * Jimi Hendrix, '6 was 9'
 ### 68 * The Doors, 'Five to One'
 ### 68 * The Rolling Stones, 'Jumpin' Jack Flash'

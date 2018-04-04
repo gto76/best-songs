@@ -18,7 +18,7 @@ CAPITALIZE = ['genre', 'label']
 LISTS = ['flatlist', 'plainlist', 'hlist']
 ASTERIX_LISTS = ['flatlist', 'plainlist']
 IGNORE = ['border']
-REMOVE_COUNTRY_FROM_LABEL = True
+REMOVE_COUNTRY_FROM_LABEL = False
 
 
 def main():
@@ -86,6 +86,7 @@ def get_parts(line, i_start):
 
 
 def tokenize(out, buff, i, name):
+    name = name.strip()
     i = i + 2
     out_parser = check_for_parsers(buff, name)
     if out_parser:
@@ -127,31 +128,12 @@ def tokenize_dict(out, sep, i):
                 new_key = process_token(token, out_new, key)
                 if new_key:
                     key = new_key
-                # token = token.strip()
-                # if not token:
-                #     continue
-                # if token.endswith('='):
-                #     key = re.sub('=$', '', token).strip()
-                # else:
-                #     k_v = token.split('=')
-                #     if len(k_v) < 2:
-                #         continue
-                #     key, value = k_v
-                #     key = key.strip().lower()
-                #     if key in IGNORE:
-                #         continue
-                #     value = value.strip()
-                #     if re.search('\\n\*', value):
-                #         value = tokenize_str(value, '*')
-                #     elif key in TOKENIZE:
-                #         value = tokenize_str(value, ',')
-                #     if key == 'label':
-                #         value = fix_labels(value)
-                #     out_new[key] = value
         else:
             key = key.strip().lower()
             if key == 'label':
                 a = fix_labels(a)
+            if not a:
+                continue
             out_new[key] = a
     return out_new, i
 
@@ -162,7 +144,7 @@ def process_token(token, out_new, key):
         return
     if token.endswith('='):
         return re.sub('=$', '', token).strip()
-    k_v = token.split('=')
+    k_v = token.split('=', maxsplit=1)
     if len(k_v) < 2:
         return
     key, value = k_v
@@ -243,7 +225,8 @@ def parse_youtube(value):
 
 def cleanup(line):
     line = nbsp(line)
-    line = remove_ref(line)
+    line = remove_html_element(line, 'ref')
+    line = remove_html_mark(line, 'div')
     line = remove_comment(line)
     line = remove_formating(line)
     line = remove_br(line)
@@ -254,9 +237,13 @@ def nbsp(line):
     return re.sub('&nbsp;', ' ', line)
 
 
-def remove_ref(line):
-    line = re.sub('<ref.*?>.*?</ref>', '', line)
-    return re.sub('<ref \S* />', '', line)
+def remove_html_element(line, id):
+    line = re.sub(f'<{id}.*?>.*?</{id}>', '', line, flags=re.DOTALL)
+    return re.sub(f'<{id}.*?/>', '', line, flags=re.DOTALL)
+
+
+def remove_html_mark(line, id):
+    return re.sub(f'</*{id}.*?>', '', line, flags=re.DOTALL)
 
 
 def remove_comment(line):
