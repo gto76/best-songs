@@ -10,25 +10,34 @@ import matplotlib.pyplot as plt
 
 DEBUG = False
 
+MONTHS = {'january': 1,
+          'february': 2,
+          'march': 3,
+          'april': 4,
+          'may' : 5,
+          'june': 6,
+          'july': 7,
+          'august': 8,
+          'september': 9,
+          'october': 10,
+          'november': 11,
+          'december': 12}
+
+MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
+            'ber|november|december'
+
+
 def main():
     songs = read_json_file('wiki_data.json')
-
-    generate_plot(songs, 'released', get_year, 'years')
+    generate_plot(songs, 'released', get_year, 'years', ticks_filter=every_even)
     generate_plot(songs, 'released', get_month, 'months')
     generate_plot(songs, 'length', get_minutes, 'minutes')
 
-    #
-    # years = parse_releases(songs, 'released', get_year)
-    # generate_release_dates_chart(years)
-    # months = parse_releases(songs, 'released', get_month)
-    # generate_release_dates_chart(months)
-    # lengths = parse_releases(songs, 'length', get_minutes)
-    # generate_release_dates_chart(lengths, 'minutes')
 
-
-def generate_plot(songs, key, parser, xlabel):
+def generate_plot(songs, key, parser, xlabel, ticks_filter=None):
     values = parse_releases(songs, key, parser)
-    generate_release_dates_chart(values, filename=xlabel)
+    generate_release_dates_chart(values, filename=xlabel,
+                                 ticks_filter=ticks_filter)
 
 
 def parse_releases(songs, key, parser):
@@ -49,39 +58,19 @@ def parse_releases(songs, key, parser):
     return sorted(out)
 
 
-def get_minutes(length):
-    if ':' in length:
-        return length.split(':')[0]
-
-
 def get_year(release):
     year = re.search('\d{4}', release)
     if year:
         return year.group()
 
 
-MONTHS = {'january': 1,
-          'february': 2,
-          'march': 3,
-          'april': 4,
-          'may' : 5,
-          'june': 6,
-          'july': 7,
-          'august': 8,
-          'september': 9,
-          'october': 10,
-          'november': 11,
-          'december': 12}
-
-
 def get_month(release):
     if re.search('[a-zA-Z]', release):
-        month = re.search('january|february|march|april|may|june|july|august|september|october|november|december', release, flags=re.IGNORECASE)
+        month = re.search(MONTHS_RE, release, flags=re.IGNORECASE)
         if month:
             month = month.group()
             return MONTHS[month.lower()]
     return get_numeric_month(release)
-
 
 
 def get_numeric_month(release):
@@ -92,7 +81,16 @@ def get_numeric_month(release):
             return digit_month.group()
 
 
-def generate_release_dates_chart(listOfYears, filename=None):
+def get_minutes(length):
+    if ':' in length:
+        return length.split(':')[0]
+
+
+###
+##  PYPLOT
+#
+
+def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None):
     albumsPerYear = getAlbumsPerYear(listOfYears)
     yearRange = getYearRange(listOfYears)
 
@@ -105,7 +103,8 @@ def generate_release_dates_chart(listOfYears, filename=None):
     y = albumsPerYear
     x = yearRange
     x_ticks = [listOfYears[0]-1] + yearRange + [listOfYears[-1]+1]
-    x_ticks = [t for t in x_ticks if t%2==0]
+    if ticks_filter:
+        x_ticks = ticks_filter(x_ticks)
     plt.xticks(x_ticks)
     if filename:
         plt.xlabel(filename.capitalize())
@@ -116,6 +115,10 @@ def generate_release_dates_chart(listOfYears, filename=None):
     else:
         plt.savefig(filename)
     plt.close()
+
+
+def every_even(ticks):
+    return [t for t in ticks if t%2==0]
 
 
 def getAlbumsPerYear(listOfYears):
