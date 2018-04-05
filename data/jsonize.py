@@ -225,11 +225,11 @@ def parse_youtube(value):
 
 def cleanup(line):
     line = nbsp(line)
+    line = remove_br(line)
     line = remove_html_element(line, 'ref')
     line = remove_html_mark(line, 'div')
     line = remove_comment(line)
     line = remove_formating(line)
-    line = remove_br(line)
     return line
 
 
@@ -258,7 +258,7 @@ def remove_formating(line):
 
 
 def remove_br(line):
-    return re.sub('<br */* *>', ' ', line)
+    return re.sub('<br.*?>', ' ', line)
 
 
 ###

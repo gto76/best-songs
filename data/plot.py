@@ -43,6 +43,7 @@ def generate_release_dates_chart(listOfYears):
     y = albumsPerYear
     x = yearRange
     x_ticks = [listOfYears[0]-1] + yearRange + [listOfYears[-1]+1]
+    x_ticks = [t for t in x_ticks if t%2==0]
     plt.xticks(x_ticks)
     plt.bar(x, y, color="blue")
 

@@ -166,6 +166,23 @@
       "lower caption": "12\" cover"
     }
   },
+  "Mother North": {
+    "name": "Mother North",
+    "type": "studio",
+    "artist": "Satyricon",
+    "cover": "Nemesis divina - satyricon.jpg",
+    "released": "April 22, 1996",
+    "recorded": "1996",
+    "studio": "Waterfall Studios",
+    "genre": "Black metal",
+    "length": "6:26",
+    "label": [
+      "Moonfog",
+      "Century media"
+    ],
+    "producer": "Satyr",
+    "writer": "Satyr"
+  },
   "Zombie": {
     "name": "Zombie",
     "artist": "Fela Kuti",
@@ -175,6 +192,24 @@
     "length": "12:26",
     "label": "Coconut",
     "producer": "Fela Kuti"
+  },
+  "When the Curious Girl Realizes She Is Under Glass": {
+    "name": "When the Curious Girl Realizes She Is Under Glass",
+    "artist": "Bright Eyes",
+    "cover": "Feversandmirrors_brighteyes.jpg",
+    "released": "May 29, 2000 (US)",
+    "recorded": "1999, Presto! Recording Studio, Lincoln, Nebraska",
+    "genre": [
+      "Indie rock",
+      "Indie folk",
+      "Emo"
+    ],
+    "length": "2:40",
+    "label": [
+      "Saddle creek (us)",
+      "Wichita recordings (uk)"
+    ],
+    "producer": "Mike Mogis"
   },
   "Venus in Furs": {
     "name": "Venus in Furs",
@@ -187,6 +222,95 @@
     "label": "Verve",
     "writer": "Lou Reed",
     "producer": "Andy Warhol"
+  },
+  "Kiss": {
+    "name": "Kiss",
+    "cover": "Prince_kiss.jpg",
+    "caption": "US 7″ single",
+    "artist": "Prince and The Revolution",
+    "album": "Parade",
+    "b-side": "\"♥ or $\"",
+    "released": "February 5, 1986",
+    "recorded": "April 28, 1985",
+    "studio": "Sunset Sound (Sunset Boulevard, Hollywood, Los Angeles, California)",
+    "format": [
+      "7\"",
+      "12\"",
+      "Cd"
+    ],
+    "genre": [
+      "Post-disco",
+      "Funk"
+    ],
+    "length": "3:38 (LP version)   3:46 (7\" single)   7:16 (12\" single)",
+    "label": "Paisley Park / Warner Bros.",
+    "producer": "Prince",
+    "writer": "Prince",
+    "last single": "\"America\" (1985)",
+    "this single": "\"'''Kiss'''\" (1986)",
+    "next single": "\"Mountains\" (1986)",
+    "misc": {
+      "artist": "Prince (UK)",
+      "type": "single",
+      "last single": "\"Pop Life\" (1985)",
+      "this single": "\"'''Kiss'''\" (1986)",
+      "next single": "\"Mountains\" (1986)"
+    }
+  },
+  "Too Much Love": {
+    "name": "Too Much Love",
+    "artist": "LCD Soundsystem",
+    "album": "LCD Soundsystem",
+    "cover": "Afc lcd LCDSoundsystem.gif",
+    "released": "2005.1.24",
+    "genre": [
+      "Dance-punk",
+      "Electronica"
+    ],
+    "length": "5:42",
+    "label": [
+      "Dfa",
+      "Capitol",
+      "Emi"
+    ],
+    "producer": "The DFA"
+  },
+  "Blue Monday": {
+    "name": "Blue Monday",
+    "cover": "NewOrderBlueMonday.jpg",
+    "caption": "Original die-cut sleeve",
+    "artist": "New Order",
+    "album": "Power, Corruption & Lies",
+    "": {
+      "name": "a"
+    },
+    "b-side": [
+      "\"the beach\""
+    ],
+    "released": "7 March 1983",
+    "format": [
+      "12\"",
+      "7\""
+    ],
+    "recorded": "1982",
+    "genre": [
+      "Synth-pop",
+      "Alternative dance",
+      "Hi-nrg"
+    ],
+    "label": [
+      "Factory"
+    ],
+    "writer": [
+      "Gillian gilbert",
+      "Peter hook",
+      "Stephen morris",
+      "Bernard sumner"
+    ],
+    "producer": "New Order",
+    "last single": "\"Temptation\" (1982)",
+    "this single": "\"'''Blue Monday'''\" (1983)",
+    "next single": "\"Confusion\" (1983)"
   },
   "White Rabbit": {
     "name": "White Rabbit",
@@ -213,6 +337,35 @@
       "file": "WhiteRabbit.ogg"
     }
   },
+  "This Charming Man": {
+    "name": "This Charming Man",
+    "cover": "Thischarmingmansingle.PNG",
+    "artist": "The Smiths",
+    "b-side": [
+      "\"jeane\"",
+      "\"accept yourself\"",
+      "\"wonderful woman\""
+    ],
+    "released": "31 October 1983",
+    "format": [
+      "7\" vinyl",
+      "12\" vinyl"
+    ],
+    "recorded": "October 1983, at Strawberry Studios in Stockport, England",
+    "genre": [
+      "Jangle pop",
+      "Pop rock"
+    ],
+    "length": "2:41",
+    "label": "Rough Trade",
+    "writer": [
+      "Johnny marr",
+      "Morrissey"
+    ],
+    "last single": "\"Hand in Glove\" (1983)",
+    "this single": "\"'''This Charming Man'''\" (1983)",
+    "next single": "\"What Difference Does It Make?\" (1984)"
+  },
   "Light My Fire": {
     "name": "Light My Fire",
     "cover": "Lightmyfire67.jpg",
@@ -238,6 +391,34 @@
     "last single": "\"Break On Through (To the Other Side)\" (1967)",
     "this single": "\"'''Light My Fire'''\"/\"The Crystal Ship\" (1967)",
     "next single": "\"People Are Strange\" (1967)"
+  },
+  "Hurt": {
+    "name": "Hurt",
+    "artist": "Johnny Cash",
+    "album": "American IV: The Man Comes Around",
+    "cover": "Johnny_Cash_-_Personal_Jesus_and_Hurt_single.jpg",
+    "b-side": [
+      "\"personal jesus\"",
+      "\"wichita lineman\""
+    ],
+    "released": "March 2003",
+    "format": "CD single",
+    "recorded": "2002",
+    "genre": [
+      "Alternative rock",
+      "Acoustic rock",
+      "Country"
+    ],
+    "length": "3:38",
+    "label": [
+      "American",
+      "Lost highway"
+    ],
+    "writer": "Trent Reznor",
+    "producer": "Rick Rubin",
+    "last single": "\"The Man Comes Around\" (2002)",
+    "this single": "\"'''Hurt'''\" (2003)",
+    "next single": "\"God's Gonna Cut You Down\" (2006)"
   },
   "Five to One": {
     "name": "Five to One",
@@ -278,6 +459,17 @@
       "Milton Leeds",
       "Bob Russell"
     ]
+  },
+  "Sedemnajst": {
+    "name": "Sedemnajst",
+    "artist": "Pankrti",
+    "cover": "Dolgcajt.jpg",
+    "released": "8. februar 1980",
+    "studio": "Studio Akademik",
+    "genre": "punk rock",
+    "length": "1:24",
+    "label": "RTV Ljubljana",
+    "producer": "Igor Vidmar"
   },
   "Subterranean Homesick Blues": {
     "name": "Subterranean Homesick Blues",
@@ -348,6 +540,40 @@
       "next_year": "1964"
     },
     "file": "The Kinks You Really Got Me.ogg"
+  },
+  "Song 2": {
+    "name": "Song 2",
+    "cover": "Blur_song_2_CD1.jpg",
+    "artist": "Blur",
+    "album": "Blur",
+    "released": "1997.4.7",
+    "format": [
+      "7\"",
+      "Cd"
+    ],
+    "recorded": "1996",
+    "genre": [
+      "Alternative rock",
+      "Punk rock"
+    ],
+    "length": "2:02",
+    "writer": [
+      "Damon albarn",
+      "Graham coxon",
+      "Alex james",
+      "Dave rowntree"
+    ],
+    "label": "Food",
+    "producer": "Stephen Street",
+    "last single": "\"Beetlebum\" (1997)",
+    "this single": "\"'''Song 2'''\"  (1997)",
+    "next single": "\"On Your Own\" (1997)",
+    "misc": {
+      "type": "single",
+      "filename": "Blur - Song 2.ogg",
+      "title": "\"Song 2\"",
+      "description": "Sample of \"Song 2\" from ''Blur''. Inspired by lo-fi and American rock music, \"Song 2\" was a hit in the US."
+    }
   },
   "Celebration of the Lizard": {
     "name": "Celebration of the Lizard",
@@ -424,6 +650,24 @@
     "this single": "\"'''Folsom Prison Blues'''\" (1955)",
     "next single": "\"I Walk the Line\" (1956)"
   },
+  "Blister in the Sun": {
+    "name": "Blister in the Sun",
+    "artist": "Violent Femmes",
+    "from album": "Violent Femmes",
+    "writer": "Gordon Gano",
+    "genre": [
+      "Folk punk",
+      "Anti-folk",
+      "Alternative rock",
+      "Progressive folk"
+    ],
+    "length": "2:27",
+    "released": "1983",
+    "producer": "Mark Van Hecke",
+    "label": "Slash",
+    "this single": "\"Blister in the Sun\" (1983)",
+    "next single": "\"Gone Daddy Gone\" (1983)"
+  },
   "If 6 Was 9": {
     "name": "If 6 Was 9",
     "type": "song",
@@ -469,6 +713,63 @@
       "type": "single"
     }
   },
+  "Yeah": {
+    "name": "Yeah",
+    "cover": "LCD Soundsystem - Yeah cover art.jpg",
+    "artist": "LCD Soundsystem",
+    "album": "LCD Soundsystem",
+    "b-side": [
+      "Pretentious version",
+      "Clap-a-pella"
+    ],
+    "released": "January 13, 2004",
+    "format": [
+      "12\"",
+      "Cd"
+    ],
+    "recorded": "2003",
+    "genre": [
+      "Dance-punk",
+      "Indietronica",
+      "Electroclash",
+      "Acid house"
+    ],
+    "label": "DFA",
+    "writer": [
+      "Tim goldsworthy",
+      "James murphy"
+    ],
+    "producer": "The DFA",
+    "last single": "\"Give It Up\" (2003)",
+    "this single": "\"'''Yeah'''\" (2004)",
+    "next single": "\"Movement\" (2004)"
+  },
+  "Rapper's Delight": {
+    "name": "Rapper's Delight",
+    "cover": "Rappersdelight.jpeg",
+    "artist": "The Sugarhill Gang",
+    "from album": "Sugarhill Gang",
+    "released": "September 16, 1979",
+    "format": "12\"",
+    "recorded": "August 2, 1979",
+    "genre": [
+      "Old-school hip hop",
+      "Disco",
+      "Funk"
+    ],
+    "length": "3:55 (single version) 6:30 (12\" short version) 14:35 (album version)",
+    "label": "Sugar Hill",
+    "writer": [
+      "The Sugarhill Gang",
+      "Sylvia Robinson",
+      "Nile Rodgers",
+      "Bernard Edwards",
+      "Grandmaster Caz"
+    ],
+    "producer": "Sylvia Robinson",
+    "this single": "\"'''Rapper's Delight'''\" (1979)",
+    "next single": "\"8th Wonder\" (1980)"
+  },
   "Rumble": {
     "name": "Rumble",
     "cover": "Rumble (instrumental).png",
@@ -504,6 +805,29 @@
     "label": "Asylum",
     "producer": "Bones Howe"
   },
+  "In Bloom": {
+    "name": "In Bloom",
+    "cover": "InBloom.jpg",
+    "artist": "Nirvana",
+    "from album": "Nevermind",
+    "b-side": "\"Polly\" (live)",
+    "released": "November 30, 1992",
+    "format": "CD, cassette, 7\", 12\"",
+    "recorded": "May 1991",
+    "studio": "Sound City Studios in Van Nuys, California",
+    "genre": "Grunge",
+    "length": "4:11",
+    "label": "DGC",
+    "writer": "Kurt Cobain",
+    "producer": "Butch Vig",
+    "last single": "\"Lithium\" (1992)",
+    "this single": "\"'''In Bloom'''\"   (1992)",
+    "next single": "\"Puss\" / \"Oh, the Guilt\" (1993)",
+    "misc": {
+      "album": "Nevermind",
+      "type": "studio"
+    }
+  },
   "Great Balls of Fire": {
     "name": "Great Balls of Fire",
     "cover": "JLL Great Balls single cover.jpg",
@@ -527,6 +851,100 @@
     "last single": "\"Whole Lotta Shakin' Goin' On\" (1957)",
     "this single": "\"Great Balls of Fire\" (1957)",
     "next single": "\"You Win Again\" (1957)"
+  },
+  "Superstylin'": {
+    "name": "Superstylin'",
+    "cover": "Groove_Armada_Superstylin'_Single_cover.jpeg",
+    "artist": "Groove Armada",
+    "album": "Goodbye Country (Hello Nightclub)",
+    "released": "13 August 2001",
+    "format": "CD, 7\" vinyl",
+    "genre": [
+      "House",
+      "Reggae fusion",
+      "Speed garage"
+    ],
+    "length": "3:43 (Edited Version) 6:02 (Album Version)",
+    "label": "Zomba",
+    "writer": {
+      "next single": "\"My Friend\" (2001)"
+    },
+    "producer": "Groove Armada",
+    "last single": "\"I See You Baby\" (1999)",
+    "this single": "\"'''Superstylin"
+  },
+  "Loser": {
+    "name": "Loser",
+    "cover": "Beck Loser.jpg",
+    "artist": "Beck",
+    "album": "Mellow Gold",
+    "released": [
+      "March 8, 1993",
+      "February 4, 1994 (re-release)"
+    ],
+    "format": [
+      "7\"",
+      "12\"",
+      "Cd",
+      "Cassette"
+    ],
+    "recorded": "1992",
+    "genre": [
+      "Alternative rock",
+      "Hip hop"
+    ],
+    "length": "3:55",
+    "label": [
+      "Bong load custom",
+      "Dgc"
+    ],
+    "writer": [
+      "Beck",
+      "Karl stephenson"
+    ],
+    "producer": [
+      "Beck",
+      "Karl stephenson",
+      "Tom rothrock"
+    ],
+    "last single": "\"MTV Makes Me Want to Smoke Crack\" (1993)",
+    "this single": "\"'''Loser'''\" (1993)",
+    "next single": "\"Pay No Mind (Snoozer)\" (1994)"
+  },
+  "One Armed Scissor": {
+    "name": "One Armed Scissor",
+    "cover": "At the Drive-In - One Armed Scissor cover.jpg",
+    "artist": "At the Drive-In",
+    "from album": "Relationship of Command",
+    "b-side": "\"Pattern Against User\" \"Incetardis\"",
+    "format": "CD, vinyl",
+    "released": "7 August 2000 (UK)",
+    "genre": [
+      "Post-hardcore",
+      "Progressive rock",
+      "Experimental rock",
+      "Math rock"
+    ],
+    "length": "3:45",
+    "label": "Grand Royal",
+    "producer": "Ross Robinson",
+    "this single": "\"'''One Armed Scissor'''\" (2000)",
+    "next single": "\"Rolodex Propaganda\" (2000)"
+  },
+  "Tovar'ši, jest vam ne verjamem": {
+    "name": "Tovar'ši, jest vam ne verjamem",
+    "artist": "Pankrti",
+    "cover": "Novi Pank Val (compilation album) Yugoslavia.jpg",
+    "released": "1981",
+    "recorded": "1980, september",
+    "studio": "Studio Akademik",
+    "genre": "Punk rock",
+    "length": "1:53",
+    "label": "RTV Ljubljana",
+    "producer": [
+      "Igor Vidmar",
+      "Pankrti"
+    ]
   },
   "London Calling": {
     "name": "London Calling",
@@ -659,6 +1077,12 @@
     "last single": "\"Go Where You Wanna Go\" (1965)",
     "this single": "\"'''California Dreamin"
   },
+  "Bosna moja": {
+    "name": "Bosna moja",
+    "artist": "Safet Isović",
+    "released": "1988",
+    "length": "5:34"
+  },
   "Psycho Killer": {
     "name": "Psycho Killer",
     "cover": "Talking heads psycho killer USA vinyl.jpg",
@@ -688,6 +1112,16 @@
     "last single": "\"Uh-Oh, Love Comes to Town\" (1977)",
     "this single": "\"'''Psycho Killer'''\" (1977)",
     "next single": "\"Pulled Up\" (1978)"
+  },
+  "Linzserenade": {
+    "name": "Linzserenade",
+    "artist": "Gustav",
+    "released": "21. March 2004",
+    "length": "4:12",
+    "label": "Mosz",
+    "producer": "Eva Jantschitsch",
+    "album": "Rettet die Wale",
+    "studio": "Gustav's living room, Vienna"
   },
   "The End": {
     "name": "The End",
