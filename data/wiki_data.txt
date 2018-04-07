@@ -1,0 +1,1102 @@
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name          = Top
+| Cover         = top.jpg
+| Artist        = [[Bijelo Dugme]]
+| B-side        = Ove ću noći naći blues
+| Released      = March 1974
+| Format        = [[7-inch single]]
+| Length        = {{Duration|m=4|s=12}}
+| Label         = Jugoton
+| genre         = Blues rock, Classic rock
+| writer     = [[Goran Bregović]]
+| producer   = [[Nikola Borota]]
+| studio     = [[Studio I RTV Sarajevo]]
+}}
+
+
+####
+{{Infobox single
+| Name = Heartbreak Hotel
+| Cover = Heartbreak.JPG
+| Artist = [[Elvis Presley]]
+| B-side = "[[I Was the One]]"
+| Released = {{start date|1956|01|27}}
+| Format = [[Gramophone record#Formats|10-inch 78&nbsp;rpm & 7-inch 45&nbsp;rpm records]]
+| Recorded = January 10, 1956, RCA Victor Studios, [[Nashville, Tennessee]]
+| Genre = {{flatlist|
+*[[Blues]]
+*[[rockabilly]]
+*[[rock and roll]]
+}}
+| Length  = {{duration|m=2|s=08}}
+| Label = [[RCA Victor]]
+| Writer = {{flatlist|
+*[[Mae Boren Axton]]
+*[[Tommy Durden|Thomas Durden]]
+*[[Elvis Presley]]
+}}
+| Producer = [[Steve Sholes]]
+| Last single = "[[Baby Let's Play House]]"<br>(1955)
+| This single = "'''Heartbreak Hotel'''"<br>(1956)
+| Next single = "[[I Want You, I Need You, I Love You]]"<br>(1956)
+| Misc = {{Extra music sample|Type=single |filename=Heartbreakhotel.ogg |title="Elvis Presley - Heartbreak Hotel"}}
+}}
+####
+{{Infobox song
+| type         = single
+| name         = Jumpin' Jack Flash
+| image        = Jackflash1.jpg
+| caption      = Standard artwork for most non-UK vinyl releases; mirrored for some of those releases
+| artist       = [[The Rolling Stones]]
+| B-side       = "Child of the Moon"
+| released     = 24 May 1968 (UK)<br />May 1968 (US)
+| format       = [[Single (music)|7"]]
+| recorded     = 20 April 1968
+| studio = [[Olympic Studios]], London
+| genre        = {{hlist|[[Hard rock]]<ref>David Brackett, ''The Pop, Rock, and Soul Reader: Histories and Debates'' (Oxford University Press, 2008), {{ISBN|0195365933}}, pp. 233 – 234.</ref>|[[blues rock]]|[[rock and roll]]<ref>{{cite web| url =http://www.allmusic.com/song/jumpin-jack-flash-mt0046023879|title= Jumpin' Jack Flash |publisher=Allmusic}}</ref>}}
+| length       = 3:42
+| label        = [[Decca Records|Decca]] F.12782 (UK)<ref name="500 Number One Hits">{{cite book | first= Jo | last= Rice | year= 1982 | title= The Guinness Book of 500 Number One Hits | edition= 1st | publisher= Guinness Superlatives Ltd | location= Enfield, Middlesex | page= 117 | isbn= 0-85112-250-7}}</ref><br>[[London Records|London]] 45.908 (US)
+| writer       = {{hlist|[[Jagger/Richards]]<ref name="500 Number One Hits"/>|[[Bill Wyman]]<ref name="tioos-jjf"/> (uncredited)}}
+| producer     = [[Jimmy Miller (producer)|Jimmy Miller]]<ref name="500 Number One Hits"/>
+| prev_title   = [[She's a Rainbow]]
+| prev_year    = 1967
+| next_title   = [[Street Fighting Man]]
+| next_year    = 1968
+| misc         = {{Extra album cover
+ | type = single
+ | upper_caption = Alternative release
+ | image = Jumpin' Jack Flash by The Rolling Stones UK vinyl.jpg
+ | lower_caption = One of A-side labels of the original UK vinyl release
+ }}
+}}
+####
+{{Infobox single
+| alt = 
+| B-side        = "Success"
+| Name          = Lust for Life
+| Cover         = Lust for Life.jpg
+| Border        = yes
+| Caption       = Cover of the 1977 Netherlands single
+| Artist        = [[Iggy Pop]]
+| Album         = [[Lust for Life (Iggy Pop album)|Lust for Life]]
+| Released      = {{Start date|1977|10}}
+| Format        = {{hlist|[[7"]]|[[CD single|CD]]}}
+| Recorded      = 1977
+| Genre         = [[Garage rock]],<ref>{{cite book|author=Murray Smith|title=Trainspotting|url=https://books.google.com/books?id=na1ZAAAAMAAJ|accessdate=4 October 2015|date=29 March 2002|publisher=[[British Film Institute]]|isbn=978-0-85170-870-6|page=71}}</ref> [[punk rock]]
+| Length        = {{Duration|m=5|s=12}}
+| Label         = [[RCA Records|RCA]]
+| Writer        = {{hlist|Iggy Pop|[[David Bowie]]}}
+| Producer      = David Bowie
+| Misc          = {{External music video|{{YouTube|jQvUBf5l7Vw|"Lust for Life"}}}}
+{{Extra track listing
+ | Type        = album
+ | Album       = [[Lust for Life (Iggy Pop album)|Lust for Life]]
+ | this_track  = "'''Lust for Life'''"
+ | track_no    = 1
+ | next_track  = "Sixteen"
+ | next_no     = 2
+}}
+{{Extra album cover
+ | Upper caption  = Alternative cover
+ | Type           = single
+ | Cover          = <!-- [[WP:NFCC]] violation: Lustforlife1996single.jpg -->
+ | Lower caption  = Cover of the 1996 Netherlands single
+ }}
+}}
+####
+{{Infobox song
+| name       = The Murder Mystery
+| cover      = Velvetundergroundthirdalbum.jpg
+| alt        =
+| type       =
+| artist     = [[the Velvet Underground]]
+| album      = [[The Velvet Underground]]
+| released   = March 1969
+| format     =
+| recorded   =  November–December 1968
+| studio     = [[T.T.G. Studios|T.T.G.]]<ref>[http://www.discogs.com/label/288696-TTG-Studios Discogs - ''T.T.G. Studios (Hollywood)'' profile and discography]</ref>, Hollywood, California
+| venue      =
+| length     = {{Duration|m=8|s=55}}
+| label      = MGM
+| producer   = [[The Velvet Underground]]
+| prev_track =
+| track_no   =
+| next_track =
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name          = Walk on the Wild Side
+| Cover         = wows1.jpg
+| Artist        = [[Lou Reed]]
+| Album         = [[Transformer (album)|Transformer]]
+| A-side        = "[[Perfect Day (Lou Reed song)|Perfect Day]]"
+| Released      = {{Start date|1972|11|8}}
+| Format        = [[7-inch single]]
+| Recorded      = August 1972, [[Trident Studios]], [[London]]
+| Genre         = <!-- Do not add unsourced genres -->
+| Length        = {{Duration|m=4|s=12}}
+| Label         = [[RCA Records]]
+| Writer        = [[Lou Reed]]
+| Producer      = {{hlist|[[David Bowie]]|[[Mick Ronson]]}}
+| Last single   = "Walk and Talk It"<br>(1972)
+| This single   = "'''Walk on the Wild Side'''"<br>(1972)
+| Next single   = "[[Satellite Of Love]]"<br>(1973)
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name          = Transmission
+| Cover         = Transmission_Joy Division2.jpg
+| Alt           =
+| Artist        = [[Joy Division]]
+| B-side        = "Novelty"
+| Released      =  7 October 1979
+| Format        = [[Gramophone record|7" and 12" vinyl]]
+| Recorded      = 1979
+| Genre         = <!-- In order to add genres to an infobox, they must be cited in-article by reputable sources. -->[[Post-punk]]<ref>{{cite magazine|first= Phil |last= Alexander |title= 20 Great Post-Punk Tracks |date= 1 April 2014 |magazine= [[Mojo (magazine)|Mojo]] |url= http://www.mojo4music.com/13181/20-great-post-punk-tracks/ |accessdate= 23 August 2016}}</ref><ref>{{cite book|author=David N. Howard|title=Sonic Alchemy: Visionary Music Producers and Their Maverick Recordings|url=https://books.google.com/books?id=O0VMAgAAQBAJ&pg=PA257|accessdate=8 November 2015|date=1 June 2004|publisher=Hal Leonard|isbn=978-1-4768-5209-6|page=257}}</ref>
+| Length        = <!-- {{Duration|m=MM|s=SS}} -->
+| Label         = [[Factory Records|Factory]]
+| Writer        = {{flatlist|
+* [[Ian Curtis]]
+* [[Peter Hook]]
+* [[Stephen Morris (musician)|Stephen Morris]]
+* [[Bernard Sumner]]
+}}
+| Producer      = [[Martin Hannett]]
+| Certification =
+| Chronology    =
+| This single   = "'''Transmission'''"<br/>(1979)
+| Next single   = "[[Atmosphere (Joy Division song)|Licht und Blindheit]]"<br />(1980)
+| Misc          = {{Extra album cover
+ | Type         = single
+ | Upper caption = Alternative cover
+ | Cover         = JoyDivision_Transmission12.jpg
+ | Lower caption = 12" cover
+ }}
+{{External music video|{{Youtube|6dBt3mJtgJc|"Transmission"}}}}}}
+####
+{{Infobox song <!-- See Wikipedia:WikiProject_Albums -->
+| Name       = Mother North
+| Artist     = [[Satyricon (band)|Satyricon]]
+| Cover      = Nemesis divina - satyricon.jpg
+| Released   = April 22, 1996
+| Recorded   = 1996
+| Studio     = Waterfall Studios
+| Genre      = [[Black metal]]
+| Length     = 6:26
+| Label      = [[Moonfog Productions|Moonfog]], [[Century Media]]
+| Producer   = [[Sigurd Wongraven|Satyr]]
+| Writer     = [[Sigurd Wongraven|Satyr]]
+}}
+####
+{{Infobox album| <!-- See Wikipedia:WikiProject_Albums -->
+| Name        = Zombie
+| Artist      = [[Fela Kuti]]
+| Cover       = FelaZombie.jpg
+| Released    = 1976
+| Recorded    = 
+| Genre       = [[Afrobeat]]
+| Length      = 12:26
+| Label       = Coconut
+| Producer    = Fela Kuti
+}}
+####
+{{Infobox song
+| Name        = When the Curious Girl Realizes She Is Under Glass
+| Artist      = [[Bright Eyes (band)|Bright Eyes]]
+| Cover       = Feversandmirrors_brighteyes.jpg
+| Released    = May 29, 2000 <small>([[United States|US]])</small>
+| Recorded    = 1999, Presto! Recording Studio, Lincoln, Nebraska
+| Genre       = {{hlist|[[Indie rock]]|[[Indie folk]]|[[emo]]}}
+| Length      = 2:40
+| Label       = [[Saddle Creek]] <small>([[United States|US]])</small><br/><small>LBJ-32</small><br>, [[Wichita Recordings]] <small>([[United Kingdom|UK]])</small>
+| Producer    = [[Mike Mogis]]
+}}
+####
+{{Infobox song
+| name       = Venus in Furs
+| cover      =
+| alt        =
+| type       =
+| artist     = [[the Velvet Underground]]
+| album      = [[The Velvet Underground & Nico]]
+| released   = {{Start date|1967|03|12}}
+| format     =
+| recorded   = May 1966
+| studio     = [[T.T.G. Studios|T.T.G.]]<ref>[http://www.discogs.com/label/288696-TTG-Studios Discogs - ''T.T.G. Studios (Hollywood)'' profile and discography]</ref>, Hollywood, California
+| venue      =
+| length     = {{Duration|m=5|s=12}}
+| label      = [[Verve Records|Verve]]
+| writer     = [[Lou Reed]]
+| producer   = [[Andy Warhol]]
+| prev_track =
+| track_no   =
+| next_track =
+}}
+####
+{{Infobox single
+| Name           = Kiss
+| Cover          = Prince_kiss.jpg
+| Alt = 
+| Caption        = US 7″ single
+| Artist         = [[Prince (musician)|Prince]] and [[The Revolution (band)|The Revolution]]
+| Album          = [[Parade (Prince album)|Parade]]
+| B-side         = "♥ or $"
+| Released       = February 5, 1986<ref>Uptown, 2004, p. 66</ref>
+| Recorded       = April 28, 1985
+| Studio         = [[Sunset Sound]]<br/><small>([[Sunset Boulevard]], [[Hollywood]], [[Los Angeles]], [[California]])</small>
+| Format         = {{hlist|[[Gramophone record|7"]]|[[12-inch single|12"]]|[[CD Single|CD]]}}
+| Genre          = [[Post-disco]], [[funk music|funk]]
+| Length         = 3:38 (LP version) <br> 3:46 (7" single) <br> 7:16 (12" single)
+| Label          = [[Paisley Park Records|Paisley Park]] / [[Warner Bros. Records|Warner Bros.]]
+| Producer       = Prince
+| Writer         = Prince
+| Last single    = "[[America (Prince song)|America]]"<br>(1985)
+| This single    = "'''Kiss'''"<br>(1986)
+| Next single    = "[[Mountains (Prince song)|Mountains]]"<br>(1986)
+| Misc           = {{External music video|{{Youtube|H9tEvfIsDyo|«Kiss»}}}}
+{{Extra chronology
+| Artist = Prince (UK)
+| Type = single
+| Last single = "[[Pop Life (Prince song)|Pop Life]]"<br>(1985)
+| This single = "'''Kiss'''"<br>(1986)
+| Next single = "[[Mountains (Prince song)|Mountains]]"<br>(1986)}}
+}}
+####
+{{Infobox song
+| Name = Too Much Love
+| Artist = [[LCD Soundsystem]]
+| Album = [[LCD Soundsystem]]
+| Cover = Afc lcd LCDSoundsystem.gif
+| Border = yes
+| alt = 
+| Released = {{start date|2005|1|24}}
+| Studio = {{unbulleted list|[[Long View Farm]]|{{small|([[North Brookfield, Massachusetts]])}}|Plantain Recording House|{{small|([[New York, New York]])}}}}
+| Genre = {{hlist|[[Dance-punk]]<ref>{{Cite web |url=http://www.telegraph.co.uk/culture/music/cdreviews/7692664/LCD-Soundsystem-This-Is-Happening-CD-review.html |title=LCD Soundsystem: This Is Happening, CD review |last=McCormick |first=Neil |date=May 13, 2010 |website=[[The Daily Telegraph|The Telegraph]] |access-date=August 18, 2017}}</ref><ref name="NPR">{{Cite web |url=http://www.npr.org/templates/story/story.php?storyId=8926400 |title=LCD Soundsystem Evolves with 'Sound of Silver' |last=Tucker |first=Ken |date=March 15, 2007 |website=[[NPR]] |access-date=August 15, 2017}}</ref>|[[electronica]]<ref name="NPR"/>}}
+| Length = 5:42
+| Label = {{hlist|[[DFA Records|DFA]]|[[Capitol Records|Capitol]]|[[EMI]]}}
+| Producer = [[DFA Records|The DFA]]
+| prev_title = 
+| prev_year = 
+}}
+####
+{{Infobox single
+| Name           = Blue Monday
+| Cover          = NewOrderBlueMonday.jpg
+| Caption        = Original die-cut sleeve
+| Artist         = [[New Order (band)|New Order]]
+| Album          = [[Power, Corruption & Lies]]{{efn|name=a|"Blue Monday" only appears on certain cassette and CD versions of ''Power, Corruption & Lies''.<ref name="album"/>}}
+| B-side         = {{hlist|"The Beach" {{small|(12")}}|"[[Thieves Like Us (song)|Thieves Like Us]]" {{small|(7")}}}}
+| Released       = 7 March 1983
+| Format         = {{hlist|[[12-inch single|12"]]|[[Gramophone record|7"]]}}
+| Recorded       = 1982
+| Genre          = {{hlist|[[Synth-pop]]|[[alternative dance]]|[[Hi-NRG]]}}<!--Genres are sourced in the prose.-->
+| Length         = {{ubl|7:29|4:09 {{small|(edited version)}}}}
+| Label          = {{hlist|[[Factory Records|Factory]] {{small|(12")}}|Tonpress {{small|(7")}}}}
+| Writer         = {{hlist|[[Gillian Gilbert]]|[[Peter Hook]]|[[Stephen Morris (musician)|Stephen Morris]]|[[Bernard Sumner]]}}
+| Producer       = New Order
+| Last single    = "[[Temptation (New Order song)|Temptation]]"<br>(1982)
+| This single    = "'''Blue Monday'''"<br>(1983)
+| Next single    = "[[Confusion (New Order song)|Confusion]]"<br>(1983)
+}}
+####
+{{Infobox song
+| name       = White Rabbit
+| cover      = White Rabbit label.jpg
+| alt        =
+| border     = 
+| type       = single
+| artist     = [[Jefferson Airplane]]
+| album      = [[Surrealistic Pillow]]
+| B-side     = Plastic Fantastic Lover
+| released   = {{Start date|1967|06|24}}
+| format     = [[7-inch single]]
+| recorded   = {{Start date|1966|11|03}}
+| studio     = [[RCA Records|RCA]], Hollywood, California, U.S.
+| venue      =
+| genre      = [[Psychedelic rock]]<ref>{{cite magazine|first=Marc|last=Myers|title=How Jefferson Airplane's Grace Slick Wrote 'White Rabbit'|date=May 31, 2016|magazine=[[International Times]]|url=http://internationaltimes.it/how-jefferson-airplanes-grace-slick-wrote-white-rabbit/|accessdate=July 21, 2016}}</ref>
+| length     = {{Duration|m=2|s=31}}
+| label      = [[RCA Victor]]
+| writer     = [[Grace Slick]]
+| producer   = Rick Jarrard
+| prev_title = [[Somebody to Love (Jefferson Airplane song)|Somebody to Love]]
+| prev_year  = 1967
+| next_title = [[The Ballad of You and Me and Pooneil]]
+| next_year  = 1967
+| misc       = {{Audio sample
+ | type = single
+ | file = WhiteRabbit.ogg
+}}
+}}
+####
+{{Infobox single
+| Name        = This Charming Man
+| Cover       = Thischarmingmansingle.PNG
+| Artist      = [[The Smiths]]
+| B-side      = {{hlist|"Jeane"|"Accept Yourself"|"Wonderful Woman"}}
+| Released    = 31 October 1983
+| Format      = {{hlist|[[7" vinyl]]|[[12-inch single|12" vinyl]]}}
+| Recorded    = October 1983, at [[Strawberry Studios]] in [[Stockport]], England
+| Genre       = {{hlist|[[Jangle pop]]|[[pop rock]]}}
+| Length      = 2:41
+| Label       = [[Rough Trade Records|Rough Trade]]
+| Writer      = {{hlist|[[Johnny Marr]]|[[Morrissey]]}}
+| Producer    = {{unbulleted list|Roger Pusey (Peel version)|[[John Porter (musician)|John Porter]] (Single version)}}
+| Last single = "[[Hand in Glove]]"<br/>(1983)
+| This single = "'''This Charming Man'''"<br/>(1983)
+| Next single = "[[What Difference Does It Make?]]"<br/>(1984)
+}}
+####
+{{Infobox single
+| Name          = Light My Fire
+| Cover         = Lightmyfire67.jpg
+| Artist        = [[The Doors]]
+| Album         = [[The Doors (album)|The Doors]]
+| B-side        = "[[The Crystal Ship]]"
+| Format        = 7" vinyl
+| Released      = April 24, 1967
+| Recorded      = August 22, 1966
+| Genre         = [[Psychedelic rock]]<ref>{{cite news|title= Forty years on, Jim Morrison cult thrives at Paris cemetery |newspaper= [[The Independent]] |date= July 1, 2011 |accessdate= September 14, 2017 |url= https://www.independent.co.uk/arts-entertainment/music/forty-years-on-jim-morrison-cult-thrives-at-paris-cemetery-2305977.html}}</ref>
+| Length        = {{Plainlist|
+* 7:06 (Album Version)
+* 2:52 (Single Version)}}
+| Label         = [[Elektra Records|Elektra]]
+| Writer        = [[Jim Morrison]], [[Robbie Krieger]], [[John Densmore]], [[Ray Manzarek]]
+| Producer      = [[Paul A. Rothchild]]
+| Last single   = "[[Break On Through (To the Other Side)]]"<br>(1967)
+| This single   = "'''Light My Fire'''"/"[[The Crystal Ship]]"<br>(1967)
+| Next single   = "[[People Are Strange]]"<br>(1967)
+| Misc          =
+}}
+####
+{{Infobox single
+| Name = Hurt
+| Artist= [[Johnny Cash]]
+| Album = [[American IV: The Man Comes Around]]
+| Cover = Johnny_Cash_-_Personal_Jesus_and_Hurt_single.jpg
+| B-side = {{hlist|"[[Personal Jesus]]"|"[[Wichita Lineman]]"}}
+| Released = March 2003
+| Format = [[CD single]]
+| Recorded = 2002
+| Genre = {{hlist|[[Alternative rock]]<ref>[http://ajournalofmusicalthings.com/top-ten-most-depressing-alternative-rock-songs/ Top Ten Most Depressing Alternative Rock Songs] Retrieved January 5, 2015</ref>|[[acoustic rock]]<ref>[http://www.planetrock.com/music/backstage/the-rock-lists/the-best-ever-acoustic-rock-song-the-top-40/ The Best Ever Acoustic Rock Songs: Top 40] Retrieved October 20, 2014</ref>|[[country music|country]]<ref>[http://www.ew.com/article/2008/04/07/johnny-cash-hur Johnny Cash's 'Hurt' still the greatest country video]<br>[[Entertainment Weekly]]<br>Retrieved August 9, 2016</ref><!-- Please seek consensus at the talk page before changing/adding genres -->}}
+| Length = 3:38
+| Label = {{hlist|[[American Recordings (record label)|American]]|[[Lost Highway Records|Lost Highway]]}}
+| Writer = [[Trent Reznor]]
+| Producer = [[Rick Rubin]]
+| Last single = "[[The Man Comes Around (song)|The Man Comes Around]]"<br/>(2002)
+| This single = "'''Hurt'''"<br/>(2003)
+| Next single = "[[God's Gonna Cut You Down]]"<br/>(2006)}}
+####
+{{Infobox song |
+| Name           = Five to One
+| Cover          =
+| Artist         = [[The Doors]]
+| Album          = [[Waiting for the Sun]]
+| Released       = July 13, 1968
+| track_no       = 11
+| Recorded       = February–May 1968
+| Genre          = [[Psychedelic rock]], [[hard rock]], [[blues rock]]
+| Length         = 4:24
+| Label          = [[Elektra Records|Elektra]]
+| Writer         = [[Jim Morrison]]
+| Producer       = [[Paul A. Rothchild]]
+| prev           = Yes, the River Knows
+| prev_no        = 10
+| next           = 
+| next_no        = 
+}}
+####
+{{Infobox single
+| Name          = Miserlou
+| Cover         = Miserlou - Dick Dale single.jpg 
+| Border        =
+| Caption       =  
+| Artist        = [[Dick Dale]]
+| Album         = [[Surfers' Choice]]
+| B-side        = "Eight Till Midnight"
+| Released      = April, 1962
+| Format        = [[Gramophone record|7"]]
+| Recorded      = 
+| Genre         = [[Instrumental rock]], [[Surf music|surf rock]]
+| Length        = 2:15
+| Label         = [[Deltone Records]]
+| Writer        = Nick Roubanis, [[Fred Wise (songwriter)|Fred Wise]], Milton Leeds, [[Bob Russell (songwriter)|Bob Russell]]
+| Producer      = 
+}}
+####
+{{Infobox song
+| Name        = Sedemnajst
+| Artist      = [[Pankrti]]
+| Cover       = Dolgcajt.jpg
+| Released    = 8. february 1980
+| Studio = Studio Akademik
+| Genre       = [[punk rock]]
+| Length      = 1:24
+| Label       = [[RTV Ljubljana]]
+| Producer    = [[Igor Vidmar]]
+}}
+####
+{{Infobox single
+| Name           = Subterranean Homesick Blues
+| Artist         = [[Bob Dylan]]
+| Cover          = Subterranean Homesick Blues cover.jpg
+| Album          = [[Bringing It All Back Home]]
+| B-side = "[[She Belongs to Me]]"
+| Released       = March 8, 1965
+| Recorded       = January 14, 1965
+| Studio = [[CBS 30th Street Studio|Columbia Recording Studios, Studio A]], [[New York City|New York]]
+| Format         = [[Single (music)|7" single]]
+| Genre          = [[Folk rock]], [[blues rock]], [[rock and roll]]
+| Length         = 2:20
+| Label          = [[Columbia Records|Columbia]]
+| Writer         = Bob Dylan
+| Producer       = [[Tom Wilson (producer)|Tom Wilson]]
+| Last single    = "[[The Times They Are a-Changin' (song)|The Times They Are a-Changin']]"<br/>(1965)
+| Next single    = "[[Maggie's Farm]]"<br/>(1965)
+| This single    = "'''Subterranean Homesick Blues'''" / "[[She Belongs to Me]]"<br />(1965)
+| Misc        = {{Extra track listing
+ | Album      = [[Bringing It All Back Home]]
+ | Type       = studio
+ | Tracks     = {{Bringing It All Back Home tracks}}
+}}
+}}
+####
+{{Infobox song
+| name       = You Really Got Me
+| cover      = You Really Got Me cover.jpg
+| alt        =
+| caption    = Dutch single sleeve
+| type       = single
+| artist     = [[the Kinks]]
+| B-side     = It's All Right
+| released   =
+*{{Start date|1964|08|04|df=yes}} (UK)
+*2 September 1964 (US)
+| format     = [[Gramophone record#Formats|7-inch 45&nbsp;rpm single]]
+| recorded   = July 1964
+| studio     = [[IBC Studios|IBC]], London
+| genre      = 
+*[[Hard rock]]<ref name=VH1 />
+*[[garage rock]]{{sfn|Creswell|2007|p=684}}
+| length     = {{Duration|m=2|s=20}}<!--Time from original US single label (UK singles didn't show time)-->
+| label      = 
+*[[Pye Records|Pye]] (UK)
+*[[Reprise Records|Reprise]] (US)
+| writer     = [[Ray Davies]]
+| producer   = [[Shel Talmy]]
+| chronology = The Kinks UK singles
+| prev_title = [[You Still Want Me]]
+| prev_year  = 1964
+| next_title = [[All Day and All of the Night]]
+| next_year  = 1964
+| misc       = {{Extra chronology
+ | artist      = The Kinks US singles
+ | type        = single
+ | prev_title  = [[Long Tall Sally]]
+ | prev_year   = 1964
+ | title       = You Really Got Me
+ | year        = 1964
+ | next_title  = [[All Day and All of the Night]]
+ | next_year   = 1964
+ }}{{Audio sample
+ | type = single
+ | file = The Kinks You Really Got Me.ogg
+}}
+}}
+####
+{{Infobox single
+| Name = Song 2
+| Cover = Blur_song_2_CD1.jpg
+| Artist = [[Blur (band)|Blur]]
+| Album = [[Blur (Blur album)|Blur]]
+| Released = {{Start date|1997|4|7|df=yes}}
+| Format = {{hlist|[[Gramophone record|7"]]|[[CD single|CD]]}}
+| Recorded = 1996
+| Genre = {{hlist|[[Alternative rock]]|[[punk rock]]<ref>{{cite journal |url=https://books.google.co.uk/books?id=IHNuYCb0ewoC&pg=PA56&lpg=PA56&dq=elastica+%22art+rock%22&source=bl&ots=jmE2uPTby8&sig=1HNT68zUdterk7imWlXVYCheZOI&hl=en&sa=X&ved=0ahUKEwi_muf71ZfPAhVkIcAKHaJfBA8Q6AEISTAI#v=onepage&q=elastica%20%22art%20rock%22&f=false |title=Essential Britpop |work=[[Spin (magazine)|Spin]] |volume=19 |issue=2 |date=February 2003 |accessdate=18 September 2016 |last=Pappademas |first=Alex |pages=56}}</ref>}}
+| Length = 2:02
+| Writer = {{hlist|[[Damon Albarn]]|[[Graham Coxon]]|[[Alex James (musician)|Alex James]]|[[Dave Rowntree]]}}
+| Label = [[Food Records|Food]]
+| Producer = [[Stephen Street]]
+| Last single = "[[Beetlebum]]"<br />(1997)
+| This single = "'''Song 2'''" <br>(1997)
+| Next single = "[[On Your Own (Blur song)|On Your Own]]"<br />(1997)
+| Misc        = {{Extra music sample
+| type           = single
+| filename       = Blur - Song 2.ogg
+| title          = "Song 2"
+| description    = Sample of "Song 2" from ''Blur''. Inspired by [[lo-fi]] and American [[rock music]], "Song 2" was a hit in the US.
+}}<br />{{External music video|{{YouTube|SSbBvKaM6sk|"Song 2"}}}}
+}}
+####
+{{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Celebration of the Lizard
+| Type           = Musical and poetry piece
+| Artist         = [[The Doors]]
+| alt Artist     = 
+| Album          = [[Absolutely Live (The Doors album)|Absolutely Live]]
+| A-side         = 
+| Recorded       = Aquarius Theater, Los Angeles - July 21, 1969
+| Released       = 1970, (live version)
+| Published      = 1970
+| Genre          = [[Psychedelic rock]], [[acid rock]], [[space rock]], [[progressive rock]], [[poetry]]
+| Language       = 
+| Length         = 14:25 ([[Absolutely Live (The Doors album)|live version]])<br/>17:09 ([[Waiting for the Sun|studio version]])
+| Lyricist       = [[Jim Morrison]]
+| Composer       = John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison
+| Label          = Elektra
+| Producer       = [[Paul A. Rothchild]]
+| Tracks         = 
+| prev           = 
+| prev_no        = 
+| track_no       = 
+| next           = 
+| next_no        = 
+| Misc           = 
+}}
+####
+{{Infobox single
+| Name           = (I Can't Get No) Satisfaction
+| Cover          = Satisfaction-us.jpg
+| Artist         = [[The Rolling Stones]]
+| B-side         = {{plainlist|
+* "The Under Assistant West Coast Promotion Man" (US)
+* "[[The Spider and the Fly (song)|The Spider and the Fly]]" (UK)
+}}
+| Released       = {{plainlist|
+* {{Start date|1965|06|df=y}} (US)
+* 20 August 1965 (UK)
+}}
+| Format         = [[7-inch single]]
+| Recorded       = 12 May 1965
+| Studio = [[RCA]], Hollywood, California
+| Genre          = {{flatlist|
+* [[Rock music|Rock]]<ref>{{cite web| last=Unterberger| first=Richie| url =http://www.allmusic.com/song/i-cant-get-no-satisfaction-mt0004466934|title= (I Can't Get No) Satisfaction|publisher=Allmusic}}</ref>
+* [[hard rock]]<ref>Quentin James Schultze, Dancing in the dark: youth, popular culture, and the electronic media, (Wm. B. Eerdmans Publishing, 1991), {{ISBN|0802805302}}, p150</ref>}}
+| Length         = {{Duration|m=3|s=45}}
+| Label          = {{plainlist|
+* [[London Records|London]] 45 LON 9766 (US and Canada)
+* [[Decca Records|Decca]] F.12220 (UK)
+}}
+| Writer         = [[Jagger/Richards]]
+| Producer       = [[Andrew Loog Oldham]]
+| Last single    = "[[The Last Time (The Rolling Stones song)|The Last Time]]"<br />(1965)
+| This single    = "'''(I Can't Get No) Satisfaction'''"<br />(1965)
+| Next single    = "[[Get Off of My Cloud]]"<br />(1965)
+| Misc           = {{Audio sample
+ | file = Satisfactionsample.ogg
+ |type=single
+ }}{{External music video|{{YouTube|qAzqSYQ9X9U|"(I Can't Get No) Satisfaction (live)" (Official)}}}}
+}}
+####
+{{Infobox single
+| Name           = Folsom Prison Blues
+| Cover          =
+| Artist         = [[Johnny Cash]]
+| from Album     = [[With His Hot and Blue Guitar]], [[Sings Hank Williams]], [[All Aboard the Blue Train]], ''and'' [[I Walk the Line (1964 album)|I Walk the Line]]
+| B-side         = "[[So Doggone Lonesome]]"
+| Released       = December 15, [[1955 in music|1955]]<br>April [[1968 in music|1968]] <Small>(re-recording)</small>
+| Format         = [[Single (music)|7" single]]
+| Recorded       = July 30, 1955, [[Sun Studio]], [[Memphis, Tennessee]]
+| Genre          = [[Rockabilly]],<ref>{{cite web|author=Bill Janovitz |url=http://www.allmusic.com/song/folsom-prison-blues-mt0028421292 |title=Folsom Prison Blues - Johnny Cash &#124; Song Info |publisher=[[AllMusic]] |date= |accessdate=2016-08-22}}</ref><ref>{{cite web|url=http://rockhall.com/inductees/johnny-cash/bio/ |title=Johnny Cash Biography &#124; The Rock and Roll Hall of Fame and Museum |publisher=Rockhall.com |date= |accessdate=2015-08-25}}</ref> [[rock and roll]]<ref>{{cite web|url=http://sierracompanies.com/prison-tracks-folsom-prison-blues/ |title=Prison Tracks: “Folsom Prison Blues” - Sierra Detention Systems |publisher=Sierracompanies.com |date=1968-01-13 |accessdate=2015-08-25}}</ref>
+<!--- Do not add or change genres without first discussing on talk page --->
+| Length         = {{Duration|m=2|s=50}}
+| Label          = [[Sun Records|Sun]]
+| Writer         = Johnny Cash
+| Producer       = [[Sam Phillips]]
+| Certification  =
+| Last single    = "[[Hey, Porter]]"<br>(1955)
+| This single    = "'''Folsom Prison Blues'''"<br>(1955)
+| Next single    = "[[I Walk the Line]]"<br>(1956)
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Blister in the Sun
+| Cover          =
+| Artist         = [[Violent Femmes]]
+| from Album     = [[Violent Femmes (album)|Violent Femmes]]
+| Writer         = [[Gordon Gano]]
+| Genre          = {{Hlist|[[Folk punk]]|[[anti-folk]]|[[alternative rock]]|[[progressive folk]]}}
+| Length         = 2:27
+| B-side         =
+| Released       = 1983
+| Producer       = Mark Van Hecke
+| Label          = Slash
+| This single    = "Blister in the Sun"<br>(1983)
+| Next single    = "[[Gone Daddy Gone]]"<br>(1983)
+}}
+####
+{{Infobox song
+| name       = If 6 Was 9
+| type       = song
+| artist     = [[the Jimi Hendrix Experience]]
+| album      = [[Axis: Bold as Love]]
+| released   =
+*{{Start date|1967|12|01}} (UK)
+*January 15, 1968 (US)
+| format     = [[LP record]]
+| recorded   = May 4–5, 1967
+| studio     = [[Olympic Studios|Olympic]], London
+| genre      = [[Rock music|Rock]]
+| length     = {{Duration|m=5|s=32}}
+| label      =
+*[[Track Records|Track]] (UK)
+*[[Reprise Records|Reprise]] (US)
+| writer     = [[Jimi Hendrix]]
+| producer   = [[Chas Chandler]]
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name          = Blitzkrieg Bop
+| Cover         = Ramones - Blitzkrieg Bop cover.jpg
+| Border        = yes
+| Artist        = [[Ramones]]
+| Album         = [[Ramones (album)|Ramones]]
+| Released      = February 1976
+| Format        = 7"
+| Recorded      = January 1976
+| Genre         = [[Punk rock]]<ref>{{cite web |url= http://teamrock.com/feature/2016-03-15/the-10-best-punk-rock-singles-by-the-undertones-michael-bradley|title= The 10 best punk rock singles, by The Undertones' Michael Bradley|last= Bradley|first= Michael|date= March 15, 2016|website= TeamRock|access-date= February 12, 2017}}</ref>
+| Length        = 2:12
+| Label         = [[Sire Records|Sire]]/[[ABC Records|ABC]]
+| Writer        = [[Tommy Ramone]], [[Dee Dee Ramone]]
+| Producer      = [[Craig Leon]]
+| Certification =
+| Last single   =
+| This single   = "'''Blitzkrieg Bop'''"<br />(1976)
+| Next single   = "[[I Wanna Be Your Boyfriend]]"<br />(1976)
+| Misc          = {{Extra music sample
+| filename=Ramones-Blitzkrieg Bop.ogg
+| title="Blitzkrieg Bop"
+| type=single
+}}
+}}
+####
+{{Infobox single
+| Name           = Yeah
+| Cover          = LCD Soundsystem - Yeah cover art.jpg
+| Artist         = [[LCD Soundsystem]]
+| Album          = [[LCD Soundsystem (album)|LCD Soundsystem]]
+| B-side         = {{hlist|Pretentious Version|Clap-a-Pella}}
+| Released       = January 13, 2004
+| Format         = {{hlist|[[12-inch single|12"]]|[[CD single|CD]]}}
+| Recorded       = 2003
+| Genre          = {{hlist|[[Dance-punk]]|[[indietronica]]|[[electroclash]]|[[acid house]]}}
+| Length         = {{unbulleted list|9:20 {{small|(Crass Version)}}|11:03 {{small|(Pretentious Version)}}}}
+| Label          = [[DFA Records|DFA]]
+| Writer         = {{hlist|[[Tim Goldsworthy]]|[[James Murphy (electronic musician)|James Murphy]]}}
+| Producer       = [[DFA Records|The DFA]]
+| Last single    = "[[Give It Up (LCD Soundsystem song)|Give It Up]]"<br />(2003)
+| This single    = "'''Yeah'''"<br />(2004)
+| Next single    = "[[Movement (song)|Movement]]"<br />(2004)
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject Songs -->
+| Name           = Rapper's Delight
+| Cover          = Rappersdelight.jpeg
+| Artist         = [[The Sugarhill Gang]]
+| from Album     = [[Sugarhill Gang (album)|Sugarhill Gang]]
+| B-side         = 
+| Released       = September 16, 1979<ref>{{cite news|last1=Lynch|first1=Joe|title=35 Years Ago, Sugarhill Gang's 'Rapper's Delight' Made Its First Chart Appearance|url=http://m.dodgers.mlb.com/news/article/1525661/|accessdate=February 24, 2015|work=Billboard|date=October 13, 2014}}</ref>
+| Format         = [[12-inch single|12"]]
+| Recorded       = August 2, 1979
+| Genre          = [[Old-school hip hop]], [[disco]], [[funk]]
+| Length         = 3:55 (single version)<br />6:30 (12" short version)<br />14:35 (album version)
+| Label          = [[Sugar Hill Records (rap)|Sugar Hill]]
+| Writer         = [[The Sugarhill Gang]], [[Sylvia Robinson]], [[Nile Rodgers]], [[Bernard Edwards]], [[Grandmaster Caz]]
+| Producer       = [[Sylvia Robinson]]
+| Last single    = 
+| This single    = "'''Rapper's Delight'''"<br />(1979)
+| Next single    = "[[8th Wonder (song)|8th Wonder]]"<br />(1980)
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Rumble
+| Cover          = Rumble (instrumental).png
+| Border         = yes  
+| Cover size     = 
+| Caption        = 
+| Artist         = [[Link Wray & His Ray Men]]
+| from Album     = 
+| A-side         = 
+| B-side         = "The Swag"
+| Released       = April 1958
+| Format         = [[7"]]
+| Recorded       = 1954
+| Genre          = {{hlist|[[Rock and roll]]<ref>{{cite book|author=Richard Aquila|title=That Old-time Rock & Roll: A Chronicle of an Era, 1954-1963|url=https://books.google.com/books?id=uJxfiKtxrRsC&pg=PA21|year=1989|publisher=University of Illinois Press|isbn=978-0-252-06919-2|page=21}}</ref>|[[surf rock]]}}
+| Length         = 2:25
+| Label          = [[Cadence Records|Cadence]] <small>1347</small>
+| Writer         = {{Flatlist|
+*Milt Grant
+*Link Wray
+}}
+| Producer       = 
+| Certification  = 
+| Last single    = 
+| This single    = 
+| Next single    = 
+| Misc           = 
+{{Extra music sample
+| type           = single
+| filename       = Link Wray - Rumble.ogg
+| title          = "Rumble"
+| description    = 30 second sample of "Rumble" by Link Wray & His Ray Men, 1958}}
+}}
+####
+{{Infobox song
+| Name        = In Shades
+| Artist      = [[Tom Waits]]
+| Cover       = Tom_Waits-Heartattack_and_Vine.jpg
+| Released    = {{Start date|1980|09|09}}<ref>{{cite web |url= http://anti.com/releases/?artist=1 |title= Releases |first= |last= |publisher= ANTI-|date= |accessdate= March 6, 2018 }}</ref>
+| Studio      = Filmways/Heider Studio B, Hollywood, California
+| Genre       = <!-- please don't add unsourced genres -->
+| Length      = 4:25
+| Label       = [[Asylum Records|Asylum]]
+| Producer    = [[Bones Howe]]
+}}
+####
+{{Infobox single
+|  Name           = In Bloom
+|  Cover          = InBloom.jpg
+|  Artist         = [[Nirvana (band)|Nirvana]]
+|  from Album     = [[Nevermind]] |
+  B-side         = "[[Polly (Nirvana song)|Polly]]" (live)
+|  Released       = November 30, 1992
+|  Format         = [[Compact Disc|CD]], [[Compact Cassette|cassette]], [[Gramophone record|7"]], [[12-inch single|12"]]
+|  Recorded       = May 1991
+| Studio = [[Sound City Studios]] in [[Van Nuys, Los Angeles, California|Van Nuys, California]]
+|  Genre          = [[Grunge]]<ref>{{cite web |url=http://www.pastemagazine.com/blogs/lists/2014/08/the-50-best-grunge-songs.html?p=3 |title=The 50 Best Grunge Songs |publisher=''[[Paste (magazine)|Paste]]'' |last=Danaher |first=Michael |date=August 4, 2014}}</ref>
+| Length         = {{Duration|m=4|s=11}}
+| Label          = [[DGC Records|DGC]]
+|  Writer         = [[Kurt Cobain]]
+|  Producer       = [[Butch Vig]]
+|  Last single    = "[[Lithium (Nirvana song)|Lithium]]"<br />(1992)
+|  This single    = "'''In Bloom'''" <br /> (1992)
+|  Next single    = "[[Puss/Oh, the Guilt|Puss" / "Oh, the Guilt]]"<br />(1993)
+|  Misc           = {{Extra track listing
+| Album        = [[Nevermind]]
+| Type         = studio
+| Tracks       = {{Nevermind tracks}}
+{{External music video|{{Youtube|PbgKEjNBHqM|"In Bloom"}}}}
+}}}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+|Name           =Great Balls of Fire
+|Cover          =JLL Great Balls single cover.jpg
+|Artist         =[[Jerry Lee Lewis]]
+|Album          =
+|B-side         ="You Win Again"
+|Released       =November 11, 1957
+|Format         =
+|Recorded       =October 8, 1957
+|Studio = [[Sun Studio]], [[Memphis, Tennessee]]
+|Genre          ={{hlist|[[Rock and roll]]|[[rockabilly]]|[[country music|country]]<ref>''Billboard'', 18 November 1957, p. 52</ref><ref name="whitburn200">{{cite book |title= The Billboard Book Of Top 40 Country Hits: 1944-2006, Second edition|last=Whitburn |first=Joel |authorlink=Joel Whitburn |year=2004 |publisher=Record Research |page=200}}</ref>}}
+|Length         =1:52
+|Label          =[[Sun Records|Sun]]
+|Writer         ={{hlist|[[Otis Blackwell]]|[[Jack Hammer (songwriter)|Jack Hammer]]<ref>{{cite web|url=http://www.rockabilly.nl/references/messages/jack_hammer.htm |title=Jack Hammer |publisher=Rockabilly.nl |date= |accessdate=2014-04-03}}</ref>}}
+|Producer       =[[Sam Phillips]]
+|Audio sample?  =
+|Last single    ="[[Whole Lotta Shakin' Goin' On]]"<br>(1957)
+|This single    ="Great Balls of Fire"<br>(1957)
+|Next single    ="[[You Win Again (Hank Williams song)|You Win Again]]"<br>(1957)
+|Misc           =
+}}
+####
+{{Infobox single
+| Name          = Superstylin'
+| Cover         = Groove_Armada_Superstylin'_Single_cover.jpeg
+| Artist        = [[Groove Armada]]
+| Album         = [[Goodbye Country (Hello Nightclub)]]
+| Released      = 13 August 2001
+| Format        = CD, 7" vinyl
+| Recorded      = 
+| Genre         = [[House music|House]], [[reggae fusion]], [[speed garage]]
+| Length        = 3:43 (Edited Version)<br>6:02 (Album Version)
+| Label         = [[Zomba Group of Companies|Zomba]]
+| Writer        = {{hlist|Andy Cato|Tom Findlay|Daniel White}}
+| Producer      = Groove Armada
+| Last single   = "[[I See You Baby]]"<br/>(1999)
+| This single   = "'''Superstylin{{'}}'''{{nnbsp}}"<br/>(2001)
+| Next single   = "[[My Friend (Groove Armada song)|My Friend]]"<br/>(2001)
+}}
+####
+{{Infobox single
+| Name           = Loser
+| Cover          = Beck Loser.jpg
+| Artist         = [[Beck]]
+| Album     = [[Mellow Gold]]
+| A-side         = 
+| B-side         = 
+| Released       = {{hlist|March 8, 1993|February 4, 1994 (re-release)}}
+| Format         = {{hlist|[[Gramophone record|7"]]|[[12-inch single|12"]]|[[CD single|CD]]|[[Cassette single|cassette]]}}
+| Recorded       = 1992
+| Genre          = [[Alternative rock]], [[Hip hop music|hip hop]]
+| Length         = 3:55
+| Label          = {{hlist|[[Bong Load Custom Records|Bong Load Custom]]|[[DGC Records|DGC]]}}
+| Writer         = {{hlist|Beck|[[Forest for the Trees|Karl Stephenson]]}}
+| Producer       = {{hlist|Beck|Karl Stephenson|[[Tom Rothrock]]}}
+| Last single    = "[[MTV Makes Me Want to Smoke Crack]]"<br>(1993)
+| This single    = "'''Loser'''"<br>(1993)
+| Next single    = "[[Pay No Mind (Snoozer)]]"<br>(1994)
+}}
+####
+{{Infobox single
+| Name           = One Armed Scissor
+| Cover          = At the Drive-In - One Armed Scissor cover.jpg
+| Artist         = [[At the Drive-In]]
+| from Album     = [[Relationship of Command]]
+| B-side         = "Pattern Against User"<br />"Incetardis"
+| Format         = [[CD]], [[gramophone record|vinyl]]
+| Recorded       = 
+| Released       = 7 August 2000 <small>([[United Kingdom|UK]])</small>
+| Genre          = [[Post-hardcore]], [[progressive rock]], [[experimental rock]], [[math rock]]
+| Length         = 3:45
+| Label          = [[Grand Royal]]
+| Producer       = [[Ross Robinson]]
+| This single    = "'''One Armed Scissor'''"<br />(2000)
+| Next single    = "[[Rolodex Propaganda]]"<br />(2000)
+}}
+####
+{{Infobox song
+| Name        = Tovar'ši, jest vam ne verjamem
+| Artist      = [[Pankrti]]
+| Cover       = Novi Pank Val (compilation album) Yugoslavia.jpg
+| Released    = 1981
+| Recorded    = 1980, september
+| Studio = Studio Akademik
+| Genre       = [[Punk rock]]
+| Length      = 1:53
+| Label       = [[RTV Ljubljana]]
+| Producer    = [[Igor Vidmar, Pankrti]]
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name          = London Calling
+| Cover         = The Clash - London Calling.jpg
+| Caption       = Standard artwork, with yellow background used for one of original UK releases ''(12" vinyl single pictured)''
+| Artist        = [[the Clash]]
+| Album         = [[London Calling]]
+| B-side        = "[[Armagideon Time]]"
+| Released      = 7 December 1979
+| Format        = [[Single (music)|7" single/12" single]]
+| Recorded      = August–September 1979, November 1979 at [[Wessex Studios]]
+| Length        = 3:18
+| Genre         = [[Post-punk]]
+| Label         = [[Columbia Records|CBS]] <small>8087</small>
+| Writer        = [[Joe Strummer]] and [[Mick Jones (The Clash)|Mick Jones]]
+| Producer      = [[Guy Stevens]]
+| Certification =
+| Last single   = "[[Groovy Times]]"<br/>(1979)
+| This single   = "'''London Calling'''"<br/>(1979)
+| Next single   = "[[Clampdown]]"<br/>(AUS, 1980)
+| Misc          =
+  {{Extra chronology
+  | Artist      = [[The Clash]] reissued singles
+  | Type        = [[Singles]]
+  | Last single = "[[This Is England (song)|This Is England]]"<br/>(1985)
+  | This single = "'''London Calling'''" <small>(rerelease)</small><br/>(1988)
+  | Next single = "[[I Fought the Law#The Clash cover version|I Fought the Law]]" <small>(rerelease)</small><br/>(1988)
+  }}
+  {{Extra chronology
+  | Artist      = [[The Clash]] extra singles
+  | Type        = [[Singles]]
+  | Last single = "[[Rock the Casbah]]" <small>(rerelease)</small><br/>(1991)
+  | This single = "'''London Calling'''" <small>(2nd rerelease)</small><br/>(1991)
+  | Next single = "[[Train in Vain]]" <small>(rerelease)</small><br/>(1991)
+  }}
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name          = The Girl from Ipanema
+| Cover         = Stan-Getz-The-Girl-From-Ipa-604216.jpg
+| Border        = 
+| Alt           = 
+| Caption       = 
+| Artist        = [[Stan Getz]] and [[João Gilberto]]
+| Album         = [[Getz/Gilberto]]
+| A-side        = 
+| B-side        = 
+| Released      = {{Start date|25 July 1964}}
+| Format        = 
+| Recorded      = 
+| Genre         = {{hlist|[[Bossa nova]]|[[jazz]]}}
+| Length        = <!-- {{Duration|m=MM|s=SS}} -->
+| Label         = [[Verve Records|Verve]]
+| Writer        = {{hlist|[[Antônio Carlos Jobim]] & [[Vinicius de Moraes]]|[[Norman Gimbel]] (English lyrics)}}
+| Producer      = [[Creed Taylor]]
+| Certification = 
+| Chronology    = 
+| Last single   = 
+| This single   = 
+| Next single   = 
+| Misc          = 
+}}
+####
+{{Infobox song| Name      = Tomorrow Never Knows| Artist     = [[the Beatles]]
+| Cover    =  [[File:Tomorrow Never Knows sheet music cover.jpg|160px]]
+| Caption        = Cover of the Northern Songs sheet music (licensed to Sonora Musikförlag)
+| Album     = [[Revolver (Beatles album)|Revolver]]| Released    = 5 August 1966| track_no    = 14
+| Published = [[Northern Songs]]
+| Recorded    = 6, 7 and 22 April 1966<br />[[Abbey Road Studios|EMI Studios]], London
+| Genre     = 
+* [[Psychedelic rock]]{{sfn |Gilliland|1969|loc=show 39, tracks 4-5}}
+* [[raga rock]]
+* [[hard rock]]<ref>The 100 Most Influential Musicians of All Time, by Gini Gorlinski, "the hallucinatory hard rock song 'Tomorrow Never Knows'"</ref>
+* [[avant-pop]]<ref>{{cite news|last1=Hoberman|first1=J.|title=Before There Was MTV, There Was Bruce Conner|url=http://www.villagevoice.com/film/before-there-was-mtv-there-was-bruce-conner-6429080|work=[[The Village Voice]]|date=November 10, 2010}}</ref>
+| Length     = 2:58| Writer     = [[Lennon–McCartney]]| Label     = [[Parlophone]]| Producer    = [[George Martin]]| Tracks     = | Misc      = {{Extra music sample|Type=song|filename=Tomorrow_Never_Knows.ogg|title="Tomorrow Never Knows"}} 
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Marquee Moon
+| Cover          = Marquee Moon single.jpg
+| Artist         = [[Television (band)|Television]]
+| Album = [[Marquee Moon]]
+| Released       = April 1, 1977<ref name="NME"/>
+| Format         = [[Gramophone record|12"]]
+| Recorded       = A & R Studios, NYC
+| Genre          = [[Post-punk]]
+| Length         = 9:58<br>10:40 (re-issue)
+| Label          = [[Elektra Records|Elektra]]
+| Writer         = [[Tom Verlaine]]
+| Producer       = [[Andy Johns]], Tom Verlaine
+| Last single    = "Little Johnny Jewel"<br />(1975)
+| This single    = "'''Marquee Moon'''"<br />(1977)
+| Next single    = "[[Prove It (song)|Prove It]]"<br />(1977)
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Mr. Sandman
+| Cover          = Mr Sandman (Chordettes) .jpg
+| Caption        = Mr. Sandman record by [[The Chordettes]]
+| Artist         = [[The Chordettes]]
+| B-side         = '"I Don't Wanna See You Cryin'"
+| Released       = October 1954
+| Format         = [[Gramophone record|7"]]
+| Recorded       = 1954
+| Genre          = [[Barbershop music]], [[traditional pop]]
+| Length         = {{Duration|m=2|s=22}}
+| Label          = [[Cadence Records|Cadence]]
+| Writer         = [[Pat Ballard]]
+| Producer       = [[Archie Bleyer]]
+  | Last single    = 
+| This single    = "'''Mr. Sandman'''"<br / >(1954)
+| Next single    = "The Wedding"<br / >(1956)
+| Misc           =
+}}
+####
+{{Infobox single
+| Name           = California Dreamin'
+| Cover          = Disco de vinilo - California dreamin'.jpg
+| Artist         = [[The Mamas & the Papas]]
+| Album          = [[If You Can Believe Your Eyes and Ears]]
+| B-side         = "Somebody Groovy"
+| Released       = [[1965 in music|December 8, 1965]]
+| Recorded       = November 4, 1965, Western Recorders, Hollywood
+| Format         = [[Gramophone record|Vinyl record]] (7") 45 RPM
+| Genre          = {{hlist|[[Sunshine pop]]<ref>{{cite book|author=Encyclopaedia Universalis|title=Dictionnaire des Musiciens: (Les Dictionnaires d'Universalis)|url=https://books.google.com/books?id=d9yKBAAAQBAJ&pg=PT3635|date=October 27, 2015|publisher=Encyclopaedia Universalis|isbn=978-2-85229-140-9|page=3635}}</ref>|[[folk rock]]<ref>{{cite web |url= https://www.thoughtco.com/what-is-folk-rock-music-2521910|title= What is Folk-Rock Music?|last= Fontenot|first= Robert|date= October 29, 2015|website= ThoughtCo.|publisher= [[About.com]]|access-date= March 12, 2017}}</ref>}}
+| Length         = {{Duration|m=2|s=38}}
+| Label          = [[Dunhill Records]]
+| Writer         = [[John Phillips (musician)|John Phillips]], [[Michelle Phillips]]
+| Producer       = [[Lou Adler]]
+| Last single    = "[[Go Where You Wanna Go]]"<br />(1965)
+| This single    = "'''California Dreamin{{'-}}'''"<br />(1965)
+| Next single    = "[[Monday, Monday]]"<br />(1966)
+| Misc           = {{External music video|{{YouTube|N-aK6JnyFmk|"California Dreamin'"}}}}
+}}
+####
+{{Infobox song|
+| Name        = Bosna moja
+| Artist      = [[Safet Isović]]
+| Released    = 1988
+| Recorded    = 
+| Length      = 5:34
+}}
+####
+{{Infobox single
+| Name        = Psycho Killer
+| Cover       = Talking heads psycho killer USA vinyl.jpg
+| Caption     = U.S. vinyl edition cover
+| Artist      = [[Talking Heads]]
+| from Album  = [[Talking Heads: 77]]
+| B-side      = "Psycho Killer" (Acoustic version)<br/>"I Wish You Wouldn't Say That"
+| Released    = December 1977
+| Format      = [[Single (music)#7-inch format|7"]]
+| Recorded    = 1977
+| Genre       = {{hlist|[[New wave music|New wave]]<ref name="review">{{cite web|first= Bill |last= Janovitz |title= Psycho Killer – Song Review |publisher= [[AllMusic]]. [[All Media Network]] |url= http://www.allmusic.com/song/psycho-killer-mt0005254892 |accessdate= June 28, 2013}}</ref>|[[no wave]]<ref name="review"/>|[[funk]]<ref>{{cite news|first= Angelica |last= Leicht |title= 10 '70s Songs That Will Give You Your Groove Back |url= http://blogs.houstonpress.com/rocks/2015/01/10_70s_songs_that_will_give_yo.php |newspaper= [[Houston Press]] |date= January 1, 2015 |accessdate= April 27, 2015}}</ref>|[[art pop]]<ref>{{cite news|first= Ed |last= Potton |title= David Byrne: composer, curator, cyclist — not just a Talking Head |url= http://www.thetimes.co.uk/tto/arts/music/article4526801.ece |newspaper= [[The Times]] |date= August 15, 2015 |accessdate= February 28, 2016}}</ref>}}
+| Length      = 4:19
+| Label       = [[Sire Records|Sire]]
+| Writer      = {{hlist|[[David Byrne]]|[[Chris Frantz]]|[[Tina Weymouth]]}}
+| Producer    = {{hlist|[[Tony Bongiovi]]|Lance Quinn}}
+| Last single = "Uh-Oh, Love Comes to Town"<br/>(1977)
+| This single = "'''Psycho Killer'''"<br/>(1977)
+| Next single = "Pulled Up"<br/>(1978)
+}}
+####
+{{Infobox song
+| Name        = Linzserenade
+| Artist      = Gustav
+| Released    = 21. March 2004
+| Length      = 4:12
+| Label       = Mosz
+| Producer    = Eva Jantschitsch
+| Album       = Rettet die Wale
+| Studio      = Gustav's living room, Vienna
+}}
+####
+{{Infobox song
+| Name     = The End
+| Cover    =
+| Artist   = [[The Doors]]
+| Album    = [[The Doors (album)|The Doors]]
+| Released = January 4, 1967
+| Recorded = August 1966
+| Genre    = <div class="hlist">
+*[[Psychedelic rock]]<ref>{{cite book|author=Milligan|title=Pleasures and Pains|url=https://books.google.com/books?id=POdvUAnhdEcC&pg=PA123|year=1992|publisher=University of Virginia Press|isbn=978-0-8139-3468-6|page=123}}</ref>
+*[[raga rock]]<ref>{{cite news |title=How a shy pandit became a pop hero|first=Jon |last=Borgzinner|url=https://books.google.com/books?id=DlYEAAAAMBAJ |newspaper=[[Life (magazine)|LIFE]]|publisher=[[Time Inc.]]|location= |volume=63|issue=7|issn=0024-3019|date=18 August 1967 |page=[https://books.google.com/books?id=DlYEAAAAMBAJ&pg=PA36&dq=%22raga+rock%22%22The+End%22+Doors 36]|accessdate=30 January 2013}}</ref>
+*[[art rock]]<ref>{{cite web |url=http://www.cosmik.com/aa-january02/golden_age4.html |title=Archived copy |accessdate=2016-01-10 |deadurl=yes |archiveurl=https://web.archive.org/web/20160303191206/http://www.cosmik.com/aa-january02/golden_age4.html |archivedate=3 March 2016 |df=dmy-all }}</ref>
+*[[spoken word]]<ref>{{cite book|author=Gillian G. Gaar|title=The Doors: The Illustrated History|url=https://books.google.com/books?id=GzLCCAAAQBAJ&pg=PA92|date=25 April 2015|publisher=Voyageur Press|isbn=978-1-62788-705-2|pages=92–}}</ref> 
+</div>
+| Length   = 11:41 [album version] <br> 6:28 [''[[Apocalypse Now]]'' version]
+| Label    = [[Elektra Records|Elektra]]
+| Writer   = [[Jim Morrison]]<br>[[Ray Manzarek]]<br>[[Robby Krieger]]<br>[[John Densmore]]
+| Producer = [[The Doors]]<br>[[Paul A. Rothchild]]
+| Tracks   = <div style="text-align: left">
+# "[[Break On Through (To the Other Side)]]"
+# "Soul Kitchen"
+# "[[The Crystal Ship]]"
+# "Twentieth Century Fox"
+# "[[Alabama Song#The Doors version|Alabama Song (Whisky Bar)]]"
+# "[[Light My Fire]]"
+# "[[Back Door Man#The Doors version|Back Door Man]]"
+# "I Looked at You"
+# "End of the Night"
+# "Take It as It Comes"
+# "'''The End'''"
+</div>
+}}
+####
+{{Infobox single
+| Name          = Help!
+| Artist        = [[the Beatles]]
+| Cover         = Beatles_help2.jpg
+| Caption       = US picture sleeve
+| B-side        = "[[I'm Down]]"
+| Released      = 19 July 1965 (US)<br>23 July 1965 (UK)
+| Recorded      = 13 April 1965,<br>[[Abbey Road Studios|EMI Studios]], [[London]]
+| Format        = [[gramophone record|7"]]
+| Genre         = [[Folk rock]]<ref>{{cite web|last=Unterberger |first=Richie |authorlink=Richie Unterberger |title=1960s-Folk-Rock Overview |publisher=www.richieunterberger.com |url=http://www.richieunterberger.com/turnover.html |accessdate=2013-10-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20131109225255/http://www.richieunterberger.com/turnover.html |archivedate=9 November 2013 }}</ref>
+| Length        = 2:18
+| Label         = [[Parlophone]], [[Capitol Records|Capitol]]
+| Writer        = [[Lennon–McCartney]]
+| Producer      = [[George Martin]]
+| Chronology    = [[The Beatles]] UK singles
+| Last single   = "[[Ticket to Ride]]"<br>(1965)
+| Next single   = "[[We Can Work It Out]]"/<br/>"[[Day Tripper]]"<br>(1965)
+| This single   = "'''Help!'''"<br>(1965)
+| Misc          = {{Extra chronology
+  | Artist         = [[The Beatles]] US singles
+  | Type           = single
+  | Last single   = "[[Ticket to Ride]]"<br>(1965)
+  | This single   = "'''Help!'''"<br>(1965)
+  | Next single    = "[[Yesterday (Beatles song)|Yesterday]]"<br>(1965)
+}}
+{{Extra music sample |Type=single |filename=Beatles help.ogg |title="Help!"}}
+| from Album    = [[Help! (album)|Help!]]
+}}
