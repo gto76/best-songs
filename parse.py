@@ -31,9 +31,11 @@ HEAT_DISTANCE_THRESHOLD = 5
 HEATMAP_ALPHA = 180
 ALPHA_CUTOFF = 0.15
 
-DISPLAY_KEYS = ['genre', 'writer', 'producer', 'label', 'length']
+DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label']
 MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
             'ber|november|december'
+
+SORT_BY_DATE = True
 
 MONTHS = {'january': 1,
           'february': 2,
@@ -56,7 +58,8 @@ def main():
     readme = getFileContents("list_of_songs")
     albumData = readJson("data/wiki_data.json")
     listOfAlbums = getListOfSongs(readme)
-    noOfAlbums = len(listOfAlbums)
+    if SORT_BY_DATE:
+        listOfAlbums = sort_by_date(listOfAlbums, albumData)
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
         generate_release_dates_chart(albumData)
@@ -68,8 +71,14 @@ def main():
         writeToFile('README.md', out_md)
 
     if GENERATE_HTML:
-        out_html = generate_html_file(albumData, listOfAlbums, noOfAlbums)
+        out_html = generate_html_file(albumData, listOfAlbums)
         writeToFile('index.html', out_html)
+
+
+def sort_by_date(listOfAlbums, albumData):
+    dates = [(get_numeric_date(get_song_name(a), albumData), a) for a in listOfAlbums]
+    dates.sort()
+    return [a[1] for a in dates]
 
 
 def generate_md_file(readme, albumData, listOfAlbums, noOfAlbums):
@@ -85,10 +94,10 @@ def generate_md_file(readme, albumData, listOfAlbums, noOfAlbums):
     return out
 
 
-def generate_html_file(albumData, listOfAlbums, noOfAlbums):
+def generate_html_file(albumData, listOfAlbums):
     out = ''.join(getFileContents(HTML_TOP))
 
-    out += str(noOfAlbums) + " " + '\n'.join(getFileContents(HTML_TEXT))
+    out += str(len(listOfAlbums)) + " " + '\n'.join(getFileContents(HTML_TEXT))
     out += generate_html_list(listOfAlbums, albumData)
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
@@ -140,8 +149,7 @@ def generate_html_list(listOfAlbums, albumData):
     # genre, Length, poducer, (month)
     out = []
     for albumName in listOfAlbums:
-        songName = re.search('\'(.*)\'', albumName)
-        songName = songName.group(1)
+        songName = get_song_name(albumName)
         if not songName:
             print(f'Cannot match song with albumName: {albumName}')
             continue
@@ -156,20 +164,42 @@ def generate_html_list(listOfAlbums, albumData):
     return ''.join(out)
 
 
+def get_song_name(albumName):
+    song = re.search('\'(.*)\'', albumName)
+    if not song:
+        print(f"No parenthesis around song name: {albumName}")
+        sys.exit()
+    return song.group(1)
+
+
 def get_title(albumName, songName, bandName, albumData):
     album_name_abr = albumName.replace(' ', '')
     releaseDate = albumData[songName]['released']
     if type(releaseDate) == list:
         releaseDate = releaseDate[0]
-    year = re.search('\d{2}(\d{2})', releaseDate)
+    year = get_numeric_year(releaseDate)
     if not year:
         print(f'Cannot match release year with releaseDate: {releaseDate}')
         year = ''
-    year = year.group(1)
+    year = year[-2:]
     month = get_month(releaseDate)
     month = '' if not month else calendar.month_abbr[int(month)]
     link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>"        
     return f"<h2>{link}'{year} {month} | \"{songName}\" — {bandName}</h2>\n"
+
+
+def get_numeric_date(album, albumData):
+    release = albumData[album]['released']
+    if type(release) == list:
+        release = release[0]
+    year = get_numeric_year(release)
+    if not year:
+        return 0
+    month = get_month(release)
+    if not month:
+        return int(year+'00')
+    month = '{:0>2}'.format(month)
+    return int(year+month)
 
 
 def get_month(release):
@@ -187,6 +217,13 @@ def get_numeric_month(release):
         digit_month = re.match('\d+', tokens[1])
         if digit_month:
             return digit_month.group()
+
+
+def get_numeric_year(release):
+    year = re.search('\d{4}', release)
+    if not year:
+        return
+    return year.group()
 
 
 def get_image(songName, bandName, albumData):
