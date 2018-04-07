@@ -132,43 +132,43 @@ def generate_html_list(listOfAlbums, albumData):
         if songName not in albumData:
             print(f"Song name not in wiki_data: {songName}")
             continue
-        # formatedName = albumName.replace(" - ", ", '", 1) + "'"
-        formatedName = albumName
-        album_name_abr = albumName.replace(' ', '')
-        releaseDate = albumData[songName]['released']
-        if type(releaseDate) == list:
-            releaseDate = releaseDate[0]
-        year = re.search('\d{2}(\d{2})', releaseDate)
-        if not year:
-            print(f'Cannot match release year with releaseDate: {releaseDate}')
-            continue
-        year = year.group(1)
         bandName = albumData[songName]['artist']
 
-        start = '<h2><a href="#'+album_name_abr+'" name="' \
-                + album_name_abr+'">#</a>'
-        link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>"        
-        title = f"<h2>{link}'{year} | '{songName}' — {bandName}</h2>\n"
-        out.append(title)
-        # slogan = getSlogan(albumName, albumData)
-        # if slogan:
-            # out += '<i>' + slogan + '</i><br><br>\n'
-        cover = getCover(songName, bandName, albumData)
-        if not cover:
-            cover = ''
-        image = f'<div style="display:inline-block;vertical-align:top">\n{cover}\n</div>'
-        out.append(image)
-
-        data = []
-        for key in DISPLAY_KEYS:
-            data.append(get_field(albumData[songName], key))
-        data = '\n'.join(data)
-        div = f'<div style="display:inline-block;border:15px solid transparent">\n{data}\n</div>'
-        out.append(div)
+        out.append(get_title(albumName, songName, bandName, albumData))
+        out.append(get_image(songName, bandName, albumData))
+        out.append(get_div(songName, albumData))
 
     return ''.join(out)
 
-    # <div>Gender</div>
+
+def get_title(albumName, songName, bandName, albumData):
+    album_name_abr = albumName.replace(' ', '')
+    releaseDate = albumData[songName]['released']
+    if type(releaseDate) == list:
+        releaseDate = releaseDate[0]
+    year = re.search('\d{2}(\d{2})', releaseDate)
+    if not year:
+        print(f'Cannot match release year with releaseDate: {releaseDate}')
+        year = ''
+    year = year.group(1)
+    link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>"        
+    return f"<h2>{link}'{year} | '{songName}' — {bandName}</h2>\n"
+
+
+def get_image(songName, bandName, albumData):
+    cover = getCover(songName, bandName, albumData)
+    if not cover:
+        cover = ''
+    return f'<div style="display:inline-block;vertical-align:top">\n{cover}\n</div>'
+
+
+def get_div(songName, albumData):
+    data = []
+    for key in DISPLAY_KEYS:
+        data.append(get_field(albumData[songName], key))
+    data = '\n'.join(data)
+    return f'<div style="display:inline-block;border:15px solid transparent">\n{data}\n</div>'
+
 
 def get_field(songData, key):
     if key not in songData:
