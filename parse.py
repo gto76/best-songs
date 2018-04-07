@@ -5,6 +5,7 @@
 # To install Image library run:
 #   pip3 install pillow
 
+import calendar
 import json
 import math
 import os
@@ -30,6 +31,22 @@ HEAT_DISTANCE_THRESHOLD = 5
 HEATMAP_ALPHA = 180
 ALPHA_CUTOFF = 0.15
 
+DISPLAY_KEYS = ['genre', 'writer', 'producer', 'label', 'length']
+MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
+            'ber|november|december'
+
+MONTHS = {'january': 1,
+          'february': 2,
+          'march': 3,
+          'april': 4,
+          'may' : 5,
+          'june': 6,
+          'july': 7,
+          'august': 8,
+          'september': 9,
+          'october': 10,
+          'november': 11,
+          'december': 12}
 
 ###
 ##  MAIN
@@ -118,7 +135,6 @@ def generateList(listOfAlbums, albumData):
         counter -= 1
     return out
 
-DISPLAY_KEYS = ['genre', 'length', 'writer', 'producer', 'label']
 
 def generate_html_list(listOfAlbums, albumData):
     # genre, Length, poducer, (month)
@@ -137,7 +153,6 @@ def generate_html_list(listOfAlbums, albumData):
         out.append(get_title(albumName, songName, bandName, albumData))
         out.append(get_image(songName, bandName, albumData))
         out.append(get_div(songName, albumData))
-
     return ''.join(out)
 
 
@@ -151,8 +166,27 @@ def get_title(albumName, songName, bandName, albumData):
         print(f'Cannot match release year with releaseDate: {releaseDate}')
         year = ''
     year = year.group(1)
+    month = get_month(releaseDate)
+    month = '' if not month else calendar.month_abbr[int(month)]
     link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>"        
-    return f"<h2>{link}'{year} | '{songName}' — {bandName}</h2>\n"
+    return f"<h2>{link}'{year} {month} | \"{songName}\" — {bandName}</h2>\n"
+
+
+def get_month(release):
+    if re.search('[a-zA-Z]', release):
+        month = re.search(MONTHS_RE, release, flags=re.IGNORECASE)
+        if month:
+            month = month.group()
+            return MONTHS[month.lower()]
+    return get_numeric_month(release)
+
+
+def get_numeric_month(release):
+    if re.search('\.', release):
+        tokens = release.split('.')
+        digit_month = re.match('\d+', tokens[1])
+        if digit_month:
+            return digit_month.group()
 
 
 def get_image(songName, bandName, albumData):
@@ -167,7 +201,7 @@ def get_div(songName, albumData):
     for key in DISPLAY_KEYS:
         data.append(get_field(albumData[songName], key))
     data = '\n'.join(data)
-    return f'<div style="display:inline-block;border:15px solid transparent">\n{data}\n</div>'
+    return f'<div style="display:inline-block;border:15px solid transparent"><table>{data}</table></div>'
 
 
 def get_field(songData, key):
@@ -176,11 +210,12 @@ def get_field(songData, key):
     value = songData[key]
     if type(value) == list:
         value = ', '.join(value)
+        key = f'{key}s'
     if type(value) != str:
         return ''
     key = key.title()
     value = value.title()
-    return f"<div><b>{key}: {value}</b></div>"
+    return f"<tr><td><b>{key}&ensp;</b></td><td><b>{value}</b></td></tr>"
 
 
 def getSlogan(albumName, albumData):
