@@ -20,6 +20,7 @@ MAP_IMAGE = "worldmap.jpg"
 HTML_TOP = "html-top.html"
 HTML_TEXT = "html-text.html"
 HTML_BOTTOM = "html-bottom.html"
+TEMPLATE = "template.html"
 
 DRAW_YEARLY_DISTRIBUTION_PLOT = False
 DRAW_HEATMAP = False
@@ -95,10 +96,10 @@ def generate_md_file(readme, albumData, listOfAlbums, noOfAlbums):
 
 
 def generate_html_file(albumData, listOfAlbums):
-    out = ''.join(getFileContents(HTML_TOP))
+    # out = ''.join(getFileContents(HTML_TOP))
 
-    out += str(len(listOfAlbums)) + " " + '\n'.join(getFileContents(HTML_TEXT))
-    out += generate_html_list(listOfAlbums, albumData)
+    # out += str(len(listOfAlbums)) + " " + '\n'.join(getFileContents(HTML_TEXT))
+    table = generate_html_list(listOfAlbums, albumData)
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
         out += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
@@ -108,7 +109,12 @@ def generate_html_file(albumData, listOfAlbums):
         out += '<h2><a href="#studio-locations" name="studio-locations">#</a>Studio Locations</h2>\n'
         out += '<img src="heatmap.png" alt="Studio Locations" width="920"/>\n'
 
-    return out + ''.join(getFileContents(HTML_BOTTOM))
+    no_albums = len(listOfAlbums)
+    title = f"{no_albums} Greatest Songs From '55 to '05"
+    template = '\n'.join(getFileContents(TEMPLATE))
+    return template.format(title=title, table=table)
+
+    # return out + ''.join(getFileContents(HTML_BOTTOM))
 
 
 def getListOfSongs(readme):
