@@ -11,6 +11,8 @@ import json
 import os
 
 DIR = 'wiki_data'
+USE_SINGLE_FILE = True
+SINGLE_FILE = 'wiki_data.txt'
 SAVE = True
 
 TOKENIZE = ['genre', 'writer', 'producer', 'label']
@@ -26,12 +28,20 @@ def main():
     if len(sys.argv) > 1:
         objects = [get_object(sys.argv[1])]
     else:
-        objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
+        if USE_SINGLE_FILE:
+            objects = [get_object_text(a) for a in expand_single_file(SINGLE_FILE)]
+        else:
+            objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
+
     out = {get_name(obj): obj for obj in objects}
     print(json.dumps(out, ensure_ascii=False, indent=2))
     if SAVE:
         write_json('wiki_data.json', out)
 
+
+def expand_single_file(filename):
+    text = ''.join(read_file(filename))
+    return text.split('####')
 
 def get_name(obj):
     if 'Name' in obj:
@@ -43,7 +53,11 @@ def get_object(filename):
     print(f'Parsing: {filename}')
     lines = read_file(filename)
     wiki_obj = ''.join(lines)
-    wiki_obj = cleanup(wiki_obj)
+    return get_object_text(wiki_obj)
+
+
+def get_object_text(text):
+    wiki_obj = cleanup(text)
     obj, _ = get_parts(wiki_obj, 0)
     return obj
 

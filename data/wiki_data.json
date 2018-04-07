@@ -1,6 +1,7 @@
 {
   "Top": {
     "name": "Top",
+    "cover": "top.jpg",
     "artist": "Bijelo Dugme",
     "b-side": "Ove ću noći naći blues",
     "released": "March 1974",
@@ -111,6 +112,7 @@
   },
   "The Murder Mystery": {
     "name": "The Murder Mystery",
+    "cover": "Velvetundergroundthirdalbum.jpg",
     "artist": "the Velvet Underground",
     "album": "The Velvet Underground",
     "released": "March 1969",
@@ -1063,6 +1065,9 @@
     "released": "December 8, 1965",
     "recorded": "November 4, 1965, Western Recorders, Hollywood",
     "format": "Vinyl record (7\") 45 RPM",
+    "genre": {
+      "next single": "\"Monday, Monday\" (1966)"
+    },
     "length": "2:38",
     "label": "Dunhill Records",
     "writer": [
