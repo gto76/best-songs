@@ -199,7 +199,7 @@ def get_title(albumName, songName, bandName, albumData):
     link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>" 
     text = f"'{year} {month} | \"{songName}\" — {bandName}"      
     title_html = f"<h2>{link}{text}</h2>\n"
-    title_md = f"### {text}  "
+    title_md = f"\n### {text}  \n"
     return title_html, title_md
 
 
@@ -266,7 +266,7 @@ def get_div(songName, albumData):
 
 def get_div_md(data):
     lines = [f"**{line}**  " for line in data]
-    out = (lines + ['<br>  ']*5)[:5]
+    out = (lines + ['<br>  ']*6)[:6]
     out = '\n'.join(out)
     return f'\n{out}\n'
 
