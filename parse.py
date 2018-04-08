@@ -293,9 +293,9 @@ def get_cover(albumName, bandName, albumData):
         return None, None
     yt_link = getYouTubeLink(f'{bandName} {albumName}')
     cover_html = f'{yt_link}<img src="{imageLink}" alt="cover" height="' \
-                  '{IMG_HEIGHT}px"/></a>\n'
+                 f'{IMG_HEIGHT}px"/></a>\n'
     cover_md = f'{yt_link}<img src="{imageLink}" align="left" alt="cover" hei' \
-                'ght="{IMG_HEIGHT}px"/></a>\n'
+               f'ght="{IMG_HEIGHT}px"/></a>\n'
     return cover_html, cover_md
 
 
