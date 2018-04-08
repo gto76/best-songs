@@ -79,15 +79,26 @@ def sort_by_date(listOfAlbums, albumData):
 def generate_files(albumData, listOfAlbums):
     table_html, table_md = generate_list(listOfAlbums, albumData)
     if ADD_PLOTS:
-        table_html += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
-        table_html += '<img src="data/img/years.png" alt="Release dates" width="920"/>\n'
-        table_md += '\nRelease Dates\n------\n![yearly graph](data/img/years.png.png)'
+        origins_html, origins_md = get_plot('Origins', 'origin')
+        years_html, years_md = get_plot('Release Dates', 'years')
+        months_html, months_md = get_plot('Release Months', 'months')
+        minutes_html, minutes_md = get_plot('Track Lengths', 'minutes')
+        table_html += origins_html + years_html + months_html + minutes_html
+        table_md += origins_md + years_md + months_md + minutes_md
     no_albums = len(listOfAlbums)
     title = f"{no_albums} Greatest Songs From '54 to '04"
     template = ''.join(get_file_contents(TEMPLATE))
     out_html = template.format(title=title, table=table_html)
     out_md = get_out_md(table_md, title, template)
     return out_html, out_md
+
+
+def get_plot(name, filename):
+    a_id = re.sub('\s', '-', filename.strip().lower())
+    plot_html = f'<h2><a href="#{a_id}" name="{a_id}">#</a>{name}</h2>\n' \
+                f'<img src="data/img/{filename}.png" alt="{name}" width="920"/>\n'
+    plot_md = f'\n{name}\n------\n![{name}](data/img/{filename}.png)'
+    return plot_html, plot_md
 
 
 def generate_list(listOfAlbums, albumData):

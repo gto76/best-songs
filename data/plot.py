@@ -9,6 +9,7 @@ import re
 import matplotlib.pyplot as plt
 from collections import Counter
 import numbers
+import calendar
 
 
 DEBUG = False
@@ -99,30 +100,65 @@ def get_minutes(length):
 
 
 ###
-##  PYPLOT
+##  PLOT
 #
 
 def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None):
+    font_size = 22
+    width = 22
+    if filename == 'years':
+        font_size = 15
+        width = 22
+    set_plt_size(plt, width=width, height=8, font_size=font_size)
     albumsPerYear = getAlbumsPerYear(listOfYears)
     yearRange = getYearRange(listOfYears)
-
-    fig_size = plt.rcParams["figure.figsize"]
-    # Set figure width to 12 and height to 9
-    fig_size[0] = 20
-    fig_size[1] = 6
-    plt.rcParams["figure.figsize"] = fig_size
-
     y = albumsPerYear
     x = yearRange
     x_ticks = [listOfYears[0]-1] + yearRange + [listOfYears[-1]+1]
     if ticks_filter:
         x_ticks = ticks_filter(x_ticks)
-    plt.xticks(x_ticks)
+    if filename == 'months':
+        # plt.set_xticklabels(calendar.month_abbr, rotation='vertical', fontsize=18)
+        plt.xticks(x_ticks, calendar.month_abbr)
+    else:
+        plt.xticks(x_ticks)
     if filename:
-        plt.xlabel(filename.capitalize())
+        label = filename[:-1] if filename != 'minutes' else filename
+        plt.xlabel(label.capitalize())
     plt.bar(x, y, color="blue")
     present_plt(plt, filename)
 
+
+def generate_origin_piechart(origins, filename=None):
+    set_plt_size(plt, width=22, height=10, font_size=22)
+    labels = origins.keys()
+    sizes = [origins[a]/len(origins) for a in labels]
+    fig1, ax1 = plt.subplots()
+    ax1.pie(sizes, labels=labels, autopct='%1.1f%%',
+            shadow=True, startangle=90)
+    ax1.axis('equal')
+    present_plt(plt, filename)
+
+
+def set_plt_size(plt, width, height, font_size):
+    fig_size = plt.rcParams["figure.figsize"]
+    fig_size[0] = width
+    fig_size[1] = height
+    plt.rcParams["figure.figsize"] = fig_size
+    plt.rcParams.update({'font.size': font_size})
+
+
+def present_plt(plt, filename):
+    if not filename:
+        plt.show()
+    else:
+        plt.savefig(f'{DIR}/{filename}', transparent=True)
+    plt.close()
+
+
+###
+##  UTIL
+#
 
 def every_even(ticks):
     return [t for t in ticks if t%2==0]
@@ -138,30 +174,6 @@ def getAlbumsPerYear(listOfYears):
 def getYearRange(listOfYears):
     return list(range(listOfYears[0], listOfYears[-1]+1))
 
-
-def generate_origin_piechart(origins, filename=None):
-    # labels = 'Frogs', 'Hogs', 'Dogs', 'Logs'
-    # sizes = [15, 30, 45, 10]
-    labels = origins.keys()
-    sizes = [origins[a]/len(origins) for a in labels]
-    fig1, ax1 = plt.subplots()
-    ax1.pie(sizes, labels=labels, autopct='%1.1f%%',
-            shadow=True, startangle=90)
-    ax1.axis('equal')
-    present_plt(plt, filename)
-
-
-def present_plt(plt, filename):
-    if not filename:
-        plt.show()
-    else:
-        plt.savefig(f'{DIR}/{filename}')
-    plt.close()
-
-
-###
-##  UTIL
-#
 
 def read_json_file(filename):
     with open(filename, encoding='utf-8') as file:

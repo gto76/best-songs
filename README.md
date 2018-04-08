@@ -512,6 +512,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 <br>  
 <br>  
 
+Origins
+------
+![Origins](data/img/origin.png)
 Release Dates
 ------
-![yearly graph](data/img/years.png.png)
+![Release Dates](data/img/years.png)
+Release Months
+------
+![Release Months](data/img/months.png)
+Track Lengths
+------
+![Track Lengths](data/img/minutes.png)
