@@ -304,7 +304,7 @@
 ####
 {{Infobox single
 | Name        = This Charming Man
-| Cover       = Thischarmingmansingle.PNG
+| Cover       = Thischarmingmansingle.png
 | Artist      = [[The Smiths]]
 | B-side      = {{hlist|"Jeane"|"Accept Yourself"|"Wonderful Woman"}}
 | Released    = 31 October 1983
@@ -359,7 +359,7 @@
 | Writer = [[Trent Reznor]]
 | Producer = [[Rick Rubin]]
 | Last single = "[[The Man Comes Around (song)|The Man Comes Around]]"<br/>(2002)
-| origin     = Cenral United States
+| origin     = Central United States
 | This single = "'''Hurt'''"<br/>(2003)
 | Next single = "[[God's Gonna Cut You Down]]"<br/>(2006)}}
 ####
