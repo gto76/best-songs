@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 #
 # Usage: test.py 
-# Saves JSON of all files in wiki_data folder, that contain wiki song infobox,
-# to 'wiki_data.json' file. If argument is passed, then it parses only passed 
-# file.
+# Converts 'wiki_data.txt' that contains infobox fields of the songs to 
+# 'wiki_data.json' file.
 
 import sys
 import re

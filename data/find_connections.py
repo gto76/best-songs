@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Usage: create_graph.py 
-# 
+# Finds interesting connections in wiki_data.json
 
 import re
 import json

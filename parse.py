@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 #
 # Usage: parse.py 
-# 
+# Generates 'index.html' and 'README.md' from songs listed in 'list_of_songs'
+# and data stored in 'data/wiki_data.txt'. 
+#
 # To install Image library run:
 #   pip3 install pillow
+
 
 import calendar
 import json
@@ -317,7 +320,7 @@ def getImageLink(albumName, albumData):
     link = album.get('cover', None)
     if not link:
         return
-    return f'data/img/{link}'
+    return f'data/img/cover/{link}'
 
 ###
 ##  PLOT

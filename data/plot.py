@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 #
 # Usage: plot.py 
-# 
+# Creates different plots from data in 'wiki_data.json' and saves them in
+# 'img' dir.
 
 import json
 import re
@@ -9,6 +10,8 @@ import matplotlib.pyplot as plt
 
 
 DEBUG = False
+
+DIR = 'img'
 
 MONTHS = {'january': 1,
           'february': 2,
@@ -113,7 +116,7 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None):
     if not filename:
         plt.show()
     else:
-        plt.savefig(filename)
+        plt.savefig(f'{DIR}/{filename}')
     plt.close()
 
 
