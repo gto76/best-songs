@@ -2,25 +2,14 @@
 =================================
 
 
-
-
 <br>
-
 <p>Release dates denote when the song was first published, either as a single 
-
 or as a part of an album. Image shows the cover of the single or the label if no
-
  edition of the single had a cover. If song was never released as a single, 
-
  then the cover of the first album that featured the song is used.<br>
-
 <br>
-
 <b>Click on the cover to listen to the song on Youtube!!!</b>
-
 <br><br>
-
-
 
 
 ### '54 Oct | "Mr. Sandman" — The Chordettes  

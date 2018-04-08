@@ -107,7 +107,7 @@ def generate_files(albumData, listOfAlbums):
 
     no_albums = len(listOfAlbums)
     title = f"{no_albums} Greatest Songs From '54 to '04"
-    template = '\n'.join(getFileContents(TEMPLATE))
+    template = ''.join(getFileContents(TEMPLATE))
     out_html = template.format(title=title, table=table_html)
     out_md = get_out_md(table_md, title, template)
     return out_html, out_md
