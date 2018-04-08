@@ -212,7 +212,7 @@
   },
   "Kiss": {
     "name": "Kiss",
-    "cover": "Prince_kiss.jpg",
+    "cover": "Prince_kiss.png",
     "caption": "US 7″ single",
     "artist": "Prince and The Revolution",
     "album": "Parade",
@@ -380,7 +380,7 @@
       "\"personal jesus\"",
       "\"wichita lineman\""
     ],
-    "released": "March 2003",
+    "released": "November 5, 2002",
     "format": "CD single",
     "recorded": "2002",
     "genre": [
@@ -537,7 +537,7 @@
     "cover": "Blur_song_2_CD1.jpg",
     "artist": "Blur",
     "album": "Blur",
-    "released": "1997.4.7",
+    "released": "10 February 1997",
     "format": [
       "7\"",
       "Cd"
@@ -653,6 +653,7 @@
   },
   "Blister in the Sun": {
     "name": "Blister in the Sun",
+    "cover": "Blister in the Sun.jpg",
     "artist": "Violent Femmes",
     "from album": "Violent Femmes",
     "writer": "Gordon Gano",
@@ -672,6 +673,7 @@
   },
   "Add It Up": {
     "name": "Add It Up",
+    "cover": "Violent_Femmes.jpg",
     "type": "Song",
     "artist": "Violent Femmes",
     "album": "Violent Femmes",
@@ -757,7 +759,8 @@
       "Acid house"
     ],
     "length": [
-      "9:20"
+      "9:20 (crass version)",
+      "11:03 (pretentious version)"
     ],
     "label": "DFA",
     "writer": [
@@ -843,7 +846,7 @@
     "origin": "West Coast",
     "from album": "Nevermind",
     "b-side": "\"Polly\" (live)",
-    "released": "November 30, 1992",
+    "released": "September 24, 1991",
     "format": "CD, cassette, 7\", 12\"",
     "recorded": "May 1991",
     "studio": "Sound City Studios in Van Nuys, California",
@@ -1185,6 +1188,7 @@
   },
   "Linzserenade": {
     "name": "Linzserenade",
+    "cover": "Linzserenade.jpg",
     "artist": "Gustav",
     "released": "21. March 2004",
     "length": "4:12",

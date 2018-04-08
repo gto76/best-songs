@@ -223,7 +223,7 @@
 ####
 {{Infobox single
 | Name           = Kiss
-| Cover          = Prince_kiss.jpg
+| Cover          = Prince_kiss.png
 | Alt = 
 | Caption        = US 7″ single
 | Artist         = [[Prince (musician)|Prince]] and [[The Revolution (band)|The Revolution]]
@@ -350,7 +350,7 @@
 | Album = [[American IV: The Man Comes Around]]
 | Cover = Johnny_Cash_-_Personal_Jesus_and_Hurt_single.jpg
 | B-side = {{hlist|"[[Personal Jesus]]"|"[[Wichita Lineman]]"}}
-| Released = March 2003
+| Released = November 5, 2002
 | Format = [[CD single]]
 | Recorded = 2002
 | Genre = {{hlist|[[Alternative rock]]<ref>[http://ajournalofmusicalthings.com/top-ten-most-depressing-alternative-rock-songs/ Top Ten Most Depressing Alternative Rock Songs] Retrieved January 5, 2015</ref>|[[acoustic rock]]<ref>[http://www.planetrock.com/music/backstage/the-rock-lists/the-best-ever-acoustic-rock-song-the-top-40/ The Best Ever Acoustic Rock Songs: Top 40] Retrieved October 20, 2014</ref>|[[country music|country]]<ref>[http://www.ew.com/article/2008/04/07/johnny-cash-hur Johnny Cash's 'Hurt' still the greatest country video]<br>[[Entertainment Weekly]]<br>Retrieved August 9, 2016</ref><!-- Please seek consensus at the talk page before changing/adding genres -->}}
@@ -492,7 +492,7 @@
 | Cover = Blur_song_2_CD1.jpg
 | Artist = [[Blur (band)|Blur]]
 | Album = [[Blur (Blur album)|Blur]]
-| Released = {{Start date|1997|4|7|df=yes}}
+| Released = 10 February 1997
 | Format = {{hlist|[[Gramophone record|7"]]|[[CD single|CD]]}}
 | Recorded = 1996
 | Genre = {{hlist|[[Alternative rock]]|[[punk rock]]<ref>{{cite journal |url=https://books.google.co.uk/books?id=IHNuYCb0ewoC&pg=PA56&lpg=PA56&dq=elastica+%22art+rock%22&source=bl&ots=jmE2uPTby8&sig=1HNT68zUdterk7imWlXVYCheZOI&hl=en&sa=X&ved=0ahUKEwi_muf71ZfPAhVkIcAKHaJfBA8Q6AEISTAI#v=onepage&q=elastica%20%22art%20rock%22&f=false |title=Essential Britpop |work=[[Spin (magazine)|Spin]] |volume=19 |issue=2 |date=February 2003 |accessdate=18 September 2016 |last=Pappademas |first=Alex |pages=56}}</ref>}}
@@ -598,7 +598,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Blister in the Sun
-| Cover          =
+| Cover          = Blister in the Sun.jpg
 | Artist         = [[Violent Femmes]]
 | from Album     = [[Violent Femmes (album)|Violent Femmes]]
 | Writer         = [[Gordon Gano]]
@@ -615,6 +615,7 @@
 ####
 {{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Add It Up
+| Cover          = Violent_Femmes.jpg
 | Type           = Song
 | Artist         = [[Violent Femmes]]
 | alt Artist     = 
@@ -697,7 +698,7 @@
 | Format         = {{hlist|[[12-inch single|12"]]|[[CD single|CD]]}}
 | Recorded       = 2003
 | Genre          = {{hlist|[[Dance-punk]]|[[indietronica]]|[[electroclash]]|[[acid house]]}}
-| Length         = {{unbulleted list|9:20 {{small|(Crass Version)}}|11:03 {{small|(Pretentious Version)}}}}
+| Length         = {{unbulleted list|9:20 (Crass Version) | 11:03 (Pretentious Version)}}
 | Label          = [[DFA Records|DFA]]
 | Writer         = {{hlist|[[Tim Goldsworthy]]|[[James Murphy (electronic musician)|James Murphy]]}}
 | Producer       = [[DFA Records|The DFA]]
@@ -783,7 +784,7 @@
 | origin     = West Coast
 |  from Album     = [[Nevermind]] |
   B-side         = "[[Polly (Nirvana song)|Polly]]" (live)
-|  Released       = November 30, 1992
+|  Released       = September 24, 1991
 |  Format         = [[Compact Disc|CD]], [[Compact Cassette|cassette]], [[Gramophone record|7"]], [[12-inch single|12"]]
 |  Recorded       = May 1991
 | Studio = [[Sound City Studios]] in [[Van Nuys, Los Angeles, California|Van Nuys, California]]
@@ -1078,6 +1079,7 @@
 ####
 {{Infobox song
 | Name        = Linzserenade
+| cover       = Linzserenade.jpg
 | Artist      = Gustav
 | Released    = 21. March 2004
 | Length      = 4:12
