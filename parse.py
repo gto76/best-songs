@@ -7,41 +7,24 @@
 # To install Image library run:
 #   pip3 install pillow
 
-
 import calendar
 import json
 import math
 import os
 import re
 import sys
-
-# from PIL import Image
 import matplotlib.pyplot as plt
 
 
 JSONIZE_WIKI_DATA = True
+SORT_BY_DATE = True
+ADD_PLOTS = True
 
-MAP_IMAGE = "worldmap.jpg"
-HTML_TOP = "html-top.html"
-HTML_TEXT = "html-text.html"
-HTML_BOTTOM = "html-bottom.html"
 TEMPLATE = "web/template.html"
-
-DRAW_YEARLY_DISTRIBUTION_PLOT = True
-DRAW_HEATMAP = False
-GENERATE_MD = False
-GENERATE_HTML = True
-
-HEAT_FACTOR = 0.5
-HEAT_DISTANCE_THRESHOLD = 5
-HEATMAP_ALPHA = 180
-ALPHA_CUTOFF = 0.15
 
 DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label', 'origin']
 MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
             'ber|november|december'
-
-SORT_BY_DATE = True
 
 MONTHS = {'january': 1,
           'february': 2,
@@ -58,6 +41,7 @@ MONTHS = {'january': 1,
 
 IMG_HEIGHT = 146 # 123
 
+
 ###
 ##  MAIN
 #
@@ -70,7 +54,7 @@ def main():
     listOfAlbums = get_list_of_songs(readme)
     if SORT_BY_DATE:
         listOfAlbums = sort_by_date(listOfAlbums, albumData)
-    if DRAW_YEARLY_DISTRIBUTION_PLOT:
+    if ADD_PLOTS:
         os.popen('cd data;./plot.py;cd ..').read()
     out_html, out_md = generate_files(albumData, listOfAlbums)
     write_to_file('index.html', out_html)
@@ -94,32 +78,16 @@ def sort_by_date(listOfAlbums, albumData):
 
 def generate_files(albumData, listOfAlbums):
     table_html, table_md = generate_list(listOfAlbums, albumData)
-
-    if DRAW_YEARLY_DISTRIBUTION_PLOT:
+    if ADD_PLOTS:
         table_html += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
         table_html += '<img src="data/img/years.png" alt="Release dates" width="920"/>\n'
         table_md += '\nRelease Dates\n------\n![yearly graph](data/img/years.png.png)'
-
-    if DRAW_HEATMAP:
-        out += '<h2><a href="#studio-locations" name="studio-locations">#</a>Studio Locations</h2>\n'
-        out += '<img src="heatmap.png" alt="Studio Locations" width="920"/>\n'
-
     no_albums = len(listOfAlbums)
     title = f"{no_albums} Greatest Songs From '54 to '04"
     template = ''.join(get_file_contents(TEMPLATE))
     out_html = template.format(title=title, table=table_html)
     out_md = get_out_md(table_md, title, template)
     return out_html, out_md
-
-
-def get_out_md(table_md, title, template):
-    out = [title, '\n']
-    out.append('=' * len(title))
-    out.append('\n')
-    match = re.search('\{title\}</h1>(.*)\{table\}', template, flags=re.DOTALL)
-    out.append(match.group(1))
-    out.append(table_md)
-    return ''.join(out)
 
 
 def generate_list(listOfAlbums, albumData):
@@ -149,6 +117,20 @@ def get_song_name(albumName):
     return song.group(1)
 
 
+def get_out_md(table_md, title, template):
+    out = [title, '\n']
+    out.append('=' * len(title))
+    out.append('\n')
+    match = re.search('\{title\}</h1>(.*)\{table\}', template, flags=re.DOTALL)
+    out.append(match.group(1))
+    out.append(table_md)
+    return ''.join(out)
+
+
+###
+##  TITLE
+#
+
 def get_title(albumName, songName, bandName, albumData):
     album_name_abr = albumName.replace(' ', '')
     releaseDate = albumData[songName]['released']
@@ -168,43 +150,9 @@ def get_title(albumName, songName, bandName, albumData):
     return title_html, title_md
 
 
-def get_numeric_date(album, albumData):
-    release = albumData[album]['released']
-    if type(release) == list:
-        release = release[0]
-    year = get_numeric_year(release)
-    if not year:
-        return 0
-    month = get_month(release)
-    if not month:
-        return int(year+'00')
-    month = '{:0>2}'.format(month)
-    return int(year+month)
-
-
-def get_month(release):
-    if re.search('[a-zA-Z]', release):
-        month = re.search(MONTHS_RE, release, flags=re.IGNORECASE)
-        if month:
-            month = month.group()
-            return MONTHS[month.lower()]
-    return get_numeric_month(release)
-
-
-def get_numeric_month(release):
-    if re.search('\.', release):
-        tokens = release.split('.')
-        digit_month = re.match('\d+', tokens[1])
-        if digit_month:
-            return digit_month.group()
-
-
-def get_numeric_year(release):
-    year = re.search('\d{4}', release)
-    if not year:
-        return
-    return year.group()
-
+###
+##  IMAGE
+#
 
 def get_image(songName, bandName, albumData):
     cover_html, cover_md = get_cover(songName, bandName, albumData)
@@ -214,6 +162,38 @@ def get_image(songName, bandName, albumData):
                  f'-left:7px solid transparent">\n{cover_html}\n</div>'
     return image_html, cover_md
 
+
+def get_cover(albumName, bandName, albumData):
+    imageLink = get_img_link(albumName, albumData)
+    if not imageLink or not os.path.isfile(imageLink):
+        return None, None
+    yt_link = get_yt_link(f'{bandName} {albumName}')
+    cover_html = f'{yt_link}<img src="{imageLink}" alt="cover" height="' \
+                 f'{IMG_HEIGHT}px"/></a>\n'
+    cover_md = f'{yt_link}<img src="{imageLink}" align="left" alt="cover" hei' \
+               f'ght="{IMG_HEIGHT}px"/></a>\n'
+    return cover_html, cover_md
+
+
+def get_img_link(albumName, albumData):
+    album = albumData.get(albumName, None)
+    if not album:
+        return
+    link = album.get('cover', None)
+    if not link:
+        return
+    return f'data/img/cover/{link}'
+
+
+def get_yt_link(albumName):
+    out = '<a target="_blank" href="https://www.youtube.com/results?search_query=' \
+          + albumName.replace('-', '').replace(' ', '+') + '+song"> '
+    return out
+
+
+###
+##  DIV
+#
 
 def get_div(songName, albumData):
     data_html, data_md = [], []
@@ -252,32 +232,46 @@ def get_row(songData, key):
     return row_html, row_md
 
 
-def get_cover(albumName, bandName, albumData):
-    imageLink = get_img_link(albumName, albumData)
-    if not imageLink or not os.path.isfile(imageLink):
-        return None, None
-    yt_link = get_yt_link(f'{bandName} {albumName}')
-    cover_html = f'{yt_link}<img src="{imageLink}" alt="cover" height="' \
-                 f'{IMG_HEIGHT}px"/></a>\n'
-    cover_md = f'{yt_link}<img src="{imageLink}" align="left" alt="cover" hei' \
-               f'ght="{IMG_HEIGHT}px"/></a>\n'
-    return cover_html, cover_md
+###
+##  DATE
+#
+
+def get_numeric_date(album, albumData):
+    release = albumData[album]['released']
+    if type(release) == list:
+        release = release[0]
+    year = get_numeric_year(release)
+    if not year:
+        return 0
+    month = get_month(release)
+    if not month:
+        return int(year+'00')
+    month = '{:0>2}'.format(month)
+    return int(year+month)
 
 
-def get_img_link(albumName, albumData):
-    album = albumData.get(albumName, None)
-    if not album:
+def get_month(release):
+    if re.search('[a-zA-Z]', release):
+        month = re.search(MONTHS_RE, release, flags=re.IGNORECASE)
+        if month:
+            month = month.group()
+            return MONTHS[month.lower()]
+    return get_numeric_month(release)
+
+
+def get_numeric_month(release):
+    if re.search('\.', release):
+        tokens = release.split('.')
+        digit_month = re.match('\d+', tokens[1])
+        if digit_month:
+            return digit_month.group()
+
+
+def get_numeric_year(release):
+    year = re.search('\d{4}', release)
+    if not year:
         return
-    link = album.get('cover', None)
-    if not link:
-        return
-    return f'data/img/cover/{link}'
-
-
-def get_yt_link(albumName):
-    out = '<a target="_blank" href="https://www.youtube.com/results?search_query=' \
-          + albumName.replace('-', '').replace(' ', '+') + '+song"> '
-    return out
+    return year.group()
 
 
 ###
