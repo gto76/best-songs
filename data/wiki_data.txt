@@ -354,7 +354,7 @@
 | Album         = [[The Doors (album)|The Doors]]
 | B-side        = "[[The Crystal Ship]]"
 | Format        = 7" vinyl
-| Released      = April 24, 1967
+| Released      = January 4, 1967
 | Recorded      = August 22, 1966
 | Genre         = [[Psychedelic rock]]<ref>{{cite news|title= Forty years on, Jim Morrison cult thrives at Paris cemetery |newspaper= [[The Independent]] |date= July 1, 2011 |accessdate= September 14, 2017 |url= https://www.independent.co.uk/arts-entertainment/music/forty-years-on-jim-morrison-cult-thrives-at-paris-cemetery-2305977.html}}</ref>
 | Length        = {{Plainlist|

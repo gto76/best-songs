@@ -3,8 +3,6 @@ Best Songs
 
 New Additions
 -------------
-Add it up - Violent Femmes
-
 Dr Dre - Nuthin But A G Thang
 Busta Rhymes - Gimme Some More
 The Kinks - Lola
@@ -54,37 +52,37 @@ For Real (by year)
 ### 66 B * Mamas and Papas, 'California Dreamen'
 ### 66 B * The Doors, 'Light my Fire'
 ### 66 B * The Doors, 'The End'
-### 66 B * Beatles, 'Tomorow Never Knows'
-### 67 B/C * Velvet Underground, 'Venus in Furs'
+### 66 B * Beatles, 'Tomorow Never Knows' ?
+### 67 B/C * Velvet Underground, 'Venus in Furs' ?
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Murder Mistery'
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
-### 70 B * The Doors, 'Celebration of the Lizard'
+### 70 B * The Doors, 'Celebration of the Lizard' ?
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
-### 74 A/B/C * Bijelo Dugme, 'Top'
+### 74 A/B/C * Bijelo Dugme, 'Top' ?
 ### 76 C * Ramones, 'Blietzkrieg Bop'
 ### 76 D * Fela Kuti, 'Zombie'
-### 77 C * Iggy Pop, 'Lust for life'
+### 77 C * Iggy Pop, 'Lust for life' ?
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
-### 80 A/B * Tom Waits, 'In Shades'
-### 80 C * Pankrti, 'Sedemnajst'
+### 80 A/B * Tom Waits, 'In Shades' ?
+### 80 C * Pankrti, 'Sedemnajst' ?
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' ?
 ### 83 C/F * The Smiths, 'This Charming Man'
-### 83 C * New Order, 'Blue Monday'
-### 83 C/F * Violent Femmes, 'Blister on the Sun'
-### 86 D * Prince, 'Kiss'
-### 88 * Safet Isovic, 'Bosna Moja'
+### 83 C * New Order, 'Blue Monday' ?
+### 83 C/F * Violent Femmes, 'Blister on the Sun' ?
+### 86 D * Prince, 'Kiss' ?
+### 88 * Safet Isovic, 'Bosna Moja' ?
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
 ### 96 B * Satyricon, 'Mother North'
-### 97 B/C * Blur, 'Song 2'
+### 97 B/C * Blur, 'Song 2' ?
 ### 99 E * Groove Armada, 'Superstylin'
-### 99 C/F * At The Drive In, 'One Armed Scissor'
+### 99 C/F * At The Drive In, 'One Armed Scissor' ?
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
@@ -94,11 +92,13 @@ For Real (by year)
 
 Considering (select 8 of 26)
 -----------
+### Add it up - Violent Femmes
+
 ### Antenat - Slon
 ### 91 * beastie - in 3's ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
-Pink Floyd - Money
-Another Brick in the Wall
+### Pink Floyd - Money
+### Another Brick in the Wall
 
 ### * Joy Division - Disorder
 ### * Nirvana - Territorial Pissing
@@ -124,17 +124,18 @@ Another Brick in the Wall
 
 Too early/late
 --------------
+### 09 * Poison Lips - Vitalic
 ### 49 * Profesor Longhair, 'Mardi gras in new orlean'
+### 10 * El Guincho - Bombay
 ### 06 * LCD, 'freak out'
+
 ### * Justice - D.A.N.C.E. - † 07
 ### * DIE ANTWOORD - BABY'S ON FIRE ?
 ### * DIE ANTWOORD - UGLY BOY
 ### 15 * Bovie - black ?
 ### 17 * Alex Cameron - Candy May
-### * El Guincho - Bombay
 ### * M.I.A. - Paper Planes
 ### * Bloc Party - Banquet
-### 09 * Poison Lips - Vitalic
 
 Just Out
 --------
