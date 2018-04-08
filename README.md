@@ -394,7 +394,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Origin:&ensp;Central United States**  
 
 ### '83 Oct | "This Charming Man" — The Smiths  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Smiths+This+Charming+Man+song"> <img src="data/img/Thischarmingmansingle.PNG" align="left" alt="cover" height="146px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Smiths+This+Charming+Man+song"> <img src="data/img/Thischarmingmansingle.png" align="left" alt="cover" height="146px"/></a>
 
 **Genres:&ensp;Jangle Pop, Pop Rock**  
 **Writers:&ensp;Johnny Marr, Morrissey**  
@@ -501,7 +501,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Producer:&ensp;Rick Rubin**  
 **Length:&ensp;3:38**  
 **Labels:&ensp;American, Lost Highway**  
-**Origin:&ensp;Cenral United States**  
+**Origin:&ensp;Central United States**  
 
 ### '04 Jan | "Yeah" — LCD Soundsystem  
 <a target="_blank" href="https://www.youtube.com/results?search_query=LCD+Soundsystem+Yeah+song"> <img src="data/img/LCD Soundsystem - Yeah cover art.jpg" align="left" alt="cover" height="146px"/></a>
