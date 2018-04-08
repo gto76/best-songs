@@ -108,18 +108,19 @@ def generate_files(albumData, listOfAlbums):
     no_albums = len(listOfAlbums)
     title = f"{no_albums} Greatest Songs From '54 to '04"
     template = '\n'.join(getFileContents(TEMPLATE))
-    out_html = template.format(title=title, table=table)
+    out_html = template.format(title=title, table=table_html)
     out_md = get_out_md(table_md, title, template)
     return out_html, out_md
 
 
 def get_out_md(table_md, title, template):
-    out = [title]
+    out = [title, '\n']
     out.append('=' * len(title))
-    match = re.search('\{title\}\S(.*)\{table\}', template)
+    out.append('\n')
+    match = re.search('\{title\}</h1>(.*)\{table\}', template, flags=re.DOTALL)
     out.append(match.group(1))
     out.append(table_md)
-    return '\n'.join(out)
+    return ''.join(out)
 
 
 def getListOfSongs(readme):
@@ -157,7 +158,7 @@ def generateList(listOfAlbums, albumData):
 
 
 def generate_list(listOfAlbums, albumData):
-    out_html, out_md = []. []
+    out_html, out_md = [], []
     for albumName in listOfAlbums:
         songName = get_song_name(albumName)
         if not songName:
@@ -197,7 +198,7 @@ def get_title(albumName, songName, bandName, albumData):
     month = '' if not month else calendar.month_abbr[int(month)]
     link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>" 
     text = f"'{year} {month} | \"{songName}\" — {bandName}"      
-    title_html = f"<h2>{link}{text}}</h2>\n"
+    title_html = f"<h2>{link}{text}</h2>\n"
     title_md = "### {text}  "
     return title_html, title_md
 
@@ -242,8 +243,8 @@ def get_numeric_year(release):
 
 def get_image(songName, bandName, albumData):
     cover_html, cover_md = get_cover(songName, bandName, albumData)
-    if not cover:
-        cover = ''
+    if not cover_html:
+        cover_html = ''
     image_html = f'<div style="display:inline-block;vertical-align:top;border' \
                   '-left:7px solid transparent">\n{cover_html}\n</div>'
     return image_html, cover_md
@@ -256,10 +257,10 @@ def get_div(songName, albumData):
         data_html.append(row_html)
         if row_md:
             data_md.append(row_md)
-    data_str = '\n'.join(data)
+    data_str = '\n'.join(data_html)
     div_html = f'<div style="display:inline-block;border-left:15px solid tran' \
                 'sparent"><table>{data_str}</table></div>'
-    div_md = get_div_md(data)
+    div_md = get_div_md(data_md)
     return div_html, div_md
 
 
@@ -288,7 +289,7 @@ def get_row(songData, key):
 def get_cover(albumName, bandName, albumData):
     imageLink = getImageLink(albumName, albumData)
     if not imageLink or not os.path.isfile(imageLink):
-        return
+        return None, None
     yt_link = getYouTubeLink(f'{bandName} {albumName}')
     cover_html = f'{yt_link}<img src="{imageLink}" alt="cover" height="' \
                   '{IMG_HEIGHT}px"/></a>\n'
