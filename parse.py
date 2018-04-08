@@ -199,7 +199,7 @@ def get_title(albumName, songName, bandName, albumData):
     link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>" 
     text = f"'{year} {month} | \"{songName}\" — {bandName}"      
     title_html = f"<h2>{link}{text}</h2>\n"
-    title_md = "### {text}  "
+    title_md = f"### {text}  "
     return title_html, title_md
 
 
@@ -246,7 +246,7 @@ def get_image(songName, bandName, albumData):
     if not cover_html:
         cover_html = ''
     image_html = f'<div style="display:inline-block;vertical-align:top;border' \
-                  '-left:7px solid transparent">\n{cover_html}\n</div>'
+                 f'-left:7px solid transparent">\n{cover_html}\n</div>'
     return image_html, cover_md
 
 
@@ -259,7 +259,7 @@ def get_div(songName, albumData):
             data_md.append(row_md)
     data_str = '\n'.join(data_html)
     div_html = f'<div style="display:inline-block;border-left:15px solid tran' \
-                'sparent"><table>{data_str}</table></div>'
+               f'sparent"><table>{data_str}</table></div>'
     div_md = get_div_md(data_md)
     return div_html, div_md
 
@@ -267,6 +267,7 @@ def get_div(songName, albumData):
 def get_div_md(data):
     lines = [f"**{line}**  " for line in data]
     out = (lines + ['<br>  ']*5)[:5]
+    out = '\n'.join(out)
     return f'\n{out}\n'
 
 
