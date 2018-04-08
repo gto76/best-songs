@@ -110,7 +110,7 @@ def generate_html_file(albumData, listOfAlbums):
         out += '<img src="heatmap.png" alt="Studio Locations" width="920"/>\n'
 
     no_albums = len(listOfAlbums)
-    title = f"{no_albums} Greatest Songs From '55 to '05"
+    title = f"{no_albums} Greatest Songs From '54 to '04"
     template = '\n'.join(getFileContents(TEMPLATE))
     return template.format(title=title, table=table)
 
@@ -236,7 +236,7 @@ def get_image(songName, bandName, albumData):
     cover = getCover(songName, bandName, albumData)
     if not cover:
         cover = ''
-    return f'<div style="display:inline-block;vertical-align:top">\n{cover}\n</div>'
+    return f'<div style="display:inline-block;vertical-align:top;border-left:7px solid transparent">\n{cover}\n</div>'
 
 
 def get_div(songName, albumData):

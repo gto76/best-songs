@@ -219,6 +219,7 @@
   },
   "Venus in Furs": {
     "name": "Venus in Furs",
+    "cover": "Velvet_Underground_and_Nico.jpg",
     "artist": "the Velvet Underground",
     "album": "The Velvet Underground & Nico",
     "released": "1967.03.12",
@@ -227,7 +228,11 @@
     "length": "5:12",
     "label": "Verve",
     "writer": "Lou Reed",
-    "producer": "Andy Warhol"
+    "producer": "Andy Warhol",
+    "genre": [
+      "Garage rock",
+      "Avantgarde"
+    ]
   },
   "Kiss": {
     "name": "Kiss",
@@ -324,12 +329,12 @@
   },
   "White Rabbit": {
     "name": "White Rabbit",
-    "cover": "White Rabbit label.jpg",
+    "cover": "Jeffair.jpg",
     "type": "single",
     "artist": "Jefferson Airplane",
     "album": "Surrealistic Pillow",
     "b-side": "Plastic Fantastic Lover",
-    "released": "1967.06.24",
+    "released": "February 1, 1967",
     "format": "7-inch single",
     "recorded": "1966.11.03",
     "studio": "RCA, Hollywood, California, U.S.",
@@ -387,7 +392,7 @@
     "album": "The Doors",
     "b-side": "\"The Crystal Ship\"",
     "format": "7\" vinyl",
-    "released": "April 24, 1967",
+    "released": "January 4, 1967",
     "recorded": "August 22, 1966",
     "genre": "Psychedelic rock",
     "length": [
@@ -436,9 +441,10 @@
   },
   "Five to One": {
     "name": "Five to One",
+    "cover": "The_Doors_-_Waiting_for_the_Sun.jpg",
     "artist": "The Doors",
     "album": "Waiting for the Sun",
-    "released": "July 13, 1968",
+    "released": "July 3, 1968",
     "track_no": "11",
     "recorded": "February–May 1968",
     "genre": [
@@ -455,7 +461,7 @@
   },
   "Miserlou": {
     "name": "Miserlou",
-    "cover": "Miserlou - Dick Dale single.jpg",
+    "cover": "Miserlou - Dick Dale single.png",
     "artist": "Dick Dale",
     "album": "Surfers' Choice",
     "b-side": "\"Eight Till Midnight\"",
@@ -595,6 +601,7 @@
   },
   "Celebration of the Lizard": {
     "name": "Celebration of the Lizard",
+    "cover": "DoorsAbLive1970.jpg",
     "type": "Musical and poetry piece",
     "artist": "The Doors",
     "album": "Absolutely Live",
@@ -654,6 +661,7 @@
   },
   "Folsom Prison Blues": {
     "name": "Folsom Prison Blues",
+    "cover": "Folsom Prison Blues.png",
     "artist": "Johnny Cash",
     "from album": "With His Hot and Blue Guitar, Sings Hank Williams, All Aboard the Blue Train, ''and'' I Walk the Line",
     "b-side": "\"So Doggone Lonesome\"",
@@ -690,8 +698,25 @@
     "this single": "\"Blister in the Sun\", (1983)",
     "next single": "\"Gone Daddy Gone\", (1983)"
   },
+  "Add It Up": {
+    "name": "Add It Up",
+    "type": "Song",
+    "artist": "Violent Femmes",
+    "album": "Violent Femmes",
+    "released": "April 13, 1983",
+    "genre": [
+      "Alternative rock",
+      "Folk punk",
+      "Post-punk"
+    ],
+    "length": "4:44",
+    "writer": "Gordon Gano",
+    "label": "Slash",
+    "producer": "Mark Van Hecke"
+  },
   "If 6 Was 9": {
     "name": "If 6 Was 9",
+    "cover": "Axiscover.jpg",
     "type": "song",
     "artist": "the Jimi Hendrix Experience",
     "album": "Axis: Bold as Love",
@@ -1012,12 +1037,12 @@
     "cover": "Stan-Getz-The-Girl-From-Ipa-604216.jpg",
     "artist": "Stan Getz and João Gilberto",
     "album": "Getz/Gilberto",
-    "released": "25 July 1964",
+    "released": "March 1964",
     "genre": [
       "Bossa nova",
       "Jazz"
     ],
-    "length": "05:17",
+    "length": "05:21",
     "label": "Verve",
     "writer": [
       "Antônio carlos jobim & vinicius de moraes",
@@ -1028,7 +1053,7 @@
   "Tomorrow Never Knows": {
     "name": "Tomorrow Never Knows",
     "artist": "the Beatles",
-    "cover": "160px",
+    "cover": "Tomorrow Never Knows sheet music cover.jpg",
     "caption": "Cover of the Northern Songs sheet music (licensed to Sonora Musikförlag)",
     "album": "Revolver",
     "released": "5 August 1966",
@@ -1073,7 +1098,7 @@
   },
   "Mr. Sandman": {
     "name": "Mr. Sandman",
-    "cover": "Mr Sandman (Chordettes) .jpg",
+    "cover": "Mr Sandman (Chordettes) .png",
     "caption": "Mr. Sandman record by The Chordettes",
     "artist": "The Chordettes",
     "b-side": "'\"I Don't Wanna See You Cryin'\"",
@@ -1093,7 +1118,7 @@
   },
   "California Dreamin'": {
     "name": "California Dreamin'",
-    "cover": "Disco de vinilo - California dreamin'.jpg",
+    "cover": "Disco de vinilo - California dreamin'.png",
     "artist": "The Mamas & the Papas",
     "album": "If You Can Believe Your Eyes and Ears",
     "b-side": "\"Somebody Groovy\"",
@@ -1120,6 +1145,7 @@
       "Sevdah"
     ],
     "name": "Bosna moja",
+    "cover": "bosna_moja.jpg",
     "writer": [
       "R. Živković",
       "Z. Jovanović",
@@ -1173,6 +1199,7 @@
   },
   "The End": {
     "name": "The End",
+    "cover": "Lightmyfire67.jpg",
     "artist": "The Doors",
     "album": "The Doors",
     "released": "January 4, 1967",

@@ -3,6 +3,7 @@ Best Songs
 
 New Additions
 -------------
+Clash - I Fought the Law
 Dr Dre - Nuthin But A G Thang
 Busta Rhymes - Gimme Some More
 The Kinks - Lola
@@ -75,6 +76,7 @@ For Real (by year)
 ### 83 C/F * The Smiths, 'This Charming Man'
 ### 83 C * New Order, 'Blue Monday' ?
 ### 83 C/F * Violent Femmes, 'Blister on the Sun' ?
+### 83 C/F * Add it up - Violent Femmes
 ### 86 D * Prince, 'Kiss' ?
 ### 88 * Safet Isovic, 'Bosna Moja' ?
 ### 91 B/F * Nirvana, 'In Bloom'
@@ -87,13 +89,13 @@ For Real (by year)
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
 ### 04 F * Gustav, 'Linzserenade'
-### 05 E/C * LCD Soundsystem, 'Too Much Love'
 
 
 Considering (select 8 of 26)
 -----------
-### Add it up - Violent Femmes
-
+### Clash - Police & Thieves
+### Doors - "Break On Through (To the Other Side)"
+### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
 ### Antenat - Slon
 ### 91 * beastie - in 3's ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
@@ -373,7 +375,7 @@ Sonic reducer
 germs
 Damaged goods
 joy division: love will
-Clash: stay or go, cashbach
+Clash: stay or go, cashbach, I Fought the Law, Police & Thieves, The Magnificent Seven
 going to los angelees
 chameleon
 Curtis Mayfield - Pusherman, Move On Up

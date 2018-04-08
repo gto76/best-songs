@@ -215,7 +215,7 @@
 ####
 {{Infobox song
 | name       = Venus in Furs
-| cover      =
+| cover      = Velvet_Underground_and_Nico.jpg
 | alt        =
 | type       =
 | artist     = [[the Velvet Underground]]
@@ -229,6 +229,7 @@
 | label      = [[Verve Records|Verve]]
 | writer     = [[Lou Reed]]
 | producer   = [[Andy Warhol]]
+| genre      = Garage Rock, Avantgarde
 | prev_track =
 | track_no   =
 | next_track =
@@ -302,14 +303,14 @@
 ####
 {{Infobox song
 | name       = White Rabbit
-| cover      = White Rabbit label.jpg
+| cover      = Jeffair.jpg
 | alt        =
 | border     = 
 | type       = single
 | artist     = [[Jefferson Airplane]]
 | album      = [[Surrealistic Pillow]]
 | B-side     = Plastic Fantastic Lover
-| released   = {{Start date|1967|06|24}}
+| released   = February 1, 1967
 | format     = [[7-inch single]]
 | recorded   = {{Start date|1966|11|03}}
 | studio     = [[RCA Records|RCA]], Hollywood, California, U.S.
@@ -389,10 +390,10 @@
 ####
 {{Infobox song |
 | Name           = Five to One
-| Cover          =
+| Cover          = The_Doors_-_Waiting_for_the_Sun.jpg
 | Artist         = [[The Doors]]
 | Album          = [[Waiting for the Sun]]
-| Released       = July 13, 1968
+| Released       = July 3, 1968
 | track_no       = 11
 | Recorded       = February–May 1968
 | Genre          = [[Psychedelic rock]], [[hard rock]], [[blues rock]]
@@ -408,7 +409,7 @@
 ####
 {{Infobox single
 | Name          = Miserlou
-| Cover         = Miserlou - Dick Dale single.jpg 
+| Cover         = Miserlou - Dick Dale single.png
 | Border        =
 | Caption       =  
 | Artist        = [[Dick Dale]]
@@ -531,6 +532,7 @@
 ####
 {{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Celebration of the Lizard
+| Cover          = DoorsAbLive1970.jpg
 | Type           = Musical and poetry piece
 | Artist         = [[The Doors]]
 | alt Artist     = 
@@ -590,7 +592,7 @@
 ####
 {{Infobox single
 | Name           = Folsom Prison Blues
-| Cover          =
+| Cover          = Folsom Prison Blues.png
 | Artist         = [[Johnny Cash]]
 | from Album     = [[With His Hot and Blue Guitar]], [[Sings Hank Williams]], [[All Aboard the Blue Train]], ''and'' [[I Walk the Line (1964 album)|I Walk the Line]]
 | B-side         = "[[So Doggone Lonesome]]"
@@ -625,8 +627,34 @@
 | Next single    = "[[Gone Daddy Gone]]"<br>(1983)
 }}
 ####
+{{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Add It Up
+| Type           = Song
+| Artist         = [[Violent Femmes]]
+| alt Artist     = 
+| Album          = [[Violent Femmes (album)|Violent Femmes]]
+| Recorded       = 
+| Released       = April 13, 1983
+| Published      = 
+| Genre          = [[Alternative rock]], [[folk punk]], [[post-punk]]
+| Language       = 
+| Length         = {{Duration|m=4|s=44}}
+| Writer         = [[Gordon Gano]]<ref name="writer"/>
+| Composer       = 
+| Label          = [[Slash]]
+| Producer       = Mark Van Hecke
+| Tracks         = 
+| prev           = 
+| prev_no        = 
+| track_no       = 
+| next           = 
+| next_no        = 
+| Misc           = 
+}}
+####
 {{Infobox song
 | name       = If 6 Was 9
+| cover      = Axiscover.jpg
 | type       = song
 | artist     = [[the Jimi Hendrix Experience]]
 | album      = [[Axis: Bold as Love]]
@@ -918,11 +946,11 @@
 | Album         = [[Getz/Gilberto]]
 | A-side        = 
 | B-side        = 
-| Released      = {{Start date|25 July 1964}}
+| Released      = March 1964
 | Format        = 
 | Recorded      = 
 | Genre         = {{hlist|[[Bossa nova]]|[[jazz]]}}
-| Length        = {{Duration|m=05|s=17}}
+| Length        = {{Duration|m=05|s=21}}
 | Label         = [[Verve Records|Verve]]
 | Writer        = {{hlist|[[Antônio Carlos Jobim]] & [[Vinicius de Moraes]]|[[Norman Gimbel]] (English lyrics)}}
 | Producer      = [[Creed Taylor]]
@@ -935,7 +963,7 @@
 }}
 ####
 {{Infobox song| Name      = Tomorrow Never Knows| Artist     = [[the Beatles]]
-| Cover    =  [[File:Tomorrow Never Knows sheet music cover.jpg|160px]]
+| Cover    =  Tomorrow Never Knows sheet music cover.jpg
 | Caption        = Cover of the Northern Songs sheet music (licensed to Sonora Musikförlag)
 | Album     = [[Revolver (Beatles album)|Revolver]]| Released    = 5 August 1966| track_no    = 14
 | Published = [[Northern Songs]]
@@ -968,7 +996,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Mr. Sandman
-| Cover          = Mr Sandman (Chordettes) .jpg
+| Cover          = Mr Sandman (Chordettes) .png
 | Caption        = Mr. Sandman record by [[The Chordettes]]
 | Artist         = [[The Chordettes]]
 | B-side         = '"I Don't Wanna See You Cryin'"
@@ -988,7 +1016,7 @@
 ####
 {{Infobox single
 | Name           = California Dreamin'
-| Cover          = Disco de vinilo - California dreamin'.jpg
+| Cover          = Disco de vinilo - California dreamin'.png
 | Artist         = [[The Mamas & the Papas]]
 | Album          = [[If You Can Believe Your Eyes and Ears]]
 | B-side         = "Somebody Groovy"
@@ -1008,6 +1036,7 @@
 {{Infobox song|
 | Genre       = Folk, Sevdah
 | Name        = Bosna moja
+| Cover       = bosna_moja.jpg
 | Writer      = R. Živković, Z. Jovanović, Omer Pobrić
 | Producer    = Omer Pobrić
 | Artist      = [[Safet Isović]]
@@ -1050,7 +1079,7 @@
 ####
 {{Infobox song
 | Name     = The End
-| Cover    =
+| Cover    = Lightmyfire67.jpg
 | Artist   = [[The Doors]]
 | Album    = [[The Doors (album)|The Doors]]
 | Released = January 4, 1967
