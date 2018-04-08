@@ -16,6 +16,8 @@ import sys
 import matplotlib.pyplot as plt
 
 
+JSONIZE_WIKI_DATA = True
+
 MAP_IMAGE = "worldmap.jpg"
 HTML_TOP = "html-top.html"
 HTML_TEXT = "html-text.html"
@@ -58,6 +60,9 @@ IMG_HEIGHT = 146 # 123
 #
 
 def main():
+    if JSONIZE_WIKI_DATA:
+        os.popen('cd data;./jsonize.py;cd ..').read()
+
     readme = getFileContents("list_of_songs")
     albumData = readJson("data/wiki_data.json")
     listOfAlbums = getListOfSongs(readme)
