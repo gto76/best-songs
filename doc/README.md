@@ -52,7 +52,7 @@ For Real (by year)
 ### 65 A/B * Beatles, 'Help'
 ### 66 B * Mamas and Papas, 'California Dreamen'
 ### 66 B * The Doors, 'Light my Fire'
-### 66 B * The Doors, 'The End'
+### 66 Doors - "Break On Through (To the Other Side)"
 ### 66 B * Beatles, 'Tomorow Never Knows' ?
 ### 67 B/C * Velvet Underground, 'Venus in Furs' ?
 ### 67 B * Jefferson Airplane, 'White Rabit'
@@ -93,9 +93,9 @@ For Real (by year)
 
 Considering (select 8 of 26)
 -----------
-### Clash - Police & Thieves
-### Doors - "Break On Through (To the Other Side)"
 ### Velvet Underground - heroin L:7:10
+### 66 B * The Doors, 'The End'
+### Clash - Police & Thieves
 
 ### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
 ### Antenat - Slon
@@ -124,6 +124,7 @@ Considering (select 8 of 26)
 ### 70 * Black Sabath, 'Paranoid' ?
 ### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
 ### 68 A/B * The Rolling Stones, 'Jumpin' Jack Flash'
+### Blur - Girls and Boys
 
 
 Too early/late

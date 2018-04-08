@@ -1,7 +1,8 @@
 {
   "Top": {
     "name": "Top",
-    "cover": "top.jpg",
+    "cover": "top_alt.jpg",
+    "cover_alt": "top.jpg",
     "artist": "Bijelo Dugme",
     "b-side": "Ove ću noći naći blues",
     "released": "March 1974",
@@ -56,7 +57,7 @@
     "caption": "Cover of the 1977 Netherlands single",
     "artist": "Iggy Pop",
     "album": "Lust for Life",
-    "released": "1977.10",
+    "released": "August 29, 1977",
     "format": [
       "7\"",
       "Cd"
@@ -95,7 +96,8 @@
   },
   "Walk on the Wild Side": {
     "name": "Walk on the Wild Side",
-    "cover": "wows1.jpg",
+    "cover_alt": "wows1.jpg",
+    "cover": "wows1_alt.jpg",
     "artist": "Lou Reed",
     "album": "Transformer",
     "a-side": "\"Perfect Day\"",
@@ -163,7 +165,7 @@
     "name": "Zombie",
     "artist": "Fela Kuti",
     "cover": "FelaZombie.jpg",
-    "released": "1976",
+    "released": "June 1, 1976",
     "genre": "Afrobeat",
     "length": "12:26",
     "label": "Coconut",
@@ -770,7 +772,7 @@
   },
   "Rapper's Delight": {
     "name": "Rapper's Delight",
-    "cover": "Rappersdelight.jpeg",
+    "cover": "Rappersdelight.jpg",
     "artist": "The Sugarhill Gang",
     "from album": "Sugarhill Gang",
     "released": "September 16, 1979",
@@ -976,7 +978,7 @@
   "Tovar'ši, jest vam ne verjamem": {
     "name": "Tovar'ši, jest vam ne verjamem",
     "artist": "Pankrti",
-    "cover": "Novi Pank Val (compilation album) Yugoslavia.jpg",
+    "cover": "Novi_Pank_Val_(compilation_album)_Yugoslavia.jpg",
     "released": "1981",
     "recorded": "1980, september",
     "studio": "Studio Akademik",
@@ -1157,7 +1159,7 @@
     "artist": "Talking Heads",
     "from album": "Talking Heads: 77",
     "b-side": "\"Psycho Killer\" (Acoustic version), \"I Wish You Wouldn't Say That\"",
-    "released": "December 1977",
+    "released": "September 16, 1977",
     "format": "7\"",
     "recorded": "1977",
     "genre": [
@@ -1192,33 +1194,29 @@
     "studio": "Gustav's living room, Vienna",
     "origin": "International"
   },
-  "The End": {
-    "name": "The End",
-    "cover": "Lightmyfire67.jpg",
+  "Break On Through (To the Other Side)": {
+    "name": "Break On Through (To the Other Side)",
+    "cover": "Break_On_Through_To_the_Other_Side.jpg",
+    "caption": "Cover of the 1967 US single",
     "artist": "The Doors",
     "album": "The Doors",
-    "released": "January 4, 1967",
-    "recorded": "August 1966",
-    "origin": "West Coast",
-    "genre": [
-      "Psychedelic rock",
-      "Raga rock",
-      "Art rock",
-      "Spoken word"
-    ],
-    "length": "11:41 (album version), 6:28 (''Apocalypse Now'' version)",
+    "b-side": "\"End of the Night\"",
+    "released": "1967.1.1",
+    "format": "7\"",
+    "recorded": "1966.8",
+    "genre": "Psychedelic rock",
+    "length": "2:26",
     "label": "Elektra",
     "writer": [
       "Jim Morrison",
       "Ray Manzarek",
-      "Robby Krieger",
-      "John Densmore"
+      "John Densmore",
+      "Robby Krieger"
     ],
-    "producer": [
-      "The Doors",
-      "Paul A. Rothchild"
-    ],
-    "tracks": "# \"Break On Through (To the Other Side)\"\n# \"Soul Kitchen\"\n# \"The Crystal Ship\"\n# \"Twentieth Century Fox\"\n# \"Alabama Song (Whisky Bar)\"\n# \"Light My Fire\"\n# \"Back Door Man\"\n# \"I Looked at You\"\n# \"End of the Night\"\n# \"Take It as It Comes\"\n# \"'''The End'''\""
+    "producer": "Paul A. Rothchild",
+    "this single": "\"'''Break On Through (To the Other Side)'''\", (1967)",
+    "next single": "\"Light My Fire\"/\"The Crystal Ship\", (1967)",
+    "origin": "West Coast"
   },
   "Help!": {
     "name": "Help!",

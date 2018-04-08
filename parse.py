@@ -51,7 +51,7 @@ MONTHS = {'january': 1,
           'november': 11,
           'december': 12}
 
-IMG_HEIGHT = 145 # 123
+IMG_HEIGHT = 146 # 123
 
 ###
 ##  MAIN

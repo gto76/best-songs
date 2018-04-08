@@ -1,6 +1,7 @@
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name          = Top
-| Cover         = top.jpg
+| Cover         = top_alt.jpg
+| Cover_alt         = top.jpg
 | Artist        = [[Bijelo Dugme]]
 | B-side        = Ove ću noći naći blues
 | Released      = March 1974
@@ -54,7 +55,7 @@
 | Caption       = Cover of the 1977 Netherlands single
 | Artist        = [[Iggy Pop]]
 | Album         = [[Lust for Life (Iggy Pop album)|Lust for Life]]
-| Released      = {{Start date|1977|10}}
+| Released      = August 29, 1977
 | Format        = {{hlist|[[7"]]|[[CD single|CD]]}}
 | Recorded      = 1977
 | Genre         = [[Garage rock]],<ref>{{cite book|author=Murray Smith|title=Trainspotting|url=https://books.google.com/books?id=na1ZAAAAMAAJ|accessdate=4 October 2015|date=29 March 2002|publisher=[[British Film Institute]]|isbn=978-0-85170-870-6|page=71}}</ref> [[punk rock]]
@@ -104,7 +105,8 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name          = Walk on the Wild Side
-| Cover         = wows1.jpg
+| Cover_alt         = wows1.jpg
+| Cover         = wows1_alt.jpg
 | Artist        = [[Lou Reed]]
 | Album         = [[Transformer (album)|Transformer]]
 | A-side        = "[[Perfect Day (Lou Reed song)|Perfect Day]]"
@@ -174,7 +176,7 @@
 | Name        = Zombie
 | Artist      = [[Fela Kuti]]
 | Cover       = FelaZombie.jpg
-| Released    = 1976
+| Released    = June 1, 1976
 | Recorded    = 
 | Genre       = [[Afrobeat]]
 | Length      = 12:26
@@ -707,7 +709,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject Songs -->
 | Name           = Rapper's Delight
-| Cover          = Rappersdelight.jpeg
+| Cover          = Rappersdelight.jpg
 | Artist         = [[The Sugarhill Gang]]
 | from Album     = [[Sugarhill Gang (album)|Sugarhill Gang]]
 | B-side         = 
@@ -886,7 +888,7 @@
 {{Infobox song
 | Name        = Tovar'ši, jest vam ne verjamem
 | Artist      = [[Pankrti]]
-| Cover       = Novi Pank Val (compilation album) Yugoslavia.jpg
+| Cover       = Novi_Pank_Val_(compilation_album)_Yugoslavia.jpg
 | Released    = 1981
 | Recorded    = 1980, september
 | Studio = Studio Akademik
@@ -1060,7 +1062,7 @@
 | Artist      = [[Talking Heads]]
 | from Album  = [[Talking Heads: 77]]
 | B-side      = "Psycho Killer" (Acoustic version)<br/>"I Wish You Wouldn't Say That"
-| Released    = December 1977
+| Released    = September 16, 1977
 | Format      = [[Single (music)#7-inch format|7"]]
 | Recorded    = 1977
 | Genre       = {{hlist|[[New wave music|New wave]]<ref name="review">{{cite web|first= Bill |last= Janovitz |title= Psycho Killer – Song Review |publisher= [[AllMusic]]. [[All Media Network]] |url= http://www.allmusic.com/song/psycho-killer-mt0005254892 |accessdate= June 28, 2013}}</ref>|[[no wave]]<ref name="review"/>|[[funk]]<ref>{{cite news|first= Angelica |last= Leicht |title= 10 '70s Songs That Will Give You Your Groove Back |url= http://blogs.houstonpress.com/rocks/2015/01/10_70s_songs_that_will_give_yo.php |newspaper= [[Houston Press]] |date= January 1, 2015 |accessdate= April 27, 2015}}</ref>|[[art pop]]<ref>{{cite news|first= Ed |last= Potton |title= David Byrne: composer, curator, cyclist — not just a Talking Head |url= http://www.thetimes.co.uk/tto/arts/music/article4526801.ece |newspaper= [[The Times]] |date= August 15, 2015 |accessdate= February 28, 2016}}</ref>}}
@@ -1085,38 +1087,27 @@
 | Studio      = Gustav's living room, Vienna
 | origin     = International
 }}
-####
-{{Infobox song
-| Name     = The End
-| Cover    = Lightmyfire67.jpg
-| Artist   = [[The Doors]]
-| Album    = [[The Doors (album)|The Doors]]
-| Released = January 4, 1967
-| Recorded = August 1966
-| origin     = West Coast
-| Genre    = <div class="hlist">
-*[[Psychedelic rock]]<ref>{{cite book|author=Milligan|title=Pleasures and Pains|url=https://books.google.com/books?id=POdvUAnhdEcC&pg=PA123|year=1992|publisher=University of Virginia Press|isbn=978-0-8139-3468-6|page=123}}</ref>
-*[[raga rock]]<ref>{{cite news |title=How a shy pandit became a pop hero|first=Jon |last=Borgzinner|url=https://books.google.com/books?id=DlYEAAAAMBAJ |newspaper=[[Life (magazine)|LIFE]]|publisher=[[Time Inc.]]|location= |volume=63|issue=7|issn=0024-3019|date=18 August 1967 |page=[https://books.google.com/books?id=DlYEAAAAMBAJ&pg=PA36&dq=%22raga+rock%22%22The+End%22+Doors 36]|accessdate=30 January 2013}}</ref>
-*[[art rock]]<ref>{{cite web |url=http://www.cosmik.com/aa-january02/golden_age4.html |title=Archived copy |accessdate=2016-01-10 |deadurl=yes |archiveurl=https://web.archive.org/web/20160303191206/http://www.cosmik.com/aa-january02/golden_age4.html |archivedate=3 March 2016 |df=dmy-all }}</ref>
-*[[spoken word]]<ref>{{cite book|author=Gillian G. Gaar|title=The Doors: The Illustrated History|url=https://books.google.com/books?id=GzLCCAAAQBAJ&pg=PA92|date=25 April 2015|publisher=Voyageur Press|isbn=978-1-62788-705-2|pages=92–}}</ref> 
-</div>
-| Length   = 11:41 (album version), 6:28 (''[[Apocalypse Now]]'' version)
-| Label    = [[Elektra Records|Elektra]]
-| Writer   = [[Jim Morrison]]<br>[[Ray Manzarek]]<br>[[Robby Krieger]]<br>[[John Densmore]]
-| Producer = [[The Doors]]<br>[[Paul A. Rothchild]]
-| Tracks   = <div style="text-align: left">
-# "[[Break On Through (To the Other Side)]]"
-# "Soul Kitchen"
-# "[[The Crystal Ship]]"
-# "Twentieth Century Fox"
-# "[[Alabama Song#The Doors version|Alabama Song (Whisky Bar)]]"
-# "[[Light My Fire]]"
-# "[[Back Door Man#The Doors version|Back Door Man]]"
-# "I Looked at You"
-# "End of the Night"
-# "Take It as It Comes"
-# "'''The End'''"
-</div>
+####{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name          = Break On Through (To the Other Side)
+| Cover         = Break_On_Through_To_the_Other_Side.jpg
+| Border        = yes
+| Caption       = Cover of the 1967 US single
+| Artist        = [[The Doors]]
+| Album         = [[The Doors (album)|The Doors]]
+| B-side        = "End of the Night"
+| Released      = {{Start date|1967|1|1}}
+| Format        = [[Single (music)|7"]]
+| Recorded      = {{Start date|1966|8}}
+| Genre         = [[Psychedelic rock]]<ref>{{cite book|author=Chuck Miller|title=Warman's American Records|url=https://books.google.com/books?id=V570VDDxVNAC&pg=PA130|accessdate=29 October 2015|date=28 February 2011|publisher=Krause Publications|isbn=1-4402-2821-3|page=130}}</ref>
+| Length        = {{Duration|m=2|s=26}}
+| Label         = [[Elektra Records|Elektra]]
+| Writer        = [[Jim Morrison]], [[Ray Manzarek]], [[John Densmore]], [[Robby Krieger]]
+| Producer      = [[Paul A. Rothchild]]
+| Chronology    = 
+| This single   = "'''Break On Through (To the Other Side)'''"<br>(1967)
+| Next single   = "[[Light My Fire]]"/"[[The Crystal Ship]]"<br>(1967)
+| Misc          = 
+| origin        = West Coast
 }}
 ####
 {{Infobox single
