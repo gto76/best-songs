@@ -37,9 +37,9 @@
       "Elvis presley"
     ],
     "producer": "Steve Sholes",
-    "last single": "\"Baby Let's Play House\" (1955)",
-    "this single": "\"'''Heartbreak Hotel'''\" (1956)",
-    "next single": "\"I Want You, I Need You, I Love You\" (1956)",
+    "last single": "\"Baby Let's Play House\", (1955)",
+    "this single": "\"'''Heartbreak Hotel'''\", (1956)",
+    "next single": "\"I Want You, I Need You, I Love You\", (1956)",
     "misc": {
       "type": "single",
       "filename": "Heartbreakhotel.ogg",
@@ -53,7 +53,7 @@
     "caption": "Standard artwork for most non-UK vinyl releases; mirrored for some of those releases",
     "artist": "The Rolling Stones",
     "b-side": "\"Child of the Moon\"",
-    "released": "24 May 1968 (UK) May 1968 (US)",
+    "released": "24 May 1968 (UK), May 1968 (US)",
     "format": "7\"",
     "recorded": "20 April 1968",
     "studio": "Olympic Studios, London",
@@ -63,7 +63,10 @@
       "Rock and roll"
     ],
     "length": "3:42",
-    "label": "Decca",
+    "label": [
+      "Decca",
+      "London"
+    ],
     "writer": [
       "Jagger/richards",
       "Bill wyman (uncredited)"
@@ -138,9 +141,9 @@
       "David bowie",
       "Mick ronson"
     ],
-    "last single": "\"Walk and Talk It\" (1972)",
-    "this single": "\"'''Walk on the Wild Side'''\" (1972)",
-    "next single": "\"Satellite Of Love\" (1973)"
+    "last single": "\"Walk and Talk It\", (1972)",
+    "this single": "\"'''Walk on the Wild Side'''\", (1972)",
+    "next single": "\"Satellite Of Love\", (1973)"
   },
   "Transmission": {
     "name": "Transmission",
@@ -150,6 +153,7 @@
     "released": "7 October 1979",
     "format": "7\" and 12\" vinyl",
     "recorded": "1979",
+    "length": "3:38",
     "genre": "Post-punk",
     "label": "Factory",
     "writer": [
@@ -159,8 +163,8 @@
       "Bernard sumner"
     ],
     "producer": "Martin Hannett",
-    "this single": "\"'''Transmission'''\" (1979)",
-    "next single": "\"Licht und Blindheit\" (1980)",
+    "this single": "\"'''Transmission'''\", (1979)",
+    "next single": "\"Licht und Blindheit\", (1980)",
     "misc": {
       "type": "single",
       "upper caption": "Alternative cover",
@@ -208,6 +212,7 @@
     "length": "2:40",
     "label": [
       "Saddle creek (us)",
+      "",
       "Wichita recordings (uk)"
     ],
     "producer": "Mike Mogis"
@@ -233,7 +238,7 @@
     "b-side": "\"♥ or $\"",
     "released": "February 5, 1986",
     "recorded": "April 28, 1985",
-    "studio": "Sunset Sound (Sunset Boulevard, Hollywood, Los Angeles, California)",
+    "studio": "Sunset Sound, (Sunset Boulevard, Hollywood, Los Angeles, California)",
     "format": [
       "7\"",
       "12\"",
@@ -243,19 +248,19 @@
       "Post-disco",
       "Funk"
     ],
-    "length": "3:38 (LP version)   3:46 (7\" single)   7:16 (12\" single)",
+    "length": "3:38 (LP version) ,  3:46 (7\" single) ,  7:16 (12\" single)",
     "label": "Paisley Park / Warner Bros.",
     "producer": "Prince",
     "writer": "Prince",
-    "last single": "\"America\" (1985)",
-    "this single": "\"'''Kiss'''\" (1986)",
-    "next single": "\"Mountains\" (1986)",
+    "last single": "\"America\", (1985)",
+    "this single": "\"'''Kiss'''\", (1986)",
+    "next single": "\"Mountains\", (1986)",
     "misc": {
       "artist": "Prince (UK)",
       "type": "single",
-      "last single": "\"Pop Life\" (1985)",
-      "this single": "\"'''Kiss'''\" (1986)",
-      "next single": "\"Mountains\" (1986)"
+      "last single": "\"Pop Life\", (1985)",
+      "this single": "\"'''Kiss'''\", (1986)",
+      "next single": "\"Mountains\", (1986)"
     }
   },
   "Too Much Love": {
@@ -264,6 +269,9 @@
     "album": "LCD Soundsystem",
     "cover": "Afc lcd LCDSoundsystem.gif",
     "released": "2005.1.24",
+    "studio": [
+      "Long view farm"
+    ],
     "genre": [
       "Dance-punk",
       "Electronica"
@@ -299,6 +307,7 @@
       "Alternative dance",
       "Hi-nrg"
     ],
+    "length": "7:29, 4:09 (edited version)",
     "label": [
       "Factory"
     ],
@@ -309,9 +318,9 @@
       "Bernard sumner"
     ],
     "producer": "New Order",
-    "last single": "\"Temptation\" (1982)",
-    "this single": "\"'''Blue Monday'''\" (1983)",
-    "next single": "\"Confusion\" (1983)"
+    "last single": "\"Temptation\", (1982)",
+    "this single": "\"'''Blue Monday'''\", (1983)",
+    "next single": "\"Confusion\", (1983)"
   },
   "White Rabbit": {
     "name": "White Rabbit",
@@ -363,9 +372,13 @@
       "Johnny marr",
       "Morrissey"
     ],
-    "last single": "\"Hand in Glove\" (1983)",
-    "this single": "\"'''This Charming Man'''\" (1983)",
-    "next single": "\"What Difference Does It Make?\" (1984)"
+    "producer": [
+      "Roger pusey (peel version)",
+      "John porter (single version)"
+    ],
+    "last single": "\"Hand in Glove\", (1983)",
+    "this single": "\"'''This Charming Man'''\", (1983)",
+    "next single": "\"What Difference Does It Make?\", (1984)"
   },
   "Light My Fire": {
     "name": "Light My Fire",
@@ -389,9 +402,9 @@
       "Ray Manzarek"
     ],
     "producer": "Paul A. Rothchild",
-    "last single": "\"Break On Through (To the Other Side)\" (1967)",
-    "this single": "\"'''Light My Fire'''\"/\"The Crystal Ship\" (1967)",
-    "next single": "\"People Are Strange\" (1967)"
+    "last single": "\"Break On Through (To the Other Side)\", (1967)",
+    "this single": "\"'''Light My Fire'''\"/\"The Crystal Ship\", (1967)",
+    "next single": "\"People Are Strange\", (1967)"
   },
   "Hurt": {
     "name": "Hurt",
@@ -417,9 +430,9 @@
     ],
     "writer": "Trent Reznor",
     "producer": "Rick Rubin",
-    "last single": "\"The Man Comes Around\" (2002)",
-    "this single": "\"'''Hurt'''\" (2003)",
-    "next single": "\"God's Gonna Cut You Down\" (2006)"
+    "last single": "\"The Man Comes Around\", (2002)",
+    "this single": "\"'''Hurt'''\", (2003)",
+    "next single": "\"God's Gonna Cut You Down\", (2006)"
   },
   "Five to One": {
     "name": "Five to One",
@@ -463,6 +476,10 @@
   },
   "Sedemnajst": {
     "name": "Sedemnajst",
+    "writer": [
+      "Gregor Tomc",
+      "Dušan Žiberna"
+    ],
     "artist": "Pankrti",
     "cover": "Dolgcajt.jpg",
     "released": "8. february 1980",
@@ -491,9 +508,9 @@
     "label": "Columbia",
     "writer": "Bob Dylan",
     "producer": "Tom Wilson",
-    "last single": "\"The Times They Are a-Changin'\" (1965)",
-    "next single": "\"Maggie's Farm\" (1965)",
-    "this single": "\"'''Subterranean Homesick Blues'''\" / \"She Belongs to Me\" (1965)",
+    "last single": "\"The Times They Are a-Changin'\", (1965)",
+    "next single": "\"Maggie's Farm\", (1965)",
+    "this single": "\"'''Subterranean Homesick Blues'''\" / \"She Belongs to Me\", (1965)",
     "misc": {
       "album": "Bringing It All Back Home",
       "type": "studio",
@@ -566,9 +583,9 @@
     ],
     "label": "Food",
     "producer": "Stephen Street",
-    "last single": "\"Beetlebum\" (1997)",
-    "this single": "\"'''Song 2'''\"  (1997)",
-    "next single": "\"On Your Own\" (1997)",
+    "last single": "\"Beetlebum\", (1997)",
+    "this single": "\"'''Song 2'''\" , (1997)",
+    "next single": "\"On Your Own\", (1997)",
     "misc": {
       "type": "single",
       "filename": "Blur - Song 2.ogg",
@@ -582,8 +599,7 @@
     "artist": "The Doors",
     "album": "Absolutely Live",
     "recorded": "Aquarius Theater, Los Angeles - July 21, 1969",
-    "released": "1970, (live version)",
-    "published": "1970",
+    "released": "20 July 1970, (live version)",
     "genre": [
       "Psychedelic rock",
       "Acid rock",
@@ -591,9 +607,14 @@
       "Progressive rock",
       "Poetry"
     ],
-    "length": "14:25 (live version) 17:09 (studio version)",
+    "length": "14:25 (live version), 17:09 (studio version)",
     "lyricist": "Jim Morrison",
-    "composer": "John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison",
+    "writer": [
+      "John Densmore",
+      "Robbie Kreiger",
+      "Ray Manzarek",
+      "Jim Morrison"
+    ],
     "label": "Elektra",
     "producer": "Paul A. Rothchild"
   },
@@ -623,9 +644,9 @@
     ],
     "writer": "Jagger/Richards",
     "producer": "Andrew Loog Oldham",
-    "last single": "\"The Last Time\" (1965)",
-    "this single": "\"'''(I Can't Get No) Satisfaction'''\" (1965)",
-    "next single": "\"Get Off of My Cloud\" (1965)",
+    "last single": "\"The Last Time\", (1965)",
+    "this single": "\"'''(I Can't Get No) Satisfaction'''\", (1965)",
+    "next single": "\"Get Off of My Cloud\", (1965)",
     "misc": {
       "file": "Satisfactionsample.ogg",
       "type": "single"
@@ -636,7 +657,7 @@
     "artist": "Johnny Cash",
     "from album": "With His Hot and Blue Guitar, Sings Hank Williams, All Aboard the Blue Train, ''and'' I Walk the Line",
     "b-side": "\"So Doggone Lonesome\"",
-    "released": "December 15, 1955 April 1968 (re-recording)",
+    "released": "December 15, 1955, April 1968 (re-recording)",
     "format": "7\" single",
     "recorded": "July 30, 1955, Sun Studio, Memphis, Tennessee",
     "genre": [
@@ -647,9 +668,9 @@
     "label": "Sun",
     "writer": "Johnny Cash",
     "producer": "Sam Phillips",
-    "last single": "\"Hey, Porter\" (1955)",
-    "this single": "\"'''Folsom Prison Blues'''\" (1955)",
-    "next single": "\"I Walk the Line\" (1956)"
+    "last single": "\"Hey, Porter\", (1955)",
+    "this single": "\"'''Folsom Prison Blues'''\", (1955)",
+    "next single": "\"I Walk the Line\", (1956)"
   },
   "Blister in the Sun": {
     "name": "Blister in the Sun",
@@ -663,11 +684,11 @@
       "Progressive folk"
     ],
     "length": "2:27",
-    "released": "1983",
+    "released": "April 13, 1983",
     "producer": "Mark Van Hecke",
     "label": "Slash",
-    "this single": "\"Blister in the Sun\" (1983)",
-    "next single": "\"Gone Daddy Gone\" (1983)"
+    "this single": "\"Blister in the Sun\", (1983)",
+    "next single": "\"Gone Daddy Gone\", (1983)"
   },
   "If 6 Was 9": {
     "name": "If 6 Was 9",
@@ -706,8 +727,8 @@
       "Dee Dee Ramone"
     ],
     "producer": "Craig Leon",
-    "this single": "\"'''Blitzkrieg Bop'''\" (1976)",
-    "next single": "\"I Wanna Be Your Boyfriend\" (1976)",
+    "this single": "\"'''Blitzkrieg Bop'''\", (1976)",
+    "next single": "\"I Wanna Be Your Boyfriend\", (1976)",
     "misc": {
       "filename": "Ramones-Blitzkrieg Bop.ogg",
       "title": "\"Blitzkrieg Bop\"",
@@ -735,15 +756,18 @@
       "Electroclash",
       "Acid house"
     ],
+    "length": [
+      "9:20"
+    ],
     "label": "DFA",
     "writer": [
       "Tim goldsworthy",
       "James murphy"
     ],
     "producer": "The DFA",
-    "last single": "\"Give It Up\" (2003)",
-    "this single": "\"'''Yeah'''\" (2004)",
-    "next single": "\"Movement\" (2004)"
+    "last single": "\"Give It Up\", (2003)",
+    "this single": "\"'''Yeah'''\", (2004)",
+    "next single": "\"Movement\", (2004)"
   },
   "Rapper's Delight": {
     "name": "Rapper's Delight",
@@ -758,7 +782,7 @@
       "Disco",
       "Funk"
     ],
-    "length": "3:55 (single version) 6:30 (12\" short version) 14:35 (album version)",
+    "length": "3:55 (single version), 6:30 (12\" short version), 14:35 (album version)",
     "label": "Sugar Hill",
     "writer": [
       "The Sugarhill Gang",
@@ -768,8 +792,8 @@
       "Grandmaster Caz"
     ],
     "producer": "Sylvia Robinson",
-    "this single": "\"'''Rapper's Delight'''\" (1979)",
-    "next single": "\"8th Wonder\" (1980)"
+    "this single": "\"'''Rapper's Delight'''\", (1979)",
+    "next single": "\"8th Wonder\", (1980)"
   },
   "Rumble": {
     "name": "Rumble",
@@ -799,6 +823,8 @@
   "In Shades": {
     "name": "In Shades",
     "artist": "Tom Waits",
+    "genre": "Blues Rock",
+    "writer": "Tom Waits",
     "cover": "Tom_Waits-Heartattack_and_Vine.jpg",
     "released": "1980.09.09",
     "studio": "Filmways/Heider Studio B, Hollywood, California",
@@ -821,9 +847,9 @@
     "label": "DGC",
     "writer": "Kurt Cobain",
     "producer": "Butch Vig",
-    "last single": "\"Lithium\" (1992)",
-    "this single": "\"'''In Bloom'''\"   (1992)",
-    "next single": "\"Puss\" / \"Oh, the Guilt\" (1993)",
+    "last single": "\"Lithium\", (1992)",
+    "this single": "\"'''In Bloom'''\" ,  (1992)",
+    "next single": "\"Puss\" / \"Oh, the Guilt\", (1993)",
     "misc": {
       "album": "Nevermind",
       "type": "studio"
@@ -849,13 +875,19 @@
       "Jack hammer"
     ],
     "producer": "Sam Phillips",
-    "last single": "\"Whole Lotta Shakin' Goin' On\" (1957)",
-    "this single": "\"Great Balls of Fire\" (1957)",
-    "next single": "\"You Win Again\" (1957)"
+    "last single": "\"Whole Lotta Shakin' Goin' On\", (1957)",
+    "this single": "\"Great Balls of Fire\", (1957)",
+    "next single": "\"You Win Again\", (1957)"
   },
   "Superstylin'": {
     "name": "Superstylin'",
     "cover": "Groove_Armada_Superstylin'_Single_cover.jpeg",
+    "writer": [
+      "Andy Cato",
+      "Jonathan White",
+      "Michael Anthony Daniel",
+      "Tom Findlay"
+    ],
     "artist": "Groove Armada",
     "album": "Goodbye Country (Hello Nightclub)",
     "released": "13 August 2001",
@@ -865,14 +897,14 @@
       "Reggae fusion",
       "Speed garage"
     ],
-    "length": "3:43 (Edited Version) 6:02 (Album Version)",
+    "length": "3:43 (Edited Version), 6:02 (Album Version)",
     "label": "Zomba",
-    "writer": {
-      "next single": "\"My Friend\" (2001)"
-    },
     "producer": "Groove Armada",
-    "last single": "\"I See You Baby\" (1999)",
-    "this single": "\"'''Superstylin"
+    "last single": "\"I See You Baby\", (1999)",
+    "this single": "\"'''Superstylin",
+    "recorded": {
+      "next single": "\"My Friend\", (2001)"
+    }
   },
   "Loser": {
     "name": "Loser",
@@ -908,16 +940,17 @@
       "Karl stephenson",
       "Tom rothrock"
     ],
-    "last single": "\"MTV Makes Me Want to Smoke Crack\" (1993)",
-    "this single": "\"'''Loser'''\" (1993)",
-    "next single": "\"Pay No Mind (Snoozer)\" (1994)"
+    "last single": "\"MTV Makes Me Want to Smoke Crack\", (1993)",
+    "this single": "\"'''Loser'''\", (1993)",
+    "next single": "\"Pay No Mind (Snoozer)\", (1994)"
   },
   "One Armed Scissor": {
     "name": "One Armed Scissor",
     "cover": "At the Drive-In - One Armed Scissor cover.jpg",
+    "writer": "At The Drive-in",
     "artist": "At the Drive-In",
     "from album": "Relationship of Command",
-    "b-side": "\"Pattern Against User\" \"Incetardis\"",
+    "b-side": "\"Pattern Against User\", \"Incetardis\"",
     "format": "CD, vinyl",
     "released": "7 August 2000 (UK)",
     "genre": [
@@ -929,8 +962,8 @@
     "length": "3:45",
     "label": "Grand Royal",
     "producer": "Ross Robinson",
-    "this single": "\"'''One Armed Scissor'''\" (2000)",
-    "next single": "\"Rolodex Propaganda\" (2000)"
+    "this single": "\"'''One Armed Scissor'''\", (2000)",
+    "next single": "\"Rolodex Propaganda\", (2000)"
   },
   "Tovar'ši, jest vam ne verjamem": {
     "name": "Tovar'ši, jest vam ne verjamem",
@@ -940,12 +973,13 @@
     "recorded": "1980, september",
     "studio": "Studio Akademik",
     "genre": "Punk rock",
-    "length": "1:53",
+    "length": "1:45",
     "label": "RTV Ljubljana",
     "producer": [
       "Igor Vidmar",
       "Pankrti"
-    ]
+    ],
+    "writer": "Pankrti"
   },
   "London Calling": {
     "name": "London Calling",
@@ -962,15 +996,15 @@
     "label": "CBS",
     "writer": "Joe Strummer and Mick Jones",
     "producer": "Guy Stevens",
-    "last single": "\"Groovy Times\" (1979)",
-    "this single": "\"'''London Calling'''\" (1979)",
-    "next single": "\"Clampdown\" (AUS, 1980)",
+    "last single": "\"Groovy Times\", (1979)",
+    "this single": "\"'''London Calling'''\", (1979)",
+    "next single": "\"Clampdown\", (AUS, 1980)",
     "misc": {
       "artist": "The Clash extra singles",
       "type": "Singles",
-      "last single": "\"Rock the Casbah\" (rerelease) (1991)",
-      "this single": "\"'''London Calling'''\" (2nd rerelease) (1991)",
-      "next single": "\"Train in Vain\" (rerelease) (1991)"
+      "last single": "\"Rock the Casbah\" (rerelease), (1991)",
+      "this single": "\"'''London Calling'''\" (2nd rerelease), (1991)",
+      "next single": "\"Train in Vain\" (rerelease), (1991)"
     }
   },
   "The Girl from Ipanema": {
@@ -983,6 +1017,7 @@
       "Bossa nova",
       "Jazz"
     ],
+    "length": "05:17",
     "label": "Verve",
     "writer": [
       "Antônio carlos jobim & vinicius de moraes",
@@ -999,7 +1034,7 @@
     "released": "5 August 1966",
     "track_no": "14",
     "published": "Northern Songs",
-    "recorded": "6, 7 and 22 April 1966 EMI Studios, London",
+    "recorded": "6, 7 and 22 April 1966, EMI Studios, London",
     "genre": [
       "Psychedelic rock",
       "Raga rock",
@@ -1025,16 +1060,16 @@
     "format": "12\"",
     "recorded": "A & R Studios, NYC",
     "genre": "Post-punk",
-    "length": "9:58 10:40 (re-issue)",
+    "length": "9:58, 10:40 (re-issue)",
     "label": "Elektra",
     "writer": "Tom Verlaine",
     "producer": [
       "Andy Johns",
       "Tom Verlaine"
     ],
-    "last single": "\"Little Johnny Jewel\" (1975)",
-    "this single": "\"'''Marquee Moon'''\" (1977)",
-    "next single": "\"Prove It\" (1977)"
+    "last single": "\"Little Johnny Jewel\", (1975)",
+    "this single": "\"'''Marquee Moon'''\", (1977)",
+    "next single": "\"Prove It\", (1977)"
   },
   "Mr. Sandman": {
     "name": "Mr. Sandman",
@@ -1053,8 +1088,8 @@
     "label": "Cadence",
     "writer": "Pat Ballard",
     "producer": "Archie Bleyer",
-    "this single": "\"'''Mr. Sandman'''\" (1954)",
-    "next single": "\"The Wedding\" (1956)"
+    "this single": "\"'''Mr. Sandman'''\", (1954)",
+    "next single": "\"The Wedding\", (1956)"
   },
   "California Dreamin'": {
     "name": "California Dreamin'",
@@ -1065,9 +1100,10 @@
     "released": "December 8, 1965",
     "recorded": "November 4, 1965, Western Recorders, Hollywood",
     "format": "Vinyl record (7\") 45 RPM",
-    "genre": {
-      "next single": "\"Monday, Monday\" (1966)"
-    },
+    "genre": [
+      "Sunshine pop",
+      "Folk rock"
+    ],
     "length": "2:38",
     "label": "Dunhill Records",
     "writer": [
@@ -1075,14 +1111,25 @@
       "Michelle Phillips"
     ],
     "producer": "Lou Adler",
-    "last single": "\"Go Where You Wanna Go\" (1965)",
-    "this single": "\"'''California Dreamin"
+    "last single": "\"Go Where You Wanna Go\", (1965)",
+    "next single": "\"Monday, Monday\", (1966)"
   },
   "Bosna moja": {
+    "genre": [
+      "Folk",
+      "Sevdah"
+    ],
     "name": "Bosna moja",
+    "writer": [
+      "R. Živković",
+      "Z. Jovanović",
+      "Omer Pobrić"
+    ],
+    "producer": "Omer Pobrić",
     "artist": "Safet Isović",
     "released": "1988",
-    "length": "5:34"
+    "length": "5:34",
+    "label": "Diskoton"
   },
   "Psycho Killer": {
     "name": "Psycho Killer",
@@ -1090,7 +1137,7 @@
     "caption": "U.S. vinyl edition cover",
     "artist": "Talking Heads",
     "from album": "Talking Heads: 77",
-    "b-side": "\"Psycho Killer\" (Acoustic version) \"I Wish You Wouldn't Say That\"",
+    "b-side": "\"Psycho Killer\" (Acoustic version), \"I Wish You Wouldn't Say That\"",
     "released": "December 1977",
     "format": "7\"",
     "recorded": "1977",
@@ -1110,9 +1157,9 @@
       "Tony bongiovi",
       "Lance quinn"
     ],
-    "last single": "\"Uh-Oh, Love Comes to Town\" (1977)",
-    "this single": "\"'''Psycho Killer'''\" (1977)",
-    "next single": "\"Pulled Up\" (1978)"
+    "last single": "\"Uh-Oh, Love Comes to Town\", (1977)",
+    "this single": "\"'''Psycho Killer'''\", (1977)",
+    "next single": "\"Pulled Up\", (1978)"
   },
   "Linzserenade": {
     "name": "Linzserenade",
@@ -1136,10 +1183,18 @@
       "Art rock",
       "Spoken word"
     ],
-    "length": "11:41 [album version]   6:28 [''Apocalypse Now'' version]",
+    "length": "11:41 (album version), 6:28 (''Apocalypse Now'' version)",
     "label": "Elektra",
-    "writer": "Jim Morrison Ray Manzarek Robby Krieger John Densmore",
-    "producer": "The Doors Paul A. Rothchild",
+    "writer": [
+      "Jim Morrison",
+      "Ray Manzarek",
+      "Robby Krieger",
+      "John Densmore"
+    ],
+    "producer": [
+      "The Doors",
+      "Paul A. Rothchild"
+    ],
     "tracks": "# \"Break On Through (To the Other Side)\"\n# \"Soul Kitchen\"\n# \"The Crystal Ship\"\n# \"Twentieth Century Fox\"\n# \"Alabama Song (Whisky Bar)\"\n# \"Light My Fire\"\n# \"Back Door Man\"\n# \"I Looked at You\"\n# \"End of the Night\"\n# \"Take It as It Comes\"\n# \"'''The End'''\""
   },
   "Help!": {
@@ -1148,8 +1203,8 @@
     "cover": "Beatles_help2.jpg",
     "caption": "US picture sleeve",
     "b-side": "\"I'm Down\"",
-    "released": "19 July 1965 (US) 23 July 1965 (UK)",
-    "recorded": "13 April 1965, EMI Studios, London",
+    "released": "19 July 1965 (US), 23 July 1965 (UK)",
+    "recorded": "13 April 1965,, EMI Studios, London",
     "format": "7\"",
     "genre": "Folk rock",
     "length": "2:18",
@@ -1160,9 +1215,9 @@
     "writer": "Lennon–McCartney",
     "producer": "George Martin",
     "chronology": "The Beatles UK singles",
-    "last single": "\"Ticket to Ride\" (1965)",
-    "next single": "\"We Can Work It Out\"/ \"Day Tripper\" (1965)",
-    "this single": "\"'''Help!'''\" (1965)",
+    "last single": "\"Ticket to Ride\", (1965)",
+    "next single": "\"We Can Work It Out\"/, \"Day Tripper\", (1965)",
+    "this single": "\"'''Help!'''\", (1965)",
     "misc": {
       "type": "single",
       "filename": "Beatles help.ogg",

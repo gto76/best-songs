@@ -3,6 +3,8 @@ Best Songs
 
 New Additions
 -------------
+Add it up - Violent Femmes
+
 Dr Dre - Nuthin But A G Thang
 Busta Rhymes - Gimme Some More
 The Kinks - Lola
@@ -58,7 +60,6 @@ For Real (by year)
 ### 67 B/C * Velvet Underground, 'Murder Mistery'
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
-### 68 A/B * The Rolling Stones, 'Jumpin' Jack Flash'
 ### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
 ### 74 A/B/C * Bijelo Dugme, 'Top'
@@ -118,6 +119,7 @@ Another Brick in the Wall
 ### 93 * RHCP, 'Give it away' ?
 ### 70 * Black Sabath, 'Paranoid' ?
 ### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
+### 68 A/B * The Rolling Stones, 'Jumpin' Jack Flash'
 
 
 Too early/late

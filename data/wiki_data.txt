@@ -152,6 +152,7 @@
 | Released      =  7 October 1979
 | Format        = [[Gramophone record|7" and 12" vinyl]]
 | Recorded      = 1979
+| Length        = {{Duration|m=3|s=38}}
 | Genre         = <!-- In order to add genres to an infobox, they must be cited in-article by reputable sources. -->[[Post-punk]]<ref>{{cite magazine|first= Phil |last= Alexander |title= 20 Great Post-Punk Tracks |date= 1 April 2014 |magazine= [[Mojo (magazine)|Mojo]] |url= http://www.mojo4music.com/13181/20-great-post-punk-tracks/ |accessdate= 23 August 2016}}</ref><ref>{{cite book|author=David N. Howard|title=Sonic Alchemy: Visionary Music Producers and Their Maverick Recordings|url=https://books.google.com/books?id=O0VMAgAAQBAJ&pg=PA257|accessdate=8 November 2015|date=1 June 2004|publisher=Hal Leonard|isbn=978-1-4768-5209-6|page=257}}</ref>
 | Length        = <!-- {{Duration|m=MM|s=SS}} -->
 | Label         = [[Factory Records|Factory]]
@@ -290,7 +291,7 @@
 | Format         = {{hlist|[[12-inch single|12"]]|[[Gramophone record|7"]]}}
 | Recorded       = 1982
 | Genre          = {{hlist|[[Synth-pop]]|[[alternative dance]]|[[Hi-NRG]]}}<!--Genres are sourced in the prose.-->
-| Length         = {{ubl|7:29|4:09 {{small|(edited version)}}}}
+| Length         = 7:29, 4:09 (edited version)
 | Label          = {{hlist|[[Factory Records|Factory]] {{small|(12")}}|Tonpress {{small|(7")}}}}
 | Writer         = {{hlist|[[Gillian Gilbert]]|[[Peter Hook]]|[[Stephen Morris (musician)|Stephen Morris]]|[[Bernard Sumner]]}}
 | Producer       = New Order
@@ -425,6 +426,7 @@
 ####
 {{Infobox song
 | Name        = Sedemnajst
+| Writer        = Gregor Tomc, Dušan Žiberna
 | Artist      = [[Pankrti]]
 | Cover       = Dolgcajt.jpg
 | Released    = 8. february 1980
@@ -535,13 +537,12 @@
 | Album          = [[Absolutely Live (The Doors album)|Absolutely Live]]
 | A-side         = 
 | Recorded       = Aquarius Theater, Los Angeles - July 21, 1969
-| Released       = 1970, (live version)
-| Published      = 1970
+| Released       = 20 July 1970, (live version)
 | Genre          = [[Psychedelic rock]], [[acid rock]], [[space rock]], [[progressive rock]], [[poetry]]
 | Language       = 
 | Length         = 14:25 ([[Absolutely Live (The Doors album)|live version]])<br/>17:09 ([[Waiting for the Sun|studio version]])
 | Lyricist       = [[Jim Morrison]]
-| Composer       = John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison
+| Writer       = John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison
 | Label          = Elektra
 | Producer       = [[Paul A. Rothchild]]
 | Tracks         = 
@@ -617,7 +618,7 @@
 | Genre          = {{Hlist|[[Folk punk]]|[[anti-folk]]|[[alternative rock]]|[[progressive folk]]}}
 | Length         = 2:27
 | B-side         =
-| Released       = 1983
+| Released       = April 13, 1983
 | Producer       = Mark Van Hecke
 | Label          = Slash
 | This single    = "Blister in the Sun"<br>(1983)
@@ -743,6 +744,8 @@
 {{Infobox song
 | Name        = In Shades
 | Artist      = [[Tom Waits]]
+| Genre       = Blues Rock
+| Writer      = [[Tom Waits]]
 | Cover       = Tom_Waits-Heartattack_and_Vine.jpg
 | Released    = {{Start date|1980|09|09}}<ref>{{cite web |url= http://anti.com/releases/?artist=1 |title= Releases |first= |last= |publisher= ANTI-|date= |accessdate= March 6, 2018 }}</ref>
 | Studio      = Filmways/Heider Studio B, Hollywood, California
@@ -802,6 +805,7 @@
 {{Infobox single
 | Name          = Superstylin'
 | Cover         = Groove_Armada_Superstylin'_Single_cover.jpeg
+| Writer        = Andy Cato, Jonathan White, Michael Anthony Daniel, Tom Findlay
 | Artist        = [[Groove Armada]]
 | Album         = [[Goodbye Country (Hello Nightclub)]]
 | Released      = 13 August 2001
@@ -810,7 +814,6 @@
 | Genre         = [[House music|House]], [[reggae fusion]], [[speed garage]]
 | Length        = 3:43 (Edited Version)<br>6:02 (Album Version)
 | Label         = [[Zomba Group of Companies|Zomba]]
-| Writer        = {{hlist|Andy Cato|Tom Findlay|Daniel White}}
 | Producer      = Groove Armada
 | Last single   = "[[I See You Baby]]"<br/>(1999)
 | This single   = "'''Superstylin{{'}}'''{{nnbsp}}"<br/>(2001)
@@ -840,6 +843,7 @@
 {{Infobox single
 | Name           = One Armed Scissor
 | Cover          = At the Drive-In - One Armed Scissor cover.jpg
+| Writer         = At The Drive-in
 | Artist         = [[At the Drive-In]]
 | from Album     = [[Relationship of Command]]
 | B-side         = "Pattern Against User"<br />"Incetardis"
@@ -862,9 +866,10 @@
 | Recorded    = 1980, september
 | Studio = Studio Akademik
 | Genre       = [[Punk rock]]
-| Length      = 1:53
+| Length      = 1:45
 | Label       = [[RTV Ljubljana]]
 | Producer    = [[Igor Vidmar, Pankrti]]
+| Writer        = Pankrti
 }}
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
@@ -917,7 +922,7 @@
 | Format        = 
 | Recorded      = 
 | Genre         = {{hlist|[[Bossa nova]]|[[jazz]]}}
-| Length        = <!-- {{Duration|m=MM|s=SS}} -->
+| Length        = {{Duration|m=05|s=17}}
 | Label         = [[Verve Records|Verve]]
 | Writer        = {{hlist|[[Antônio Carlos Jobim]] & [[Vinicius de Moraes]]|[[Norman Gimbel]] (English lyrics)}}
 | Producer      = [[Creed Taylor]]
@@ -996,17 +1001,20 @@
 | Writer         = [[John Phillips (musician)|John Phillips]], [[Michelle Phillips]]
 | Producer       = [[Lou Adler]]
 | Last single    = "[[Go Where You Wanna Go]]"<br />(1965)
-| This single    = "'''California Dreamin{{'-}}'''"<br />(1965)
 | Next single    = "[[Monday, Monday]]"<br />(1966)
 | Misc           = {{External music video|{{YouTube|N-aK6JnyFmk|"California Dreamin'"}}}}
 }}
 ####
 {{Infobox song|
+| Genre       = Folk, Sevdah
 | Name        = Bosna moja
+| Writer      = R. Živković, Z. Jovanović, Omer Pobrić
+| Producer    = Omer Pobrić
 | Artist      = [[Safet Isović]]
 | Released    = 1988
 | Recorded    = 
 | Length      = 5:34
+| Label       = Diskoton
 }}
 ####
 {{Infobox single
@@ -1053,7 +1061,7 @@
 *[[art rock]]<ref>{{cite web |url=http://www.cosmik.com/aa-january02/golden_age4.html |title=Archived copy |accessdate=2016-01-10 |deadurl=yes |archiveurl=https://web.archive.org/web/20160303191206/http://www.cosmik.com/aa-january02/golden_age4.html |archivedate=3 March 2016 |df=dmy-all }}</ref>
 *[[spoken word]]<ref>{{cite book|author=Gillian G. Gaar|title=The Doors: The Illustrated History|url=https://books.google.com/books?id=GzLCCAAAQBAJ&pg=PA92|date=25 April 2015|publisher=Voyageur Press|isbn=978-1-62788-705-2|pages=92–}}</ref> 
 </div>
-| Length   = 11:41 [album version] <br> 6:28 [''[[Apocalypse Now]]'' version]
+| Length   = 11:41 (album version), 6:28 (''[[Apocalypse Now]]'' version)
 | Label    = [[Elektra Records|Elektra]]
 | Writer   = [[Jim Morrison]]<br>[[Ray Manzarek]]<br>[[Robby Krieger]]<br>[[John Densmore]]
 | Producer = [[The Doors]]<br>[[Paul A. Rothchild]]

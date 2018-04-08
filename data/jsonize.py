@@ -17,20 +17,20 @@ SAVE = True
 
 TOKENIZE = ['genre', 'writer', 'producer', 'label']
 CAPITALIZE = ['genre', 'label']
-LISTS = ['flatlist', 'plainlist', 'hlist']
+LISTS = ['flatlist', 'plainlist', 'hlist', 'unbulleted list']
 ASTERIX_LISTS = ['flatlist', 'plainlist']
 IGNORE = ['border']
 REMOVE_COUNTRY_FROM_LABEL = False
 
 
 def main():
-    filenames = os.listdir(DIR)
     if len(sys.argv) > 1:
         objects = [get_object(sys.argv[1])]
     else:
         if USE_SINGLE_FILE:
             objects = [get_object_text(a) for a in expand_single_file(SINGLE_FILE)]
         else:
+            filenames = os.listdir(DIR)
             objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
 
     out = {get_name(obj): obj for obj in objects}
@@ -272,7 +272,7 @@ def remove_formating(line):
 
 
 def remove_br(line):
-    return re.sub('<br.*?>', ' ', line)
+    return re.sub('<br.*?>', ', ', line)
 
 
 ###

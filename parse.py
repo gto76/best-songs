@@ -244,7 +244,7 @@ def get_div(songName, albumData):
     for key in DISPLAY_KEYS:
         data.append(get_field(albumData[songName], key))
     data = '\n'.join(data)
-    return f'<div style="display:inline-block;border:15px solid transparent"><table>{data}</table></div>'
+    return f'<div style="display:inline-block;border-left:15px solid transparent"><table>{data}</table></div>'
 
 
 def get_field(songData, key):
@@ -275,7 +275,7 @@ def getCover(albumName, bandName, albumData):
         return
     out = getYouTubeLink(f'{bandName} {albumName}')
     out += '<img src="' + imageLink
-    out += '" alt="cover" height="150"/></a>\n'
+    out += '" alt="cover" height="123px"/></a>\n'
     return out
 
 
