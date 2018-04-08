@@ -32,7 +32,7 @@ HEAT_DISTANCE_THRESHOLD = 5
 HEATMAP_ALPHA = 180
 ALPHA_CUTOFF = 0.15
 
-DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label']
+DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label', 'origin']
 MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
             'ber|november|december'
 
@@ -50,6 +50,8 @@ MONTHS = {'january': 1,
           'october': 10,
           'november': 11,
           'december': 12}
+
+IMG_HEIGHT = 145 # 123
 
 ###
 ##  MAIN
@@ -275,7 +277,7 @@ def getCover(albumName, bandName, albumData):
         return
     out = getYouTubeLink(f'{bandName} {albumName}')
     out += '<img src="' + imageLink
-    out += '" alt="cover" height="123px"/></a>\n'
+    out += f'" alt="cover" height="{IMG_HEIGHT}px"/></a>\n'
     return out
 
 

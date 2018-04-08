@@ -14,11 +14,13 @@
     ],
     "writer": "Goran Bregović",
     "producer": "Nikola Borota",
-    "studio": "Studio I RTV Sarajevo"
+    "studio": "Studio I RTV Sarajevo",
+    "origin": "International"
   },
   "Heartbreak Hotel": {
     "name": "Heartbreak Hotel",
-    "cover": "Heartbreak.JPG",
+    "cover_alt": "Heartbreak.JPG",
+    "cover": "Heartbreak_alt.png",
     "artist": "Elvis Presley",
     "b-side": "\"I Was the One\"",
     "released": "1956.01.27",
@@ -40,47 +42,11 @@
     "last single": "\"Baby Let's Play House\", (1955)",
     "this single": "\"'''Heartbreak Hotel'''\", (1956)",
     "next single": "\"I Want You, I Need You, I Love You\", (1956)",
+    "origin": "Central United States",
     "misc": {
       "type": "single",
       "filename": "Heartbreakhotel.ogg",
       "title": "\"Elvis Presley - Heartbreak Hotel\""
-    }
-  },
-  "Jumpin' Jack Flash": {
-    "type": "single",
-    "name": "Jumpin' Jack Flash",
-    "image": "Jackflash1.jpg",
-    "caption": "Standard artwork for most non-UK vinyl releases; mirrored for some of those releases",
-    "artist": "The Rolling Stones",
-    "b-side": "\"Child of the Moon\"",
-    "released": "24 May 1968 (UK), May 1968 (US)",
-    "format": "7\"",
-    "recorded": "20 April 1968",
-    "studio": "Olympic Studios, London",
-    "genre": [
-      "Hard rock",
-      "Blues rock",
-      "Rock and roll"
-    ],
-    "length": "3:42",
-    "label": [
-      "Decca",
-      "London"
-    ],
-    "writer": [
-      "Jagger/richards",
-      "Bill wyman (uncredited)"
-    ],
-    "producer": "Jimmy Miller",
-    "prev_title": "She's a Rainbow",
-    "prev_year": "1967",
-    "next_title": "Street Fighting Man",
-    "next_year": "1968",
-    "misc": {
-      "type": "single",
-      "upper_caption": "Alternative release",
-      "image": "Jumpin' Jack Flash by The Rolling Stones UK vinyl.jpg",
-      "lower_caption": "One of A-side labels of the original UK vinyl release"
     }
   },
   "Lust for Life": {
@@ -111,7 +77,8 @@
       "upper caption": "Alternative cover",
       "type": "single",
       "lower caption": "Cover of the 1996 Netherlands single"
-    }
+    },
+    "origin": "East Coast"
   },
   "The Murder Mystery": {
     "name": "The Murder Mystery",
@@ -123,7 +90,8 @@
     "studio": "T.T.G., Hollywood, California",
     "length": "8:55",
     "label": "MGM",
-    "producer": "The Velvet Underground"
+    "producer": "The Velvet Underground",
+    "origin": "East Coast"
   },
   "Walk on the Wild Side": {
     "name": "Walk on the Wild Side",
@@ -143,7 +111,8 @@
     ],
     "last single": "\"Walk and Talk It\", (1972)",
     "this single": "\"'''Walk on the Wild Side'''\", (1972)",
-    "next single": "\"Satellite Of Love\", (1973)"
+    "next single": "\"Satellite Of Love\", (1973)",
+    "origin": "East Coast"
   },
   "Transmission": {
     "name": "Transmission",
@@ -170,7 +139,8 @@
       "upper caption": "Alternative cover",
       "cover": "JoyDivision_Transmission12.jpg",
       "lower caption": "12\" cover"
-    }
+    },
+    "origin": "England"
   },
   "Mother North": {
     "name": "Mother North",
@@ -186,7 +156,8 @@
       "Century media"
     ],
     "producer": "Satyr",
-    "writer": "Satyr"
+    "writer": "Satyr",
+    "origin": "International"
   },
   "Zombie": {
     "name": "Zombie",
@@ -196,7 +167,8 @@
     "genre": "Afrobeat",
     "length": "12:26",
     "label": "Coconut",
-    "producer": "Fela Kuti"
+    "producer": "Fela Kuti",
+    "origin": "International"
   },
   "When the Curious Girl Realizes She Is Under Glass": {
     "name": "When the Curious Girl Realizes She Is Under Glass",
@@ -215,7 +187,8 @@
       "",
       "Wichita recordings (uk)"
     ],
-    "producer": "Mike Mogis"
+    "producer": "Mike Mogis",
+    "origin": "Central United States"
   },
   "Venus in Furs": {
     "name": "Venus in Furs",
@@ -232,7 +205,8 @@
     "genre": [
       "Garage rock",
       "Avantgarde"
-    ]
+    ],
+    "origin": "East Coast"
   },
   "Kiss": {
     "name": "Kiss",
@@ -266,28 +240,8 @@
       "last single": "\"Pop Life\", (1985)",
       "this single": "\"'''Kiss'''\", (1986)",
       "next single": "\"Mountains\", (1986)"
-    }
-  },
-  "Too Much Love": {
-    "name": "Too Much Love",
-    "artist": "LCD Soundsystem",
-    "album": "LCD Soundsystem",
-    "cover": "Afc lcd LCDSoundsystem.gif",
-    "released": "2005.1.24",
-    "studio": [
-      "Long view farm"
-    ],
-    "genre": [
-      "Dance-punk",
-      "Electronica"
-    ],
-    "length": "5:42",
-    "label": [
-      "Dfa",
-      "Capitol",
-      "Emi"
-    ],
-    "producer": "The DFA"
+    },
+    "origin": "West Coast"
   },
   "Blue Monday": {
     "name": "Blue Monday",
@@ -325,11 +279,12 @@
     "producer": "New Order",
     "last single": "\"Temptation\", (1982)",
     "this single": "\"'''Blue Monday'''\", (1983)",
-    "next single": "\"Confusion\", (1983)"
+    "next single": "\"Confusion\", (1983)",
+    "origin": "England"
   },
   "White Rabbit": {
     "name": "White Rabbit",
-    "cover": "Jeffair.jpg",
+    "cover": "Jeffair_single.jpg",
     "type": "single",
     "artist": "Jefferson Airplane",
     "album": "Surrealistic Pillow",
@@ -350,7 +305,8 @@
     "misc": {
       "type": "single",
       "file": "WhiteRabbit.ogg"
-    }
+    },
+    "origin": "West Coast"
   },
   "This Charming Man": {
     "name": "This Charming Man",
@@ -383,7 +339,8 @@
     ],
     "last single": "\"Hand in Glove\", (1983)",
     "this single": "\"'''This Charming Man'''\", (1983)",
-    "next single": "\"What Difference Does It Make?\", (1984)"
+    "next single": "\"What Difference Does It Make?\", (1984)",
+    "origin": "England"
   },
   "Light My Fire": {
     "name": "Light My Fire",
@@ -409,7 +366,8 @@
     "producer": "Paul A. Rothchild",
     "last single": "\"Break On Through (To the Other Side)\", (1967)",
     "this single": "\"'''Light My Fire'''\"/\"The Crystal Ship\", (1967)",
-    "next single": "\"People Are Strange\", (1967)"
+    "next single": "\"People Are Strange\", (1967)",
+    "origin": "West Coast"
   },
   "Hurt": {
     "name": "Hurt",
@@ -436,6 +394,7 @@
     "writer": "Trent Reznor",
     "producer": "Rick Rubin",
     "last single": "\"The Man Comes Around\", (2002)",
+    "origin": "Cenral United States",
     "this single": "\"'''Hurt'''\", (2003)",
     "next single": "\"God's Gonna Cut You Down\", (2006)"
   },
@@ -457,11 +416,13 @@
     "writer": "Jim Morrison",
     "producer": "Paul A. Rothchild",
     "prev": "Yes, the River Knows",
-    "prev_no": "10"
+    "prev_no": "10",
+    "origin": "West Coast"
   },
   "Miserlou": {
     "name": "Miserlou",
-    "cover": "Miserlou - Dick Dale single.png",
+    "cover": "Miserlou - Dick Dale single_alt.png",
+    "cover_alt": "Miserlou - Dick Dale single.png",
     "artist": "Dick Dale",
     "album": "Surfers' Choice",
     "b-side": "\"Eight Till Midnight\"",
@@ -478,7 +439,8 @@
       "Fred Wise",
       "Milton Leeds",
       "Bob Russell"
-    ]
+    ],
+    "origin": "West Coast"
   },
   "Sedemnajst": {
     "name": "Sedemnajst",
@@ -493,7 +455,8 @@
     "genre": "punk rock",
     "length": "1:24",
     "label": "RTV Ljubljana",
-    "producer": "Igor Vidmar"
+    "producer": "Igor Vidmar",
+    "origin": "International"
   },
   "Subterranean Homesick Blues": {
     "name": "Subterranean Homesick Blues",
@@ -503,6 +466,7 @@
     "b-side": "\"She Belongs to Me\"",
     "released": "March 8, 1965",
     "recorded": "January 14, 1965",
+    "origin": "East Coast",
     "studio": "Columbia Recording Studios, Studio A, New York",
     "format": "7\" single",
     "genre": [
@@ -530,6 +494,7 @@
     "type": "single",
     "artist": "the Kinks",
     "b-side": "It's All Right",
+    "origin": "England",
     "released": [
       "1964.08.04 (UK)",
       "2 September 1964 (US)"
@@ -597,7 +562,8 @@
       "filename": "Blur - Song 2.ogg",
       "title": "\"Song 2\"",
       "description": "Sample of \"Song 2\" from ''Blur''. Inspired by lo-fi and American rock music, \"Song 2\" was a hit in the US."
-    }
+    },
+    "origin": "England"
   },
   "Celebration of the Lizard": {
     "name": "Celebration of the Lizard",
@@ -623,11 +589,13 @@
       "Jim Morrison"
     ],
     "label": "Elektra",
-    "producer": "Paul A. Rothchild"
+    "producer": "Paul A. Rothchild",
+    "origin": "West Coast"
   },
   "(I Can't Get No) Satisfaction": {
     "name": "(I Can't Get No) Satisfaction",
     "cover": "Satisfaction-us.jpg",
+    "origin": "England",
     "artist": "The Rolling Stones",
     "b-side": [
       "\"the under assistant west coast promotion man\" (us)",
@@ -668,6 +636,7 @@
     "released": "December 15, 1955, April 1968 (re-recording)",
     "format": "7\" single",
     "recorded": "July 30, 1955, Sun Studio, Memphis, Tennessee",
+    "origin": "Central United States",
     "genre": [
       "Rockabilly",
       "Rock and roll"
@@ -696,7 +665,8 @@
     "producer": "Mark Van Hecke",
     "label": "Slash",
     "this single": "\"Blister in the Sun\", (1983)",
-    "next single": "\"Gone Daddy Gone\", (1983)"
+    "next single": "\"Gone Daddy Gone\", (1983)",
+    "origin": "Central United States"
   },
   "Add It Up": {
     "name": "Add It Up",
@@ -712,7 +682,8 @@
     "length": "4:44",
     "writer": "Gordon Gano",
     "label": "Slash",
-    "producer": "Mark Van Hecke"
+    "producer": "Mark Van Hecke",
+    "origin": "Central United States"
   },
   "If 6 Was 9": {
     "name": "If 6 Was 9",
@@ -738,7 +709,8 @@
   },
   "Blitzkrieg Bop": {
     "name": "Blitzkrieg Bop",
-    "cover": "Ramones - Blitzkrieg Bop cover.jpg",
+    "cover": "Ramones_-_Blitzkrieg_Bop_cover.jpg",
+    "cover_alt": "Ramones_-_Blitzkrieg_Bop_cover_alt.jpg",
     "artist": "Ramones",
     "album": "Ramones",
     "released": "February 1976",
@@ -758,7 +730,8 @@
       "filename": "Ramones-Blitzkrieg Bop.ogg",
       "title": "\"Blitzkrieg Bop\"",
       "type": "single"
-    }
+    },
+    "origin": "East Coast"
   },
   "Yeah": {
     "name": "Yeah",
@@ -792,7 +765,8 @@
     "producer": "The DFA",
     "last single": "\"Give It Up\", (2003)",
     "this single": "\"'''Yeah'''\", (2004)",
-    "next single": "\"Movement\", (2004)"
+    "next single": "\"Movement\", (2004)",
+    "origin": "East Coast"
   },
   "Rapper's Delight": {
     "name": "Rapper's Delight",
@@ -818,7 +792,8 @@
     ],
     "producer": "Sylvia Robinson",
     "this single": "\"'''Rapper's Delight'''\", (1979)",
-    "next single": "\"8th Wonder\", (1980)"
+    "next single": "\"8th Wonder\", (1980)",
+    "origin": "East Coast"
   },
   "Rumble": {
     "name": "Rumble",
@@ -827,7 +802,7 @@
     "b-side": "\"The Swag\"",
     "released": "April 1958",
     "format": "7\"",
-    "recorded": "1954",
+    "recorded": "1957",
     "genre": [
       "Rock and roll",
       "Surf rock"
@@ -843,7 +818,8 @@
       "filename": "Link Wray - Rumble.ogg",
       "title": "\"Rumble\"",
       "description": "30 second sample of \"Rumble\" by Link Wray & His Ray Men, 1958"
-    }
+    },
+    "origin": "East Coast"
   },
   "In Shades": {
     "name": "In Shades",
@@ -855,12 +831,14 @@
     "studio": "Filmways/Heider Studio B, Hollywood, California",
     "length": "4:25",
     "label": "Asylum",
-    "producer": "Bones Howe"
+    "producer": "Bones Howe",
+    "origin": "West Coast"
   },
   "In Bloom": {
     "name": "In Bloom",
     "cover": "InBloom.jpg",
     "artist": "Nirvana",
+    "origin": "West Coast",
     "from album": "Nevermind",
     "b-side": "\"Polly\" (live)",
     "released": "November 30, 1992",
@@ -882,6 +860,7 @@
   },
   "Great Balls of Fire": {
     "name": "Great Balls of Fire",
+    "cover_alt": "JLL Great Balls single cover_alt.jpg",
     "cover": "JLL Great Balls single cover.jpg",
     "artist": "Jerry Lee Lewis",
     "b-side": "\"You Win Again\"",
@@ -902,7 +881,8 @@
     "producer": "Sam Phillips",
     "last single": "\"Whole Lotta Shakin' Goin' On\", (1957)",
     "this single": "\"Great Balls of Fire\", (1957)",
-    "next single": "\"You Win Again\", (1957)"
+    "next single": "\"You Win Again\", (1957)",
+    "origin": "Central United States"
   },
   "Superstylin'": {
     "name": "Superstylin'",
@@ -917,6 +897,7 @@
     "album": "Goodbye Country (Hello Nightclub)",
     "released": "13 August 2001",
     "format": "CD, 7\" vinyl",
+    "origin": "England",
     "genre": [
       "House",
       "Reggae fusion",
@@ -967,7 +948,8 @@
     ],
     "last single": "\"MTV Makes Me Want to Smoke Crack\", (1993)",
     "this single": "\"'''Loser'''\", (1993)",
-    "next single": "\"Pay No Mind (Snoozer)\", (1994)"
+    "next single": "\"Pay No Mind (Snoozer)\", (1994)",
+    "origin": "West Coast"
   },
   "One Armed Scissor": {
     "name": "One Armed Scissor",
@@ -988,7 +970,8 @@
     "label": "Grand Royal",
     "producer": "Ross Robinson",
     "this single": "\"'''One Armed Scissor'''\", (2000)",
-    "next single": "\"Rolodex Propaganda\", (2000)"
+    "next single": "\"Rolodex Propaganda\", (2000)",
+    "origin": "West Coast"
   },
   "Tovar'ši, jest vam ne verjamem": {
     "name": "Tovar'ši, jest vam ne verjamem",
@@ -1004,7 +987,8 @@
       "Igor Vidmar",
       "Pankrti"
     ],
-    "writer": "Pankrti"
+    "writer": "Pankrti",
+    "origin": "International"
   },
   "London Calling": {
     "name": "London Calling",
@@ -1030,25 +1014,28 @@
       "last single": "\"Rock the Casbah\" (rerelease), (1991)",
       "this single": "\"'''London Calling'''\" (2nd rerelease), (1991)",
       "next single": "\"Train in Vain\" (rerelease), (1991)"
-    }
+    },
+    "origin": "England"
   },
   "The Girl from Ipanema": {
     "name": "The Girl from Ipanema",
-    "cover": "Stan-Getz-The-Girl-From-Ipa-604216.jpg",
+    "cover": "Stan-Getz-The-Girl-From-Ipa-604216_alt.jpg",
+    "cover_alt": "Stan-Getz-The-Girl-From-Ipa-604216.jpg",
     "artist": "Stan Getz and João Gilberto",
     "album": "Getz/Gilberto",
-    "released": "March 1964",
+    "released": "1963",
     "genre": [
       "Bossa nova",
       "Jazz"
     ],
-    "length": "05:21",
+    "length": "2:44, 5:21",
     "label": "Verve",
     "writer": [
       "Antônio carlos jobim & vinicius de moraes",
       "Norman gimbel (english lyrics)"
     ],
-    "producer": "Creed Taylor"
+    "producer": "Creed Taylor",
+    "origin": "International"
   },
   "Tomorrow Never Knows": {
     "name": "Tomorrow Never Knows",
@@ -1074,14 +1061,15 @@
       "type": "song",
       "filename": "Tomorrow_Never_Knows.ogg",
       "title": "\"Tomorrow Never Knows\""
-    }
+    },
+    "origin": "England"
   },
   "Marquee Moon": {
     "name": "Marquee Moon",
-    "cover": "Marquee Moon single.jpg",
+    "cover": "Marquee_moon_album_cover.jpg",
     "artist": "Television",
     "album": "Marquee Moon",
-    "released": "April 1, 1977",
+    "released": "February 8, 1977",
     "format": "12\"",
     "recorded": "A & R Studios, NYC",
     "genre": "Post-punk",
@@ -1094,7 +1082,8 @@
     ],
     "last single": "\"Little Johnny Jewel\", (1975)",
     "this single": "\"'''Marquee Moon'''\", (1977)",
-    "next single": "\"Prove It\", (1977)"
+    "next single": "\"Prove It\", (1977)",
+    "origin": "East Coast"
   },
   "Mr. Sandman": {
     "name": "Mr. Sandman",
@@ -1114,11 +1103,13 @@
     "writer": "Pat Ballard",
     "producer": "Archie Bleyer",
     "this single": "\"'''Mr. Sandman'''\", (1954)",
-    "next single": "\"The Wedding\", (1956)"
+    "next single": "\"The Wedding\", (1956)",
+    "origin": "East Coast"
   },
   "California Dreamin'": {
     "name": "California Dreamin'",
-    "cover": "Disco de vinilo - California dreamin'.png",
+    "cover": "Disco de vinilo - California dreamin'_alt2.jpg",
+    "cover_alt": "Disco de vinilo - California dreamin'.png",
     "artist": "The Mamas & the Papas",
     "album": "If You Can Believe Your Eyes and Ears",
     "b-side": "\"Somebody Groovy\"",
@@ -1137,7 +1128,8 @@
     ],
     "producer": "Lou Adler",
     "last single": "\"Go Where You Wanna Go\", (1965)",
-    "next single": "\"Monday, Monday\", (1966)"
+    "next single": "\"Monday, Monday\", (1966)",
+    "origin": "West Coast"
   },
   "Bosna moja": {
     "genre": [
@@ -1155,7 +1147,8 @@
     "artist": "Safet Isović",
     "released": "1988",
     "length": "5:34",
-    "label": "Diskoton"
+    "label": "Diskoton",
+    "origin": "International"
   },
   "Psycho Killer": {
     "name": "Psycho Killer",
@@ -1185,7 +1178,8 @@
     ],
     "last single": "\"Uh-Oh, Love Comes to Town\", (1977)",
     "this single": "\"'''Psycho Killer'''\", (1977)",
-    "next single": "\"Pulled Up\", (1978)"
+    "next single": "\"Pulled Up\", (1978)",
+    "origin": "East Coast"
   },
   "Linzserenade": {
     "name": "Linzserenade",
@@ -1195,7 +1189,8 @@
     "label": "Mosz",
     "producer": "Eva Jantschitsch",
     "album": "Rettet die Wale",
-    "studio": "Gustav's living room, Vienna"
+    "studio": "Gustav's living room, Vienna",
+    "origin": "International"
   },
   "The End": {
     "name": "The End",
@@ -1204,6 +1199,7 @@
     "album": "The Doors",
     "released": "January 4, 1967",
     "recorded": "August 1966",
+    "origin": "West Coast",
     "genre": [
       "Psychedelic rock",
       "Raga rock",
@@ -1250,6 +1246,7 @@
       "filename": "Beatles help.ogg",
       "title": "\"Help!\""
     },
-    "from album": "Help!"
+    "from album": "Help!",
+    "origin": "England"
   }
 }

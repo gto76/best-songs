@@ -95,6 +95,8 @@ Considering (select 8 of 26)
 -----------
 ### Clash - Police & Thieves
 ### Doors - "Break On Through (To the Other Side)"
+### Velvet Underground - heroin L:7:10
+
 ### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
 ### Antenat - Slon
 ### 91 * beastie - in 3's ?
@@ -175,7 +177,6 @@ Beatles - walrus
 Beatles - hard days
 breaks
 Depeche Mode - Personal Jesus
-Velvet Underground - heroin L:7:10
 Nirvana - Teen spirit
 Velvet Underground - waiting
 You spin me right round (like a record baby)
