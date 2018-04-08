@@ -7,6 +7,8 @@
 import json
 import re
 import matplotlib.pyplot as plt
+from collections import Counter
+import numbers
 
 
 DEBUG = False
@@ -35,15 +37,22 @@ def main():
     generate_plot(songs, 'released', get_year, 'years', ticks_filter=every_even)
     generate_plot(songs, 'released', get_month, 'months')
     generate_plot(songs, 'length', get_minutes, 'minutes')
+    generate_piechart(songs, 'origin')
+
+
+def generate_piechart(songs, key):
+    values = parse_releases(songs, key, parser=lambda x: x)
+    generate_origin_piechart(Counter(values), filename=key)
 
 
 def generate_plot(songs, key, parser, xlabel, ticks_filter=None):
     values = parse_releases(songs, key, parser)
+    values = [int(a) for a in values]
     generate_release_dates_chart(values, filename=xlabel,
                                  ticks_filter=ticks_filter)
 
 
-def parse_releases(songs, key, parser):
+def parse_releases(songs, key, parser, ):
     out = []
     for song in songs.values():
         if key not in song:
@@ -55,7 +64,7 @@ def parse_releases(songs, key, parser):
             release = release[0]
         value = parser(release)
         if value:
-            out.append(int(value))
+            out.append(value)
         elif DEBUG:
             print(release)
     return sorted(out)
@@ -64,7 +73,7 @@ def parse_releases(songs, key, parser):
 def get_year(release):
     year = re.search('\d{4}', release)
     if year:
-        return year.group()
+        return int(year.group())
 
 
 def get_month(release):
@@ -81,12 +90,12 @@ def get_numeric_month(release):
         tokens = release.split('.')
         digit_month = re.match('\d+', tokens[1])
         if digit_month:
-            return digit_month.group()
+            return int(digit_month.group())
 
 
 def get_minutes(length):
     if ':' in length:
-        return length.split(':')[0]
+        return int(length.split(':')[0])
 
 
 ###
@@ -112,12 +121,7 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None):
     if filename:
         plt.xlabel(filename.capitalize())
     plt.bar(x, y, color="blue")
-
-    if not filename:
-        plt.show()
-    else:
-        plt.savefig(f'{DIR}/{filename}')
-    plt.close()
+    present_plt(plt, filename)
 
 
 def every_even(ticks):
@@ -133,6 +137,26 @@ def getAlbumsPerYear(listOfYears):
 
 def getYearRange(listOfYears):
     return list(range(listOfYears[0], listOfYears[-1]+1))
+
+
+def generate_origin_piechart(origins, filename=None):
+    # labels = 'Frogs', 'Hogs', 'Dogs', 'Logs'
+    # sizes = [15, 30, 45, 10]
+    labels = origins.keys()
+    sizes = [origins[a]/len(origins) for a in labels]
+    fig1, ax1 = plt.subplots()
+    ax1.pie(sizes, labels=labels, autopct='%1.1f%%',
+            shadow=True, startangle=90)
+    ax1.axis('equal')
+    present_plt(plt, filename)
+
+
+def present_plt(plt, filename):
+    if not filename:
+        plt.show()
+    else:
+        plt.savefig(f'{DIR}/{filename}')
+    plt.close()
 
 
 ###
