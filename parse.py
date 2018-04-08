@@ -27,7 +27,7 @@ HTML_TEXT = "html-text.html"
 HTML_BOTTOM = "html-bottom.html"
 TEMPLATE = "web/template.html"
 
-DRAW_YEARLY_DISTRIBUTION_PLOT = False
+DRAW_YEARLY_DISTRIBUTION_PLOT = True
 DRAW_HEATMAP = False
 GENERATE_MD = False
 GENERATE_HTML = True
@@ -73,7 +73,8 @@ def main():
         listOfAlbums = sort_by_date(listOfAlbums, albumData)
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
-        generate_release_dates_chart(albumData)
+        os.popen('cd data;./plot.py;cd ..').read()
+        # generate_release_dates_chart(albumData)
     if DRAW_HEATMAP:
         generate_heat_map(albumData)
 
@@ -106,8 +107,9 @@ def generate_files(albumData, listOfAlbums):
     table_html, table_md = generate_list(listOfAlbums, albumData)
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
-        out += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
-        out += '<img src="year-distribution.png" alt="Release dates" width="920"/>\n'
+        table_html += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
+        table_html += '<img src="data/img/years.png" alt="Release dates" width="920"/>\n'
+        table_md += '\nRelease Dates\n------\n![yearly graph](data/img/years.png.png)'
 
     if DRAW_HEATMAP:
         out += '<h2><a href="#studio-locations" name="studio-locations">#</a>Studio Locations</h2>\n'

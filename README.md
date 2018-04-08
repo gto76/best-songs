@@ -511,3 +511,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Origin:&ensp;International**  
 <br>  
 <br>  
+
+Release Dates
+------
+![yearly graph](data/img/years.png.png)
