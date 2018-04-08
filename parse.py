@@ -283,7 +283,7 @@ def get_row(songData, key):
     key = key.title()
     value = value.title()
     row_html = f"<tr><td><b>{key}&ensp;</b></td><td><b>{value}</b></td></tr>"
-    row_md = f"{key}:&ensp;{value}  "
+    row_md = f"{key}:&ensp;{value}"
     return row_html, row_md
 
 
