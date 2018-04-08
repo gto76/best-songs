@@ -93,18 +93,19 @@ For Real (by year)
 
 Considering (select 8 of 26)
 -----------
+### * Joy Division - Disorder
 ### Velvet Underground - heroin L:7:10
+### Tom Waits - Twenty-Nine Dollars
+
 ### 66 B * The Doors, 'The End'
 ### Clash - Police & Thieves
-
 ### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
 ### Antenat - Slon
 ### 91 * beastie - in 3's ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
+
 ### Pink Floyd - Money
 ### Another Brick in the Wall
-
-### * Joy Division - Disorder
 ### * Nirvana - Territorial Pissing
 ### * Janko Nilovic - Drug Song
 ### * Underworld - Born Slippy

@@ -69,13 +69,10 @@ def main():
     if DRAW_HEATMAP:
         generate_heat_map(albumData)
 
-    if GENERATE_MD:
-        out_md = generate_md_file(readme, albumData, listOfAlbums, noOfAlbums)
-        writeToFile('README.md', out_md)
 
-    if GENERATE_HTML:
-        out_html = generate_html_file(albumData, listOfAlbums)
-        writeToFile('index.html', out_html)
+    out_html, out_md = generate_files(albumData, listOfAlbums)
+    writeToFile('index.html', out_html)
+    writeToFile('README.md', out_md)
 
 
 def sort_by_date(listOfAlbums, albumData):
@@ -97,11 +94,8 @@ def generate_md_file(readme, albumData, listOfAlbums, noOfAlbums):
     return out
 
 
-def generate_html_file(albumData, listOfAlbums):
-    # out = ''.join(getFileContents(HTML_TOP))
-
-    # out += str(len(listOfAlbums)) + " " + '\n'.join(getFileContents(HTML_TEXT))
-    table = generate_html_list(listOfAlbums, albumData)
+def generate_files(albumData, listOfAlbums):
+    table_html, table_md = generate_list(listOfAlbums, albumData)
 
     if DRAW_YEARLY_DISTRIBUTION_PLOT:
         out += '<h2><a href="#release-dates" name="release-dates">#</a>Release Dates</h2>\n'
@@ -114,9 +108,18 @@ def generate_html_file(albumData, listOfAlbums):
     no_albums = len(listOfAlbums)
     title = f"{no_albums} Greatest Songs From '54 to '04"
     template = '\n'.join(getFileContents(TEMPLATE))
-    return template.format(title=title, table=table)
+    out_html = template.format(title=title, table=table)
+    out_md = get_out_md(table_md, title, template)
+    return out_html, out_md
 
-    # return out + ''.join(getFileContents(HTML_BOTTOM))
+
+def get_out_md(table_md, title, template):
+    out = [title]
+    out.append('=' * len(title))
+    match = re.search('\{title\}\S(.*)\{table\}', template)
+    out.append(match.group(1))
+    out.append(table_md)
+    return '\n'.join(out)
 
 
 def getListOfSongs(readme):
@@ -146,16 +149,15 @@ def generateList(listOfAlbums, albumData):
         if slogan:
             out += '_“'+slogan+'”_  \n' 
             out += '  \n'
-        cover = getCover(albumName, albumData)
+        cover = get_cover(albumName, albumData)
         if cover:
             out += cover
         counter -= 1
     return out
 
 
-def generate_html_list(listOfAlbums, albumData):
-    # genre, Length, poducer, (month)
-    out = []
+def generate_list(listOfAlbums, albumData):
+    out_html, out_md = []. []
     for albumName in listOfAlbums:
         songName = get_song_name(albumName)
         if not songName:
@@ -165,11 +167,12 @@ def generate_html_list(listOfAlbums, albumData):
             print(f"Song name not in wiki_data: {songName}")
             continue
         bandName = albumData[songName]['artist']
-
-        out.append(get_title(albumName, songName, bandName, albumData))
-        out.append(get_image(songName, bandName, albumData))
-        out.append(get_div(songName, albumData))
-    return ''.join(out)
+        title_html, title_md = get_title(albumName, songName, bandName, albumData)
+        image_html, image_md = get_image(songName, bandName, albumData)
+        div_html, div_md = get_div(songName, albumData)
+        out_html.extend((title_html, image_html, div_html))
+        out_md.extend((title_md, image_md, div_md))
+    return ''.join(out_html), ''.join(out_md)
 
 
 def get_song_name(albumName):
@@ -192,8 +195,11 @@ def get_title(albumName, songName, bandName, albumData):
     year = year[-2:]
     month = get_month(releaseDate)
     month = '' if not month else calendar.month_abbr[int(month)]
-    link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>"        
-    return f"<h2>{link}'{year} {month} | \"{songName}\" — {bandName}</h2>\n"
+    link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>" 
+    text = f"'{year} {month} | \"{songName}\" — {bandName}"      
+    title_html = f"<h2>{link}{text}}</h2>\n"
+    title_md = "### {text}  "
+    return title_html, title_md
 
 
 def get_numeric_date(album, albumData):
@@ -235,50 +241,60 @@ def get_numeric_year(release):
 
 
 def get_image(songName, bandName, albumData):
-    cover = getCover(songName, bandName, albumData)
+    cover_html, cover_md = get_cover(songName, bandName, albumData)
     if not cover:
         cover = ''
-    return f'<div style="display:inline-block;vertical-align:top;border-left:7px solid transparent">\n{cover}\n</div>'
+    image_html = f'<div style="display:inline-block;vertical-align:top;border' \
+                  '-left:7px solid transparent">\n{cover_html}\n</div>'
+    return image_html, cover_md
 
 
 def get_div(songName, albumData):
-    data = []
+    data_html, data_md = [], []
     for key in DISPLAY_KEYS:
-        data.append(get_field(albumData[songName], key))
-    data = '\n'.join(data)
-    return f'<div style="display:inline-block;border-left:15px solid transparent"><table>{data}</table></div>'
+        row_html, row_md = get_row(albumData[songName], key)
+        data_html.append(row_html)
+        if row_md:
+            data_md.append(row_md)
+    data_str = '\n'.join(data)
+    div_html = f'<div style="display:inline-block;border-left:15px solid tran' \
+                'sparent"><table>{data_str}</table></div>'
+    div_md = get_div_md(data)
+    return div_html, div_md
 
 
-def get_field(songData, key):
+def get_div_md(data):
+    lines = [f"**{line}**  " for line in data]
+    out = (lines + ['<br>  ']*5)[:5]
+    return f'\n{out}\n'
+
+
+def get_row(songData, key):
     if key not in songData:
-        return ''
+        return '', ''
     value = songData[key]
     if type(value) == list:
         value = ', '.join(value)
         key = f'{key}s'
     if type(value) != str:
-        return ''
+        return '', ''
     key = key.title()
     value = value.title()
-    return f"<tr><td><b>{key}&ensp;</b></td><td><b>{value}</b></td></tr>"
+    row_html = f"<tr><td><b>{key}&ensp;</b></td><td><b>{value}</b></td></tr>"
+    row_md = f"{key}:&ensp;{value}  "
+    return row_html, row_md
 
 
-def getSlogan(albumName, albumData):
-    # for album in albumData['albums']:
-    for album in albumData:
-        if albumName == album['name'] and album['slogan']:
-            return album['slogan']
-    return None
-
-
-def getCover(albumName, bandName, albumData):
+def get_cover(albumName, bandName, albumData):
     imageLink = getImageLink(albumName, albumData)
     if not imageLink or not os.path.isfile(imageLink):
         return
-    out = getYouTubeLink(f'{bandName} {albumName}')
-    out += '<img src="' + imageLink
-    out += f'" alt="cover" height="{IMG_HEIGHT}px"/></a>\n'
-    return out
+    yt_link = getYouTubeLink(f'{bandName} {albumName}')
+    cover_html = f'{yt_link}<img src="{imageLink}" alt="cover" height="' \
+                  '{IMG_HEIGHT}px"/></a>\n'
+    cover_md = f'{yt_link}<img src="{imageLink}" align="left" alt="cover" hei' \
+                'ght="{IMG_HEIGHT}px"/></a>\n'
+    return cover_html, cover_md
 
 
 def getYouTubeLink(albumName):
