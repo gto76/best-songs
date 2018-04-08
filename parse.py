@@ -22,7 +22,7 @@ MAP_IMAGE = "worldmap.jpg"
 HTML_TOP = "html-top.html"
 HTML_TEXT = "html-text.html"
 HTML_BOTTOM = "html-bottom.html"
-TEMPLATE = "template.html"
+TEMPLATE = "web/template.html"
 
 DRAW_YEARLY_DISTRIBUTION_PLOT = False
 DRAW_HEATMAP = False
