@@ -22,7 +22,7 @@ ADD_PLOTS = True
 
 TEMPLATE = "web/template.html"
 
-DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label', 'origin']
+DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label']
 MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
             'ber|november|december'
 
@@ -39,7 +39,7 @@ MONTHS = {'january': 1,
           'november': 11,
           'december': 12}
 
-IMG_HEIGHT = 146 # 123
+IMG_HEIGHT = int(24.333*len(DISPLAY_KEYS)) # 123
 
 
 ###
@@ -222,7 +222,7 @@ def get_div(songName, albumData):
 
 def get_div_md(data):
     lines = [f"**{line}**  " for line in data]
-    out = (lines + ['<br>  ']*6)[:6]
+    out = (lines + ['<br>  ']*len(DISPLAY_KEYS))[:len(DISPLAY_KEYS)]
     out = '\n'.join(out)
     return f'\n{out}\n'
 
