@@ -175,6 +175,7 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
 
     if filename:
         label = filename[:-1] if filename not in ['minutes', 'bpm', 'key'] else filename
+        label = label.capitalize()
         if filename == 'bpm':
             label = 'BPM'
         plt.xlabel(label.capitalize())
@@ -183,7 +184,7 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
 
 
 def generate_origin_piechart(origins, filename=None):
-    set_plt_size(plt, width=22, height=10, font_size=22)
+    set_plt_size(plt, width=22, height=10, font_size=24)
     labels = origins.keys()
     sizes = [origins[a]/len(origins) for a in labels]
     fig1, ax1 = plt.subplots()
