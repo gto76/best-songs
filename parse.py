@@ -79,12 +79,20 @@ def sort_by_date(listOfAlbums, albumData):
 def generate_files(albumData, listOfAlbums):
     table_html, table_md = generate_list(listOfAlbums, albumData)
     if ADD_PLOTS:
-        origins_html, origins_md = get_plot('Origins', 'origin')
-        years_html, years_md = get_plot('Release Dates', 'years')
-        months_html, months_md = get_plot('Release Months', 'months')
-        minutes_html, minutes_md = get_plot('Track Lengths', 'minutes')
-        table_html += origins_html + years_html + months_html + minutes_html
-        table_md += origins_md + years_md + months_md + minutes_md
+        names = [('Origins', 'origin'), 
+                 ('Release Dates — Year', 'years'),
+                 ('Release Dates — Month', 'months'),
+                 ('Keys', 'key'),
+                 ('Tempos', 'bpm')]
+        plots_html, plots_md = get_plots(names)
+        table_html += plots_html
+        table_md += plots_md
+        # origins_html, origins_md = get_plot('Origins', 'origin')
+        # years_html, years_md = get_plot('Release Dates', 'years')
+        # months_html, months_md = get_plot('Release Months', 'months')
+        # minutes_html, minutes_md = get_plot('Track Lengths', 'minutes')
+        # table_html += origins_html + years_html + months_html + minutes_html
+        # table_md += origins_md + years_md + months_md + minutes_md
     no_albums = len(listOfAlbums)
     title = f"{no_albums} Greatest Songs From '54 to '04"
     template = ''.join(get_file_contents(TEMPLATE))
@@ -92,6 +100,14 @@ def generate_files(albumData, listOfAlbums):
     out_md = get_out_md(table_md, title, template)
     return out_html, out_md
 
+
+def get_plots(names):
+    out_html, out_md = [], []
+    for name, filename in names:
+        plot_html, plot_md = get_plot(name, filename)
+        out_html.append(plot_html)
+        out_md.append(plot_md)
+    return ''.join(out_html), ''.join(out_md)
 
 def get_plot(name, filename):
     a_id = re.sub('\s', '-', filename.strip().lower())

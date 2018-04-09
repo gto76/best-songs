@@ -465,12 +465,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 Origins
 ------
 ![Origins](data/img/origin.png)
-Release Dates
+Release Dates — Year
 ------
-![Release Dates](data/img/years.png)
-Release Months
+![Release Dates — Year](data/img/years.png)
+Release Dates — Month
 ------
-![Release Months](data/img/months.png)
-Track Lengths
+![Release Dates — Month](data/img/months.png)
+Keys
 ------
-![Track Lengths](data/img/minutes.png)
+![Keys](data/img/key.png)
+Tempos
+------
+![Tempos](data/img/bpm.png)

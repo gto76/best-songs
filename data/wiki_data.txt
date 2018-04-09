@@ -3,6 +3,8 @@
 | Cover         = top_alt.jpg
 | Cover_alt         = top.jpg
 | Artist        = [[Bijelo Dugme]]
+| key = D
+| bpm = 121
 | B-side        = Ove ću noći naći blues
 | Released      = March 1974
 | Format        = [[7-inch single]]
@@ -24,6 +26,8 @@
 | Artist = [[Elvis Presley]]
 | B-side = "[[I Was the One]]"
 | Released = {{start date|1956|01|27}}
+| key = E
+| bpm = 94
 | Format = [[Gramophone record#Formats|10-inch 78&nbsp;rpm & 7-inch 45&nbsp;rpm records]]
 | Recorded = January 10, 1956, RCA Victor Studios, [[Nashville, Tennessee]]
 | Genre = {{flatlist|
@@ -52,6 +56,8 @@
 | Name          = Lust for Life
 | Cover         = Lust for Life.jpg
 | Border        = yes
+| key = A
+| bpm = 208
 | Caption       = Cover of the 1977 Netherlands single
 | Artist        = [[Iggy Pop]]
 | Album         = [[Lust for Life (Iggy Pop album)|Lust for Life]]
@@ -85,6 +91,8 @@
 | name       = The Murder Mystery
 | cover      = Velvetundergroundthirdalbum.jpg
 | alt        =
+| key = C
+| bpm = 113
 | type       =
 | artist     = [[the Velvet Underground]]
 | album      = [[The Velvet Underground]]
@@ -107,6 +115,8 @@
 | Name          = Walk on the Wild Side
 | Cover_alt         = wows1.jpg
 | Cover         = wows1_alt.jpg
+| key = C
+| bpm = 115
 | Artist        = [[Lou Reed]]
 | Album         = [[Transformer (album)|Transformer]]
 | A-side        = "[[Perfect Day (Lou Reed song)|Perfect Day]]"
@@ -128,6 +138,8 @@
 | Name          = Transmission
 | Cover         = Transmission_Joy Division2.jpg
 | Alt           =
+| key = C
+| bpm = 155
 | Artist        = [[Joy Division]]
 | B-side        = "Novelty"
 | Released      =  7 October 1979
@@ -163,6 +175,8 @@
 | Cover      = Nemesis divina - satyricon.jpg
 | Released   = April 22, 1996
 | Recorded   = 1996
+| key = E
+| bpm = 114
 | Studio     = Waterfall Studios
 | Genre      = [[Black metal]]
 | Length     = 6:26
@@ -177,6 +191,8 @@
 | Artist      = [[Fela Kuti]]
 | Cover       = FelaZombie.jpg
 | Released    = June 1, 1976
+| key = D
+| bpm = 132
 | Recorded    = 
 | Genre       = [[Afrobeat]]
 | Length      = 12:26
@@ -188,6 +204,8 @@
 {{Infobox song
 | Name        = When the Curious Girl Realizes She Is Under Glass
 | Artist      = [[Bright Eyes (band)|Bright Eyes]]
+| key = A
+| bpm = 92
 | Cover       = Feversandmirrors_brighteyes.jpg
 | Released    = May 29, 2000 <small>([[United States|US]])</small>
 | Recorded    = 1999, Presto! Recording Studio, Lincoln, Nebraska
@@ -204,6 +222,8 @@
 | alt        =
 | type       =
 | artist     = [[the Velvet Underground]]
+| key = Ab
+| bpm = 144
 | album      = [[The Velvet Underground & Nico]]
 | released   = {{Start date|1967|03|12}}
 | format     =
@@ -225,6 +245,8 @@
 | Name           = Kiss
 | Cover          = Prince_kiss.png
 | Alt = 
+| key = G
+| bpm = 111
 | Caption        = US 7″ single
 | Artist         = [[Prince (musician)|Prince]] and [[The Revolution (band)|The Revolution]]
 | Album          = [[Parade (Prince album)|Parade]]
@@ -255,6 +277,8 @@
 | Name           = Blue Monday
 | Cover          = NewOrderBlueMonday.jpg
 | Caption        = Original die-cut sleeve
+| key = C
+| bpm = 130
 | Artist         = [[New Order (band)|New Order]]
 | Album          = [[Power, Corruption & Lies]]{{efn|name=a|"Blue Monday" only appears on certain cassette and CD versions of ''Power, Corruption & Lies''.<ref name="album"/>}}
 | B-side         = {{hlist|"The Beach" {{small|(12")}}|"[[Thieves Like Us (song)|Thieves Like Us]]" {{small|(7")}}}}
@@ -277,6 +301,8 @@
 | cover      = Jeffair_single.jpg
 | alt        =
 | border     = 
+| key = D
+| bpm = 107
 | type       = single
 | artist     = [[Jefferson Airplane]]
 | album      = [[Surrealistic Pillow]]
@@ -306,6 +332,8 @@
 | Name        = This Charming Man
 | Cover       = Thischarmingmansingle.png
 | Artist      = [[The Smiths]]
+| key = B
+| bpm = 104
 | B-side      = {{hlist|"Jeane"|"Accept Yourself"|"Wonderful Woman"}}
 | Released    = 31 October 1983
 | Format      = {{hlist|[[7" vinyl]]|[[12-inch single|12" vinyl]]}}
@@ -327,6 +355,8 @@
 | Artist        = [[The Doors]]
 | Album         = [[The Doors (album)|The Doors]]
 | B-side        = "[[The Crystal Ship]]"
+| key = Eb
+| bpm = 125
 | Format        = 7" vinyl
 | Released      = January 4, 1967
 | Recorded      = August 22, 1966
@@ -351,6 +381,8 @@
 | Cover = Johnny_Cash_-_Personal_Jesus_and_Hurt_single.jpg
 | B-side = {{hlist|"[[Personal Jesus]]"|"[[Wichita Lineman]]"}}
 | Released = November 5, 2002
+| key = A
+| bpm = 92
 | Format = [[CD single]]
 | Recorded = 2002
 | Genre = {{hlist|[[Alternative rock]]<ref>[http://ajournalofmusicalthings.com/top-ten-most-depressing-alternative-rock-songs/ Top Ten Most Depressing Alternative Rock Songs] Retrieved January 5, 2015</ref>|[[acoustic rock]]<ref>[http://www.planetrock.com/music/backstage/the-rock-lists/the-best-ever-acoustic-rock-song-the-top-40/ The Best Ever Acoustic Rock Songs: Top 40] Retrieved October 20, 2014</ref>|[[country music|country]]<ref>[http://www.ew.com/article/2008/04/07/johnny-cash-hur Johnny Cash's 'Hurt' still the greatest country video]<br>[[Entertainment Weekly]]<br>Retrieved August 9, 2016</ref><!-- Please seek consensus at the talk page before changing/adding genres -->}}
@@ -370,6 +402,8 @@
 | Album          = [[Waiting for the Sun]]
 | Released       = July 3, 1968
 | track_no       = 11
+| key = E
+| bpm = 88
 | Recorded       = February–May 1968
 | Genre          = [[Psychedelic rock]], [[hard rock]], [[blues rock]]
 | Length         = 4:24
@@ -389,6 +423,8 @@
 | Cover_alt         = Miserlou - Dick Dale single.png
 | Border        =
 | Caption       =  
+| key = E
+| bpm = 173
 | Artist        = [[Dick Dale]]
 | Album         = [[Surfers' Choice]]
 | B-side        = "Eight Till Midnight"
@@ -407,6 +443,8 @@
 | Name        = Sedemnajst
 | Writer        = Gregor Tomc, Dušan Žiberna
 | Artist      = [[Pankrti]]
+| key = G
+| bpm = 123
 | Cover       = Dolgcajt.jpg
 | Released    = 8. february 1980
 | Studio = Studio Akademik
@@ -423,6 +461,8 @@
 | Cover          = Subterranean Homesick Blues cover.jpg
 | Album          = [[Bringing It All Back Home]]
 | B-side = "[[She Belongs to Me]]"
+| key = E
+| bpm = 174
 | Released       = March 8, 1965
 | Recorded       = January 14, 1965
 | origin     = East Coast
@@ -449,6 +489,8 @@
 | alt        =
 | caption    = Dutch single sleeve
 | type       = single
+| key = Ab
+| bpm = 137
 | artist     = [[the Kinks]]
 | B-side     = It's All Right
 | origin     = England
@@ -491,6 +533,8 @@
 | Name = Song 2
 | Cover = Blur_song_2_CD1.jpg
 | Artist = [[Blur (band)|Blur]]
+| key = Ab
+| bpm = 130
 | Album = [[Blur (Blur album)|Blur]]
 | Released = 10 February 1997
 | Format = {{hlist|[[Gramophone record|7"]]|[[CD single|CD]]}}
@@ -544,6 +588,8 @@
 | Cover          = Satisfaction-us.jpg
 | origin     = England
 | Artist         = [[The Rolling Stones]]
+| key = D
+| bpm = 136
 | B-side         = {{plainlist|
 * "The Under Assistant West Coast Promotion Man" (US)
 * "[[The Spider and the Fly (song)|The Spider and the Fly]]" (UK)
@@ -578,6 +624,8 @@
 | Name           = Folsom Prison Blues
 | Cover          = Folsom Prison Blues.png
 | Artist         = [[Johnny Cash]]
+| key = F
+| bpm = 101
 | from Album     = [[With His Hot and Blue Guitar]], [[Sings Hank Williams]], [[All Aboard the Blue Train]], ''and'' [[I Walk the Line (1964 album)|I Walk the Line]]
 | B-side         = "[[So Doggone Lonesome]]"
 | Released       = December 15, [[1955 in music|1955]]<br>April [[1968 in music|1968]] <Small>(re-recording)</small>
@@ -599,6 +647,8 @@
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Blister in the Sun
 | Cover          = Blister in the Sun.jpg
+| key = C
+| bpm = 97
 | Artist         = [[Violent Femmes]]
 | from Album     = [[Violent Femmes (album)|Violent Femmes]]
 | Writer         = [[Gordon Gano]]
@@ -616,6 +666,8 @@
 {{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Add It Up
 | Cover          = Violent_Femmes.jpg
+| key = E
+| bpm = 172
 | Type           = Song
 | Artist         = [[Violent Femmes]]
 | alt Artist     = 
@@ -644,6 +696,8 @@
 | name       = If 6 Was 9
 | cover      = Axiscover.jpg
 | type       = song
+| key = Ab
+| bpm = 111
 | artist     = [[the Jimi Hendrix Experience]]
 | album      = [[Axis: Bold as Love]]
 | released   =
@@ -668,6 +722,8 @@
 | Border        = yes
 | Artist        = [[Ramones]]
 | Album         = [[Ramones (album)|Ramones]]
+| key = A
+| bpm = 176
 | Released      = February 1976
 | Format        = 7"
 | Recorded      = January 1976
@@ -693,6 +749,8 @@
 | Cover          = LCD Soundsystem - Yeah cover art.jpg
 | Artist         = [[LCD Soundsystem]]
 | Album          = [[LCD Soundsystem (album)|LCD Soundsystem]]
+| key = Bb
+| bpm = 132
 | B-side         = {{hlist|Pretentious Version|Clap-a-Pella}}
 | Released       = January 13, 2004
 | Format         = {{hlist|[[12-inch single|12"]]|[[CD single|CD]]}}
@@ -713,6 +771,7 @@
 | Cover          = Rappersdelight.jpg
 | Artist         = [[The Sugarhill Gang]]
 | from Album     = [[Sugarhill Gang (album)|Sugarhill Gang]]
+| bpm = 111
 | B-side         = 
 | Released       = September 16, 1979<ref>{{cite news|last1=Lynch|first1=Joe|title=35 Years Ago, Sugarhill Gang's 'Rapper's Delight' Made Its First Chart Appearance|url=http://m.dodgers.mlb.com/news/article/1525661/|accessdate=February 24, 2015|work=Billboard|date=October 13, 2014}}</ref>
 | Format         = [[12-inch single|12"]]
@@ -732,6 +791,8 @@
 | Name           = Rumble
 | Cover          = Rumble (instrumental).png
 | Border         = yes  
+| key = A
+| bpm = 86
 | Cover size     = 
 | Caption        = 
 | Artist         = [[Link Wray & His Ray Men]]
@@ -766,6 +827,8 @@
 | Name        = In Shades
 | Artist      = [[Tom Waits]]
 | Genre       = Blues Rock
+| key = B
+| bpm = 97
 | Writer      = [[Tom Waits]]
 | Cover       = Tom_Waits-Heartattack_and_Vine.jpg
 | Released    = {{Start date|1980|09|09}}<ref>{{cite web |url= http://anti.com/releases/?artist=1 |title= Releases |first= |last= |publisher= ANTI-|date= |accessdate= March 6, 2018 }}</ref>
@@ -782,6 +845,8 @@
 |  Cover          = InBloom.jpg
 |  Artist         = [[Nirvana (band)|Nirvana]]
 | origin     = West Coast
+| key = Bb
+| bpm = 79
 |  from Album     = [[Nevermind]] |
   B-side         = "[[Polly (Nirvana song)|Polly]]" (live)
 |  Released       = September 24, 1991
@@ -808,6 +873,8 @@
 |Cover_alt          =JLL Great Balls single cover_alt.jpg
 |Cover      =JLL Great Balls single cover.jpg
 |Artist         =[[Jerry Lee Lewis]]
+| key = Bb
+| bpm = 160
 |Album          =
 |B-side         ="You Win Again"
 |Released       =November 11, 1957
@@ -836,6 +903,8 @@
 | Released      = 13 August 2001
 | Format        = CD, 7" vinyl
 | origin     = England
+| key = A
+| bpm = 129
 | Recorded      = 
 | Genre         = [[House music|House]], [[reggae fusion]], [[speed garage]]
 | Length        = 3:43 (Edited Version)<br>6:02 (Album Version)
@@ -853,6 +922,8 @@
 | Album     = [[Mellow Gold]]
 | A-side         = 
 | B-side         = 
+| key = F#
+| bpm = 85
 | Released       = {{hlist|March 8, 1993|February 4, 1994 (re-release)}}
 | Format         = {{hlist|[[Gramophone record|7"]]|[[12-inch single|12"]]|[[CD single|CD]]|[[Cassette single|cassette]]}}
 | Recorded       = 1992
@@ -871,6 +942,8 @@
 | Name           = One Armed Scissor
 | Cover          = At the Drive-In - One Armed Scissor cover.jpg
 | Writer         = At The Drive-in
+| key = E
+| bpm = 165
 | Artist         = [[At the Drive-In]]
 | from Album     = [[Relationship of Command]]
 | B-side         = "Pattern Against User"<br />"Incetardis"
@@ -907,6 +980,8 @@
 | Caption       = Standard artwork, with yellow background used for one of original UK releases ''(12" vinyl single pictured)''
 | Artist        = [[the Clash]]
 | Album         = [[London Calling]]
+| key = C
+| bpm = 134
 | B-side        = "[[Armagideon Time]]"
 | Released      = 7 December 1979
 | Format        = [[Single (music)|7" single/12" single]]
@@ -945,6 +1020,8 @@
 | Border        = 
 | Alt           = 
 | Caption       = 
+| key = F
+| bpm = 130
 | Artist        = [[Stan Getz]] and [[João Gilberto]]
 | Album         = [[Getz/Gilberto]]
 | A-side        = 
@@ -971,6 +1048,8 @@
 | Caption        = Cover of the Northern Songs sheet music (licensed to Sonora Musikförlag)
 | Album     = [[Revolver (Beatles album)|Revolver]]| Released    = 5 August 1966| track_no    = 14
 | Published = [[Northern Songs]]
+| key = F
+| bpm = 126
 | Recorded    = 6, 7 and 22 April 1966<br />[[Abbey Road Studios|EMI Studios]], London
 | Genre     = 
 * [[Psychedelic rock]]{{sfn |Gilliland|1969|loc=show 39, tracks 4-5}}
@@ -987,6 +1066,8 @@
 | Artist         = [[Television (band)|Television]]
 | Album = [[Marquee Moon]]
 | Released       = February 8, 1977
+| key = G
+| bpm = 118
 | Format         = [[Gramophone record|12"]]
 | Recorded       = A & R Studios, NYC
 | Genre          = [[Post-punk]]
@@ -1005,6 +1086,8 @@
 | Cover          = Mr Sandman (Chordettes) .png
 | Caption        = Mr. Sandman record by [[The Chordettes]]
 | Artist         = [[The Chordettes]]
+| key = A
+| bpm = 110
 | B-side         = '"I Don't Wanna See You Cryin'"
 | Released       = October 1954
 | Format         = [[Gramophone record|7"]]
@@ -1028,6 +1111,8 @@
 | Artist         = [[The Mamas & the Papas]]
 | Album          = [[If You Can Believe Your Eyes and Ears]]
 | B-side         = "Somebody Groovy"
+| key = Db
+| bpm = 112
 | Released       = [[1965 in music|December 8, 1965]]
 | Recorded       = November 4, 1965, Western Recorders, Hollywood
 | Format         = [[Gramophone record|Vinyl record]] (7") 45 RPM
@@ -1046,6 +1131,8 @@
 | Genre       = Folk, Sevdah
 | Name        = Bosna moja
 | Cover       = bosna_moja.jpg
+| key = E
+| bpm = 100
 | Writer      = R. Živković, Z. Jovanović, Omer Pobrić
 | Producer    = Omer Pobrić
 | Artist      = [[Safet Isović]]
@@ -1060,6 +1147,8 @@
 | Name        = Psycho Killer
 | Cover       = Talking heads psycho killer USA vinyl.jpg
 | Caption     = U.S. vinyl edition cover
+| key = D
+| bpm = 123
 | Artist      = [[Talking Heads]]
 | from Album  = [[Talking Heads: 77]]
 | B-side      = "Psycho Killer" (Acoustic version)<br/>"I Wish You Wouldn't Say That"
@@ -1082,6 +1171,8 @@
 | cover       = Linzserenade.jpg
 | Artist      = Gustav
 | Released    = 21. March 2004
+| key =
+| bpm =
 | Length      = 4:12
 | Label       = Mosz
 | Producer    = Eva Jantschitsch
@@ -1094,6 +1185,8 @@
 | Cover         = Break_On_Through_To_the_Other_Side.jpg
 | Border        = yes
 | Caption       = Cover of the 1967 US single
+| key = A
+| bpm = 90
 | Artist        = [[The Doors]]
 | Album         = [[The Doors (album)|The Doors]]
 | B-side        = "End of the Night"
@@ -1118,6 +1211,8 @@
 | Cover         = Beatles_help2.jpg
 | Caption       = US picture sleeve
 | B-side        = "[[I'm Down]]"
+| key = F#
+| bpm = 95
 | Released      = 19 July 1965 (US)<br>23 July 1965 (UK)
 | Recorded      = 13 April 1965,<br>[[Abbey Road Studios|EMI Studios]], [[London]]
 | Format        = [[gramophone record|7"]]

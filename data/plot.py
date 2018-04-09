@@ -15,6 +15,7 @@ import collections
 
 DEBUG = False
 GENERATE_STACKED_BARPLOT = False
+BPM_WINDOW = 2
 
 DIR = 'img'
 
@@ -34,12 +35,17 @@ MONTHS = {'january': 1,
 MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
             'ber|november|december'
 
+KEYS = {'A': 1, 'B': 3, 'C': 4, 'D': 6, 'E': 8, 'F': 9, 'G': 11}
+INV_KEYS = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#']
+
 
 def main():
     songs = read_json_file('wiki_data.json')
     generate_plot(songs, 'released', get_year, 'years', ticks_filter=every_even)
     generate_plot(songs, 'released', get_month, 'months')
     generate_plot(songs, 'length', get_minutes, 'minutes')
+    generate_plot(songs, 'bpm', get_bpm, 'bpm', get_bpm_xlabel, font_size_in=14)
+    generate_plot(songs, 'key', get_key, 'key', get_key_xlabel, font_size_in=20)
     generate_piechart(songs, 'origin')
     if GENERATE_STACKED_BARPLOT:
         generate_stacked_barplot(songs, 'origin stacked barplot')
@@ -50,28 +56,58 @@ def generate_piechart(songs, key):
     generate_origin_piechart(Counter(values), filename=key)
 
 
-def generate_plot(songs, key, parser, xlabel, ticks_filter=None):
+def generate_plot(songs, key, parser, xlabel, label_parser=None, 
+                  ticks_filter=None, font_size_in=None):
     values = parse_releases(songs, key, parser)
     values = [int(a) for a in values]
     generate_release_dates_chart(values, filename=xlabel,
-                                 ticks_filter=ticks_filter)
+                                 ticks_filter=ticks_filter, 
+                                 label_parser=label_parser,
+                                 font_size_in=font_size_in)
 
 
-def parse_releases(songs, key, parser, ):
+def get_bpm(value):
+    bpm = int(value)
+    if bpm > 140:
+        bpm = int(bpm/2)
+    out = bpm // BPM_WINDOW
+    return out  
+
+
+def get_bpm_xlabel(value):
+    return str(int(value*BPM_WINDOW))
+
+
+def get_key(value):
+    if value == 'Ab':
+        return 12
+    out = KEYS[value[0]]
+    if 'b' in value:
+        return out - 1
+    if '#' in value:
+        return out + 1
+    return out
+
+
+def get_key_xlabel(value):
+    return INV_KEYS[value-1]
+
+
+def parse_releases(songs, key, parser):
     out = []
     for song in songs.values():
         if key not in song:
             continue
-        release = song[key]
-        if len(release) < 1:
+        value = song[key]
+        if len(value) < 1:
             continue
-        if isinstance(release, list):
-            release = release[0]
-        value = parser(release)
-        if value:
-            out.append(value)
+        if isinstance(value, list):
+            value = value[0]
+        parsed_value = parser(value)
+        if parsed_value:
+            out.append(parsed_value)
         elif DEBUG:
-            print(release)
+            print(value)
     return sorted(out)
 
 
@@ -109,27 +145,38 @@ def get_minutes(length):
 ##  PLOT
 #
 
-def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None):
+def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
+        label_parser=None, font_size_in=None):
     font_size = 22
     width = 22
     if filename == 'years':
         font_size = 15
         width = 22
+    if font_size_in:
+        font_size = font_size_in
     set_plt_size(plt, width=width, height=8, font_size=font_size)
     albumsPerYear = getAlbumsPerYear(listOfYears)
     yearRange = getYearRange(listOfYears)
     y = albumsPerYear
     x = yearRange
     x_ticks = [listOfYears[0]-1] + yearRange + [listOfYears[-1]+1]
+    if filename == 'key':
+        x_ticks = yearRange
     if ticks_filter:
         x_ticks = ticks_filter(x_ticks)
+    
     if filename == 'months':
         # plt.set_xticklabels(calendar.month_abbr, rotation='vertical', fontsize=18)
         plt.xticks(x_ticks, calendar.month_abbr)
+    elif label_parser:
+        plt.xticks(x_ticks, [label_parser(a) for a in x_ticks])
     else:
         plt.xticks(x_ticks)
+
     if filename:
-        label = filename[:-1] if filename != 'minutes' else filename
+        label = filename[:-1] if filename not in ['minutes', 'bpm', 'key'] else filename
+        if filename == 'bpm':
+            label = 'BPM'
         plt.xlabel(label.capitalize())
     plt.bar(x, y, color="blue")
     present_plt(plt, filename)
