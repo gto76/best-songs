@@ -39,7 +39,8 @@ MONTHS = {'january': 1,
           'november': 11,
           'december': 12}
 
-IMG_HEIGHT = int(24.333*len(DISPLAY_KEYS)) # 123
+HEIGHT_FACTOR = 24.333
+IMG_HEIGHT = int(HEIGHT_FACTOR*len(DISPLAY_KEYS)) # 123
 
 
 ###
