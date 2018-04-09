@@ -41,6 +41,9 @@ INV_KEYS = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#']
 
 def main():
     songs = read_json_file('wiki_data.json')
+    list_of_songs = get_file_contents("../list_of_songs")
+    list_of_songs = get_list_of_songs(list_of_songs)
+    songs = {k: v for k, v in songs.items() if k in list_of_songs} 
     generate_plot(songs, 'released', get_year, 'years', ticks_filter=every_even)
     generate_plot(songs, 'released', get_month, 'months')
     generate_plot(songs, 'length', get_minutes, 'minutes')
@@ -279,6 +282,21 @@ def read_json_file(filename):
 
 def equals_ic(regex, text):
     return re.match(regex, text, flags=re.IGNORECASE)
+
+
+def get_file_contents(fileName):
+    with open(fileName) as f:
+        return f.readlines()
+
+
+def get_list_of_songs(readme):
+    listOfSongs = []
+    for line in readme:
+        if line.startswith('###'):
+            line = re.search("\'(.*)\'", line).group(1)
+            listOfSongs.append(line.strip())
+    return listOfSongs
+
 
 
 if __name__ == '__main__':
