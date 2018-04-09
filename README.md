@@ -462,18 +462,18 @@ or as a part of an album. Image shows the cover of the single or the label if no
 <br>  
 <br>  
 
-Origins
+Origin
 ------
-![Origins](data/img/origin.png)
-Release Dates — Year
+![Origin](data/img/origin.png)
+Release Date — Year
 ------
-![Release Dates — Year](data/img/years.png)
-Release Dates — Month
+![Release Date — Year](data/img/years.png)
+Release Date — Month
 ------
-![Release Dates — Month](data/img/months.png)
-Keys
+![Release Date — Month](data/img/months.png)
+Key
 ------
-![Keys](data/img/key.png)
-Tempos
+![Key](data/img/key.png)
+Tempo
 ------
-![Tempos](data/img/bpm.png)
+![Tempo](data/img/bpm.png)

@@ -44,7 +44,8 @@ def main():
     list_of_songs = get_file_contents("../list_of_songs")
     list_of_songs = get_list_of_songs(list_of_songs)
     songs = {k: v for k, v in songs.items() if k in list_of_songs} 
-    generate_plot(songs, 'released', get_year, 'years', ticks_filter=every_even)
+    generate_plot(songs, 'released', get_year, 'years', get_year_xlabel, 
+        ticks_filter=every_even, font_size_in=18)
     generate_plot(songs, 'released', get_month, 'months')
     generate_plot(songs, 'length', get_minutes, 'minutes')
     generate_plot(songs, 'bpm', get_bpm, 'bpm', get_bpm_xlabel, font_size_in=14)
@@ -68,6 +69,10 @@ def generate_plot(songs, key, parser, xlabel, label_parser=None,
                                  label_parser=label_parser,
                                  font_size_in=font_size_in)
 
+
+def get_year_xlabel(value):
+    value = str(value)[-2:]
+    return f"'{value}"
 
 def get_bpm(value):
     bpm = int(value)
@@ -152,9 +157,6 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
         label_parser=None, font_size_in=None):
     font_size = 22
     width = 22
-    if filename == 'years':
-        font_size = 15
-        width = 22
     if font_size_in:
         font_size = font_size_in
     set_plt_size(plt, width=width, height=8, font_size=font_size)
@@ -169,7 +171,6 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
         x_ticks = ticks_filter(x_ticks)
     
     if filename == 'months':
-        # plt.set_xticklabels(calendar.month_abbr, rotation='vertical', fontsize=18)
         plt.xticks(x_ticks, calendar.month_abbr)
     elif label_parser:
         plt.xticks(x_ticks, [label_parser(a) for a in x_ticks])
@@ -229,11 +230,9 @@ def get_origin_dict(songs):
         decades = out.get(origin, [0]*5)
         decades[decade] += 1
         out[origin] = decades
-        # out[origin] = out.get(origin, [0]*5)[decade] + 1
         a_sum[decade] += 1
     
     for origin in out:
-        # for decade in out[origin]:
         for i in range(len(out[origin])):
             out[origin][i] /= a_sum[i]
 
