@@ -178,7 +178,7 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
         label = label.capitalize()
         if filename == 'bpm':
             label = 'BPM'
-        plt.xlabel(label.capitalize())
+        plt.xlabel(label)
     plt.bar(x, y, color="blue")
     present_plt(plt, filename)
 
