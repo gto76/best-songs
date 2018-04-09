@@ -10,9 +10,11 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import numbers
 import calendar
+import collections
 
 
 DEBUG = False
+GENERATE_STACKED_BARPLOT = False
 
 DIR = 'img'
 
@@ -39,6 +41,8 @@ def main():
     generate_plot(songs, 'released', get_month, 'months')
     generate_plot(songs, 'length', get_minutes, 'minutes')
     generate_piechart(songs, 'origin')
+    if GENERATE_STACKED_BARPLOT:
+        generate_stacked_barplot(songs, 'origin stacked barplot')
 
 
 def generate_piechart(songs, key):
@@ -72,6 +76,8 @@ def parse_releases(songs, key, parser, ):
 
 
 def get_year(release):
+    if type(release) == list:
+        release = release[0]
     year = re.search('\d{4}', release)
     if year:
         return int(year.group())
@@ -138,6 +144,49 @@ def generate_origin_piechart(origins, filename=None):
             shadow=True, startangle=90)
     ax1.axis('equal')
     present_plt(plt, filename)
+
+
+def generate_stacked_barplot(songs, filename=None):
+    # origin_dict[origin][decade] = %
+    origin_dict = get_origin_dict(songs)
+
+    set_plt_size(plt, width=22, height=10, font_size=22)
+    r = list(range(len(origin_dict)))
+    colors = {'England': '#b5ffb9', 'International': '#323fb9', 
+    'West Coast': '#23453f', 'East Coast': '#ffffb9', 'Central United States': '#992233'}
+    bottom = [0] * len(origin_dict)
+    plt.xticks(r, ["'54-'63", "'64-'73", "'74-'83", "'84-'93", "'94-'04"])
+
+    for origin in origin_dict:
+        color = colors[origin]
+        plt.bar(r, origin_dict[origin], bottom=bottom, color=color)
+        bottom = [a+b for a, b in zip(bottom, origin_dict[origin])]
+
+    present_plt(plt, filename)
+
+
+def get_origin_dict(songs):
+    # Returns out[origin][decade] = %
+    out = {}
+    a_sum = Counter()
+    for song in songs.values():
+        if 'origin' not in song or 'released' not in song:
+            continue
+        year = get_year(song['released'])
+        origin = song['origin']
+        decade = min(4, (year - 1954)//10)
+        decades = out.get(origin, [0]*5)
+        decades[decade] += 1
+        out[origin] = decades
+        # out[origin] = out.get(origin, [0]*5)[decade] + 1
+        a_sum[decade] += 1
+    
+    for origin in out:
+        # for decade in out[origin]:
+        for i in range(len(out[origin])):
+            out[origin][i] /= a_sum[i]
+
+    return out
 
 
 def set_plt_size(plt, width, height, font_size):

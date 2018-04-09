@@ -8,6 +8,10 @@ Dr Dre - Nuthin But A G Thang
 Busta Rhymes - Gimme Some More
 The Kinks - Lola
 Jay-Z - 99 Problems
+Dolly Parton - Jolene (Audio)
+Butthole Surfers - Pepper
+### Blur - Girls and Boys
+Squarepusher "The Exploding Psychology"
 
 Interpol - Evil
 Seatbelts - Clutch (japan big band)
@@ -96,6 +100,7 @@ Considering (select 8 of 26)
 ### * Joy Division - Disorder
 ### Velvet Underground - heroin L:7:10
 ### Tom Waits - Twenty-Nine Dollars
+### King Crimson - 21st Century Schizoid Man
 
 ### 66 B * The Doors, 'The End'
 ### Clash - Police & Thieves
@@ -125,7 +130,6 @@ Considering (select 8 of 26)
 ### 70 * Black Sabath, 'Paranoid' ?
 ### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
 ### 68 A/B * The Rolling Stones, 'Jumpin' Jack Flash'
-### Blur - Girls and Boys
 
 
 Too early/late
