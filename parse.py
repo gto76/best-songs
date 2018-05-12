@@ -72,7 +72,8 @@ def get_list_of_songs(readme):
 
 
 def sort_by_date(listOfAlbums, albumData):
-    dates = [(get_numeric_date(get_song_name(a), albumData), a) for a in listOfAlbums]
+    dates = [(get_numeric_date(get_song_name(a), albumData), a) for a in 
+             listOfAlbums]
     dates.sort()
     return [a[1] for a in dates]
 
@@ -107,7 +108,8 @@ def get_plots(names):
 def get_plot(name, filename):
     a_id = re.sub('\s', '-', filename.strip().lower())
     plot_html = f'<h2><a href="#{a_id}" name="{a_id}">#</a>{name}</h2>\n' \
-                f'<img src="data/img/{filename}.png" alt="{name}" width="920"/>\n'
+                f'<img src="data/img/{filename}.png" alt="{name}" width="920"' \
+                f'/>\n'
     plot_md = f'\n{name}\n------\n![{name}](data/img/{filename}.png)'
     return plot_html, plot_md
 
@@ -208,8 +210,9 @@ def get_img_link(albumName, albumData):
 
 
 def get_yt_link(albumName):
-    out = '<a target="_blank" href="https://www.youtube.com/results?search_query=' \
-          + albumName.replace('-', '').replace(' ', '+') + '+song"> '
+    albumName = albumName.replace('-', '').replace(' ', '+')
+    out = '<a target="_blank" href="https://www.youtube.com/results?' \
+          f'search_query={albumName}+song"> '
     return out
 
 
