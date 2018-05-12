@@ -40,7 +40,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Rca Victor**  
 
 ### '58 Apr | "Rumble" — Link Wray & His Ray Men  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Link+Wray+&+His+Ray+Men+Rumble+song"> <img src="data/img/cover/Rumble (instrumental).png" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Link+Wray++His+Ray+Men+Rumble+song"> <img src="data/img/cover/Rumble (instrumental).png" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Rock And Roll, Surf Rock**  
 **Writers:&ensp;Milt Grant, Link Wray**  
@@ -94,7 +94,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Labels:&ensp;Parlophone, Capitol**  
 
 ### '65 Dec | "California Dreamin'" — The Mamas & the Papas  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Mamas+&+the+Papas+California+Dreamin'+song"> <img src="data/img/cover/Disco de vinilo - California dreamin'_alt2.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Mamas++the+Papas+California+Dreamin'+song"> <img src="data/img/cover/Disco de vinilo - California dreamin'_alt2.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Sunshine Pop, Folk Rock**  
 **Writers:&ensp;John Phillips, Michelle Phillips**  
