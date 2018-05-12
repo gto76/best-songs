@@ -186,11 +186,11 @@ or as a part of an album. Image shows the cover of the single or the label if no
 ### '69 Mar | "The Murder Mystery" — the Velvet Underground  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Velvet+Underground+The+Murder+Mystery+song"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
 
+**Writer:&ensp;Lou Reed**  
 **Producer:&ensp;The Velvet Underground**  
 **Length:&ensp;8:55**  
 **Label:&ensp;Mgm**  
 <br>  
-<br>
 
 ### '70 Jul | "Celebration of the Lizard" — The Doors  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Celebration+of+the+Lizard+song"> <img src="data/img/cover/DoorsAbLive1970.jpg" align="left" alt="cover" height="121px"/></a>
