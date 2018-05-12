@@ -1,4 +1,97 @@
 {
+  "Pale Blue Eyes": {
+    "name": "Pale Blue Eyes",
+    "cover": "Velvetundergroundthirdalbum.jpg",
+    "key": "F",
+    "bpm": "83",
+    "artist": "The Velvet Underground",
+    "album": "The Velvet Underground",
+    "recorded": [
+      "November–december 1968",
+      "T.t.g. studios, hollywood"
+    ],
+    "released": "1969.03",
+    "genre": [
+      "Folk rock",
+      "Country",
+      "Pop"
+    ],
+    "length": "5:40",
+    "writer": "Lou Reed",
+    "label": "MGM",
+    "producer": "The Velvet Underground",
+    "prev": "\"Some Kinda Love\"",
+    "prev_no": "3",
+    "track_no": "4",
+    "next": "\"Jesus\"",
+    "next_no": "5",
+    "origin": "East Coast"
+  },
+  "Love Me Two Times": {
+    "name": "Love Me Two Times",
+    "cover": "LoveMeThreeTimes.jpeg",
+    "artist": "The Doors",
+    "album": "Strange Days",
+    "b-side": "\"Moonlight Drive\"",
+    "released": "September 25, 1967",
+    "key": "E",
+    "bpm": "133",
+    "recorded": "May and August 1967",
+    "genre": [
+      "Blues rock",
+      "Psychedelic rock"
+    ],
+    "length": [
+      "3:16 (album version)",
+      "2:41 (single version)"
+    ],
+    "label": "Elektra",
+    "writer": "Robby Krieger",
+    "producer": "Paul A. Rothchild",
+    "last single": "\"People Are Strange\", (1967)",
+    "this single": "\"'''Love Me Two Times'''\", (1967)",
+    "next single": "\"The Unknown Soldier\", (1968)",
+    "origin": "West Coast"
+  },
+  "Smack My Bitch Up": {
+    "name": "Smack My Bitch Up",
+    "artist": "The Prodigy",
+    "cover": "Smack_My_Bitch_Up.jpg",
+    "released": "30 June 1997",
+    "key": "Bb",
+    "bpm": "136",
+    "recorded": "Essex, England, United Kingdom",
+    "format": [
+      "12\"",
+      "Cd"
+    ],
+    "genre": [
+      "Big beat",
+      "Techno"
+    ],
+    "length": [
+      "4:45 (edit)",
+      "5:43 (album version)"
+    ],
+    "label": [
+      "Xl",
+      "Maverick",
+      "Sony"
+    ],
+    "writer": [
+      "Liam howlett",
+      "Cedric miller",
+      "Trevor randolph",
+      "Maurice smith",
+      "Keith thornton"
+    ],
+    "producer": "Liam Howlett",
+    "last single": "\"Breathe\" , (1996)",
+    "next single": "\"Baby's Got a Temper\" , (2002)",
+    "this single": "\"'''Smack My Bitch Up'''\" , (1997)",
+    "from album": "The Fat of the Land",
+    "origin": "England"
+  },
   "Top": {
     "name": "Top",
     "cover": "top_alt.jpg",

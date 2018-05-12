@@ -3,6 +3,31 @@ Best Songs
 
 New Additions
 -------------
+jazz
+its alright - elvis
+Velvet Underground - Pale Blue Eyes
+The Doors - Love Me Two Times
+The Prodigy - Smack My Bitch Up
+
+Joy Division - Atmosphere
+
+ixies - Here Comes Your Man
+Hey - The Pixies
+pixies - where is my mind
+The Doors - Cars hiss
+doors - music's over
+ZZ Top - La Grange
+Dolly Parton - Jolene
+Joy Division - Disorder
+Waiting for the Sun - The Doors
+
+Teenage Kicks - undertones
+THE SPECIALS - Gangsters
+Down in Mexico by The Coasters
+The Rolling Stones - Gimme Shelter
+The Stray Cats - Rock This Town
+The Kinks - Victoria
+
 Clash - I Fought the Law
 Dr Dre - Nuthin But A G Thang
 Busta Rhymes - Gimme Some More
@@ -12,6 +37,7 @@ Dolly Parton - Jolene (Audio)
 Butthole Surfers - Pepper
 ### Blur - Girls and Boys
 Squarepusher "The Exploding Psychology"
+Bright Eyes - A Perfect Sonnet
 
 Interpol - Evil
 Seatbelts - Clutch (japan big band)
@@ -34,10 +60,10 @@ Pearl Jam - Jeremy
 OutKast - Hey Ya!
 Bomfunk MC's - Freestyler
 Benny Benassi - 'Satisfaction' 
-The Prodigy - Smack My Bitch Up
 Modest Mouse - Float On
 The Dandy Warhols - Bohemian Like You
 
+test - chemical
 
 A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 
@@ -46,49 +72,49 @@ For Real (by year)
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 56 A * Elvis Presley, 'Heartbreak Hotel'
-### 57 A * Jerry Lee Lewis, 'Great Balls'
+### 57 A * Jerry Lee Lewis, 'Great Balls' ??
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
 ### 64 A/B * Kinks, 'You Really Got Me'
 ### 64 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
-### 65 A/B * Dylan, 'Subterranean Homesick Blues'
+### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
 ### 65 A/B * Rolling Stones, 'Satisfaction'
 ### 65 A/B * Beatles, 'Help'
 ### 66 B * Mamas and Papas, 'California Dreamen'
 ### 66 B * The Doors, 'Light my Fire'
 ### 66 Doors - "Break On Through (To the Other Side)"
-### 66 B * Beatles, 'Tomorow Never Knows' ?
-### 67 B/C * Velvet Underground, 'Venus in Furs' ?
+### 66 B * Beatles, 'Tomorow Never Knows'
+### 67 B/C * Velvet Underground, 'Venus in Furs'
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Murder Mistery'
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
-### 70 B * The Doors, 'Celebration of the Lizard' ?
+### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
-### 74 A/B/C * Bijelo Dugme, 'Top' ?
+### 74 A/B/C * Bijelo Dugme, 'Top' 
 ### 76 C * Ramones, 'Blietzkrieg Bop'
 ### 76 D * Fela Kuti, 'Zombie'
-### 77 C * Iggy Pop, 'Lust for life' ?
+### 77 C * Iggy Pop, 'Lust for life' 
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
-### 80 A/B * Tom Waits, 'In Shades' ?
-### 80 C * Pankrti, 'Sedemnajst' ?
+### 80 A/B * Tom Waits, 'In Shades' 
+### 80 C * Pankrti, 'Sedemnajst'
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' ?
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' 
 ### 83 C/F * The Smiths, 'This Charming Man'
-### 83 C * New Order, 'Blue Monday' ?
-### 83 C/F * Violent Femmes, 'Blister on the Sun' ?
+### 83 C * New Order, 'Blue Monday' ??
+### 83 C/F * Violent Femmes, 'Blister on the Sun'
 ### 83 C/F * Add it up - Violent Femmes
 ### 86 D * Prince, 'Kiss' ?
-### 88 * Safet Isovic, 'Bosna Moja' ?
+### 88 * Safet Isovic, 'Bosna Moja'
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
 ### 96 B * Satyricon, 'Mother North'
 ### 97 B/C * Blur, 'Song 2' ?
 ### 99 E * Groove Armada, 'Superstylin'
-### 99 C/F * At The Drive In, 'One Armed Scissor' ?
+### 99 C/F * At The Drive In, 'One Armed Scissor' ??
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'

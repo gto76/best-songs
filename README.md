@@ -39,15 +39,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;2:08**  
 **Label:&ensp;Rca Victor**  
 
-### '57 Nov | "Great Balls of Fire" — Jerry Lee Lewis  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Jerry+Lee+Lewis+Great+Balls+of+Fire+song"> <img src="data/img/cover/JLL Great Balls single cover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Rock And Roll, Rockabilly, Country**  
-**Writers:&ensp;Otis Blackwell, Jack Hammer**  
-**Producer:&ensp;Sam Phillips**  
-**Length:&ensp;1:52**  
-**Label:&ensp;Sun**  
-
 ### '58 Apr | "Rumble" — Link Wray & His Ray Men  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Link+Wray+&+His+Ray+Men+Rumble+song"> <img src="data/img/cover/Rumble (instrumental).png" align="left" alt="cover" height="121px"/></a>
 
@@ -83,15 +74,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Producer:&ensp;Shel Talmy**  
 **Length:&ensp;2:20**  
 **Labels:&ensp;Pye (Uk), Reprise (Us)**  
-
-### '65 Mar | "Subterranean Homesick Blues" — Bob Dylan  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Bob+Dylan+Subterranean+Homesick+Blues+song"> <img src="data/img/cover/Subterranean Homesick Blues cover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Folk Rock, Blues Rock, Rock And Roll**  
-**Writer:&ensp;Bob Dylan**  
-**Producer:&ensp;Tom Wilson**  
-**Length:&ensp;2:20**  
-**Label:&ensp;Columbia**  
 
 ### '65 Jun | "(I Can't Get No) Satisfaction" — The Rolling Stones  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Rolling+Stones+(I+Can't+Get+No)+Satisfaction+song"> <img src="data/img/cover/Satisfaction-us.jpg" align="left" alt="cover" height="121px"/></a>
@@ -165,6 +147,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;5:12**  
 **Label:&ensp;Verve**  
 
+### '67 Sep | "Love Me Two Times" — The Doors  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Love+Me+Two+Times+song"> <img src="data/img/cover/LoveMeThreeTimes.jpeg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Blues Rock, Psychedelic Rock**  
+**Writer:&ensp;Robby Krieger**  
+**Producer:&ensp;Paul A. Rothchild**  
+**Lengths:&ensp;3:16 (Album Version), 2:41 (Single Version)**  
+**Label:&ensp;Elektra**  
+
 ### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -182,6 +173,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Producer:&ensp;Paul A. Rothchild**  
 **Length:&ensp;4:24**  
 **Label:&ensp;Elektra**  
+
+### '69 Mar | "Pale Blue Eyes" — The Velvet Underground  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+Pale+Blue+Eyes+song"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Folk Rock, Country, Pop**  
+**Writer:&ensp;Lou Reed**  
+**Producer:&ensp;The Velvet Underground**  
+**Length:&ensp;5:40**  
+**Label:&ensp;Mgm**  
 
 ### '69 Mar | "The Murder Mystery" — the Velvet Underground  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Velvet+Underground+The+Murder+Mystery+song"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
@@ -318,15 +318,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;1:45**  
 **Label:&ensp;Rtv Ljubljana**  
 
-### '83 Mar | "Blue Monday" — New Order  
-<a target="_blank" href="https://www.youtube.com/results?search_query=New+Order+Blue+Monday+song"> <img src="data/img/cover/NewOrderBlueMonday.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Synth-Pop, Alternative Dance, Hi-Nrg**  
-**Writers:&ensp;Gillian Gilbert, Peter Hook, Stephen Morris, Bernard Sumner**  
-**Producer:&ensp;New Order**  
-**Length:&ensp;7:29, 4:09 (Edited Version)**  
-**Labels:&ensp;Factory**  
-
 ### '83 Apr | "Add It Up" — Violent Femmes  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Add+It+Up+song"> <img src="data/img/cover/Violent_Femmes.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -407,6 +398,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Producer:&ensp;Stephen Street**  
 **Length:&ensp;2:02**  
 **Label:&ensp;Food**  
+
+### '97 Jun | "Smack My Bitch Up" — The Prodigy  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Prodigy+Smack+My+Bitch+Up+song"> <img src="data/img/cover/Smack_My_Bitch_Up.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Big Beat, Techno**  
+**Writers:&ensp;Liam Howlett, Cedric Miller, Trevor Randolph, Maurice Smith, Keith Thornton**  
+**Producer:&ensp;Liam Howlett**  
+**Lengths:&ensp;4:45 (Edit), 5:43 (Album Version)**  
+**Labels:&ensp;Xl, Maverick, Sony**  
 
 ### '00 May | "When the Curious Girl Realizes She Is Under Glass" — Bright Eyes  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Bright+Eyes+When+the+Curious+Girl+Realizes+She+Is+Under+Glass+song"> <img src="data/img/cover/Feversandmirrors_brighteyes.jpg" align="left" alt="cover" height="121px"/></a>

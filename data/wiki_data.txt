@@ -1,3 +1,72 @@
+{{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
+| Name            = Pale Blue Eyes
+| Cover         = Velvetundergroundthirdalbum.jpg
+| key = F
+| bpm = 83
+| Artist          = [[The Velvet Underground]]
+| Album           = [[The Velvet Underground (album)|The Velvet Underground]]
+| Recorded        = {{unbulleted list|November–December 1968|[[TTG Studios|T.T.G. Studios]], [[Hollywood]]}}
+| Released        = {{Start date|1969|03}}
+| Genre           = <!-- Do not add unsourced genres -->{{hlist|[[Folk rock]]<ref>{{cite book|author=Richie Unterberger|title=White Light/White Heat: The Velvet Underground Day-By-Day|url=https://books.google.com/books?id=84I3AQAAIAAJ|date=June 1, 2009|publisher=Jawbone Press|isbn=978-1-906002-22-0|page=212}}</ref>|[[Country music|country]]<ref name="Brown2013">{{cite book|author=Bill Brown|title=Words and Guitar: A History of Lou Reed's Music|url=https://books.google.com/books?id=6JIpBgAAQBAJ&pg=PA25|date=December 2013|publisher=Colossal Books|isbn=978-0-615-93377-1|page=25}}</ref>|[[Pop music|pop]]<ref name="Brown2013"/>}}
+| Length          = {{Duration|m=5|s=40}}
+| Writer          = [[Lou Reed]]
+| Label           = [[MGM Records|MGM]]
+| Producer        = The Velvet Underground
+| prev            = "Some Kinda Love"
+| prev_no         = 3
+| track_no        = 4
+| next            = "Jesus"
+| next_no         = 5
+| origin     = East Coast
+}}
+####
+{{Infobox single 
+| Name          = Love Me Two Times
+| Cover         = LoveMeThreeTimes.jpeg
+| Artist        = [[The Doors]]
+| Album         = [[Strange Days (album)|Strange Days]]
+| B-side        = "[[Moonlight Drive]]"
+| Released      = September 25, 1967
+| key = E
+| bpm = 133
+| Format        = 
+| Recorded      = May and August 1967
+| Genre         = [[Blues rock]], [[psychedelic rock]]
+| Length        = {{Plainlist|
+* 3:16 (Album Version)
+* 2:41 (Single Version)}}
+| Label         = [[Elektra Records|Elektra]]
+| Writer        = [[Robby Krieger]]
+| Producer      = [[Paul A. Rothchild]]
+| Certification = 
+| Last single   = "[[People Are Strange]]"<br/>(1967)
+| This single   = "'''Love Me Two Times'''"<br/>(1967)
+| Next single   = "[[The Unknown Soldier (song)|The Unknown Soldier]]"<br/>(1968)
+| origin     = West Coast
+}}
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name        = Smack My Bitch Up
+| Artist      = [[The Prodigy]]
+| Cover       = Smack_My_Bitch_Up.jpg
+| Released    = 30 June 1997
+| key = Bb
+| bpm = 136
+| Recorded    = [[Essex]], [[England]], [[United Kingdom]]
+| Format      = {{hlist|[[12-inch single|12"]]|[[CD single|CD]]}}
+| Genre       = {{hlist|[[Big beat]]|[[techno]]<ref>{{cite web|url=http://www.allmusic.com/album/this-is-techno-vol-3-mw0001065763|title=This Is Techno, Vol. 3 - Various Artists - Songs, Reviews, Credits - AllMusic|website=AllMusic|accessdate=26 August 2017}}</ref>}}
+| Length      = {{unbulleted list|4:45 (edit)|5:43 (album version)}}
+| Label       = {{hlist|[[XL Recordings|XL]]|[[Maverick Records|Maverick]]|[[Sony Music Entertainment|Sony]]}}
+| Writer      = {{hlist|[[Liam Howlett]]|[[Ced-Gee|Cedric Miller]]|[[TR Love|Trevor Randolph]]|[[Ultramagnetic MCs|Maurice Smith]]|[[Kool Keith|Keith Thornton]]}}
+| Producer    = Liam Howlett
+| Last single = "[[Breathe (The Prodigy song)|Breathe]]" <br />(1996)
+| Next single = "[[Baby's Got a Temper]]" <br />(2002)
+| This single = "'''Smack My Bitch Up'''" <br />(1997)
+| Misc        = 
+| from Album  = [[The Fat of the Land]]
+| origin     = England
+}}
+####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name          = Top
 | Cover         = top_alt.jpg
@@ -16,8 +85,6 @@
 | studio     = [[Studio I RTV Sarajevo]]
 | origin     = International
 }}
-
-
 ####
 {{Infobox single
 | Name = Heartbreak Hotel
