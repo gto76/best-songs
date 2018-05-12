@@ -211,7 +211,7 @@ def get_img_link(albumName, albumData):
 
 def get_yt_link(albumName):
     albumName = albumName.replace('&', '').replace('-', '')
-    albumName = re.sub(' ', '+', albumName)
+    albumName = re.sub('[ ]+', '+', albumName)
     out = '<a target="_blank" href="https://www.youtube.com/results?' \
           f'search_query={albumName}+song"> '
     return out
