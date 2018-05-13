@@ -158,7 +158,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Elektra**  
 
 ### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genre:&ensp;Rock**  
 **Writer:&ensp;Jimi Hendrix**  
