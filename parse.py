@@ -218,7 +218,7 @@ def get_yt_link(albumName):
     if any(a in albumName for a in NO_HD):
         hd = ''
     out = '<a target="_blank" href="https://www.youtube.com/results?' \
-          f'search_query={albumName}+song{HD}"> '
+          f'search_query={albumName}+song{hd}"> '
     return out
 
 

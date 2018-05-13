@@ -292,7 +292,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Cbs**  
 
 ### '80 Feb | "Sedemnajst" — Pankrti  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Pankrti+Sedemnajst+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Dolgcajt.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Pankrti+Sedemnajst+song"> <img src="data/img/cover/Dolgcajt.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genre:&ensp;Punk Rock**  
 **Writers:&ensp;Gregor Tomc, Dušan Žiberna**  
