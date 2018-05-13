@@ -3,10 +3,21 @@ Best Songs
 
 New Additions
 -------------
-idoli - kenozoik
 Nirvana - Lithium
-jazz
 its alright - elvis
+Can't you hear me knocking- rolling stones
+
+ZZ Top - La Grange
+Seatbelts - Clutch (japan big band)
+
+
+The Rolling Stones, 'Jumpin' Jack Flash'
+King Crimson - 21st Century Schizoid Man
+
+
+The Rolling Stones - Gimme Shelter
+Teenage Kicks - undertones
+idoli - kenozoik
 Joy Division - Atmosphere
 
 pixies - Here Comes Your Man
@@ -14,15 +25,12 @@ Hey - The Pixies
 pixies - where is my mind
 The Doors - Cars hiss
 doors - music's over
-ZZ Top - La Grange
 Dolly Parton - Jolene
 Joy Division - Disorder
 Waiting for the Sun - The Doors
 
-Teenage Kicks - undertones
 THE SPECIALS - Gangsters
 Down in Mexico by The Coasters
-The Rolling Stones - Gimme Shelter
 The Stray Cats - Rock This Town
 The Kinks - Victoria
 
@@ -31,14 +39,12 @@ Dr Dre - Nuthin But A G Thang
 Busta Rhymes - Gimme Some More
 The Kinks - Lola
 Jay-Z - 99 Problems
-Dolly Parton - Jolene (Audio)
 Butthole Surfers - Pepper
 ### Blur - Girls and Boys
 Squarepusher "The Exploding Psychology"
 Bright Eyes - A Perfect Sonnet
 
 Interpol - Evil
-Seatbelts - Clutch (japan big band)
 Antenat - Slon
 The Smiths How Soon Is Now?
 ice ice baby
@@ -60,38 +66,36 @@ Bomfunk MC's - Freestyler
 Benny Benassi - 'Satisfaction' 
 Modest Mouse - Float On
 The Dandy Warhols - Bohemian Like You
-
 test - chemical
 
 A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 
 For Real (by year)
 ------------------
-Velvet Underground - Pale Blue Eyes
-The Doors - Love Me Two Times
-The Prodigy - Smack My Bitch Up
 
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 56 A * Elvis Presley, 'Heartbreak Hotel'
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
+### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
 ### 64 A/B * Kinks, 'You Really Got Me'
-### 64 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
 ### 65 A/B * Rolling Stones, 'Satisfaction'
 ### 65 A/B * Beatles, 'Help'
-### 66 B * Mamas and Papas, 'California Dreamen'
+### 66 B * Mamas and Papas, 'California Dreamen' ??
 ### 66 B * The Doors, 'Light my Fire'
 ### 66 Doors - "Break On Through (To the Other Side)"
 ### 66 B * Beatles, 'Tomorow Never Knows'
+### 67 The Doors - Love Me Two Times
 ### 67 B/C * Velvet Underground, 'Venus in Furs'
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Murder Mistery'
+### 76 B/F * Velvet Underground - Pale Blue Eyes
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
 ### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
-### 74 A/B/C * Bijelo Dugme, 'Top' 
+### 74 A/B/C * Bijelo Dugme, 'Top'
 ### 76 C * Ramones, 'Blietzkrieg Bop'
 ### 76 D * Fela Kuti, 'Zombie'
 ### 77 C * Iggy Pop, 'Lust for life' 
@@ -100,21 +104,22 @@ The Prodigy - Smack My Bitch Up
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
 ### 80 A/B * Tom Waits, 'In Shades' 
-### 80 C * Pankrti, 'Sedemnajst'
+### 80 C * Pankrti, 'Sedemnajst' ?
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' 
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' ?
 ### 83 C/F * The Smiths, 'This Charming Man'
-### 83 C/F * Violent Femmes, 'Blister on the Sun'
-### 83 C/F * Add it up - Violent Femmes
-### 86 D * Prince, 'Kiss' ?
-### 88 * Safet Isovic, 'Bosna Moja'
+### 83 C/F * Add it up - Violent Femmes ?
+### 83 C/F * Violent Femmes, 'Blister on the Sun' ?
+### 86 D * Prince, 'Kiss'
+### 88 * Safet Isovic, 'Bosna Moja' ?
 ### 91 B/F * Nirvana, 'In Bloom'
-### 93 A/B/C/D * Beck, 'Loser'
+### 93 A/B/C/D * Beck, 'Loser' ?
 ### 96 B * Satyricon, 'Mother North'
-### 97 B/C * Blur, 'Song 2' ?
+### 97 B/C * Blur, 'Song 2'
+### 97 E The Prodigy - Smack My Bitch Up
 ### 99 E * Groove Armada, 'Superstylin'
-### 99 C/F * At The Drive In, 'One Armed Scissor' ??
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
+### 99 C/F * At The Drive In, 'One Armed Scissor' ??
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
 ### 04 F * Gustav, 'Linzserenade'
@@ -129,7 +134,6 @@ Considering (select 8 of 26)
 ### * Joy Division - Disorder
 ### Velvet Underground - heroin L:7:10
 ### Tom Waits - Twenty-Nine Dollars
-### King Crimson - 21st Century Schizoid Man
 
 ### 66 B * The Doors, 'The End'
 ### Clash - Police & Thieves
@@ -158,22 +162,21 @@ Considering (select 8 of 26)
 ### 93 * RHCP, 'Give it away' ?
 ### 70 * Black Sabath, 'Paranoid' ?
 ### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
-### 68 A/B * The Rolling Stones, 'Jumpin' Jack Flash'
 
 
 Too early/late
 --------------
 ### 09 * Poison Lips - Vitalic
-### 49 * Profesor Longhair, 'Mardi gras in new orlean'
+### * M.I.A. - Paper Planes
+
 ### 10 * El Guincho - Bombay
 ### 06 * LCD, 'freak out'
-
+### 49 * Profesor Longhair, 'Mardi gras in new orlean'
 ### * Justice - D.A.N.C.E. - † 07
 ### * DIE ANTWOORD - BABY'S ON FIRE ?
 ### * DIE ANTWOORD - UGLY BOY
 ### 15 * Bovie - black ?
 ### 17 * Alex Cameron - Candy May
-### * M.I.A. - Paper Planes
 ### * Bloc Party - Banquet
 
 Just Out

@@ -419,7 +419,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 <br>  
 
 ### '00 Aug | "One Armed Scissor" — At the Drive-In  
-<a target="_blank" href="https://www.youtube.com/results?search_query=At+the+DriveIn+One+Armed+Scissor+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/At the Drive-In - One Armed Scissor cover.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=At+the+DriveIn+One+Armed+Scissor+song"> <img src="data/img/cover/At the Drive-In - One Armed Scissor cover.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Post-Hardcore, Progressive Rock, Experimental Rock, Math Rock**  
 **Writer:&ensp;At The Drive-In**  
