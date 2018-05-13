@@ -328,7 +328,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Slash**  
 
 ### '83 Apr | "Blister in the Sun" — Violent Femmes  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Blister+in+the+Sun+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blister in the Sun.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Blister+in+the+Sun+song"> <img src="data/img/cover/Blister in the Sun.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Folk Punk, Anti-Folk, Alternative Rock, Progressive Folk**  
 **Writer:&ensp;Gordon Gano**  
@@ -409,7 +409,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Labels:&ensp;Xl, Maverick, Sony**  
 
 ### '00 May | "When the Curious Girl Realizes She Is Under Glass" — Bright Eyes  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Bright+Eyes+When+the+Curious+Girl+Realizes+She+Is+Under+Glass+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Feversandmirrors_brighteyes.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Bright+Eyes+When+the+Curious+Girl+Realizes+She+Is+Under+Glass+song"> <img src="data/img/cover/Feversandmirrors_brighteyes.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Indie Rock, Indie Folk, Emo**  
 **Producer:&ensp;Mike Mogis**  
@@ -454,7 +454,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Dfa**  
 
 ### '04 Mar | "Linzserenade" — Gustav  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Gustav+Linzserenade+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Linzserenade.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Gustav+Linzserenade+song"> <img src="data/img/cover/Linzserenade.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Producer:&ensp;Eva Jantschitsch**  
 **Length:&ensp;4:12**  

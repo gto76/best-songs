@@ -210,15 +210,19 @@ def get_img_link(albumName, albumData):
 
 
 def get_yt_link(albumName):
-    HD = '&sp=EgIgAQ%253D%253D'
-    NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah']
+    hd = get_hd_filter(albumName)
     albumName = albumName.replace('&', '').replace('-', '')
     albumName = re.sub('[ ]+', '+', albumName)
-    hd = HD
-    if any(a in albumName for a in NO_HD):
-        hd = ''
     out = '<a target="_blank" href="https://www.youtube.com/results?' \
           f'search_query={albumName}+song{hd}"> '
+    return out
+
+
+def get_hd_filter(albumName):
+    HD = '&sp=EgIgAQ%253D%253D'
+    NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
+             'Linzserenade']
+    out = '' if any(a in albumName for a in NO_HD) else HD
     return out
 
 
