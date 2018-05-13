@@ -3,15 +3,13 @@ Best Songs
 
 New Additions
 -------------
+idoli - kenozoik
+Nirvana - Lithium
 jazz
 its alright - elvis
-Velvet Underground - Pale Blue Eyes
-The Doors - Love Me Two Times
-The Prodigy - Smack My Bitch Up
-
 Joy Division - Atmosphere
 
-ixies - Here Comes Your Man
+pixies - Here Comes Your Man
 Hey - The Pixies
 pixies - where is my mind
 The Doors - Cars hiss
@@ -69,15 +67,17 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 
 For Real (by year)
 ------------------
+Velvet Underground - Pale Blue Eyes
+The Doors - Love Me Two Times
+The Prodigy - Smack My Bitch Up
+
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 56 A * Elvis Presley, 'Heartbreak Hotel'
-### 57 A * Jerry Lee Lewis, 'Great Balls' ??
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
 ### 64 A/B * Kinks, 'You Really Got Me'
 ### 64 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
-### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
 ### 65 A/B * Rolling Stones, 'Satisfaction'
 ### 65 A/B * Beatles, 'Help'
 ### 66 B * Mamas and Papas, 'California Dreamen'
@@ -104,7 +104,6 @@ For Real (by year)
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
 ### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' 
 ### 83 C/F * The Smiths, 'This Charming Man'
-### 83 C * New Order, 'Blue Monday' ??
 ### 83 C/F * Violent Femmes, 'Blister on the Sun'
 ### 83 C/F * Add it up - Violent Femmes
 ### 86 D * Prince, 'Kiss' ?
@@ -123,6 +122,10 @@ For Real (by year)
 
 Considering (select 8 of 26)
 -----------
+### 57 A * Jerry Lee Lewis, 'Great Balls' ??
+### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
+### 83 C * New Order, 'Blue Monday' ??
+
 ### * Joy Division - Disorder
 ### Velvet Underground - heroin L:7:10
 ### Tom Waits - Twenty-Nine Dollars
