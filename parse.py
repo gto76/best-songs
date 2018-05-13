@@ -211,9 +211,7 @@ def get_img_link(albumName, albumData):
 
 def get_yt_link(albumName):
     HD = '&sp=EgIgAQ%253D%253D'
-    NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl']
-    if 'Yeah' in albumName:
-        albumName += ' crass'
+    NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah']
     albumName = albumName.replace('&', '').replace('-', '')
     albumName = re.sub('[ ]+', '+', albumName)
     hd = HD
