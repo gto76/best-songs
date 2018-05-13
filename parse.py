@@ -125,7 +125,8 @@ def generate_list(listOfAlbums, albumData):
             print(f"Song name not in wiki_data: {songName}")
             continue
         bandName = albumData[songName]['artist']
-        title_html, title_md = get_title(albumName, songName, bandName, albumData)
+        title_html, title_md = get_title(albumName, songName, bandName, 
+                                         albumData)
         image_html, image_md = get_image(songName, bandName, albumData)
         div_html, div_md = get_div(songName, albumData)
         out_html.extend((title_html, image_html, div_html))
