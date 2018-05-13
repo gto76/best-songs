@@ -346,7 +346,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Rough Trade**  
 
 ### '86 Feb | "Kiss" — Prince and The Revolution  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Prince+and+The+Revolution+Kiss+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Prince_kiss.png" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Prince+and+The+Revolution+Kiss+song"> <img src="data/img/cover/Prince_kiss.png" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Post-Disco, Funk**  
 **Writer:&ensp;Prince**  
@@ -445,7 +445,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Labels:&ensp;American, Lost Highway**  
 
 ### '04 Jan | "Yeah" — LCD Soundsystem  
-<a target="_blank" href="https://www.youtube.com/results?search_query=LCD+Soundsystem+Yeah+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/LCD Soundsystem - Yeah cover art.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=LCD+Soundsystem+Yeah+crass+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/LCD Soundsystem - Yeah cover art.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Dance-Punk, Indietronica, Electroclash, Acid House**  
 **Writers:&ensp;Tim Goldsworthy, James Murphy**  
