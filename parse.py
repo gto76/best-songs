@@ -211,8 +211,12 @@ def get_img_link(albumName, albumData):
 
 def get_yt_link(albumName):
     HD = '&sp=EgIgAQ%253D%253D'
+    NO_HD = ['Sedemnajst']
     albumName = albumName.replace('&', '').replace('-', '')
     albumName = re.sub('[ ]+', '+', albumName)
+    hd = HD
+    if any(a in albumName for a in NO_HD):
+        hd = ''
     out = '<a target="_blank" href="https://www.youtube.com/results?' \
           f'search_query={albumName}+song{HD}"> '
     return out
