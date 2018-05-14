@@ -401,7 +401,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Food**  
 
 ### '97 Jun | "Smack My Bitch Up" — The Prodigy  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Prodigy+Smack+My+Bitch+Up+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Smack_My_Bitch_Up.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Prodigy+Smack+My+Bitch+Up+radio+edit+song"> <img src="data/img/cover/Smack_My_Bitch_Up.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Big Beat, Techno**  
 **Writers:&ensp;Liam Howlett, Cedric Miller, Trevor Randolph, Maurice Smith, Keith Thornton**  

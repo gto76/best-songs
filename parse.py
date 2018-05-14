@@ -212,6 +212,8 @@ def get_img_link(albumName, albumData):
 
 def get_yt_link(albumName):
     hd = get_hd_filter(albumName)
+    if 'My Bitch Up' in albumName:
+        albumName += ' radio edit'
     albumName = albumName.replace('&', '').replace('-', '')
     albumName = re.sub('[ ]+', '+', albumName)
     out = '<a target="_blank" href="https://www.youtube.com/results?' \
@@ -222,7 +224,7 @@ def get_yt_link(albumName):
 def get_hd_filter(albumName):
     HD = '&sp=EgIgAQ%253D%253D'
     NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
-             'Linzserenade', '6 Was 9', 'One Armed Scissor']
+             'Linzserenade', '6 Was 9', 'One Armed Scissor', 'My Bitch Up']
     out = '' if any(a in albumName for a in NO_HD) else HD
     return out
 
