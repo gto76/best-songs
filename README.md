@@ -257,7 +257,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Rca**  
 
 ### '77 Sep | "Psycho Killer" — Talking Heads  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Talking+Heads+Psycho+Killer+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Talking heads psycho killer USA vinyl.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Talking+Heads+Psycho+Killer+song"> <img src="data/img/cover/Talking heads psycho killer USA vinyl.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;New Wave, No Wave, Art Pop**  
 **Writers:&ensp;David Byrne, Chris Frantz, Tina Weymouth**  
