@@ -16,7 +16,7 @@ How to add a song
 4. Save image of the cover into `data/img/cover` and update the `Cover` field
     with the name of the image.
 
-5. Add optional fields `Origin`, `Bpm` and `Key` to the entry.
+5. Add optional `Origin`, `Bpm` and `Key` fields to the entry.
 
 6. Add the song to the `list_of_songs.txt` in the format `<artist>, '<song>'`.
 
