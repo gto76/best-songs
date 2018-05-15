@@ -55,7 +55,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Genres:&ensp;Bossa Nova, Jazz**  
 **Writers:&ensp;Antônio Carlos Jobim & Vinicius De Moraes, Norman Gimbel (English Lyrics)**  
 **Producer:&ensp;Creed Taylor**  
-**Length:&ensp;2:44, 5:21**  
+**Length:&ensp;5:21 (Album Version), 2:44 (Single Version)**  
 **Label:&ensp;Verve**  
 
 ### '64 Aug | "You Really Got Me" — the Kinks  
@@ -424,7 +424,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Genres:&ensp;Indie Rock, Indie Folk, Emo**  
 **Producer:&ensp;Mike Mogis**  
 **Length:&ensp;2:40**  
-**Labels:&ensp;Saddle Creek (Us), , Wichita Recordings (Uk)**  
+**Labels:&ensp;Saddle Creek (Us), Wichita Recordings (Uk)**  
 <br>  
 
 ### '01 Aug | "Superstylin'" — Groove Armada  
@@ -433,7 +433,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Genres:&ensp;House, Reggae Fusion, Speed Garage**  
 **Writers:&ensp;Andy Cato, Jonathan White, Michael Anthony Daniel, Tom Findlay**  
 **Producer:&ensp;Groove Armada**  
-**Length:&ensp;3:43 (Edited Version), 6:02 (Album Version)**  
+**Length:&ensp;6:02 (Album Version), 3:43 (Edited Version)**  
 **Label:&ensp;Zomba**  
 
 ### '02 Nov | "Hurt" — Johnny Cash  

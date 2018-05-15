@@ -333,7 +333,7 @@
 | Recorded    = 1999, Presto! Recording Studio, Lincoln, Nebraska
 | Genre       = {{hlist|[[Indie rock]]|[[Indie folk]]|[[emo]]}}
 | Length      = 2:40
-| Label       = [[Saddle Creek]] <small>([[United States|US]])</small><br/><small>LBJ-32</small><br>, [[Wichita Recordings]] <small>([[United Kingdom|UK]])</small>
+| Label       = [[Saddle Creek]] <small>([[United States|US]])</small>, [[Wichita Recordings]] <small>([[United Kingdom|UK]])</small>
 | Producer    = [[Mike Mogis]]
 | origin     = Central United States
 }}
@@ -1030,7 +1030,7 @@
 | bpm = 129
 | Recorded      = 
 | Genre         = [[House music|House]], [[reggae fusion]], [[speed garage]]
-| Length        = 3:43 (Edited Version)<br>6:02 (Album Version)
+| Length        = 6:02 (Album Version), 3:43 (Edited Version)
 | Label         = [[Zomba Group of Companies|Zomba]]
 | Producer      = Groove Armada
 | Last single   = "[[I See You Baby]]"<br/>(1999)
@@ -1153,7 +1153,7 @@
 | Format        = 
 | Recorded      = 
 | Genre         = {{hlist|[[Bossa nova]]|[[jazz]]}}
-| Length        = 2:44, {{Duration|m=5|s=21}}
+| Length        = {{Duration|m=5|s=21}} (Album Version), 2:44 (Single Version)
 | Label         = [[Verve Records|Verve]]
 | Writer        = {{hlist|[[Antônio Carlos Jobim]] & [[Vinicius de Moraes]]|[[Norman Gimbel]] (English lyrics)}}
 | Producer      = [[Creed Taylor]]

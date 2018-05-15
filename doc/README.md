@@ -20,5 +20,6 @@ How to add a song
 
 6. Add the song to the `list_of_songs.txt` in the format `<artist>, '<song>'`.
 
-7. Run `./parse.py`.
+7. Run `./parse.py`. Some fields might not get parsed corectly. Try to simplify
+    the values if this happens.
 
