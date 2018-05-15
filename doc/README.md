@@ -107,10 +107,10 @@ For Real (by year)
 ### 80 C * Pankrti, 'Sedemnajst'
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
 ### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
-### 83 C/F * Add it up - Violent Femmes 
+### 83 C/F * Add it up - Violent Femmes
 ### 83 C/F * Violent Femmes, 'Blister on the Sun'
 ### 83 C/F * The Smiths, 'This Charming Man'
-### 86 D * Prince, 'Kiss' ??
+### 86 D * Prince, 'Kiss'
 ### 88 * Safet Isovic, 'Bosna Moja'
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
@@ -126,11 +126,11 @@ For Real (by year)
 
 Considering (select 8 of 26)
 -----------
-### 99 C/F * At The Drive In, 'One Armed Scissor' ??
-Seatbelts - Clutch (japan big band)
 dk - california uber alles
-
 ### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
+
+Seatbelts - Clutch (japan big band)
+### 99 C/F * At The Drive In, 'One Armed Scissor' ??
 its alright - elvis
 
 ### 83 C * New Order, 'Blue Monday' ??

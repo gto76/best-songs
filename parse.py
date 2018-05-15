@@ -290,8 +290,6 @@ def get_numeric_date(album, albumData):
     out = None
     if re.match('\d{4}\.\d+', released):
         out = parse_date_with_commas(released)
-    # if re.search('start date', released, flags=re.IGNORECASE):
-    #     return parse_start_date(released)
     elif ',' in released:
         out = parse_date_with_comma(released)
     else:
@@ -336,18 +334,6 @@ def parse_date_with_commas(released):
         if len(out[i]) == 1:
             out[i] = '0' + out[i]
     return int(out[0] + out[1] + out[2])
-
-# def parse_start_date(released):
-#     """
-#     {{Start date|1969|03}}
-#     {{start date|1956|01|27}}
-#     {{Start date|1964|08|04|df=yes}}
-#     """
-#     out = ['', '06', '15']
-#     tokens = released.split('|')[1:]
-#     for i, token in enumerate(tokens):
-#         out[i] = token if token.isnumeric() else out[i]
-#     return int(out[0] + out[1] + out[2])
 
 
 def parse_date_with_comma(released):
@@ -404,21 +390,6 @@ def get_day_from_str(word):
     day = int(word)
     return '{:0>2}'.format(day)
          
-
-####
-
-# def get_numeric_date(album, albumData):
-#     release = albumData[album]['released']
-#     if type(release) == list:
-#         release = release[0]
-#     year = get_numeric_year(release)
-#     if not year:
-#         return 0
-#     month = get_month(release)
-#     if not month:
-#         return int(year+'00')
-#     month = '{:0>2}'.format(month)
-#     return int(year+month)
 
 # For song title:
 
