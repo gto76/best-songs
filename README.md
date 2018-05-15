@@ -74,7 +74,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Writer:&ensp;Jagger/Richards**  
 **Producer:&ensp;Andrew Loog Oldham**  
 **Length:&ensp;3:45**  
-**Labels:&ensp;London, Decca**  
+**Labels:&ensp;London (Us), Decca (Uk)**  
 
 ### '65 Jul | "Help!" — the Beatles  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+Help!+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Beatles_help2.jpg" align="left" alt="cover" height="121px"/></a>

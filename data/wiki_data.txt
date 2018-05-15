@@ -728,8 +728,8 @@
 * [[hard rock]]<ref>Quentin James Schultze, Dancing in the dark: youth, popular culture, and the electronic media, (Wm. B. Eerdmans Publishing, 1991), {{ISBN|0802805302}}, p150</ref>}}
 | Length         = {{Duration|m=3|s=45}}
 | Label          = {{plainlist|
-* [[London Records|London]] 45 LON 9766 (US and Canada)
-* [[Decca Records|Decca]] F.12220 (UK)
+* [[London Records|London]] (Us)
+* [[Decca Records|Decca]] (Uk)
 }}
 | Writer         = [[Jagger/Richards]]
 | Producer       = [[Andrew Loog Oldham]]
