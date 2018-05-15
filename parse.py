@@ -20,7 +20,9 @@ JSONIZE_WIKI_DATA = True
 SORT_BY_DATE = True
 ADD_PLOTS = True
 
-TEMPLATE = "web/template.html"
+TEMPLATE = 'web/template.html'
+LIST_OF_SONGS = 'list_of_songs.txt'
+JSON_DATA = 'data/wiki_data.json'
 
 DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label']
 MONTHS_RE = 'january|february|march|april|may|june|july|august|september|' \
@@ -49,14 +51,14 @@ IMG_HEIGHT = int(HEIGHT_FACTOR*len(DISPLAY_KEYS)) # 123
 
 def main():
     if JSONIZE_WIKI_DATA:
-        os.popen('cd data;./jsonize.py;cd ..').read()
-    readme = get_file_contents("list_of_songs")
-    albumData = read_json("data/wiki_data.json")
+        os.popen('cd scripts; ./jsonize.py; cd ..').read()
+    readme = get_file_contents(LIST_OF_SONGS)
+    albumData = read_json(JSON_DATA)
     listOfAlbums = get_list_of_songs(readme)
     if SORT_BY_DATE:
         listOfAlbums = sort_by_date(listOfAlbums, albumData)
     if ADD_PLOTS:
-        os.popen('cd data;./plot.py;cd ..').read()
+        os.popen('cd scripts; ./plot.py; cd ..').read()
     out_html, out_md = generate_files(albumData, listOfAlbums)
     write_to_file('index.html', out_html)
     write_to_file('README.md', out_md)
@@ -74,9 +76,6 @@ def get_list_of_songs(readme):
 def sort_by_date(listOfAlbums, albumData):
     dates = [(get_numeric_date(get_song_name(a), albumData), a) for a in 
              listOfAlbums]
-    print(dates)
-    import random
-    # random.shuffle(dates)
     dates.sort()
     return [a[1] for a in dates]
 
@@ -281,9 +280,7 @@ def get_row(songData, key):
 
 def get_numeric_date(album, albumData):
     released = albumData[album]['released']
-    print(f'\nBasic released is list: {released}')
     if type(released) == list:
-        print(f'type is list: {released}')
         released = released[0]
     released = released.strip()
     released = get_first_date(released)
@@ -294,7 +291,6 @@ def get_numeric_date(album, albumData):
         out = parse_date_with_comma(released)
     else:
         out = parse_date(released)
-    print(f'{album}, release: {out}')
     return out
 
 
@@ -362,7 +358,6 @@ def parse_date(released):
     March 1974
     1974
     """
-    print(released)
     month = '06'
     day = '15'
     year = ''

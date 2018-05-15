@@ -9,9 +9,8 @@ import re
 import json
 import os
 
-DIR = 'wiki_data'
-USE_SINGLE_FILE = True
-SINGLE_FILE = 'wiki_data.txt'
+WIKI_FILE = '../data/wiki_data.txt'
+JSON_FILE = '../data/wiki_data.json'
 SAVE = True
 
 TOKENIZE = ['genre', 'writer', 'producer', 'label']
@@ -26,16 +25,12 @@ def main():
     if len(sys.argv) > 1:
         objects = [get_object(sys.argv[1])]
     else:
-        if USE_SINGLE_FILE:
-            objects = [get_object_text(a) for a in expand_single_file(SINGLE_FILE)]
-        else:
-            filenames = os.listdir(DIR)
-            objects = [get_object(f'{DIR}/{filename}') for filename in filenames]
+        objects = [get_object_text(a) for a in expand_single_file(WIKI_FILE)]
 
     out = {get_name(obj): obj for obj in objects}
     print(json.dumps(out, ensure_ascii=False, indent=2))
     if SAVE:
-        write_json('wiki_data.json', out)
+        write_json(JSON_FILE, out)
 
 
 def expand_single_file(filename):

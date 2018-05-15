@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 #
-# Usage: create_graph.py 
+# Usage: find_connections.py 
 # Finds interesting connections in wiki_data.json
 
 import re
 import json
 
 
-IGNORE_EDGES = 'type|prev_year|next_year|caption|format|track_no|length|genre|recorded'
+JSON_FILE = '../data/wiki_data.json'
+IGNORE_EDGES = 'type|prev_year|next_year|caption|format|track_no|length|genre' \
+               '|recorded|key|bpm|origin'
+
 
 class Node:
     def __init__(self, name, a_type=None):
@@ -17,6 +20,7 @@ class Node:
     def __repr__(self):
         return str('{}: {}'.format(self.name, ', '.join(str(e) for e in self.edges)))
 
+
 class Edge:
     def __init__(self, name, song, obj_b):
         self.name = name
@@ -24,11 +28,10 @@ class Edge:
         self.obj_b = obj_b
     def __repr__(self):
         return self.name
-        # return f'{self.name} ({self.song.name})'
 
 
 def main():
-    songs = read_json_file('wiki_data.json')
+    songs = read_json_file(JSON_FILE)
     nodes = {}
 
     for title, song in songs.items():
@@ -47,7 +50,8 @@ def main():
 
 
 def print_out(nodes):
-    interesting_nodes = [n for n in nodes.values() if len(n.edges)>1 and not n.a_type]
+    interesting_nodes = [n for n in nodes.values() 
+                            if len(n.edges)>1 and not n.a_type]
     interesting_nodes = filter_nodes_that_connect_to_single_song(interesting_nodes)
     interesting_nodes = filter_nodes_that_have_single_artist(interesting_nodes)
     if not interesting_nodes:

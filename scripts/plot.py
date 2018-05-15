@@ -13,12 +13,15 @@ import calendar
 import collections
 
 
+JSON_FILE = '../data/wiki_data.json'
+LIST_OF_SONGS = '../list_of_songs.txt'
+IMG_DIR = '../data/img'
+
 DEBUG = False
 GENERATE_STACKED_BARPLOT = False
 NORMALIZE_BPM = True
 BPM_WINDOW = 2
 
-DIR = 'img'
 
 MONTHS = {'january': 1,
           'february': 2,
@@ -41,8 +44,8 @@ INV_KEYS = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#']
 
 
 def main():
-    songs = read_json_file('wiki_data.json')
-    list_of_songs = get_file_contents("../list_of_songs")
+    songs = read_json_file(JSON_FILE)
+    list_of_songs = get_file_contents(LIST_OF_SONGS)
     list_of_songs = get_list_of_songs(list_of_songs)
     songs = {k: v for k, v in songs.items() if k in list_of_songs} 
     generate_plot(songs, 'released', get_year, 'years', get_year_xlabel, 
@@ -255,7 +258,7 @@ def present_plt(plt, filename):
     if not filename:
         plt.show()
     else:
-        plt.savefig(f'{DIR}/{filename}', transparent=True)
+        plt.savefig(f'{IMG_DIR}/{filename}', transparent=True)
     plt.close()
 
 
