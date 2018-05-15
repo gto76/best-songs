@@ -1299,6 +1299,7 @@
 | Length      = 4:12
 | Label       = Mosz
 | Producer    = Eva Jantschitsch
+| Writer    = Eva Jantschitsch
 | Album       = Rettet die Wale
 | Studio      = Gustav's living room, Vienna
 | origin     = International

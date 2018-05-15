@@ -457,10 +457,10 @@ or as a part of an album. Image shows the cover of the single or the label if no
 ### '04 Mar | "Linzserenade" — Gustav  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Gustav+Linzserenade+song"> <img src="data/img/cover/Linzserenade.jpg" align="left" alt="cover" height="121px"/></a>
 
+**Writer:&ensp;Eva Jantschitsch**  
 **Producer:&ensp;Eva Jantschitsch**  
 **Length:&ensp;4:12**  
 **Label:&ensp;Mosz**  
-<br>  
 <br>  
 
 Origin
