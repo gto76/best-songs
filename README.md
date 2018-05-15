@@ -83,7 +83,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Writer:&ensp;Lennon–Mccartney**  
 **Producer:&ensp;George Martin**  
 **Length:&ensp;2:18**  
-**Labels:&ensp;Parlophone, Capitol**  
+**Labels:&ensp;Capitol (Us), Parlophone (Uk)**  
 
 ### '65 Dec | "California Dreamin'" — The Mamas & the Papas  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Mamas+the+Papas+California+Dreamin'+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Disco de vinilo - California dreamin'_alt2.jpg" align="left" alt="cover" height="121px"/></a>

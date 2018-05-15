@@ -1343,7 +1343,7 @@
 | Format        = [[gramophone record|7"]]
 | Genre         = [[Folk rock]]<ref>{{cite web|last=Unterberger |first=Richie |authorlink=Richie Unterberger |title=1960s-Folk-Rock Overview |publisher=www.richieunterberger.com |url=http://www.richieunterberger.com/turnover.html |accessdate=2013-10-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20131109225255/http://www.richieunterberger.com/turnover.html |archivedate=9 November 2013 }}</ref>
 | Length        = 2:18
-| Label         = [[Parlophone]], [[Capitol Records|Capitol]]
+| Label         = [[Capitol Records|Capitol]] (Us), [[Parlophone]] (Uk)
 | Writer        = [[Lennon–McCartney]]
 | Producer      = [[George Martin]]
 | Chronology    = [[The Beatles]] UK singles
