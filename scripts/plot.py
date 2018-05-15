@@ -185,7 +185,8 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
         plt.xticks(x_ticks)
 
     if filename:
-        label = filename[:-1] if filename not in ['minutes', 'bpm', 'key'] else filename
+        label = filename[:-1] if filename not in ['minutes', 'bpm', 'key'] \
+                                  else filename
         label = label.capitalize()
         if filename == 'bpm':
             label = 'BPM'
@@ -212,7 +213,8 @@ def generate_stacked_barplot(songs, filename=None):
     set_plt_size(plt, width=22, height=10, font_size=22)
     r = list(range(len(origin_dict)))
     colors = {'England': '#b5ffb9', 'International': '#323fb9', 
-    'West Coast': '#23453f', 'East Coast': '#ffffb9', 'Central United States': '#992233'}
+              'West Coast': '#23453f', 'East Coast': '#ffffb9', 
+              'Central United States': '#992233'}
     bottom = [0] * len(origin_dict)
     plt.xticks(r, ["'54-'63", "'64-'73", "'74-'83", "'84-'93", "'94-'04"])
 
@@ -298,11 +300,11 @@ def get_file_contents(fileName):
 def get_list_of_songs(readme):
     listOfSongs = []
     for line in readme:
-        if line.startswith('###'):
-            line = re.search("\'(.*)\'", line).group(1)
-            listOfSongs.append(line.strip())
+        if not line:
+            continue
+        line = re.search("\'(.*)\'", line).group(1)
+        listOfSongs.append(line.strip())
     return listOfSongs
-
 
 
 if __name__ == '__main__':

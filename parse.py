@@ -67,9 +67,9 @@ def main():
 def get_list_of_songs(readme):
     listOfSongs = []
     for line in readme:
-        if line.startswith('###'):
-            line = re.sub('^.*\* ', '', line)
-            listOfSongs.append(line.strip())
+        if not line:
+            continue
+        listOfSongs.append(line.strip())
     return listOfSongs
 
 
