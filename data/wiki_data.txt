@@ -1,3 +1,33 @@
+{{Infobox album
+| name       = Blue Valentines
+| type       = studio
+| artist     = [[Tom Waits]]
+| writer     = [[Tom Waits]]
+| cover      = Blue_Valentine.jpg
+| alt        =
+| released   = {{Start date|1978|09|05}}<ref>{{cite web |url= http://anti.com/releases/?artist=1 |title= Releases |first= |last= |publisher= ANTI-|date= |accessdate= March 6, 2018 }}</ref>
+| recorded   = July 24–August 26, 1978
+| venue      =
+| studio     = [[Wally Heider Studios|Filmways/Heider Recording]], [[San Francisco, California]]
+| genre      = 
+| length     = 5:49
+| label      = [[Asylum Records|Asylum]]
+| producer   = [[Bones Howe]]
+| prev_title = [[Foreign Affairs (Tom Waits album)|Foreign Affairs]]
+| prev_year  = 1977
+| next_title = [[Heartattack and Vine]]
+| next_year  = 1980
+| origin     = West Coast
+| key = A
+| bpm = 62
+| misc       = {{Singles
+ | name        = Blue Valentine
+ | type        = studio
+ | single1     = [[Somewhere (song)|Somewhere]]
+ | single1date = August 1978
+}}
+}}
+####
 {{Infobox song <!-- See Wikipedia:WikiProject_Songs -->
 | Name            = Pale Blue Eyes
 | Cover         = Velvetundergroundthirdalbum.jpg
@@ -714,7 +744,8 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Blister in the Sun
-| Cover          = Blister in the Sun.jpg
+| Cover          = Violent_Femmes.jpg
+| Cover_alt          = Blister in the Sun.jpg
 | key = C
 | bpm = 97
 | Artist         = [[Violent Femmes]]
@@ -1094,7 +1125,7 @@
 | Album         = [[Getz/Gilberto]]
 | A-side        = 
 | B-side        = 
-| Released      = 1963
+| Released      = March 1964
 | Format        = 
 | Recorded      = 
 | Genre         = {{hlist|[[Bossa nova]]|[[jazz]]}}
@@ -1248,7 +1279,8 @@
 | Studio      = Gustav's living room, Vienna
 | origin     = International
 }}
-####{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+####
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name          = Break On Through (To the Other Side)
 | Cover         = Break_On_Through_To_the_Other_Side.jpg
 | Border        = yes

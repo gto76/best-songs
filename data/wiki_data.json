@@ -1,4 +1,30 @@
 {
+  "Blue Valentines": {
+    "name": "Blue Valentines",
+    "type": "studio",
+    "artist": "Tom Waits",
+    "writer": "Tom Waits",
+    "cover": "Blue_Valentine.jpg",
+    "released": "1978.09.05",
+    "recorded": "July 24–August 26, 1978",
+    "studio": "Filmways/Heider Recording, San Francisco, California",
+    "length": "5:49",
+    "label": "Asylum",
+    "producer": "Bones Howe",
+    "prev_title": "Foreign Affairs",
+    "prev_year": "1977",
+    "next_title": "Heartattack and Vine",
+    "next_year": "1980",
+    "origin": "West Coast",
+    "key": "A",
+    "bpm": "62",
+    "misc": {
+      "name": "Blue Valentine",
+      "type": "studio",
+      "single1": "Somewhere",
+      "single1date": "August 1978"
+    }
+  },
   "Pale Blue Eyes": {
     "name": "Pale Blue Eyes",
     "cover": "Velvetundergroundthirdalbum.jpg",
@@ -795,7 +821,8 @@
   },
   "Blister in the Sun": {
     "name": "Blister in the Sun",
-    "cover": "Blister in the Sun.jpg",
+    "cover": "Violent_Femmes.jpg",
+    "cover_alt": "Blister in the Sun.jpg",
     "key": "C",
     "bpm": "97",
     "artist": "Violent Femmes",
@@ -1199,7 +1226,7 @@
     "bpm": "130",
     "artist": "Stan Getz and João Gilberto",
     "album": "Getz/Gilberto",
-    "released": "1963",
+    "released": "March 1964",
     "genre": [
       "Bossa nova",
       "Jazz"

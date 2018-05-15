@@ -3,10 +3,12 @@ Best Songs
 
 New Additions
 -------------
-Seatbelts - Clutch (japan big band)
+Fela Kuti - No Agreement Part 2
+Fela Kuti-Shuffering And Shmiling (Part 2) 
+Fela Kuti - Sorrow Tears & Blood 
+
 Nirvana - Lithium
 
-its alright - elvis
 ZZ Top - La Grange
 The Rolling Stones, 'Jumpin' Jack Flash'
 King Crimson - 21st Century Schizoid Man
@@ -72,7 +74,7 @@ For Real (by year)
 
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
-### 56 A * Elvis Presley, 'Heartbreak Hotel'
+### 56 A * Elvis Presley, 'Heartbreak Hotel' ?
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
 ### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
@@ -81,7 +83,7 @@ For Real (by year)
 ### 65 A/B * Beatles, 'Help'
 ### 66 B * Mamas and Papas, 'California Dreamen'
 ### 66 Doors - "Break On Through (To the Other Side)"
-### 66 B * The Doors, 'Light my Fire' ??
+### 66 B * The Doors, 'Light my Fire'
 ### 66 B * Beatles, 'Tomorow Never Knows'
 ### 67 The Doors - Love Me Two Times
 ### 67 B/C * Velvet Underground, 'Venus in Furs'
@@ -90,33 +92,33 @@ For Real (by year)
 ### 76 B/F * Velvet Underground - Pale Blue Eyes
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
-### 70 B * The Doors, 'Celebration of the Lizard' ??
+### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
-### 74 A/B/C * Bijelo Dugme, 'Top' ?
-### 76 C * Ramones, 'Blietzkrieg Bop' ?
+### 74 A/B/C * Bijelo Dugme, 'Top'
+### 76 C * Ramones, 'Blietzkrieg Bop'
 ### 76 D * Fela Kuti, 'Zombie' ?
 ### 77 C * Iggy Pop, 'Lust for life' 
-### 77 C * Television, 'Marque Moon' ?
+### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
 ### 80 A/B * Tom Waits, 'In Shades' 
-### 80 C * Pankrti, 'Sedemnajst' ?
+### 80 C * Pankrti, 'Sedemnajst'
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' ?
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
 ### 83 C/F * The Smiths, 'This Charming Man'
-### 83 C/F * Add it up - Violent Femmes ?
-### 83 C/F * Violent Femmes, 'Blister on the Sun' ?
-### 86 D * Prince, 'Kiss'
-### 88 * Safet Isovic, 'Bosna Moja' ?
+### 83 C/F * Add it up - Violent Femmes ??
+### 83 C/F * Violent Femmes, 'Blister on the Sun'
+### 86 D * Prince, 'Kiss' ?
+### 88 * Safet Isovic, 'Bosna Moja'
 ### 91 B/F * Nirvana, 'In Bloom'
-### 93 A/B/C/D * Beck, 'Loser'
+### 93 A/B/C/D * Beck, 'Loser' ?
 ### 96 B * Satyricon, 'Mother North'
 ### 97 B/C * Blur, 'Song 2'
 ### 97 E The Prodigy - Smack My Bitch Up
-### 99 E * Groove Armada, 'Superstylin'
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
-### 99 C/F * At The Drive In, 'One Armed Scissor' ?
+### 99 C/F * At The Drive In, 'One Armed Scissor' ??
+### 99 E * Groove Armada, 'Superstylin'
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
 ### 04 F * Gustav, 'Linzserenade'
@@ -124,10 +126,15 @@ For Real (by year)
 
 Considering (select 8 of 26)
 -----------
-### 57 A * Jerry Lee Lewis, 'Great Balls' ??
-### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
-### 83 C * New Order, 'Blue Monday' ??
+Seatbelts - Clutch (japan big band)
+waits - blue valentine
+dk - california uber alles
 
+### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
+its alright - elvis
+
+### 83 C * New Order, 'Blue Monday' ??
+### 57 A * Jerry Lee Lewis, 'Great Balls' ??
 ### * Joy Division - Disorder
 ### Velvet Underground - heroin L:7:10
 ### Tom Waits - Twenty-Nine Dollars

@@ -58,7 +58,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Deltone Records**  
 <br>  
 
-### '63  | "The Girl from Ipanema" — Stan Getz and João Gilberto  
+### '64 Mar | "The Girl from Ipanema" — Stan Getz and João Gilberto  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Stan+Getz+and+João+Gilberto+The+Girl+from+Ipanema+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Stan-Getz-The-Girl-From-Ipa-604216_alt.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Bossa Nova, Jazz**  
@@ -265,6 +265,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;4:19**  
 **Label:&ensp;Sire**  
 
+### '78 Sep | "Blue Valentines" — Tom Waits  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+Blue+Valentines+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blue_Valentine.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Writer:&ensp;Tom Waits**  
+**Producer:&ensp;Bones Howe**  
+**Length:&ensp;5:49**  
+**Label:&ensp;Asylum**  
+<br>  
+
 ### '79 Sep | "Rapper's Delight" — The Sugarhill Gang  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Sugarhill+Gang+Rapper's+Delight+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Rappersdelight.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -329,7 +338,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Slash**  
 
 ### '83 Apr | "Blister in the Sun" — Violent Femmes  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Blister+in+the+Sun+song"> <img src="data/img/cover/Blister in the Sun.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Blister+in+the+Sun+song"> <img src="data/img/cover/Violent_Femmes.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Folk Punk, Anti-Folk, Alternative Rock, Progressive Folk**  
 **Writer:&ensp;Gordon Gano**  
@@ -417,15 +426,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;2:40**  
 **Labels:&ensp;Saddle Creek (Us), , Wichita Recordings (Uk)**  
 <br>  
-
-### '00 Aug | "One Armed Scissor" — At the Drive-In  
-<a target="_blank" href="https://www.youtube.com/results?search_query=At+the+DriveIn+One+Armed+Scissor+song"> <img src="data/img/cover/At the Drive-In - One Armed Scissor cover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Post-Hardcore, Progressive Rock, Experimental Rock, Math Rock**  
-**Writer:&ensp;At The Drive-In**  
-**Producer:&ensp;Ross Robinson**  
-**Length:&ensp;3:45**  
-**Label:&ensp;Grand Royal**  
 
 ### '01 Aug | "Superstylin'" — Groove Armada  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Groove+Armada+Superstylin'+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Groove_Armada_Superstylin'_Single_cover.jpeg" align="left" alt="cover" height="121px"/></a>

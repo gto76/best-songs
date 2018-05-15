@@ -23,8 +23,8 @@ ADD_PLOTS = True
 TEMPLATE = "web/template.html"
 
 DISPLAY_KEYS = ['genre', 'writer', 'producer', 'length', 'label']
-MONTHS_RE = 'january|february|march|april|may|june|july|august|september|octo' \
-            'ber|november|december'
+MONTHS_RE = 'january|february|march|april|may|june|july|august|september|' \
+            'october|november|december'
 
 MONTHS = {'january': 1,
           'february': 2,
@@ -74,6 +74,9 @@ def get_list_of_songs(readme):
 def sort_by_date(listOfAlbums, albumData):
     dates = [(get_numeric_date(get_song_name(a), albumData), a) for a in 
              listOfAlbums]
+    print(dates)
+    import random
+    # random.shuffle(dates)
     dates.sort()
     return [a[1] for a in dates]
 
@@ -104,6 +107,7 @@ def get_plots(names):
         out_html.append(plot_html)
         out_md.append(plot_md)
     return ''.join(out_html), ''.join(out_md)
+
 
 def get_plot(name, filename):
     a_id = re.sub('\s', '-', filename.strip().lower())
@@ -276,17 +280,153 @@ def get_row(songData, key):
 #
 
 def get_numeric_date(album, albumData):
-    release = albumData[album]['released']
-    if type(release) == list:
-        release = release[0]
-    year = get_numeric_year(release)
+    released = albumData[album]['released']
+    print(f'\nBasic released is list: {released}')
+    if type(released) == list:
+        print(f'type is list: {released}')
+        released = released[0]
+    released = released.strip()
+    released = get_first_date(released)
+    out = None
+    if re.match('\d{4}\.\d+', released):
+        out = parse_date_with_commas(released)
+    # if re.search('start date', released, flags=re.IGNORECASE):
+    #     return parse_start_date(released)
+    elif ',' in released:
+        out = parse_date_with_comma(released)
+    else:
+        out = parse_date(released)
+    print(f'{album}, release: {out}')
+    return out
+
+
+def get_first_date(released):
+    """
+    1956.01.27
+    1967.1.1
+    1969.03
+    
+    September 25, 1967
+    April, 1962
+
+    30 June 1997
+    8. february 1980
+    March 1974
+    1974
+    """
+    FORMATS = ['\d{4}\.\d+\.\d+', '\d{4}\.\d+',
+               '\w+ \d+, \d{4}', '\w+, \d{4}',
+               '\d+ \w+ \d{4}', '\d+\. \w+ \d{4}', '\w+ \d{4}', '\d{4}']
+
+    for form in FORMATS:
+        if re.match(form, released):
+            return re.match(form, released).group()
+
+
+def parse_date_with_commas(released):
+    """
+    1969.03
+    1956.01.27
+    1967.1.1
+    """
+    out = ['', '06', '15']
+    tokens = released.split('.')
+    for i, token in enumerate(tokens):
+        out[i] = token if token.isnumeric() else out[i]
+        if len(out[i]) == 1:
+            out[i] = '0' + out[i]
+    return int(out[0] + out[1] + out[2])
+
+# def parse_start_date(released):
+#     """
+#     {{Start date|1969|03}}
+#     {{start date|1956|01|27}}
+#     {{Start date|1964|08|04|df=yes}}
+#     """
+#     out = ['', '06', '15']
+#     tokens = released.split('|')[1:]
+#     for i, token in enumerate(tokens):
+#         out[i] = token if token.isnumeric() else out[i]
+#     return int(out[0] + out[1] + out[2])
+
+
+def parse_date_with_comma(released):
+    """
+    September 25, 1967
+    April, 1962
+    January 4, 1967
+    """
+    tokens = [a.strip() for a in released.split(',')]
+    year = tokens[1]
+    month = tokens[0]
+    day = '15'
+    if ' ' in month:
+        tokens = month.split()
+        month = tokens[0]
+        day = tokens[1]
+    month = get_month_from_word(month)
+    day = get_day_from_str(day)
+    return int(year + month + day)
+
+
+def parse_date(released):
+    """
+    30 June 1997
+    8. february 1980
+    March 1974
+    1974
+    """
+    print(released)
+    month = '06'
+    day = '15'
+    year = ''
+    tokens = released.split()
+    if len(tokens) == 1:
+        year = released
+    elif len(tokens) ==2:
+        month = get_month_from_word(tokens[0])
+        year = tokens[1]
+    else:
+        day = get_day_from_str(tokens[0].strip('.'))
+        month = get_month_from_word(tokens[1])
+        year = tokens[2]
+    return int(year + month + day)
+
+
+def get_month_from_word(word):
+    month = re.search(MONTHS_RE, word, flags=re.IGNORECASE)
+    month = month.group()
+    month = MONTHS[month.lower()]
+    return '{:0>2}'.format(month)
+
+
+def get_day_from_str(word):
+    day = int(word)
+    return '{:0>2}'.format(day)
+         
+
+####
+
+# def get_numeric_date(album, albumData):
+#     release = albumData[album]['released']
+#     if type(release) == list:
+#         release = release[0]
+#     year = get_numeric_year(release)
+#     if not year:
+#         return 0
+#     month = get_month(release)
+#     if not month:
+#         return int(year+'00')
+#     month = '{:0>2}'.format(month)
+#     return int(year+month)
+
+# For song title:
+
+def get_numeric_year(release):
+    year = re.search('\d{4}', release)
     if not year:
-        return 0
-    month = get_month(release)
-    if not month:
-        return int(year+'00')
-    month = '{:0>2}'.format(month)
-    return int(year+month)
+        return
+    return year.group()
 
 
 def get_month(release):
@@ -304,13 +444,6 @@ def get_numeric_month(release):
         digit_month = re.match('\d+', tokens[1])
         if digit_month:
             return digit_month.group()
-
-
-def get_numeric_year(release):
-    year = re.search('\d{4}', release)
-    if not year:
-        return
-    return year.group()
 
 
 ###
