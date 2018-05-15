@@ -1,3 +1,27 @@
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = California Über Alles
+| Cover          = Dead_Kennedys_-_California_Über_Alles_cover.jpg
+| Artist         = [[Dead Kennedys]]
+| from Album     = [[Fresh Fruit for Rotting Vegetables]]
+| B-side         = "The Man with the Dogs"
+| Released       = June 1979
+| Format         = [[Gramophone record|7"]]
+| Recorded       = 
+| Genre          = [[Punk rock]]
+| Length         = 3:26 (Single Version), 3:03 (Album Version)
+| Label          = [[Alternative Tentacles]] (US), [[Fast Product]] (UK)
+| Writer         = [[Jello Biafra]] & John Greenway
+| Producer       = Dead Kennedys
+| Certification  = 
+| Chart position = 
+| Last single    = 
+| This single    = "'''California Über Alles'''"<br /> (1979)
+| Next single    = "[[Holiday in Cambodia]]"<br> (1980)
+| Origin = West Coast
+| Bpm = 112
+| key = G#
+}}
+####
 {{Infobox album
 | name       = Blue Valentines
 | type       = studio

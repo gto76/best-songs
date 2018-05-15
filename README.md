@@ -31,15 +31,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;2:50**  
 **Label:&ensp;Sun**  
 
-### '56 Jan | "Heartbreak Hotel" — Elvis Presley  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Elvis+Presley+Heartbreak+Hotel+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Heartbreak_alt.png" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Blues, Rockabilly, Rock And Roll**  
-**Writers:&ensp;Mae Boren Axton, Thomas Durden, Elvis Presley**  
-**Producer:&ensp;Steve Sholes**  
-**Length:&ensp;2:08**  
-**Label:&ensp;Rca Victor**  
-
 ### '58 Apr | "Rumble" — Link Wray & His Ray Men  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Link+Wray+His+Ray+Men+Rumble+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Rumble (instrumental).png" align="left" alt="cover" height="121px"/></a>
 
@@ -273,6 +264,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;5:49**  
 **Label:&ensp;Asylum**  
 <br>  
+
+### '79 Jun | "California Über Alles" — Dead Kennedys  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Dead+Kennedys+California+Über+Alles+song"> <img src="data/img/cover/Dead_Kennedys_-_California_Über_Alles_cover.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Punk Rock**  
+**Writer:&ensp;Jello Biafra & John Greenway**  
+**Producer:&ensp;Dead Kennedys**  
+**Length:&ensp;3:26 (Single Version), 3:03 (Album Version)**  
+**Labels:&ensp;Alternative Tentacles (Us), Fast Product (Uk)**  
 
 ### '79 Sep | "Rapper's Delight" — The Sugarhill Gang  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Sugarhill+Gang+Rapper's+Delight+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Rappersdelight.jpg" align="left" alt="cover" height="121px"/></a>

@@ -13,11 +13,12 @@ How to add a song
     the other elements with `####`. If you pasted the album data then update the
     `Length` field with the length of the song.
 
-4. Save image of the cover into `data/img/cover` and update the `Cover` field
-    with the name of the image.
+4. Add optional `Origin`, `Bpm` and `Key` fields to the entry.
 
-5. Add optional `Origin`, `Bpm` and `Key` fields to the entry.
+5. Save image of the cover into `data/img/cover` and update the `Cover` field
+    with the name of the image.
 
 6. Add the song to the `list_of_songs.txt` in the format `<artist>, '<song>'`.
 
 7. Run `./parse.py`.
+
