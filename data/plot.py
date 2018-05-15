@@ -15,6 +15,7 @@ import collections
 
 DEBUG = False
 GENERATE_STACKED_BARPLOT = False
+NORMALIZE_BPM = True
 BPM_WINDOW = 2
 
 DIR = 'img'
@@ -76,8 +77,11 @@ def get_year_xlabel(value):
 
 def get_bpm(value):
     bpm = int(value)
-    if bpm > 140:
-        bpm = int(bpm/2)
+    if NORMALIZE_BPM:
+        if bpm > 140:
+            bpm = int(bpm/2)
+        if bpm < 70:
+            bpm = int(bpm*2)
     out = bpm // BPM_WINDOW
     return out  
 
