@@ -1,4 +1,36 @@
 {
+  "Raining Blood": {
+    "name": "Raining Blood",
+    "cover": "Reign_in_blood.jpg",
+    "artist": "Slayer",
+    "album": "Reign in Blood",
+    "released": "October 7, 1986",
+    "track_no": "10",
+    "recorded": "1986, Los Angeles, California",
+    "genre": "Thrash metal",
+    "length": "4:14",
+    "lyricist": [
+      "Jeff hanneman",
+      "Kerry king"
+    ],
+    "composer": "Jeff Hanneman",
+    "writer": [
+      "Jeff Hanneman",
+      "Kerry King"
+    ],
+    "label": "Def Jam",
+    "producer": [
+      "Rick rubin",
+      "Slayer"
+    ],
+    "prev": "\"Postmortem\"",
+    "prev_no": "9",
+    "next": "“Aggressive Perfector”",
+    "next_no": "11",
+    "origin": "West Coast",
+    "bpm": "111",
+    "key": "C#"
+  },
   "California Über Alles": {
     "name": "California Über Alles",
     "cover": "Dead_Kennedys_-_California_Über_Alles_cover.jpg",

@@ -3,6 +3,10 @@ Best Songs
 
 New Additions
 -------------
+"Raining Blood" - slayer
+The Strokes - Someday
+
+Ram Jam - Black Betty
 Fela Kuti - No Agreement Part 2
 Fela Kuti-Shuffering And Shmiling (Part 2) 
 Fela Kuti - Sorrow Tears & Blood 
@@ -74,7 +78,6 @@ For Real (by year)
 
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
-### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
 ### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
@@ -100,6 +103,7 @@ For Real (by year)
 ### 77 C * Iggy Pop, 'Lust for life' 
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
+dk - california uber alles
 ### 78 * waits - blue valentine
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
@@ -126,7 +130,7 @@ For Real (by year)
 
 Considering (select 8 of 26)
 -----------
-dk - california uber alles
+### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
 ### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
 
 Seatbelts - Clutch (japan big band)

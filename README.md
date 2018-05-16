@@ -301,15 +301,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;3:18**  
 **Label:&ensp;Cbs**  
 
-### '80 Feb | "Sedemnajst" — Pankrti  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Pankrti+Sedemnajst+song"> <img src="data/img/cover/Dolgcajt.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Punk Rock**  
-**Writers:&ensp;Gregor Tomc, Dušan Žiberna**  
-**Producer:&ensp;Igor Vidmar**  
-**Length:&ensp;1:24**  
-**Label:&ensp;Rtv Ljubljana**  
-
 ### '80 Sep | "In Shades" — Tom Waits  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+In+Shades+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Tom_Waits-Heartattack_and_Vine.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -363,6 +354,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Producer:&ensp;Prince**  
 **Length:&ensp;3:38 (Lp Version) ,  3:46 (7" Single) ,  7:16 (12" Single)**  
 **Label:&ensp;Paisley Park / Warner Bros.**  
+
+### '86 Oct | "Raining Blood" — Slayer  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Slayer+Raining+Blood+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Reign_in_blood.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Thrash Metal**  
+**Writers:&ensp;Jeff Hanneman, Kerry King**  
+**Producers:&ensp;Rick Rubin, Slayer**  
+**Length:&ensp;4:14**  
+**Label:&ensp;Def Jam**  
 
 ### '88  | "Bosna moja" — Safet Isović  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Safet+Isović+Bosna+moja+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/bosna_moja.jpg" align="left" alt="cover" height="121px"/></a>

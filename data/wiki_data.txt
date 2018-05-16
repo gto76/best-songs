@@ -1,3 +1,39 @@
+{{Infobox song <!-- See Wikipedia:WikiProject_Singles -->
+| Name           = Raining Blood
+| Border         = 
+| Type           = 
+| cover = Reign_in_blood.jpg
+| Artist         = [[Slayer]]
+| Album          = [[Reign in Blood]]
+| Published      = 
+| Released       = October 7, 1986
+| track_no       = 10
+| Recorded       = 1986, [[Los Angeles]], California
+| Genre          = [[Thrash metal]]
+| Length         = 4:14
+| Lyricist       = {{flatlist|
+* [[Jeff Hanneman]]
+* [[Kerry King]]
+}}
+| Composer       = Jeff Hanneman
+| Writer = Jeff Hanneman, Kerry King
+| Label          = [[Def Jam Recordings|Def Jam]]
+| Producer       = {{flatlist|
+* [[Rick Rubin]]
+* Slayer
+}}
+| Tracks         = 
+| prev           = "Postmortem"
+| prev_no        = 9
+| next           = “Aggressive Perfector”
+| next_no        = 11
+| Misc           = 
+| Audio sample?  =
+| Origin = West Coast
+| Bpm = 111
+| key = C#
+}}
+####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = California Über Alles
 | Cover          = Dead_Kennedys_-_California_Über_Alles_cover.jpg
