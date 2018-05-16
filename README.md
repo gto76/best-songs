@@ -356,7 +356,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Paisley Park / Warner Bros.**  
 
 ### '86 Oct | "Raining Blood" — Slayer  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Slayer+Raining+Blood+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Reign_in_blood.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=Slayer+Raining+Blood+song"> <img src="data/img/cover/Reign_in_blood.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genre:&ensp;Thrash Metal**  
 **Writers:&ensp;Jeff Hanneman, Kerry King**  
