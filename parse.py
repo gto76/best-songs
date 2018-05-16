@@ -16,6 +16,11 @@ import sys
 import matplotlib.pyplot as plt
 
 
+# Songs that don't link to HD quality YouTube videos search.
+NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
+             'Linzserenade', '6 Was 9', 'One Armed Scissor', 'My Bitch Up',
+             'Psycho Killer', 'Dead Kennedys', 'Raining Blood']
+
 JSONIZE_WIKI_DATA = True
 SORT_BY_DATE = True
 ADD_PLOTS = True
@@ -226,9 +231,6 @@ def get_yt_link(albumName):
 
 def get_hd_filter(albumName):
     HD = '&sp=EgIgAQ%253D%253D'
-    NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
-             'Linzserenade', '6 Was 9', 'One Armed Scissor', 'My Bitch Up',
-             'Psycho Killer', 'Dead Kennedys']
     out = '' if any(a in albumName for a in NO_HD) else HD
     return out
 

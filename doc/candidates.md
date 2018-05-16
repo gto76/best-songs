@@ -3,22 +3,7 @@ Best Songs
 
 New Additions
 -------------
-"Raining Blood" - slayer
-The Strokes - Someday
-
-Ram Jam - Black Betty
-Fela Kuti - No Agreement Part 2
-Fela Kuti-Shuffering And Shmiling (Part 2) 
-Fela Kuti - Sorrow Tears & Blood 
-
-Nirvana - Lithium
-
-ZZ Top - La Grange
-The Rolling Stones, 'Jumpin' Jack Flash'
-King Crimson - 21st Century Schizoid Man
 Can't you hear me knocking- rolling stones
-
-The Rolling Stones - Gimme Shelter
 Teenage Kicks - undertones
 idoli - kenozoik
 Joy Division - Atmosphere
@@ -71,10 +56,10 @@ Modest Mouse - Float On
 The Dandy Warhols - Bohemian Like You
 test - chemical
 
-A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 
 For Real (by year)
 ------------------
+A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
@@ -108,13 +93,13 @@ dk - california uber alles
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
 ### 80 A/B * Tom Waits, 'In Shades' 
-### 80 C * Pankrti, 'Sedemnajst'
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
 ### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
 ### 83 C/F * Add it up - Violent Femmes
 ### 83 C/F * Violent Femmes, 'Blister on the Sun'
 ### 83 C/F * The Smiths, 'This Charming Man'
 ### 86 D * Prince, 'Kiss'
+"Raining Blood" - slayer
 ### 88 * Safet Isovic, 'Bosna Moja'
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
@@ -128,14 +113,23 @@ dk - california uber alles
 ### 04 F * Gustav, 'Linzserenade'
 
 
-Considering (select 8 of 26)
+Considering
 -----------
+### 80 C * Pankrti, 'Sedemnajst'
 ### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
+its alright - elvis
 ### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
-
 Seatbelts - Clutch (japan big band)
 ### 99 C/F * At The Drive In, 'One Armed Scissor' ??
-its alright - elvis
+Ram Jam - Black Betty
+Fela Kuti - No Agreement Part 2
+Fela Kuti-Shuffering And Shmiling (Part 2) 
+Fela Kuti - Sorrow Tears & Blood 
+Nirvana - Lithium
+ZZ Top - La Grange
+The Rolling Stones, 'Jumpin' Jack Flash'
+The Rolling Stones - Gimme Shelter
+King Crimson - 21st Century Schizoid Man
 
 ### 83 C * New Order, 'Blue Monday' ??
 ### 57 A * Jerry Lee Lewis, 'Great Balls' ??
@@ -186,6 +180,7 @@ Too early/late
 ### 15 * Bovie - black ?
 ### 17 * Alex Cameron - Candy May
 ### * Bloc Party - Banquet
+
 
 Just Out
 --------
@@ -269,6 +264,7 @@ Them - Gloria
 Needles and Pins - ramones
 MF doom - Acordion ?
 little richard: tutti, molly?, Long Tall Sally?, Lucille?
+
 
 Maybe
 -----
