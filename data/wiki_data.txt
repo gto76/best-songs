@@ -15,7 +15,7 @@
 *[[jazz-rock]]
 *[[Heavy metal music|heavy metal]]
 *[[progressive metal]]
-| length        = {{Duration|m=7|s=20}}
+| length        = 6:45 (Live in Mexico City - '99), {{Duration|m=7|s=20}} (Album Version)
 | label         = [[Island Records|Island]]
 | Writer =
 *[[Robert Fripp]]

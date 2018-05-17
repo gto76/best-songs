@@ -202,7 +202,7 @@ field.
 **Genres:&ensp;Progressive Rock, Jazz-Rock, Heavy Metal, Progressive Metal**  
 **Writers:&ensp;Robert Fripp, Michael Giles, Greg Lake, Ian Mcdonald, Peter Sinfield**  
 **Producer:&ensp;King Crimson**  
-**Length:&ensp;7:20**  
+**Length:&ensp;6:45 (Live In Mexico City - '99), 7:20 (Album Version)**  
 **Label:&ensp;Island**  
 
 ### '70 Jul | "Celebration of the Lizard" — The Doors  
