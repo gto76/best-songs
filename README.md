@@ -178,8 +178,8 @@ field.
 **Length:&ensp;5:40**  
 **Label:&ensp;Mgm**  
 
-### '69 Mar | "The Murder Mystery" — the Velvet Underground  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Velvet+Underground+The+Murder+Mystery+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
+### '69 Mar | "The Murder Mystery" — The Velvet Underground  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+The+Murder+Mystery+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Writer:&ensp;Lou Reed**  
 **Producer:&ensp;The Velvet Underground**  
