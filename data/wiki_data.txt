@@ -358,7 +358,7 @@
 | bpm = 113
 | type       =
 | Writer        = Lou Reed
-| artist     = [[the Velvet Underground]]
+| artist     = [[The Velvet Underground]]
 | album      = [[The Velvet Underground]]
 | released   = March 1969
 | format     =
