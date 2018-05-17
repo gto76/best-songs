@@ -1,4 +1,123 @@
 {
+  "21st Century Schizoid Man": {
+    "name": "21st Century Schizoid Man",
+    "cover": "21st_Century_Schizoid_Man.jpg",
+    "artist": "King Crimson",
+    "type": "single",
+    "album": "In the Court of the Crimson King",
+    "a-side": "Epitaph",
+    "released": "10 October 1969",
+    "format": "7-inch single",
+    "recorded": "1 & 20–21 August 1969",
+    "origin": "Central United States",
+    "bpm": "131",
+    "key": "C",
+    "genre": [
+      "Progressive rock",
+      "Jazz-rock",
+      "Heavy metal",
+      "Progressive metal"
+    ],
+    "length": "7:20",
+    "label": "Island",
+    "writer": [
+      "Robert Fripp",
+      "Michael Giles",
+      "Greg Lake",
+      "Ian McDonald",
+      "Peter Sinfield"
+    ],
+    "composer": [
+      "Robert Fripp",
+      "Michael Giles",
+      "Greg Lake",
+      "Ian McDonald"
+    ],
+    "lyricist": "Peter Sinfield",
+    "producer": "King Crimson",
+    "prev_title": "The Night Watch",
+    "prev_year": "1974",
+    "next_title": "Matte Kudasai",
+    "next_year": "1984",
+    "misc": {
+      "album": "In the Court of the Crimson King",
+      "type": "single",
+      "tracks": {
+        "title": "5 tracks",
+        "text": ";Side one\n# \"'''21st Century Schizoid Man'''\"\n# \"I Talk to the Wind\"\n# \"Epitaph\"\n;Side two\n# \"Moonchild\"\n# \"The Court of the Crimson King\""
+      }
+    }
+  },
+  "Kick Out the Jams": {
+    "name": "Kick Out the Jams",
+    "cover": "MC5_-_Kick_Out_the_Jams_1969_single.jpg",
+    "caption": "Cover of the 2009 American single",
+    "artist": "MC5",
+    "album": "Kick Out the Jams",
+    "b-side": "\"Motor City Is Burning\"",
+    "released": "February 1969",
+    "format": "7\"",
+    "recorded": [
+      "October 30–31, 1968",
+      "Grande ballroom, detroit, mi"
+    ],
+    "genre": [
+      "Garage rock",
+      "Proto-punk",
+      "Hard rock"
+    ],
+    "length": "2:37",
+    "label": "Elektra",
+    "writer": [
+      "Michael davis",
+      "Wayne kramer",
+      "Fred \"sonic\" smith",
+      "Dennis thompson",
+      "Rob tyner"
+    ],
+    "producer": [
+      "Bruce botnick",
+      "Jac holzman"
+    ],
+    "last single": "\"Tonight\", (1969)",
+    "this single": "\"'''Kick Out the Jams'''\", (1969)",
+    "next single": "\"Shakin' Street\", (1970)",
+    "origin": "Central United States",
+    "bpm": "146",
+    "key": "E"
+  },
+  "Soul Sacrifice": {
+    "name": "Soul Sacrifice",
+    "cover": "Soul_Sacrifice.jpg",
+    "type": "instrumental",
+    "caption": "Picture sleeve (1970 CBS Europe single)",
+    "artist": "Santana",
+    "album": "Santana",
+    "released": "1969.08",
+    "recorded": "May 1969",
+    "studio": "Pacific Recording, San Mateo, California",
+    "genre": [
+      "Latin rock",
+      "Blues rock"
+    ],
+    "length": "8:05 (Woodstock Version), 6:37 (Album Version)",
+    "writer": [
+      "David Brown",
+      "Marcus Malone",
+      "Gregg Rolie",
+      "Carlos Santana"
+    ],
+    "label": "Columbia",
+    "producer": [
+      "Brent Dangerfield",
+      "Santana"
+    ],
+    "prev_track": "You Just Don't Care",
+    "track_no": "9",
+    "origin": "West Coast",
+    "bpm": "138",
+    "key": "A"
+  },
   "Raining Blood": {
     "name": "Raining Blood",
     "cover": "Reign_in_blood.jpg",
@@ -799,7 +918,7 @@
       "Progressive rock",
       "Poetry"
     ],
-    "length": "14:25 (live version), 17:09 (studio version)",
+    "length": "16:47 (Live In New York), 14:25 (Absolutely Live), 17:09 (studio version)",
     "lyricist": "Jim Morrison",
     "writer": [
       "John Densmore",
@@ -1019,7 +1138,7 @@
       "Disco",
       "Funk"
     ],
-    "length": "3:55 (single version), 6:30 (12\" short version), 14:35 (album version)",
+    "length": "14:35 (album version), 6:30 (12\" short version), 3:55 (single version)",
     "label": "Sugar Hill",
     "writer": [
       "The Sugarhill Gang",
@@ -1333,7 +1452,7 @@
     "format": "12\"",
     "recorded": "A & R Studios, NYC",
     "genre": "Post-punk",
-    "length": "9:58, 10:40 (re-issue)",
+    "length": "10:40 (re-issue), 9:58",
     "label": "Elektra",
     "writer": "Tom Verlaine",
     "producer": [

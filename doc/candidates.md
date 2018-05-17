@@ -3,19 +3,23 @@ Best Songs
 
 New Additions
 -------------
+take me out - franz ferdinand
+Mission of Burma - That's when I reach for my revolver
+Bregovic - ederlezi
+Hava Nageela - Harry Belafonte
+The Cramps - Heartbreak Hotel
+
 Can't you hear me knocking- rolling stones
 Teenage Kicks - undertones
 idoli - kenozoik
-Joy Division - Atmosphere
 
 pixies - Here Comes Your Man
 Hey - The Pixies
 pixies - where is my mind
 The Doors - Cars hiss
 doors - music's over
-Dolly Parton - Jolene
-Joy Division - Disorder
 Waiting for the Sun - The Doors
+Dolly Parton - Jolene
 
 THE SPECIALS - Gangsters
 Down in Mexico by The Coasters
@@ -70,16 +74,18 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 65 A/B * Rolling Stones, 'Satisfaction'
 ### 65 A/B * Beatles, 'Help'
 ### 66 B * Mamas and Papas, 'California Dreamen'
-### 66 Doors - "Break On Through (To the Other Side)"
-### 66 B * The Doors, 'Light my Fire'
 ### 66 B * Beatles, 'Tomorow Never Knows'
-### 67 The Doors - Love Me Two Times
-### 67 B/C * Velvet Underground, 'Venus in Furs'
+### 66 B * The Doors, 'Light my Fire'
 ### 67 B * Jefferson Airplane, 'White Rabit'
+### 67 B/C * Velvet Underground, 'Venus in Furs'
+### 67 The Doors - Love Me Two Times
 ### 67 B/C * Velvet Underground, 'Murder Mistery'
-### 76 B/F * Velvet Underground - Pale Blue Eyes
+### 67 B/F * Velvet Underground - Pale Blue Eyes
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
+soul sacrifice
+mc5 - kick out the jams
+King Crimson - 21st Century Schizoid Man
 ### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
 ### 74 A/B/C * Bijelo Dugme, 'Top'
@@ -95,10 +101,8 @@ dk - california uber alles
 ### 80 A/B * Tom Waits, 'In Shades' 
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
 ### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
-### 83 C/F * Add it up - Violent Femmes
-### 83 C/F * Violent Femmes, 'Blister on the Sun'
+### 83 C/F * Violent Femmes, 'Blister on the Sun' ?
 ### 83 C/F * The Smiths, 'This Charming Man'
-### 86 D * Prince, 'Kiss'
 "Raining Blood" - slayer
 ### 88 * Safet Isovic, 'Bosna Moja'
 ### 91 B/F * Nirvana, 'In Bloom'
@@ -106,8 +110,8 @@ dk - california uber alles
 ### 96 B * Satyricon, 'Mother North'
 ### 97 B/C * Blur, 'Song 2'
 ### 97 E The Prodigy - Smack My Bitch Up
-### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
 ### 99 E * Groove Armada, 'Superstylin'
+### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
 ### 04 F * Gustav, 'Linzserenade'
@@ -115,25 +119,39 @@ dk - california uber alles
 
 Considering
 -----------
-### 80 C * Pankrti, 'Sedemnajst'
-### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
-its alright - elvis
-### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
+### 66 Doors - "Break On Through (To the Other Side)"
+### 83 C/F * Add it up - Violent Femmes
+### 86 D * Prince, 'Kiss'
+
 Seatbelts - Clutch (japan big band)
-### 99 C/F * At The Drive In, 'One Armed Scissor' ??
+its alright - elvis
+idoli - maljciki
+The Rolling Stones, 'Jumpin' Jack Flash'
+
+james brown - I got you
+Nirvana - Teen spirit
+hound dog
+war pigs
+Bob Dylan - Like a Rolling Stone
+### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
+The Rolling Stones - Gimme Shelter
+Nirvana - Lithium
+### * Joy Division - Disorder
+Joy Division - Atmosphere
+
 Ram Jam - Black Betty
 Fela Kuti - No Agreement Part 2
 Fela Kuti-Shuffering And Shmiling (Part 2) 
 Fela Kuti - Sorrow Tears & Blood 
-Nirvana - Lithium
+
+led - comunication breakdown
 ZZ Top - La Grange
-The Rolling Stones, 'Jumpin' Jack Flash'
-The Rolling Stones - Gimme Shelter
-King Crimson - 21st Century Schizoid Man
+### 80 C * Pankrti, 'Sedemnajst'
+### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
+### 99 C/F * At The Drive In, 'One Armed Scissor' ??
 
 ### 83 C * New Order, 'Blue Monday' ??
 ### 57 A * Jerry Lee Lewis, 'Great Balls' ??
-### * Joy Division - Disorder
 ### Velvet Underground - heroin L:7:10
 ### Tom Waits - Twenty-Nine Dollars
 
@@ -184,6 +202,7 @@ Too early/late
 
 Just Out
 --------
+M - Pop Muzik
 Beatles, 'Norwegian Wood (This Bird Has Flown)'
 Beatles, 'Eleanor Rigby'
 Beatles, 'Strawberry Fields Forever'
@@ -202,13 +221,10 @@ ramones - 53 and 3rd
 Nirvana - Milk it
 jovanoti - penso positivo
 no means no - river
-idoli - maljciki
 sarlo - niko
 desaparacidos - manana
 dogs n sledges - million dan
 arcade rebelion
-led - comunication breakdown
-mc5 - kick out the jams
 'I FINK U FREEKY' by DIE ANTWOORD
 Fatboy Slim - Push The Tempo
 Shocking Blue - Venus
@@ -218,7 +234,6 @@ Beatles - walrus
 Beatles - hard days
 breaks
 Depeche Mode - Personal Jesus
-Nirvana - Teen spirit
 Velvet Underground - waiting
 You spin me right round (like a record baby)
 The Band - The Weight
@@ -231,7 +246,6 @@ Beastie Boys - Sabotage
 Sherl crow - All I Wanna Do
 stranglers - golden brown
 The Animals - The House of the Rising Sun
-M - Pop Muzik
 Tom Tom Club - Genius of Love
 White Stripes - Seven Nation
 
@@ -246,7 +260,6 @@ Soft Cell - Tainted Love
 Aswad
 Graveyard shift
 t rex - get it on
-soul sacrifice
 chameleon L
 The Grateful Dead - Casey Jones
 Buffalo Springfield - For What It's Worth

@@ -3,10 +3,13 @@
 
 
 <br>
-<p>Release dates denote when the song was first published, either as a single 
+<p>Release dates denote when the song was first published, either as a single
 or as a part of an album. Image shows the cover of the single or the label if no
- edition of the single had a cover. If the song was never released as a single, 
- then the cover of the first album that featured the song is used.<br>
+edition of the single had a cover. If the song was never released as a single,
+then the cover of the first album that featured the song is used. Songs with
+multiple versions, have the preferred version listed first in the <i>lengths</i>
+field.
+<br>
 <br>
 <b>Click on the cover to listen to the song on YouTube!!!</b><br>
 <b>YouTube <a target="_blank" href="https://www.youtube.com/watch?v=SDtVAM80zbg&t=0s&index=1&list=PLaeyhQtn9sJyEbOQ9Ouo9e8VdMBgA7nt1">playlist</a> is also available.</b>
@@ -103,15 +106,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;2:58**  
 **Label:&ensp;Parlophone**  
 
-### '67 Jan | "Break On Through (To the Other Side)" — The Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Break+On+Through+(To+the+Other+Side)+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Break_On_Through_To_the_Other_Side.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Psychedelic Rock**  
-**Writers:&ensp;Jim Morrison, Ray Manzarek, John Densmore, Robby Krieger**  
-**Producer:&ensp;Paul A. Rothchild**  
-**Length:&ensp;2:26**  
-**Label:&ensp;Elektra**  
-
 ### '67 Jan | "Light My Fire" — The Doors  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Light+My+Fire+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Lightmyfire67.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -166,6 +160,15 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;4:24**  
 **Label:&ensp;Elektra**  
 
+### '69 Feb | "Kick Out the Jams" — MC5  
+<a target="_blank" href="https://www.youtube.com/results?search_query=MC5+Kick+Out+the+Jams+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/MC5_-_Kick_Out_the_Jams_1969_single.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Garage Rock, Proto-Punk, Hard Rock**  
+**Writers:&ensp;Michael Davis, Wayne Kramer, Fred "Sonic" Smith, Dennis Thompson, Rob Tyner**  
+**Producers:&ensp;Bruce Botnick, Jac Holzman**  
+**Length:&ensp;2:37**  
+**Label:&ensp;Elektra**  
+
 ### '69 Mar | "Pale Blue Eyes" — The Velvet Underground  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+Pale+Blue+Eyes+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -184,13 +187,31 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Label:&ensp;Mgm**  
 <br>  
 
+### '69 Aug | "Soul Sacrifice" — Santana  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Santana+Soul+Sacrifice+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Soul_Sacrifice.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Latin Rock, Blues Rock**  
+**Writers:&ensp;David Brown, Marcus Malone, Gregg Rolie, Carlos Santana**  
+**Producers:&ensp;Brent Dangerfield, Santana**  
+**Length:&ensp;8:05 (Woodstock Version), 6:37 (Album Version)**  
+**Label:&ensp;Columbia**  
+
+### '69 Oct | "21st Century Schizoid Man" — King Crimson  
+<a target="_blank" href="https://www.youtube.com/results?search_query=King+Crimson+21st+Century+Schizoid+Man+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/21st_Century_Schizoid_Man.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Progressive Rock, Jazz-Rock, Heavy Metal, Progressive Metal**  
+**Writers:&ensp;Robert Fripp, Michael Giles, Greg Lake, Ian Mcdonald, Peter Sinfield**  
+**Producer:&ensp;King Crimson**  
+**Length:&ensp;7:20**  
+**Label:&ensp;Island**  
+
 ### '70 Jul | "Celebration of the Lizard" — The Doors  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Celebration+of+the+Lizard+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/DoorsAbLive1970.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Psychedelic Rock, Acid Rock, Space Rock, Progressive Rock, Poetry**  
 **Writers:&ensp;John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison**  
 **Producer:&ensp;Paul A. Rothchild**  
-**Length:&ensp;14:25 (Live Version), 17:09 (Studio Version)**  
+**Length:&ensp;16:47 (Live In New York), 14:25 (Absolutely Live), 17:09 (Studio Version)**  
 **Label:&ensp;Elektra**  
 
 ### '72 Nov | "Walk on the Wild Side" — Lou Reed  
@@ -235,7 +256,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Genre:&ensp;Post-Punk**  
 **Writer:&ensp;Tom Verlaine**  
 **Producers:&ensp;Andy Johns, Tom Verlaine**  
-**Length:&ensp;9:58, 10:40 (Re-Issue)**  
+**Length:&ensp;10:40 (Re-Issue), 9:58**  
 **Label:&ensp;Elektra**  
 
 ### '77 Aug | "Lust for Life" — Iggy Pop  
@@ -280,7 +301,7 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Genres:&ensp;Old-School Hip Hop, Disco, Funk**  
 **Writers:&ensp;The Sugarhill Gang, Sylvia Robinson, Nile Rodgers, Bernard Edwards, Grandmaster Caz**  
 **Producer:&ensp;Sylvia Robinson**  
-**Length:&ensp;3:55 (Single Version), 6:30 (12" Short Version), 14:35 (Album Version)**  
+**Length:&ensp;14:35 (Album Version), 6:30 (12" Short Version), 3:55 (Single Version)**  
 **Label:&ensp;Sugar Hill**  
 
 ### '79 Oct | "Transmission" — Joy Division  
@@ -319,15 +340,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Length:&ensp;1:45**  
 **Label:&ensp;Rtv Ljubljana**  
 
-### '83 Apr | "Add It Up" — Violent Femmes  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Add+It+Up+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Violent_Femmes.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Alternative Rock, Folk Punk, Post-Punk**  
-**Writer:&ensp;Gordon Gano**  
-**Producer:&ensp;Mark Van Hecke**  
-**Length:&ensp;4:44**  
-**Label:&ensp;Slash**  
-
 ### '83 Apr | "Blister in the Sun" — Violent Femmes  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Blister+in+the+Sun+song"> <img src="data/img/cover/Violent_Femmes.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -345,15 +357,6 @@ or as a part of an album. Image shows the cover of the single or the label if no
 **Producers:&ensp;Roger Pusey (Peel Version), John Porter (Single Version)**  
 **Length:&ensp;2:41**  
 **Label:&ensp;Rough Trade**  
-
-### '86 Feb | "Kiss" — Prince and The Revolution  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Prince+and+The+Revolution+Kiss+song"> <img src="data/img/cover/Prince_kiss.png" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Post-Disco, Funk**  
-**Writer:&ensp;Prince**  
-**Producer:&ensp;Prince**  
-**Length:&ensp;3:38 (Lp Version) ,  3:46 (7" Single) ,  7:16 (12" Single)**  
-**Label:&ensp;Paisley Park / Warner Bros.**  
 
 ### '86 Oct | "Raining Blood" — Slayer  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Slayer+Raining+Blood+song"> <img src="data/img/cover/Reign_in_blood.jpg" align="left" alt="cover" height="121px"/></a>
