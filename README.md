@@ -193,7 +193,7 @@ field.
 **Genres:&ensp;Latin Rock, Blues Rock**  
 **Writers:&ensp;David Brown, Marcus Malone, Gregg Rolie, Carlos Santana**  
 **Producers:&ensp;Brent Dangerfield, Santana**  
-**Length:&ensp;8:05 (Woodstock Version), 6:37 (Album Version)**  
+**Length:&ensp;8:05 (Woodstock Version '69 Aug / '70 May), 6:37 (Album Version)**  
 **Label:&ensp;Columbia**  
 
 ### '69 Oct | "21st Century Schizoid Man" — King Crimson  
@@ -202,7 +202,7 @@ field.
 **Genres:&ensp;Progressive Rock, Jazz-Rock, Heavy Metal, Progressive Metal**  
 **Writers:&ensp;Robert Fripp, Michael Giles, Greg Lake, Ian Mcdonald, Peter Sinfield**  
 **Producer:&ensp;King Crimson**  
-**Length:&ensp;6:45 (Live In Mexico City - '99), 7:20 (Album Version)**  
+**Length:&ensp;6:45 (Live in Mexico City, '96 / '99), 7:20 (Album Version)**  
 **Label:&ensp;Island**  
 
 ### '70 Jul | "Celebration of the Lizard" — The Doors  
@@ -211,7 +211,7 @@ field.
 **Genres:&ensp;Psychedelic Rock, Acid Rock, Space Rock, Progressive Rock, Poetry**  
 **Writers:&ensp;John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison**  
 **Producer:&ensp;Paul A. Rothchild**  
-**Length:&ensp;16:47 (Live In New York), 14:25 (Absolutely Live), 17:09 (Studio Version)**  
+**Length:&ensp;16:47 (Live In New York, '70 Jan/'09), 14:25 (Absolutely Live), 17:09 (Studio Version, '68/'03)**  
 **Label:&ensp;Elektra**  
 
 ### '72 Nov | "Walk on the Wild Side" — Lou Reed  
@@ -256,7 +256,7 @@ field.
 **Genre:&ensp;Post-Punk**  
 **Writer:&ensp;Tom Verlaine**  
 **Producers:&ensp;Andy Johns, Tom Verlaine**  
-**Length:&ensp;10:40 (Re-Issue), 9:58**  
+**Length:&ensp;10:40 (Re-issue without fadeout, Rel. '89), 9:58**  
 **Label:&ensp;Elektra**  
 
 ### '77 Aug | "Lust for Life" — Iggy Pop  
@@ -292,7 +292,7 @@ field.
 **Genre:&ensp;Punk Rock**  
 **Writer:&ensp;Jello Biafra & John Greenway**  
 **Producer:&ensp;Dead Kennedys**  
-**Length:&ensp;3:26 (Single Version), 3:03 (Album Version)**  
+**Length:&ensp;3:26 (Single Version), 3:03 (Album Version, Rel. '80 Sep, re-recorded)**  
 **Labels:&ensp;Alternative Tentacles (Us), Fast Product (Uk)**  
 
 ### '79 Sep | "Rapper's Delight" — The Sugarhill Gang  
@@ -418,7 +418,7 @@ field.
 **Genres:&ensp;Big Beat, Techno**  
 **Writers:&ensp;Liam Howlett, Cedric Miller, Trevor Randolph, Maurice Smith, Keith Thornton**  
 **Producer:&ensp;Liam Howlett**  
-**Lengths:&ensp;4:45 (Edit), 5:43 (Album Version)**  
+**Length:&ensp;4:45 (Edit), 5:43 (Album Version)**  
 **Labels:&ensp;Xl, Maverick, Sony**  
 
 ### '00 May | "When the Curious Girl Realizes She Is Under Glass" — Bright Eyes  
@@ -454,7 +454,7 @@ field.
 **Genres:&ensp;Dance-Punk, Indietronica, Electroclash, Acid House**  
 **Writers:&ensp;Tim Goldsworthy, James Murphy**  
 **Producer:&ensp;The Dfa**  
-**Lengths:&ensp;9:20 (Crass Version), 11:03 (Pretentious Version)**  
+**Length:&ensp;9:20 (Crass Version), 11:03 (Pretentious Version)**  
 **Label:&ensp;Dfa**  
 
 ### '04 Mar | "Linzserenade" — Gustav  

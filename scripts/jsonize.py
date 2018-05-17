@@ -120,7 +120,8 @@ def tokenize_list(out, sep, i):
         if not a:
             continue
         if isinstance(a, str):
-            out_new.append([b.strip().capitalize() for b in a.split(sep) if b.strip()])
+            # out_new.append([b.strip().capitalize() for b in a.split(sep) if b.strip()])
+            out_new.append([b.strip() for b in a.split(sep) if b.strip()])
         else:
             out_new.append(a)
     return out_new[0], i

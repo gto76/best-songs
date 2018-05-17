@@ -15,7 +15,7 @@
 *[[jazz-rock]]
 *[[Heavy metal music|heavy metal]]
 *[[progressive metal]]
-| length        = 6:45 (Live in Mexico City - '99), {{Duration|m=7|s=20}} (Album Version)
+| length        = 6:45 (Live in Mexico City, '96 / '99), {{Duration|m=7|s=20}} (Album Version)
 | label         = [[Island Records|Island]]
 | Writer =
 *[[Robert Fripp]]
@@ -87,7 +87,7 @@
 | genre = 
 *[[Latin rock]]
 *[[blues rock]]
-| length = 8:05 (Woodstock Version), {{Duration|m=6|s=37}} (Album Version)
+| length = 8:05 (Woodstock Version '69 Aug / '70 May), {{Duration|m=6|s=37}} (Album Version)
 | Writer = 
 *[[David Brown (American musician)|David Brown]]
 *[[Marcus Malone]]
@@ -150,7 +150,7 @@
 | Format         = [[Gramophone record|7"]]
 | Recorded       = 
 | Genre          = [[Punk rock]]
-| Length         = 3:26 (Single Version), 3:03 (Album Version)
+| Length         = 3:26 (Single Version), 3:03 (Album Version, Rel. '80 Sep, re-recorded)
 | Label          = [[Alternative Tentacles]] (US), [[Fast Product]] (UK)
 | Writer         = [[Jello Biafra]] & John Greenway
 | Producer       = Dead Kennedys
@@ -251,7 +251,7 @@
 | Recorded    = [[Essex]], [[England]], [[United Kingdom]]
 | Format      = {{hlist|[[12-inch single|12"]]|[[CD single|CD]]}}
 | Genre       = {{hlist|[[Big beat]]|[[techno]]<ref>{{cite web|url=http://www.allmusic.com/album/this-is-techno-vol-3-mw0001065763|title=This Is Techno, Vol. 3 - Various Artists - Songs, Reviews, Credits - AllMusic|website=AllMusic|accessdate=26 August 2017}}</ref>}}
-| Length      = {{unbulleted list|4:45 (edit)|5:43 (album version)}}
+| Length      = 4:45 (Edit), 5:43 (Album Version)
 | Label       = {{hlist|[[XL Recordings|XL]]|[[Maverick Records|Maverick]]|[[Sony Music Entertainment|Sony]]}}
 | Writer      = {{hlist|[[Liam Howlett]]|[[Ced-Gee|Cedric Miller]]|[[TR Love|Trevor Randolph]]|[[Ultramagnetic MCs|Maurice Smith]]|[[Kool Keith|Keith Thornton]]}}
 | Producer    = Liam Howlett
@@ -832,7 +832,7 @@
 | Released       = 20 July 1970, (live version)
 | Genre          = [[Psychedelic rock]], [[acid rock]], [[space rock]], [[progressive rock]], [[poetry]]
 | Language       = 
-| Length         = 16:47 (Live In New York)<br/>14:25 (Absolutely Live)<br/>17:09 ([[Waiting for the Sun|studio version]])
+| Length         = 16:47 (Live In New York, '70 Jan/'09)<br/>14:25 (Absolutely Live)<br/>17:09 ([[Waiting for the Sun|Studio Version]], '68/'03)
 | Lyricist       = [[Jim Morrison]]
 | Writer       = John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison
 | Label          = Elektra
@@ -1021,7 +1021,7 @@
 | Format         = {{hlist|[[12-inch single|12"]]|[[CD single|CD]]}}
 | Recorded       = 2003
 | Genre          = {{hlist|[[Dance-punk]]|[[indietronica]]|[[electroclash]]|[[acid house]]}}
-| Length         = {{unbulleted list|9:20 (Crass Version) | 11:03 (Pretentious Version)}}
+| Length         = 9:20 (Crass Version), 11:03 (Pretentious Version)
 | Label          = [[DFA Records|DFA]]
 | Writer         = {{hlist|[[Tim Goldsworthy]]|[[James Murphy (electronic musician)|James Murphy]]}}
 | Producer       = [[DFA Records|The DFA]]
@@ -1042,7 +1042,7 @@
 | Format         = [[12-inch single|12"]]
 | Recorded       = August 2, 1979
 | Genre          = [[Old-school hip hop]], [[disco]], [[funk]]
-| Length         = 14:35 (album version)<br />6:30 (12" short version)<br />3:55 (single version)
+| Length         = 14:35 (Album Version)<br />6:30 (12" Short Version)<br />3:55 (Single Version)
 | Label          = [[Sugar Hill Records (rap)|Sugar Hill]]
 | Writer         = [[The Sugarhill Gang]], [[Sylvia Robinson]], [[Nile Rodgers]], [[Bernard Edwards]], [[Grandmaster Caz]]
 | Producer       = [[Sylvia Robinson]]
@@ -1336,7 +1336,7 @@
 | Format         = [[Gramophone record|12"]]
 | Recorded       = A & R Studios, NYC
 | Genre          = [[Post-punk]]
-| Length         = 10:40 (re-issue)<br>9:58
+| Length         = 10:40 (Re-issue without fadeout, Rel. '89)<br>9:58
 | Label          = [[Elektra Records|Elektra]]
 | Writer         = [[Tom Verlaine]]
 | Producer       = [[Andy Johns]], Tom Verlaine
