@@ -3,6 +3,10 @@ Best Songs
 
 New Additions
 -------------
+Faithless 'Insomnia'
+The Chemical Brothers 'Hey Boy, Hey Girl'
+Fatboy Slim 'Right Here, Right Now'
+
 take me out - franz ferdinand
 Mission of Burma - That's when I reach for my revolver
 Bregovic - ederlezi
@@ -78,7 +82,7 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 66 B * The Doors, 'Light my Fire'
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Venus in Furs'
-### 67 The Doors - Love Me Two Times
+### 67 The Doors - Love Me Two Times ?
 ### 67 B/C * Velvet Underground, 'Murder Mistery'
 ### 67 B/F * Velvet Underground - Pale Blue Eyes
 ### 67 B * Jimi Hendrix, '6 was 9'

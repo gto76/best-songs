@@ -5,9 +5,9 @@
 <br>
 <p>Release dates denote when the song was first published, either as a single
 or as a part of an album. Image shows the cover of the single or the label if no
-edition of the single had a cover. If the song was never released as a single,
+edition of the single had a cover. If song was never released as a single,
 then the cover of the first album that featured the song is used. Songs with
-multiple versions, have the preferred version listed first in the <i>lengths</i>
+multiple versions have the preferred version listed first in the <i>lengths</i>
 field.
 <br>
 <br>
