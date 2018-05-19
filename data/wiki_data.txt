@@ -1,3 +1,62 @@
+{{Infobox song 
+| Name           = The Soft Parade
+| Artist         = [[The Doors]]
+| Album          = [[The Soft Parade]]
+| cover = The_Doors_-_The_Soft_Parade.jpg
+| Released       = July 18, 1969
+| track_no       = 9
+| Genre          = [[Psychedelic rock]], [[progressive rock]], [[blues rock]]
+| Length         = 10:09 (Box Set, '69 Apr / '97 Oct), 8:34 (9:41 on remastered album)
+| Label          = [[Elektra Records|Elektra]]
+| Writer         = [[Jim Morrison]]
+| Producer       = [[Paul A. Rothchild]]
+| prev           = "[[Wishful Sinful]]"
+| prev_no        = 8
+| next           = 
+| next_no        = 
+| Origin = West Coast
+| Bpm = 103
+| key = A
+}}
+####
+{{Infobox album
+| name       = Hey
+| type       = studio
+| artist     = [[Pixies]]
+| cover      = Pixies-Doolittle.jpg
+| alt        =
+| released   = April 17, 1989
+| recorded   = October 31&nbsp;– November 23, 1988
+| venue      =
+| writer =  Black Francis
+| Origin = East Coast
+| Bpm = 100
+| key = B
+| studio     = [[Downtown Recorders]] in [[Boston, Massachusetts]] and [[Carriage House Studios]] in [[Stamford, Connecticut]]
+| genre      = {{flatlist|
+*[[Alternative rock]]
+*[[noise pop]]<ref>{{cite web | url=http://articles.chicagotribune.com/2009-11-21/news/0911200325_1_black-francis-pixies-frank-black | title=The Pixies' perfect noise-pop | work=[[Chicago Tribune]] | date=November 21, 2009 | accessdate=December 27, 2015 | author=Kot, Greg |archiveurl=https://web.archive.org/web/20121114035428/http://articles.chicagotribune.com/2009-11-21/news/0911200325_1_black-francis-pixies-frank-black|archivedate=2012-11-14}}</ref>
+}}
+| length     = 3:31
+| label      = {{flatlist|
+*[[4AD]]
+*[[Elektra Records|Elektra]] (initial U.S. distribution)
+}}
+| producer   = [[Gil Norton]]
+| prev_title = [[Surfer Rosa]]
+| prev_year  = 1988
+| next_title = [[Bossanova (Pixies album)|Bossanova]]
+| next_year  = 1990
+| misc       = {{Singles
+| Name        = Doolittle
+| Type        = studio
+| Single 1    = [[Monkey Gone to Heaven]]
+| Single 2    = [[Here Comes Your Man]]
+| Single 1 date = March 20, 1989
+| Single 2 date = June 1, 1989
+}}
+}}
+####
 {{Infobox song
 | name          = 21st Century Schizoid Man
 | cover         = 21st_Century_Schizoid_Man.jpg 
@@ -832,7 +891,7 @@
 | Released       = 20 July 1970, (live version)
 | Genre          = [[Psychedelic rock]], [[acid rock]], [[space rock]], [[progressive rock]], [[poetry]]
 | Language       = 
-| Length         = 16:47 (Live In New York, '70 Jan/'09)<br/>14:25 (Absolutely Live)<br/>17:09 ([[Waiting for the Sun|Studio Version]], '68/'03)
+| Length         = 17:18 (Live In New York, '70 Jan/'97)<br/>14:25 (Absolutely Live)<br/>17:09 ([[Waiting for the Sun|Studio Version]], '68/'03)
 | Lyricist       = [[Jim Morrison]]
 | Writer       = John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison
 | Label          = Elektra

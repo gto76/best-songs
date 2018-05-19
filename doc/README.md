@@ -10,9 +10,9 @@ How to add a song
 2. Click the edit tab.
 
 3. Copy paste the Infobox element into `data/wiki_data.txt` and separate it from
-    the other elements with `####`. If you pasted the album data then update the
-    `Length` field with the length of the song. Also check if the album with the
-    song was released before the single.
+    the other elements with `####`. If you pasted the album data, then update 
+    the `Name` and `Length` fields. Also check if the album with the song was 
+    released before the single.
 
 4. Add optional `Origin`, `Bpm` and `Key` fields to the entry.
 

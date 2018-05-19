@@ -1,4 +1,61 @@
 {
+  "The Soft Parade": {
+    "name": "The Soft Parade",
+    "artist": "The Doors",
+    "album": "The Soft Parade",
+    "cover": "The_Doors_-_The_Soft_Parade.jpg",
+    "released": "July 18, 1969",
+    "track_no": "9",
+    "genre": [
+      "Psychedelic rock",
+      "Progressive rock",
+      "Blues rock"
+    ],
+    "length": "10:09 (Box Set, '69 Apr / '97 Oct), 8:34 (9:41 on remastered album)",
+    "label": "Elektra",
+    "writer": "Jim Morrison",
+    "producer": "Paul A. Rothchild",
+    "prev": "\"Wishful Sinful\"",
+    "prev_no": "8",
+    "origin": "West Coast",
+    "bpm": "103",
+    "key": "A"
+  },
+  "Hey": {
+    "name": "Hey",
+    "type": "studio",
+    "artist": "Pixies",
+    "cover": "Pixies-Doolittle.jpg",
+    "released": "April 17, 1989",
+    "recorded": "October 31 – November 23, 1988",
+    "writer": "Black Francis",
+    "origin": "East Coast",
+    "bpm": "100",
+    "key": "B",
+    "studio": "Downtown Recorders in Boston, Massachusetts and Carriage House Studios in Stamford, Connecticut",
+    "genre": [
+      "Alternative rock",
+      "noise pop"
+    ],
+    "length": "3:31",
+    "label": [
+      "4AD",
+      "Elektra (initial U.S. distribution)"
+    ],
+    "producer": "Gil Norton",
+    "prev_title": "Surfer Rosa",
+    "prev_year": "1988",
+    "next_title": "Bossanova",
+    "next_year": "1990",
+    "misc": {
+      "name": "Doolittle",
+      "type": "studio",
+      "single 1": "Monkey Gone to Heaven",
+      "single 2": "Here Comes Your Man",
+      "single 1 date": "March 20, 1989",
+      "single 2 date": "June 1, 1989"
+    }
+  },
   "21st Century Schizoid Man": {
     "name": "21st Century Schizoid Man",
     "cover": "21st_Century_Schizoid_Man.jpg",
@@ -915,7 +972,7 @@
       "Progressive rock",
       "Poetry"
     ],
-    "length": "16:47 (Live In New York, '70 Jan/'09), 14:25 (Absolutely Live), 17:09 (Studio Version, '68/'03)",
+    "length": "17:18 (Live In New York, '70 Jan/'97), 14:25 (Absolutely Live), 17:09 (Studio Version, '68/'03)",
     "lyricist": "Jim Morrison",
     "writer": [
       "John Densmore",
@@ -1161,7 +1218,7 @@
       "surf rock"
     ],
     "length": "2:25",
-    "label": "Cadence",
+    "label": "Cadence 1347",
     "writer": [
       "Milt Grant",
       "Link Wray"
@@ -1369,7 +1426,7 @@
     "recorded": "August–September 1979, November 1979 at Wessex Studios",
     "length": "3:18",
     "genre": "Post-punk",
-    "label": "CBS",
+    "label": "CBS 8087",
     "writer": "Joe Strummer and Mick Jones",
     "producer": "Guy Stevens",
     "last single": "\"Groovy Times\", (1979)",

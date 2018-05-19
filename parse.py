@@ -18,8 +18,11 @@ import matplotlib.pyplot as plt
 
 # Songs that don't link to HD quality YouTube videos search.
 NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
-             'Linzserenade', '6 Was 9', 'One Armed Scissor', 'My Bitch Up',
-             'Psycho Killer', 'Dead Kennedys', 'Raining Blood']
+         'Linzserenade', '6 Was 9', 'One Armed Scissor', 'My Bitch Up',
+         'Psycho Killer', 'Dead Kennedys', 'Raining Blood', 'Soft Parade']
+
+YT_MOD = {'My Bitch Up': 'radio edit',
+        'Soft Parade': 'Essential Rarities'}
 
 JSONIZE_WIKI_DATA = True
 SORT_BY_DATE = True
@@ -220,8 +223,9 @@ def get_img_link(albumName, albumData):
 
 def get_yt_link(albumName):
     hd = get_hd_filter(albumName)
-    if 'My Bitch Up' in albumName:
-        albumName += ' radio edit'
+    for title, mod in YT_MOD.items():
+        if title in albumName:
+            albumName += f' {mod}'
     albumName = albumName.replace('&', '').replace('-', '')
     albumName = re.sub('[ ]+', '+', albumName)
     out = '<a target="_blank" href="https://www.youtube.com/results?' \

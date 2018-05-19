@@ -3,6 +3,19 @@ Best Songs
 
 New Additions
 -------------
+24 hour party - hapy mondays
+Peaches - Fuck the Pain Away
+The Soft Parade
+
+Philip Cohran and the Artistic Heritage Ensemble
+pusherman - curtis
+Busta Rhymes - Gimme Some More
+Love Her Madly
+Peace Frog
+Soul Kitchen
+Joanna Newsom - Peach Plum Pear
+Naked City - Naked City [Full Album]
+
 Faithless 'Insomnia'
 The Chemical Brothers 'Hey Boy, Hey Girl'
 Fatboy Slim 'Right Here, Right Now'
@@ -18,7 +31,6 @@ Teenage Kicks - undertones
 idoli - kenozoik
 
 pixies - Here Comes Your Man
-Hey - The Pixies
 pixies - where is my mind
 The Doors - Cars hiss
 doors - music's over
@@ -32,7 +44,6 @@ The Kinks - Victoria
 
 Clash - I Fought the Law
 Dr Dre - Nuthin But A G Thang
-Busta Rhymes - Gimme Some More
 The Kinks - Lola
 Jay-Z - 99 Problems
 Butthole Surfers - Pepper
@@ -73,7 +84,7 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
-### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema'
+### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' (?)
 ### 64 A/B * Kinks, 'You Really Got Me'
 ### 65 A/B * Rolling Stones, 'Satisfaction'
 ### 65 A/B * Beatles, 'Help'
@@ -82,19 +93,17 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 66 B * The Doors, 'Light my Fire'
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Venus in Furs'
-### 67 The Doors - Love Me Two Times ?
-### 67 B/C * Velvet Underground, 'Murder Mistery'
 ### 67 B/F * Velvet Underground - Pale Blue Eyes
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
 soul sacrifice
 mc5 - kick out the jams
 King Crimson - 21st Century Schizoid Man
-### 70 B * The Doors, 'Celebration of the Lizard'
+### 70 B * The Doors, 'Celebration of the Lizard' (?)
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
-### 74 A/B/C * Bijelo Dugme, 'Top'
+### 74 A/B/C * Bijelo Dugme, 'Top' ((?))
 ### 76 C * Ramones, 'Blietzkrieg Bop'
-### 76 D * Fela Kuti, 'Zombie' 
+### 76 D * Fela Kuti, 'Zombie' (?)
 ### 77 C * Iggy Pop, 'Lust for life' 
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
@@ -105,17 +114,18 @@ dk - california uber alles
 ### 80 A/B * Tom Waits, 'In Shades' 
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
 ### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
-### 83 C/F * Violent Femmes, 'Blister on the Sun' ?
+### 83 C/F * Violent Femmes, 'Blister on the Sun' (?)
 ### 83 C/F * The Smiths, 'This Charming Man'
 "Raining Blood" - slayer
 ### 88 * Safet Isovic, 'Bosna Moja'
+Hey - The Pixies
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
 ### 96 B * Satyricon, 'Mother North'
 ### 97 B/C * Blur, 'Song 2'
 ### 97 E The Prodigy - Smack My Bitch Up
 ### 99 E * Groove Armada, 'Superstylin'
-### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass'
+### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' ?
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
 ### 04 F * Gustav, 'Linzserenade'
@@ -123,6 +133,8 @@ dk - california uber alles
 
 Considering
 -----------
+### 67 B/C * Velvet Underground, 'Murder Mistery' ?
+### 67 The Doors - Love Me Two Times ??
 ### 66 Doors - "Break On Through (To the Other Side)"
 ### 83 C/F * Add it up - Violent Femmes
 ### 86 D * Prince, 'Kiss'

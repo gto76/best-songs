@@ -18,6 +18,7 @@ CAPITALIZE = ['genre', 'label']
 LISTS = ['flatlist', 'plainlist', 'hlist', 'unbulleted list']
 ASTERIX_LISTS = ['flatlist', 'plainlist']
 IGNORE = ['border']
+FIX_LABEL = False
 REMOVE_COUNTRY_FROM_LABEL = False
 
 
@@ -181,6 +182,8 @@ def tokenize_str(value, sep, capitalize=False):
 
 
 def fix_labels(labels):
+    if not FIX_LABEL:
+        return labels
     if not isinstance(labels, list):
         return fix_label(labels)
     return [fix_label(l) for l in labels]

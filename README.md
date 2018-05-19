@@ -40,7 +40,7 @@ field.
 **Genres:&ensp;Rock And Roll, Surf Rock**  
 **Writers:&ensp;Milt Grant, Link Wray**  
 **Length:&ensp;2:25**  
-**Label:&ensp;Cadence**  
+**Label:&ensp;Cadence 1347**  
 <br>  
 
 ### '62 Apr | "Miserlou" — Dick Dale  
@@ -133,15 +133,6 @@ field.
 **Length:&ensp;5:12**  
 **Label:&ensp;Verve**  
 
-### '67 Sep | "Love Me Two Times" — The Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Love+Me+Two+Times+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/LoveMeThreeTimes.jpeg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Blues Rock, Psychedelic Rock**  
-**Writer:&ensp;Robby Krieger**  
-**Producer:&ensp;Paul A. Rothchild**  
-**Lengths:&ensp;3:16 (Album Version), 2:41 (Single Version)**  
-**Label:&ensp;Elektra**  
-
 ### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -178,14 +169,14 @@ field.
 **Length:&ensp;5:40**  
 **Label:&ensp;Mgm**  
 
-### '69 Mar | "The Murder Mystery" — The Velvet Underground  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+The+Murder+Mystery+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
+### '69 Jul | "The Soft Parade" — The Doors  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+The+Soft+Parade+Essential+Rarities+song"> <img src="data/img/cover/The_Doors_-_The_Soft_Parade.jpg" align="left" alt="cover" height="121px"/></a>
 
-**Writer:&ensp;Lou Reed**  
-**Producer:&ensp;The Velvet Underground**  
-**Length:&ensp;8:55**  
-**Label:&ensp;Mgm**  
-<br>  
+**Genres:&ensp;Psychedelic Rock, Progressive Rock, Blues Rock**  
+**Writer:&ensp;Jim Morrison**  
+**Producer:&ensp;Paul A. Rothchild**  
+**Length:&ensp;10:09 (Box Set, '69 Apr / '97 Oct), 8:34 (9:41 on remastered album)**  
+**Label:&ensp;Elektra**  
 
 ### '69 Aug | "Soul Sacrifice" — Santana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Santana+Soul+Sacrifice+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Soul_Sacrifice.jpg" align="left" alt="cover" height="121px"/></a>
@@ -211,7 +202,7 @@ field.
 **Genres:&ensp;Psychedelic Rock, Acid Rock, Space Rock, Progressive Rock, Poetry**  
 **Writers:&ensp;John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison**  
 **Producer:&ensp;Paul A. Rothchild**  
-**Length:&ensp;16:47 (Live In New York, '70 Jan/'09), 14:25 (Absolutely Live), 17:09 (Studio Version, '68/'03)**  
+**Length:&ensp;17:18 (Live In New York, '70 Jan/'97), 14:25 (Absolutely Live), 17:09 (Studio Version, '68/'03)**  
 **Label:&ensp;Elektra**  
 
 ### '72 Nov | "Walk on the Wild Side" — Lou Reed  
@@ -320,7 +311,7 @@ field.
 **Writer:&ensp;Joe Strummer And Mick Jones**  
 **Producer:&ensp;Guy Stevens**  
 **Length:&ensp;3:18**  
-**Label:&ensp;Cbs**  
+**Label:&ensp;Cbs 8087**  
 
 ### '80 Sep | "In Shades" — Tom Waits  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+In+Shades+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Tom_Waits-Heartattack_and_Vine.jpg" align="left" alt="cover" height="121px"/></a>
@@ -375,6 +366,15 @@ field.
 **Producer:&ensp;Omer Pobrić**  
 **Length:&ensp;5:34**  
 **Label:&ensp;Diskoton**  
+
+### '89 Apr | "Hey" — Pixies  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Pixies+Hey+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Pixies-Doolittle.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Alternative Rock, Noise Pop**  
+**Writer:&ensp;Black Francis**  
+**Producer:&ensp;Gil Norton**  
+**Length:&ensp;3:31**  
+**Labels:&ensp;4Ad, Elektra (Initial U.S. Distribution)**  
 
 ### '91 Sep | "In Bloom" — Nirvana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+In+Bloom+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/InBloom.jpg" align="left" alt="cover" height="121px"/></a>
