@@ -5,7 +5,6 @@ New Additions
 -------------
 24 hour party - hapy mondays
 Peaches - Fuck the Pain Away
-The Soft Parade
 
 Philip Cohran and the Artistic Heritage Ensemble
 pusherman - curtis
@@ -96,12 +95,13 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 67 B/F * Velvet Underground - Pale Blue Eyes
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
-soul sacrifice
+soul sacrifice (?)
 mc5 - kick out the jams
+The Soft Parade
 King Crimson - 21st Century Schizoid Man
 ### 70 B * The Doors, 'Celebration of the Lizard' (?)
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
-### 74 A/B/C * Bijelo Dugme, 'Top' ((?))
+### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 76 C * Ramones, 'Blietzkrieg Bop'
 ### 76 D * Fela Kuti, 'Zombie' (?)
 ### 77 C * Iggy Pop, 'Lust for life' 
@@ -113,7 +113,7 @@ dk - california uber alles
 ### 79 C * Joy Division, 'Transmission'
 ### 80 A/B * Tom Waits, 'In Shades' 
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' (?)
 ### 83 C/F * Violent Femmes, 'Blister on the Sun' (?)
 ### 83 C/F * The Smiths, 'This Charming Man'
 "Raining Blood" - slayer
@@ -125,7 +125,7 @@ Hey - The Pixies
 ### 97 B/C * Blur, 'Song 2'
 ### 97 E The Prodigy - Smack My Bitch Up
 ### 99 E * Groove Armada, 'Superstylin'
-### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' ?
+### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' (?)
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
 ### 04 F * Gustav, 'Linzserenade'
