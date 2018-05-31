@@ -1,4 +1,31 @@
 {
+  "A Day in the Life": {
+    "name": "A Day in the Life",
+    "cover": "Sgt_Pepper's_Lonely_Hearts_Club_Band.jpg",
+    "caption": "Cover of the US sheet music",
+    "origin": "England",
+    "artist": "the Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "released": "26 May 1967",
+    "recorded": "19–20 January 1967; 3, 10 and 22 February 1967",
+    "studio": "EMI Studios, London",
+    "genre": [
+      "Art rock",
+      "Psychedelic rock"
+    ],
+    "length": "5:35",
+    "label": [
+      "Parlophone",
+      "Capitol"
+    ],
+    "writer": "Lennon–McCartney",
+    "producer": "George Martin",
+    "misc": {
+      "filename": "A Day in the Life verse - Beatles.ogg",
+      "title": "\"A Day in the Life\"",
+      "type": "song"
+    }
+  },
   "Bohemian Rhapsody": {
     "name": "Bohemian Rhapsody",
     "cover": "Bohemian_Rhapsody.png",

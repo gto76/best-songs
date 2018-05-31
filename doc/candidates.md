@@ -87,28 +87,28 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
-### 58 A/B * Link Wray & His Ray Men, 'Rumble'
+### 58 A/B * Link Wray & His Ray Men, 'Rumble' ((?))
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
 ### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' ?
-### 64 A/B * Kinks, 'You Really Got Me' ?
 ### 65 A/B * Rolling Stones, 'Satisfaction'
-### 65 A/B * Beatles, 'Help' (?)
 ### 66 morricone - ecstasy of gold
 ### 66 B * Mamas and Papas, 'California Dreamen' (?)
 ### 66 B * Beatles, 'Tomorow Never Knows' ((?))
 ### 66 B * The Doors, 'Light my Fire'
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Venus in Furs'
-### 67 B/F * Velvet Underground - Pale Blue Eyes
+### 67 Beatles - “A Day in the Life”
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
 ### 68 Joe Cocker - Help of friends
+### 69 B/F * Velvet Underground - Pale Blue Eyes
 soul sacrifice (?)
 mc5 - kick out the jams
 The Soft Parade
 King Crimson - 21st Century Schizoid Man
 ### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
+Queen - Bohemian Rhapsody
 ### 76 C * Ramones, 'Blietzkrieg Bop'
 ### 77 C * Iggy Pop, 'Lust for life' 
 ### 77 C * Television, 'Marque Moon'
@@ -139,11 +139,12 @@ Hey - The Pixies
 
 Considering
 -----------
-Queen - Bohemian Rhapsody
+### 64 A/B * Kinks, 'You Really Got Me' ?
 Free - all right now
 waits - hooker
 Tom Waits - Heartattack And Vine
 
+### 65 A/B * Beatles, 'Help' (?)
 ### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 76 D * Fela Kuti, 'Zombie' (?)
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' (?)

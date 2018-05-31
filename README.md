@@ -70,15 +70,6 @@ field.
 **Length:&ensp;3:45**  
 **Labels:&ensp;London (Us), Decca (Uk)**  
 
-### '65 Jul | "Help!" — the Beatles  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+Help!+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Beatles_help2.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Folk Rock**  
-**Writer:&ensp;Lennon–Mccartney**  
-**Producer:&ensp;George Martin**  
-**Length:&ensp;2:18**  
-**Labels:&ensp;Capitol (Us), Parlophone (Uk)**  
-
 ### '65 Dec | "California Dreamin'" — The Mamas & the Papas  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Mamas+the+Papas+California+Dreamin'+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Disco de vinilo - California dreamin'_alt2.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -132,6 +123,15 @@ field.
 **Producer:&ensp;Andy Warhol**  
 **Length:&ensp;5:12**  
 **Label:&ensp;Verve**  
+
+### '67 May | "A Day in the Life" — the Beatles  
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+A+Day+in+the+Life+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Sgt_Pepper's_Lonely_Hearts_Club_Band.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Art Rock, Psychedelic Rock**  
+**Writer:&ensp;Lennon–Mccartney**  
+**Producer:&ensp;George Martin**  
+**Length:&ensp;5:35**  
+**Labels:&ensp;Parlophone, Capitol**  
 
 ### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
