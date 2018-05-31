@@ -1,3 +1,42 @@
+{{Infobox song
+| name          = Bohemian Rhapsody
+| cover         = Bohemian_Rhapsody.png
+| alt           = The four members of the band sit together in front of a sandy-coloured background wearing predominantly black clothing. Freddie Mercury appears to be the dominant figure, sat in front of the other three members. From left to right, John Deacon, Mercury, Brian May, Roger Taylor. All four individuals are looking directly at the camera with a neutral expression on their face. Above the band is some black text, printed in an elegant, italic font face. The word "Queen" followed by "Bohemian Rhapsody", the latter of which is positioned under the band name in the same format yet smaller font.
+| caption       = Original UK and Spain single picture sleeve, also used for some re-releases
+| artist        = [[Queen (band)|Queen]]
+| type         = single
+| Origin = England
+| album         = [[A Night at the Opera (Queen album)|A Night at the Opera]]
+| B-side        = [[I'm in Love with My Car]]
+| released      = {{Start date|1975|10|31|df=y}}
+| recorded      = August–September 1975
+| format        = [[7-inch single]]
+| genre         = 
+*[[Progressive rock]]
+*[[hard rock]]
+*[[progressive pop]] <!--genres cited in the "Composition and analysis" section-->
+| length        = {{Duration|m=5|s=55}}
+| label         = 
+*[[EMI Records|EMI]] (UK)
+*[[Elektra Records|Elektra]] (US)
+| producer      = 
+*[[Roy Thomas Baker]]
+*Queen
+| writer        = [[Freddie Mercury]]
+| prev_title   = [[Lily of the Valley (song)|Lily of the Valley]]
+| prev_year = 1975
+| next_title   = [[You're My Best Friend (Queen song)|You're My Best Friend]]
+| next_year = 1976
+| misc          = {{External music video|{{YouTube|fJ9rUzIMcZQ|"Bohemian Rhapsody"}}
+ | type = single
+}}{{Extra track listing
+ | album  = [[A Night at the Opera (Queen album)|A Night at the Opera]]
+ | type   = album
+ | tracks = {{A Night at the Opera tracks}}
+}}{{#if:{{A Night at the Opera tracks}}||[[Category:Pages using extra track listing with no tracks]]
+}}
+}}
+####
 {{Infobox song <!-- See Wikipedia:WikiProject_Songs -->|
 | Caption        = 
 | Name           = The Ecstasy of Gold

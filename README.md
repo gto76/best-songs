@@ -61,15 +61,6 @@ field.
 **Length:&ensp;5:21 (Album Version), 2:44 (Single Version)**  
 **Label:&ensp;Verve**  
 
-### '64 Aug | "You Really Got Me" — the Kinks  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Kinks+You+Really+Got+Me+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/You Really Got Me cover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Hard Rock, Garage Rock**  
-**Writer:&ensp;Ray Davies**  
-**Producer:&ensp;Shel Talmy**  
-**Length:&ensp;2:20**  
-**Labels:&ensp;Pye (Uk), Reprise (Us)**  
-
 ### '65 Jun | "(I Can't Get No) Satisfaction" — The Rolling Stones  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Rolling+Stones+(I+Can't+Get+No)+Satisfaction+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Satisfaction-us.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -231,6 +222,15 @@ field.
 **Length:&ensp;4:12**  
 **Label:&ensp;Rca Records**  
 <br>  
+
+### '75 Oct | "Bohemian Rhapsody" — Queen  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Queen+Bohemian+Rhapsody+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Bohemian_Rhapsody.png" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Progressive Rock, Hard Rock, Progressive Pop**  
+**Writer:&ensp;Freddie Mercury**  
+**Producers:&ensp;Roy Thomas Baker, Queen**  
+**Length:&ensp;5:55**  
+**Labels:&ensp;Emi (Uk), Elektra (Us)**  
 
 ### '76 Feb | "Blitzkrieg Bop" — Ramones  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ramones+Blitzkrieg+Bop+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Ramones_-_Blitzkrieg_Bop_cover.jpg" align="left" alt="cover" height="121px"/></a>

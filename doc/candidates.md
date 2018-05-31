@@ -89,13 +89,13 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
-### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' (?)
-### 64 A/B * Kinks, 'You Really Got Me' ((?))
+### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' ?
+### 64 A/B * Kinks, 'You Really Got Me' ?
 ### 65 A/B * Rolling Stones, 'Satisfaction'
-### 65 A/B * Beatles, 'Help' ((?))
+### 65 A/B * Beatles, 'Help' (?)
 ### 66 morricone - ecstasy of gold
-### 66 B * Mamas and Papas, 'California Dreamen'
-### 66 B * Beatles, 'Tomorow Never Knows'
+### 66 B * Mamas and Papas, 'California Dreamen' (?)
+### 66 B * Beatles, 'Tomorow Never Knows' ((?))
 ### 66 B * The Doors, 'Light my Fire'
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Venus in Furs'
@@ -107,20 +107,20 @@ soul sacrifice (?)
 mc5 - kick out the jams
 The Soft Parade
 King Crimson - 21st Century Schizoid Man
-### 70 B * The Doors, 'Celebration of the Lizard' (?)
+### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
 ### 76 C * Ramones, 'Blietzkrieg Bop'
 ### 77 C * Iggy Pop, 'Lust for life' 
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
 dk - california uber alles
-### 78 * waits - blue valentine
+### 78 * waits - blue valentines (?)
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
-### 80 A/B * Tom Waits, 'In Shades' 
+### 80 A/B * Tom Waits, 'In Shades' (?)
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' (?)
-### 83 C/F * Violent Femmes, 'Blister on the Sun' (?)
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' ((?))
+### 83 C/F * Violent Femmes, 'Blister on the Sun' (((?)))
 ### 83 C/F * The Smiths, 'This Charming Man'
 "Raining Blood" - slayer
 ### 88 * Safet Isovic, 'Bosna Moja'
@@ -134,11 +134,16 @@ Hey - The Pixies
 ### 99 E * Groove Armada, 'Superstylin'
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
-### 04 F * Gustav, 'Linzserenade'
+### 04 F * Gustav, 'Linzserenade' ((?))
 
 
 Considering
 -----------
+Queen - Bohemian Rhapsody
+Free - all right now
+waits - hooker
+Tom Waits - Heartattack And Vine
+
 ### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 76 D * Fela Kuti, 'Zombie' (?)
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' (?)
