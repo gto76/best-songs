@@ -88,7 +88,7 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 its alright - elvis
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
-### 58 A/B * Link Wray & His Ray Men, 'Rumble' ((?))
+### 58 A/B * Link Wray & His Ray Men, 'Rumble' (?)
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
 ### 65 A/B * Rolling Stones, 'Satisfaction'
 ### Velvet - sunday morning
@@ -114,13 +114,13 @@ Queen - Bohemian Rhapsody
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
 dk - california uber alles
-### 78 * waits - blue valentines (?)
+### 78 * waits - blue valentines
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
-### 80 A/B * Tom Waits, 'In Shades' (?)
+### 80 A/B * Tom Waits, 'In Shades' ?
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' ((?))
-### 83 C/F * Violent Femmes, 'Blister on the Sun' (((?)))
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
+### 83 C/F * Violent Femmes, 'Blister on the Sun'
 ### 83 C/F * The Smiths, 'This Charming Man'
 "Raining Blood" - slayer
 ### 88 * Safet Isovic, 'Bosna Moja'
@@ -134,19 +134,20 @@ Hey - The Pixies
 ### 99 E * Groove Armada, 'Superstylin'
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
-### 04 F * Gustav, 'Linzserenade' ((?))
+### 04 F * Gustav, 'Linzserenade'
 
 
 Considering
 -----------
+Screamin' Jay Hawkins - I Put A Spell On You
 Nick Drake - Been Smoking Too Long
+
+### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 64 A/B * Kinks, 'You Really Got Me' ?
 Free - all right now
-
 soul sacrifice ?
 ### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' ?
 ### 65 A/B * Beatles, 'Help' (?)
-### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' (?)
 ### 66 Ennio Morricone - Il Buono, Il Brutto, Il Cattivo
 
@@ -283,7 +284,6 @@ You spin me right round (like a record baby)
 The Band - The Weight
 Aretha Franklin - Respect
 Donna Summer I Feel Love
-Screamin' Jay Hawkins - I Put A Spell On You
 Beck - Ramshackel
 Tom Waits - Downtown
 Beastie Boys - Sabotage

@@ -271,11 +271,20 @@ field.
 ### '78 Sep | "Blue Valentines" — Tom Waits  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+Blue+Valentines+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blue_Valentine.jpg" align="left" alt="cover" height="121px"/></a>
 
+**Genres:&ensp;Jazz, Blues**  
 **Writer:&ensp;Tom Waits**  
 **Producer:&ensp;Bones Howe**  
 **Length:&ensp;5:49**  
 **Label:&ensp;Asylum**  
-<br>  
+
+### '78 Sep | "Christmas Card from a Hooker in Minneapolis" — Tom Waits  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+Christmas+Card+from+a+Hooker+in+Minneapolis+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blue_Valentine.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Jazz, Blues**  
+**Writer:&ensp;Tom Waits**  
+**Producer:&ensp;Bones Howe**  
+**Length:&ensp;4:33**  
+**Label:&ensp;Asylum**  
 
 ### '79 Jun | "California Über Alles" — Dead Kennedys  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Dead+Kennedys+California+Über+Alles+song"> <img src="data/img/cover/Dead_Kennedys_-_California_Über_Alles_cover.jpg" align="left" alt="cover" height="121px"/></a>
@@ -312,15 +321,6 @@ field.
 **Producer:&ensp;Guy Stevens**  
 **Length:&ensp;3:18**  
 **Label:&ensp;Cbs 8087**  
-
-### '80 Sep | "In Shades" — Tom Waits  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+In+Shades+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Tom_Waits-Heartattack_and_Vine.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Blues Rock**  
-**Writer:&ensp;Tom Waits**  
-**Producer:&ensp;Bones Howe**  
-**Length:&ensp;4:25**  
-**Label:&ensp;Asylum**  
 
 ### '81  | "Tovar'ši, jest vam ne verjamem" — Pankrti  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Pankrti+Tovar'ši,+jest+vam+ne+verjamem+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Novi_Pank_Val_(compilation_album)_Yugoslavia.jpg" align="left" alt="cover" height="121px"/></a>

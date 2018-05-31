@@ -1,4 +1,23 @@
 {{Infobox song
+| Name       = Christmas Card from a Hooker in Minneapolis
+| Cover = Blue_Valentine.jpg
+| Artist     = [[Tom Waits]]
+| Album      = [[Blue Valentine (album)|Blue Valentine]]
+| Released   = September 5, 1978
+| Recorded   = July 24 – August 26, 1978
+| Studio = [[Wally Heider Studios|Filmways/Heider Recording]], Hollywood, CA
+| Genre      = [[Jazz]], [[Blues]]
+| Length     = 4:33
+| Label      = [[Asylum Records|Asylum]]
+| Writer     = [[Tom Waits]]
+| Producer   = [[Bones Howe]]
+| track_no   = 3
+| Origin = West Coast
+| Bpm = 82
+| key = F#
+}}
+####
+{{Infobox song
 | name       = That's All Right
 | cover      = That's_All_Right.jpg
 | alt        =
@@ -452,6 +471,7 @@
 {{Infobox album
 | name       = Blue Valentines
 | type       = studio
+| Genre      = [[Jazz]], [[Blues]]
 | artist     = [[Tom Waits]]
 | writer     = [[Tom Waits]]
 | cover      = Blue_Valentine.jpg

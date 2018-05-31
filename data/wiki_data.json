@@ -1,4 +1,25 @@
 {
+  "Christmas Card from a Hooker in Minneapolis": {
+    "name": "Christmas Card from a Hooker in Minneapolis",
+    "cover": "Blue_Valentine.jpg",
+    "artist": "Tom Waits",
+    "album": "Blue Valentine",
+    "released": "September 5, 1978",
+    "recorded": "July 24 – August 26, 1978",
+    "studio": "Filmways/Heider Recording, Hollywood, CA",
+    "genre": [
+      "Jazz",
+      "Blues"
+    ],
+    "length": "4:33",
+    "label": "Asylum",
+    "writer": "Tom Waits",
+    "producer": "Bones Howe",
+    "track_no": "3",
+    "origin": "West Coast",
+    "bpm": "82",
+    "key": "F#"
+  },
   "That's All Right": {
     "name": "That's All Right",
     "cover": "That's_All_Right.jpg",
@@ -450,6 +471,10 @@
   "Blue Valentines": {
     "name": "Blue Valentines",
     "type": "studio",
+    "genre": [
+      "Jazz",
+      "Blues"
+    ],
     "artist": "Tom Waits",
     "writer": "Tom Waits",
     "cover": "Blue_Valentine.jpg",
