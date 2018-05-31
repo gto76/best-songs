@@ -52,15 +52,6 @@ field.
 **Label:&ensp;Deltone Records**  
 <br>  
 
-### '64 Mar | "The Girl from Ipanema" — Stan Getz and João Gilberto  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Stan+Getz+and+João+Gilberto+The+Girl+from+Ipanema+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Stan-Getz-The-Girl-From-Ipa-604216_alt.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Bossa Nova, Jazz**  
-**Writers:&ensp;Antônio Carlos Jobim & Vinicius De Moraes, Norman Gimbel (English Lyrics)**  
-**Producer:&ensp;Creed Taylor**  
-**Length:&ensp;5:21 (Album Version), 2:44 (Single Version)**  
-**Label:&ensp;Verve**  
-
 ### '65 Jun | "(I Can't Get No) Satisfaction" — The Rolling Stones  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Rolling+Stones+(I+Can't+Get+No)+Satisfaction+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Satisfaction-us.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -87,6 +78,15 @@ field.
 **Producer:&ensp;George Martin**  
 **Length:&ensp;2:58**  
 **Label:&ensp;Parlophone**  
+
+### '66 Dec | "Sunday Morning" — The Velvet Underground  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+Sunday+Morning+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Sunday_Morning_(The_Velvet_Underground_record).png" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Pop**  
+**Writers:&ensp;Lou Reed, John Cale**  
+**Producer:&ensp;Tom Wilson**  
+**Length:&ensp;2:53**  
+**Label:&ensp;Verve**  
 
 ### '66 Dec | "The Ecstasy of Gold" — Ennio Morricone  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ennio+Morricone+The+Ecstasy+of+Gold+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Good_the_Bad_the_Ugly_soundtrack.jpg" align="left" alt="cover" height="121px"/></a>

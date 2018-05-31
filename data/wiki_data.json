@@ -1,4 +1,36 @@
 {
+  "Sunday Morning": {
+    "name": "Sunday Morning",
+    "cover": "Sunday_Morning_(The_Velvet_Underground_record).png",
+    "type": "single",
+    "artist": "The Velvet Underground",
+    "album": "The Velvet Underground & Nico",
+    "released": "1966.12",
+    "recorded": "November 1966",
+    "studio": "Mayfair Recording, New York City",
+    "genre": "Pop",
+    "length": "2:53",
+    "label": "Verve",
+    "writer": [
+      "Lou Reed",
+      "John Cale"
+    ],
+    "producer": "Tom Wilson",
+    "prev_title": "All Tomorrow's Parties",
+    "prev_title2": "I'll Be Your Mirror",
+    "prev_year": "1966",
+    "title2": "Femme Fatale",
+    "next_title": "White Light/White Heat",
+    "next_title2": "Here She Comes Now",
+    "next_year": "1968",
+    "misc": {
+      "type": "single",
+      "file": "Sunday Morning - Velvet Underground.ogg"
+    },
+    "origin": "East Coast",
+    "bpm": "106",
+    "key": "F"
+  },
   "A Day in the Life": {
     "name": "A Day in the Life",
     "cover": "Sgt_Pepper's_Lonely_Hearts_Club_Band.jpg",

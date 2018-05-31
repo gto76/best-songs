@@ -89,8 +89,8 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble' ((?))
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
-### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' ?
 ### 65 A/B * Rolling Stones, 'Satisfaction'
+### Velvet - sunday morning
 ### 66 morricone - ecstasy of gold
 ### 66 B * Mamas and Papas, 'California Dreamen' (?)
 ### 66 B * Beatles, 'Tomorow Never Knows' ((?))
@@ -102,7 +102,7 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 68 B * The Doors, 'Five to One'
 ### 68 Joe Cocker - Help of friends
 ### 69 B/F * Velvet Underground - Pale Blue Eyes
-soul sacrifice (?)
+soul sacrifice ?
 mc5 - kick out the jams
 The Soft Parade
 King Crimson - 21st Century Schizoid Man
@@ -139,11 +139,13 @@ Hey - The Pixies
 
 Considering
 -----------
+Nick Drake - Been Smoking Too Long
 ### 64 A/B * Kinks, 'You Really Got Me' ?
 Free - all right now
 waits - hooker
 Tom Waits - Heartattack And Vine
 
+### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' ?
 ### 65 A/B * Beatles, 'Help' (?)
 ### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 76 D * Fela Kuti, 'Zombie' (?)

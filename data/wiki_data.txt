@@ -1,4 +1,38 @@
 {{Infobox song
+| name        = Sunday Morning
+| cover       = Sunday_Morning_(The_Velvet_Underground_record).png
+| alt         =
+| type        = single
+| artist      = [[The Velvet Underground]]
+| album       = [[The Velvet Underground & Nico]]
+| released    = {{start date|1966|12}}
+| format      =
+| recorded    = November 1966
+| studio      = [[Atlantic Studios#Technical Engineers|Mayfair Recording]],<ref>{{cite web|url=http://www.discogs.com/label/342117-Mayfair-Recording-Studios |title=Mayfair Recording Studios - CDs and Vinyl at Discogs |website=Discogs.com |date= |accessdate=2016-09-29}}</ref> New York City
+| venue       =
+| genre       = [[Pop music|Pop]]<ref name=Allmusic>{{cite web|author=Mark Deming |url=http://www.allmusic.com/album/the-velvet-underground-nico-mw0001955423 |title=The Velvet Underground & Nico - The Velvet Underground &#124; Songs, Reviews, Credits |publisher=[[AllMusic]] |date=1967-03-12 |accessdate=2016-09-29}}</ref>
+| length      = {{Duration|m=2|s=53}}
+| label       = [[Verve Records|Verve]]
+| writer      = [[Lou Reed]], [[John Cale]]
+| producer    = [[Tom Wilson (producer)|Tom Wilson]]
+| prev_title  = [[All Tomorrow's Parties]]
+| prev_title2 = [[I'll Be Your Mirror]]
+| prev_year   = 1966
+| title       =
+| title2      = [[Femme Fatale (song)|Femme Fatale]]
+| next_title  = [[White Light/White Heat (song)|White Light/White Heat]]
+| next_title2 = [[Here She Comes Now]]
+| next_year   = 1968
+| misc        = {{Audio sample
+ | type = single
+ | file = Sunday Morning - Velvet Underground.ogg
+}}
+| Origin = East Coast
+| Bpm = 106
+| key = F
+}}
+####
+{{Infobox song
 | name       = A Day in the Life
 | cover      = Sgt_Pepper's_Lonely_Hearts_Club_Band.jpg
 | alt        =
