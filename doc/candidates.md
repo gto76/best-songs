@@ -3,7 +3,11 @@ Best Songs
 
 New Additions
 -------------
+THE ISLEY BROTHERS, "SHOUT"
+
 rambo - balkan boy
+Rambo Amadeus - LM hit
+
 scentles aprentice nirvana
 heart shaped box
 rape me
@@ -90,11 +94,11 @@ its alright - elvis
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble' (?)
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
-### 65 A/B * Rolling Stones, 'Satisfaction'
+### 66 B * Mamas and Papas, 'California Dreamen' (?)
+### 65 A/B * Rolling Stones, 'Satisfaction' (?)
+### 66 B * Beatles, 'Tomorow Never Knows'
 ### Velvet - sunday morning
 ### 66 morricone - ecstasy of gold
-### 66 B * Mamas and Papas, 'California Dreamen' (?)
-### 66 B * Beatles, 'Tomorow Never Knows' ((?))
 ### 66 B * The Doors, 'Light my Fire'
 ### 67 B * Jefferson Airplane, 'White Rabit'
 ### 67 B/C * Velvet Underground, 'Venus in Furs'
@@ -103,15 +107,14 @@ its alright - elvis
 ### 68 B * The Doors, 'Five to One'
 ### 68 Joe Cocker - Help of friends
 ### 69 B/F * Velvet Underground - Pale Blue Eyes
-mc5 - kick out the jams
+mc5 - kick out the jams (?)
 The Soft Parade
 King Crimson - 21st Century Schizoid Man
-### 70 B * The Doors, 'Celebration of the Lizard'
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
 Queen - Bohemian Rhapsody
 ### 76 C * Ramones, 'Blietzkrieg Bop'
-### 77 C * Iggy Pop, 'Lust for life' 
 ### 77 C * Television, 'Marque Moon'
+### 77 C * Iggy Pop, 'Lust for life' 
 ### 78 C * Talking Heads, 'Psychokiler'
 dk - california uber alles
 waits - hooker
@@ -119,11 +122,12 @@ waits - hooker
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
-### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
+### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem' (?)
 ### 83 C/F * Violent Femmes, 'Blister on the Sun'
 ### 83 C/F * The Smiths, 'This Charming Man'
 "Raining Blood" - slayer
 ### 88 * Safet Isovic, 'Bosna Moja'
+Rambo Amadeus - Fala Ti Majko
 Hey - The Pixies
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
@@ -142,6 +146,7 @@ Considering
 Screamin' Jay Hawkins - I Put A Spell On You
 Nick Drake - Been Smoking Too Long
 
+### 70 B * The Doors, 'Celebration of the Lizard' (?)
 ### 80 A/B * Tom Waits, 'In Shades' ?
 ### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 64 A/B * Kinks, 'You Really Got Me' ?

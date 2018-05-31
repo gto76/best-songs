@@ -1,4 +1,27 @@
 {
+  "Fala ti majko": {
+    "name": "Fala ti majko",
+    "type": "studio",
+    "artist": "Rambo Amadeus",
+    "cover": "Album_O_Tugo_Jesenja.jpg",
+    "writer": "Rambo Amadeus",
+    "length": "3:32",
+    "released": "1988",
+    "recorded": "Studio \"O\", Belgrade",
+    "genre": [
+      "Electronic",
+      "Funk / soul",
+      "Rock",
+      "Hip hop"
+    ],
+    "label": "PGP RTB",
+    "producer": "Saša Habić",
+    "next_title": "Hoćemo gusle",
+    "next_year": "1989",
+    "origin": "International",
+    "bpm": "122",
+    "key": "A"
+  },
   "Christmas Card from a Hooker in Minneapolis": {
     "name": "Christmas Card from a Hooker in Minneapolis",
     "cover": "Blue_Valentine.jpg",

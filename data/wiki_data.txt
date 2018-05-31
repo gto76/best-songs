@@ -1,3 +1,28 @@
+{{Infobox album|
+| name       = Fala ti majko
+| type       = studio
+| artist     = [[Rambo Amadeus]]
+| cover      = Album_O_Tugo_Jesenja.jpg
+| alt        =
+| Writer = Rambo Amadeus
+| Length = 3:32
+| released   = 1988
+| recorded   = Studio "O", [[Belgrade]]
+| venue      =
+| studio     =
+| genre      = [[Electronic music|Electronic]]<br>[[Funk]] / [[Soul music|Soul]]<br>[[Rock music|Rock]]<br>[[Hip Hop music|Hip Hop]]
+| length     =
+| label      = [[PGP RTB]]
+| producer   = [[Saša Habić]]
+| prev_title =
+| prev_year  =
+| next_title = [[Hoćemo gusle]]
+| next_year  = 1989
+| Origin = International
+| Bpm = 122
+| key = A
+}}
+####
 {{Infobox song
 | Name       = Christmas Card from a Hooker in Minneapolis
 | Cover = Blue_Valentine.jpg

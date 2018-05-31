@@ -206,15 +206,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;6:45 (Live in Mexico City, '96 / '99), 7:20 (Album Version)**  
 **Label:&ensp;Island**  
 
-### '70 Jul | "Celebration of the Lizard" — The Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Celebration+of+the+Lizard+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/DoorsAbLive1970.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Psychedelic Rock, Acid Rock, Space Rock, Progressive Rock, Poetry**  
-**Writers:&ensp;John Densmore, Robbie Kreiger, Ray Manzarek, Jim Morrison**  
-**Producer:&ensp;Paul A. Rothchild**  
-**Length:&ensp;17:18 (Live In New York, '70 Jan/'97), 14:25 (Absolutely Live), 17:09 (Studio Version, '68/'03)**  
-**Label:&ensp;Elektra**  
-
 ### '72 Nov | "Walk on the Wild Side" — Lou Reed  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Lou+Reed+Walk+on+the+Wild+Side+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/wows1_alt.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -358,6 +349,15 @@ playlist</a> is also available.</b>
 **Producers:&ensp;Rick Rubin, Slayer**  
 **Length:&ensp;4:14**  
 **Label:&ensp;Def Jam**  
+
+### '88  | "Fala ti majko" — Rambo Amadeus  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Rambo+Amadeus+Fala+ti+majko+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Album_O_Tugo_Jesenja.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Electronic, Funk / Soul, Rock, Hip Hop**  
+**Writer:&ensp;Rambo Amadeus**  
+**Producer:&ensp;Saša Habić**  
+**Length:&ensp;3:32**  
+**Label:&ensp;Pgp Rtb**  
 
 ### '88  | "Bosna moja" — Safet Isović  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Safet+Isović+Bosna+moja+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/bosna_moja.jpg" align="left" alt="cover" height="121px"/></a>
