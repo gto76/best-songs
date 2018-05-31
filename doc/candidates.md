@@ -85,6 +85,7 @@ For Real (by year)
 ------------------
 A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 
+its alright - elvis
 ### 54 * The Chordettes, 'Mr. Sandman'
 ### 55 A * Johny Cash, 'Folsom Prison'
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble' ((?))
@@ -102,7 +103,6 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 68 B * The Doors, 'Five to One'
 ### 68 Joe Cocker - Help of friends
 ### 69 B/F * Velvet Underground - Pale Blue Eyes
-soul sacrifice ?
 mc5 - kick out the jams
 The Soft Parade
 King Crimson - 21st Century Schizoid Man
@@ -142,58 +142,32 @@ Considering
 Nick Drake - Been Smoking Too Long
 ### 64 A/B * Kinks, 'You Really Got Me' ?
 Free - all right now
-waits - hooker
-Tom Waits - Heartattack And Vine
 
+soul sacrifice ?
 ### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' ?
 ### 65 A/B * Beatles, 'Help' (?)
 ### 74 A/B/C * Bijelo Dugme, 'Top' (?)
-### 76 D * Fela Kuti, 'Zombie' (?)
 ### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' (?)
 ### 66 Ennio Morricone - Il Buono, Il Brutto, Il Cattivo
 
-### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
-Bob Dylan - Like a Rolling Stone
 RATM - wake up
-### 67 B/C * Velvet Underground, 'Murder Mistery' ?
-### 67 The Doors - Love Me Two Times ??
-### 66 Doors - "Break On Through (To the Other Side)"
 ### 83 C/F * Add it up - Violent Femmes
 ### 86 D * Prince, 'Kiss'
 
 Seatbelts - Clutch (japan big band)
-its alright - elvis
 idoli - maljciki
-The Rolling Stones, 'Jumpin' Jack Flash'
-
 james brown - I got you
-Nirvana - Teen spirit
-hound dog
 war pigs
-The Rolling Stones - Gimme Shelter
-Nirvana - Lithium
-### * Joy Division - Disorder
-Joy Division - Atmosphere
-
 Ram Jam - Black Betty
-Fela Kuti - No Agreement Part 2
-Fela Kuti-Shuffering And Shmiling (Part 2) 
-Fela Kuti - Sorrow Tears & Blood 
-
 led - comunication breakdown
 ZZ Top - La Grange
 ### 80 C * Pankrti, 'Sedemnajst'
-### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
 ### 99 C/F * At The Drive In, 'One Armed Scissor' ??
 
 ### 83 C * New Order, 'Blue Monday' ??
 ### 57 A * Jerry Lee Lewis, 'Great Balls' ??
-### Velvet Underground - heroin L:7:10
-### Tom Waits - Twenty-Nine Dollars
 
-### 66 B * The Doors, 'The End'
 ### Clash - Police & Thieves
-### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
 ### Antenat - Slon
 ### 91 * beastie - in 3's ?
 ### 68 * Marvin Gaye, 'I Heard It Through The Grapevine' ?
@@ -220,11 +194,46 @@ ZZ Top - La Grange
 ### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
 
 
+By Band
+-------
+### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
+Bob Dylan - Like a Rolling Stone
+
+### 67 B/C * Velvet Underground, 'Murder Mistery' ?
+### Velvet Underground - heroin L:7:10
+
+### 67 The Doors - Love Me Two Times ??
+### 66 Doors - "Break On Through (To the Other Side)"
+### 66 B * The Doors, 'The End'
+
+hound dog - elvis
+### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
+
+waits - hooker
+Tom Waits - Heartattack And Vine
+### Tom Waits - Twenty-Nine Dollars
+
+The Rolling Stones, 'Jumpin' Jack Flash'
+The Rolling Stones - Gimme Shelter
+
+### 76 D * Fela Kuti, 'Zombie' (?)
+Fela Kuti - No Agreement Part 2
+Fela Kuti-Shuffering And Shmiling (Part 2) 
+Fela Kuti - Sorrow Tears & Blood 
+
+Nirvana - Teen spirit
+Nirvana - Lithium
+
+### * Joy Division - Disorder
+Joy Division - Atmosphere
+
+
 Too early/late
 --------------
 ### 09 * Poison Lips - Vitalic
 ### * M.I.A. - Paper Planes
 
+### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
 ### 10 * El Guincho - Bombay
 ### 06 * LCD, 'freak out'
 ### 49 * Profesor Longhair, 'Mardi gras in new orlean'

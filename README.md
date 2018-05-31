@@ -16,6 +16,15 @@ field.
 <br><br>
 
 
+### '54 Jul | "That's All Right" — Elvis Presley  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Elvis+Presley+That's+All+Right+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/That's_All_Right.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Rockabilly**  
+**Writer:&ensp;Arthur Crudup**  
+**Producer:&ensp;Sam Phillips**  
+**Length:&ensp;1:57**  
+**Labels:&ensp;Sun (Original), Rca Victor (Reissue)**  
+
 ### '54 Oct | "Mr. Sandman" — The Chordettes  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Chordettes+Mr.+Sandman+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Mr Sandman (Chordettes) .png" align="left" alt="cover" height="121px"/></a>
 
@@ -186,15 +195,6 @@ field.
 **Producer:&ensp;Paul A. Rothchild**  
 **Length:&ensp;10:09 (Box Set, '69 Apr / '97 Oct), 8:34 (9:41 on remastered album)**  
 **Label:&ensp;Elektra**  
-
-### '69 Aug | "Soul Sacrifice" — Santana  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Santana+Soul+Sacrifice+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Soul_Sacrifice.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Latin Rock, Blues Rock**  
-**Writers:&ensp;David Brown, Marcus Malone, Gregg Rolie, Carlos Santana**  
-**Producers:&ensp;Brent Dangerfield, Santana**  
-**Length:&ensp;8:05 (Woodstock Version '69 Aug / '70 May), 6:37 (Album Version)**  
-**Label:&ensp;Columbia**  
 
 ### '69 Oct | "21st Century Schizoid Man" — King Crimson  
 <a target="_blank" href="https://www.youtube.com/results?search_query=King+Crimson+21st+Century+Schizoid+Man+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/21st_Century_Schizoid_Man.jpg" align="left" alt="cover" height="121px"/></a>

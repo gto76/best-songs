@@ -1,4 +1,38 @@
 {{Infobox song
+| name       = That's All Right
+| cover      = That's_All_Right.jpg
+| alt        =
+| border     = yes
+| Origin = Central United States
+| Bpm = 100
+| key = A
+| type       = single
+| artist     = [[Elvis Presley]]
+| album      = [[For LP Fans Only]]
+| B-side     = [[Blue Moon of Kentucky#Elvis Presley|Blue Moon of Kentucky]]
+| released   = {{Start date|1954|07|19}}
+| format     = [[7-inch single]]
+| recorded   = July 5, 1954
+| studio     = [[Sun Studio]], [[Memphis, Tennessee]]
+| venue      =
+| genre      = [[Rockabilly]]
+| length     = {{Duration|m=1|s=57}}
+| label      =
+*[[Sun Records|Sun]] (original)
+*[[RCA Records|RCA Victor]] (reissue)
+| writer     = [[Arthur Crudup]]
+| producer   = [[Sam Phillips]]
+| prev_title =
+| prev_year  =
+| next_title = [[Good Rockin' Tonight#Elvis Presley version|Good Rockin' Tonight]]
+| next_year  = 1955
+| misc       = {{Audio sample
+ | type = single
+ | file = Thatsallright.ogg
+}}
+}}
+####
+{{Infobox song
 | name        = Sunday Morning
 | cover       = Sunday_Morning_(The_Velvet_Underground_record).png
 | alt         =

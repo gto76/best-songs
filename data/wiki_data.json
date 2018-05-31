@@ -1,4 +1,33 @@
 {
+  "That's All Right": {
+    "name": "That's All Right",
+    "cover": "That's_All_Right.jpg",
+    "origin": "Central United States",
+    "bpm": "100",
+    "key": "A",
+    "type": "single",
+    "artist": "Elvis Presley",
+    "album": "For LP Fans Only",
+    "b-side": "Blue Moon of Kentucky",
+    "released": "1954.07.19",
+    "format": "7-inch single",
+    "recorded": "July 5, 1954",
+    "studio": "Sun Studio, Memphis, Tennessee",
+    "genre": "Rockabilly",
+    "length": "1:57",
+    "label": [
+      "Sun (original)",
+      "Rca victor (reissue)"
+    ],
+    "writer": "Arthur Crudup",
+    "producer": "Sam Phillips",
+    "next_title": "Good Rockin' Tonight",
+    "next_year": "1955",
+    "misc": {
+      "type": "single",
+      "file": "Thatsallright.ogg"
+    }
+  },
   "Sunday Morning": {
     "name": "Sunday Morning",
     "cover": "Sunday_Morning_(The_Velvet_Underground_record).png",
