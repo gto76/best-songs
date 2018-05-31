@@ -114,10 +114,10 @@ Queen - Bohemian Rhapsody
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
 dk - california uber alles
+waits - hooker
 ### 78 * waits - blue valentines
 ### 78 C * Clash, 'London calling'
 ### 79 C * Joy Division, 'Transmission'
-### 80 A/B * Tom Waits, 'In Shades' ?
 ### 80 D * The Sugar Hill Gang, 'Rapper's Delight'
 ### 81 C * Pankrti, 'Tovar'ši, jest vam ne verjamem'
 ### 83 C/F * Violent Femmes, 'Blister on the Sun'
@@ -142,6 +142,7 @@ Considering
 Screamin' Jay Hawkins - I Put A Spell On You
 Nick Drake - Been Smoking Too Long
 
+### 80 A/B * Tom Waits, 'In Shades' ?
 ### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 64 A/B * Kinks, 'You Really Got Me' ?
 Free - all right now
@@ -210,7 +211,6 @@ Bob Dylan - Like a Rolling Stone
 hound dog - elvis
 ### 56 A * Elvis Presley, 'Heartbreak Hotel' ??
 
-waits - hooker
 Tom Waits - Heartattack And Vine
 ### Tom Waits - Twenty-Nine Dollars
 
