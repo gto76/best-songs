@@ -19,7 +19,8 @@ import matplotlib.pyplot as plt
 # Songs that don't link to HD quality YouTube videos search.
 NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
          'Linzserenade', '6 Was 9', 'One Armed Scissor', 'My Bitch Up',
-         'Psycho Killer', 'Dead Kennedys', 'Raining Blood', 'Soft Parade']
+         'Psycho Killer', 'Dead Kennedys', 'Raining Blood', 'Soft Parade',
+         'Joe Cocker']
 
 YT_MOD = {'My Bitch Up': 'radio edit',
         'Soft Parade': 'Essential Rarities'}
@@ -141,6 +142,9 @@ def generate_list(listOfAlbums, albumData):
         image_html, image_md = get_image(songName, bandName, albumData)
         div_html, div_md = get_div(songName, albumData)
         out_html.extend((title_html, image_html, div_html))
+        if not image_md:
+            print(f'Missing cover image for album "{albumName}".', file=sys.stderr)
+            sys.exit(1)
         out_md.extend((title_md, image_md, div_md))
     return ''.join(out_html), ''.join(out_md)
 

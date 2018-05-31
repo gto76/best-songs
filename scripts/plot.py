@@ -212,7 +212,8 @@ def generate_stacked_barplot(songs, filename=None):
 
     set_plt_size(plt, width=22, height=10, font_size=22)
     r = list(range(len(origin_dict)))
-    colors = {'England': '#b5ffb9', 'International': '#323fb9', 
+    # colors = {'England': '#b5ffb9', 'International': '#323fb9', 
+    colors = {'England': '#b5ffb9', 'International': '#500c3f', 
               'West Coast': '#23453f', 'East Coast': '#ffffb9', 
               'Central United States': '#992233'}
     bottom = [0] * len(origin_dict)

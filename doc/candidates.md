@@ -3,6 +3,13 @@ Best Songs
 
 New Additions
 -------------
+rambo - balkan boy
+scentles aprentice nirvana
+heart shaped box
+rape me
+Very Ape
+Frances Farmer Will Have Her Revenge on Seattle
+
 24 hour party - hapy mondays
 Peaches - Fuck the Pain Away
 
@@ -62,7 +69,6 @@ Deee-Lite - Groove Is In The Heart
 The Cardigans - My Favourite Game “Walkaway Version”
 Tom Waits - Step Right Up
 Kraftwerk - Das Model
-Nine Inch Nails - Closer
 Breeders - Cannonball
 Red Hot Chili Peppers - Under The Bridge
 Depeche Mode - Just Can't Get Enough
@@ -84,9 +90,10 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 58 A/B * Link Wray & His Ray Men, 'Rumble'
 ### 62 A * Dick Dale & HisDelTones, 'Misirlou'
 ### 63 * Astrud Gilberto & Stan Getz, 'The Girl from Ipanema' (?)
-### 64 A/B * Kinks, 'You Really Got Me'
+### 64 A/B * Kinks, 'You Really Got Me' ((?))
 ### 65 A/B * Rolling Stones, 'Satisfaction'
-### 65 A/B * Beatles, 'Help'
+### 65 A/B * Beatles, 'Help' ((?))
+### 66 morricone - ecstasy of gold
 ### 66 B * Mamas and Papas, 'California Dreamen'
 ### 66 B * Beatles, 'Tomorow Never Knows'
 ### 66 B * The Doors, 'Light my Fire'
@@ -95,15 +102,14 @@ A-rnr, B-rock, C-punk, D-hiphop, E-EDM, F-indie
 ### 67 B/F * Velvet Underground - Pale Blue Eyes
 ### 67 B * Jimi Hendrix, '6 was 9'
 ### 68 B * The Doors, 'Five to One'
+### 68 Joe Cocker - Help of friends
 soul sacrifice (?)
 mc5 - kick out the jams
 The Soft Parade
 King Crimson - 21st Century Schizoid Man
 ### 70 B * The Doors, 'Celebration of the Lizard' (?)
 ### 72 B * Lou Reed, 'Walk on the Wild Side'
-### 74 A/B/C * Bijelo Dugme, 'Top' (?)
 ### 76 C * Ramones, 'Blietzkrieg Bop'
-### 76 D * Fela Kuti, 'Zombie' (?)
 ### 77 C * Iggy Pop, 'Lust for life' 
 ### 77 C * Television, 'Marque Moon'
 ### 78 C * Talking Heads, 'Psychokiler'
@@ -121,11 +127,11 @@ dk - california uber alles
 Hey - The Pixies
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
+### 94 Nine Inch Nails - Closer
 ### 96 B * Satyricon, 'Mother North'
 ### 97 B/C * Blur, 'Song 2'
 ### 97 E The Prodigy - Smack My Bitch Up
 ### 99 E * Groove Armada, 'Superstylin'
-### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' (?)
 ### 03 A * Johny Cash, 'Hurt'
 ### 04 E/C * LCD Soundsystem, 'Yeah'
 ### 04 F * Gustav, 'Linzserenade'
@@ -133,6 +139,14 @@ Hey - The Pixies
 
 Considering
 -----------
+### 74 A/B/C * Bijelo Dugme, 'Top' (?)
+### 76 D * Fela Kuti, 'Zombie' (?)
+### 00 F * Bright Eyes, 'When the Curious Girl Realizes She is Under Glass' (?)
+### 66 Ennio Morricone - Il Buono, Il Brutto, Il Cattivo
+
+### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
+Bob Dylan - Like a Rolling Stone
+RATM - wake up
 ### 67 B/C * Velvet Underground, 'Murder Mistery' ?
 ### 67 The Doors - Love Me Two Times ??
 ### 66 Doors - "Break On Through (To the Other Side)"
@@ -148,8 +162,6 @@ james brown - I got you
 Nirvana - Teen spirit
 hound dog
 war pigs
-Bob Dylan - Like a Rolling Stone
-### 65 A/B * Dylan, 'Subterranean Homesick Blues' ??
 The Rolling Stones - Gimme Shelter
 Nirvana - Lithium
 ### * Joy Division - Disorder
@@ -230,7 +242,6 @@ LCD Soundsystem - Us v Them L8:30
 MC Hammer - U Can't Touch This
 96 beck - lord only knows
 Pankrti - Anarhist
-RATM - wake up
 RATM - Bullet in your head
 RATM - know your enemy
 ramones - 53 and 3rd

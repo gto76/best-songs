@@ -1,3 +1,85 @@
+{{Infobox song <!-- See Wikipedia:WikiProject_Songs -->|
+| Caption        = 
+| Name           = The Ecstasy of Gold
+| Artist         = [[Ennio Morricone]]
+| Album          = [[The Good, the Bad and the Ugly (soundtrack)|The Good, the Bad and the Ugly]]
+| Released       = 23 December 1966
+| Producer    = Ennio Morricone
+| track_no       = 10
+| Cover     = Good_the_Bad_the_Ugly_soundtrack.jpg
+| Recorded       = 
+| Genre          = [[Film score]], [[western music (North America)|western]]
+| Length         = 3:22
+| Writer         = [[Ennio Morricone]]
+| Label          = 
+| Producer       = 
+| prev           = The Death of a Soldier
+| prev_no        = 9
+| next           = The Trio (main title) 
+| next_no        = 11
+| Label  = EMI America, Capitol Records
+| Origin = International
+| Bpm = 100
+| key = A
+}}
+####
+{{Infobox single
+| Name      = With a Little Help from My Friends
+| Cover     = With_a_Little_Help_From_My_Friends_-_Joe_Cocker.jpg
+| Artist     = [[Joe Cocker]]
+| Album = [[With a Little Help from My Friends (Joe Cocker album)|With a Little Help from My Friends]]
+| B-side     = Something's Coming On
+| Released    = October 1968 <small>([[United Kingdom|UK]])</small>
+| Format     = [[7" single|7"]]
+| Recorded    = 1968
+| Genre     = [[Blues rock]], [[hard rock]], [[Soul music|soul]]
+| Length     = 5:11
+| Label     = [[Regal Zonophone]]
+| Writer     = [[Lennon–McCartney]]
+| Producer   = Denny Cordell
+| Misc = {{Extra chronology
+| Artist = [[Joe Cocker]]
+| Type = single
+| Origin = England
+| Bpm = 142
+| key = D
+| Last single  = "Marjorine"<br/>(1968)
+| This single  = "'''With a Little Help from My Friends'''"<br/>(1968)
+| Next single  = "Delta Lady"<br/>(1969)}}
+{{Extra music sample |filename=Joe Cocker - 09 - With A Little Help From My Friends.ogg| title="With a Little Help from My Friends" |Type=single}}
+}}
+####
+{{Infobox single
+| Name           = Closer
+| Artist         = [[Nine Inch Nails]]
+| Cover          = Closer_to_god_US.jpg
+| Caption        = US CD single cover
+| Album          = [[The Downward Spiral]]
+| B-side         = {{hlist|"March of the Fuckheads"|"Memorabilia"}}
+| Released       = March 8, 1994
+| Recorded       = 1993–94
+| Origin = Central United States
+| Bpm = 90
+| key = B
+| Studio = [[10050 Cielo Drive|Le Pig]] ([[Benedict Canyon, Los Angeles]])<br />[[Record Plant|The Record Plant]], [[Jim Henson Company Lot|A&M Studios]] ([[Hollywood]], [[Los Angeles]])
+| Format         = {{hlist|[[CD single|CD]]|[[12-inch single|12"]]|[[Cassette single|cassette]]}}
+| Genre          = [[Industrial rock]]
+| Length         = {{duration|m=6|s=13}}
+| Label          = {{hlist|[[Nothing Records|Nothing]]|[[TVT Records|TVT]]|[[Interscope Records|Interscope]]|[[Atlantic Records|Atlantic]]}}
+| Writer         = [[Trent Reznor]]
+| Producer       = {{hlist|[[Flood (producer)|Flood]]|Trent Reznor}}
+| Last single="[[March of the Pigs]]"<br />(1994)
+| This single="'''Closer'''" <br />(1994)
+| Next single="[[The Perfect Drug]]"<br />(1997)
+| Misc           = {{Extra chronology
+ | Artist        = [[Halo numbers]]
+ | Type = studio album
+ | Last single="[[The Downward Spiral|Halo 8]]"<br />(1994)
+ | This single="'''Halo 9'''"<br />(1994)
+ | Next single="[[Further Down the Spiral|Halo 10]]"<br />(1995)
+ }}{{Extra music sample |filename=NIN - Closer.ogg|format=[[Ogg]] |title="Closer"|Type=single}}{{external music video|type=single|{{youtube|PTFwQP86BRs|“Closer” (Director’s Cut)}}}} 
+}}
+####
 {{Infobox song 
 | Name           = The Soft Parade
 | Artist         = [[The Doors]]

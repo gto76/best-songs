@@ -1,4 +1,98 @@
 {
+  "The Ecstasy of Gold": {
+    "name": "The Ecstasy of Gold",
+    "artist": "Ennio Morricone",
+    "album": "The Good, the Bad and the Ugly",
+    "released": "23 December 1966",
+    "producer": "Ennio Morricone",
+    "track_no": "10",
+    "cover": "Good_the_Bad_the_Ugly_soundtrack.jpg",
+    "genre": [
+      "Film score",
+      "Western"
+    ],
+    "length": "3:22",
+    "writer": "Ennio Morricone",
+    "prev": "The Death of a Soldier",
+    "prev_no": "9",
+    "next": "The Trio (main title)",
+    "next_no": "11",
+    "label": [
+      "Emi america",
+      "Capitol records"
+    ],
+    "origin": "International",
+    "bpm": "100",
+    "key": "A"
+  },
+  "With a Little Help from My Friends": {
+    "name": "With a Little Help from My Friends",
+    "cover": "With_a_Little_Help_From_My_Friends_-_Joe_Cocker.jpg",
+    "artist": "Joe Cocker",
+    "album": "With a Little Help from My Friends",
+    "b-side": "Something's Coming On",
+    "released": "October 1968 (UK)",
+    "format": "7\"",
+    "recorded": "1968",
+    "genre": [
+      "Blues rock",
+      "Hard rock",
+      "Soul"
+    ],
+    "length": "5:11",
+    "label": "Regal Zonophone",
+    "writer": "Lennon–McCartney",
+    "producer": "Denny Cordell",
+    "misc": {
+      "filename": "Joe Cocker - 09 - With A Little Help From My Friends.ogg",
+      "title": "\"With a Little Help from My Friends\"",
+      "type": "single"
+    }
+  },
+  "Closer": {
+    "name": "Closer",
+    "artist": "Nine Inch Nails",
+    "cover": "Closer_to_god_US.jpg",
+    "caption": "US CD single cover",
+    "album": "The Downward Spiral",
+    "b-side": [
+      "\"March of the Fuckheads\"",
+      "\"Memorabilia\""
+    ],
+    "released": "March 8, 1994",
+    "recorded": "1993–94",
+    "origin": "Central United States",
+    "bpm": "90",
+    "key": "B",
+    "studio": "Le Pig (Benedict Canyon, Los Angeles), The Record Plant, A&M Studios (Hollywood, Los Angeles)",
+    "format": "Ogg",
+    "genre": "Industrial rock",
+    "length": "6:13",
+    "label": [
+      "Nothing",
+      "TVT",
+      "Interscope",
+      "Atlantic"
+    ],
+    "writer": "Trent Reznor",
+    "producer": [
+      "Flood",
+      "Trent Reznor"
+    ],
+    "last single": "\"March of the Pigs\", (1994)",
+    "this single": "\"'''Closer'''\" , (1994)",
+    "next single": "\"The Perfect Drug\", (1997)",
+    "misc": {
+      "artist": "Halo numbers",
+      "type": "studio album",
+      "last single": "\"Halo 8\", (1994)",
+      "this single": "\"'''Halo 9'''\", (1994)",
+      "next single": "\"Halo 10\", (1995)"
+    },
+    "filename": "NIN - Closer.ogg",
+    "title": "\"Closer\"",
+    "type": "single"
+  },
   "The Soft Parade": {
     "name": "The Soft Parade",
     "artist": "The Doors",

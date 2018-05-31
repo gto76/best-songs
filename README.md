@@ -106,6 +106,15 @@ field.
 **Length:&ensp;2:58**  
 **Label:&ensp;Parlophone**  
 
+### '66 Dec | "The Ecstasy of Gold" — Ennio Morricone  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Ennio+Morricone+The+Ecstasy+of+Gold+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Good_the_Bad_the_Ugly_soundtrack.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Film Score, Western**  
+**Writer:&ensp;Ennio Morricone**  
+**Producer:&ensp;Ennio Morricone**  
+**Length:&ensp;3:22**  
+**Labels:&ensp;Emi America, Capitol Records**  
+
 ### '67 Jan | "Light My Fire" — The Doors  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Light+My+Fire+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Lightmyfire67.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -150,6 +159,15 @@ field.
 **Producer:&ensp;Paul A. Rothchild**  
 **Length:&ensp;4:24**  
 **Label:&ensp;Elektra**  
+
+### '68 Oct | "With a Little Help from My Friends" — Joe Cocker  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Joe+Cocker+With+a+Little+Help+from+My+Friends+song"> <img src="data/img/cover/With_a_Little_Help_From_My_Friends_-_Joe_Cocker.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Blues Rock, Hard Rock, Soul**  
+**Writer:&ensp;Lennon–Mccartney**  
+**Producer:&ensp;Denny Cordell**  
+**Length:&ensp;5:11**  
+**Label:&ensp;Regal Zonophone**  
 
 ### '69 Feb | "Kick Out the Jams" — MC5  
 <a target="_blank" href="https://www.youtube.com/results?search_query=MC5+Kick+Out+the+Jams+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/MC5_-_Kick_Out_the_Jams_1969_single.jpg" align="left" alt="cover" height="121px"/></a>
@@ -214,15 +232,6 @@ field.
 **Label:&ensp;Rca Records**  
 <br>  
 
-### '74 Mar | "Top" — Bijelo Dugme  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Bijelo+Dugme+Top+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/top_alt.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Blues Rock, Classic Rock**  
-**Writer:&ensp;Goran Bregović**  
-**Producer:&ensp;Nikola Borota**  
-**Length:&ensp;4:12**  
-**Label:&ensp;Jugoton**  
-
 ### '76 Feb | "Blitzkrieg Bop" — Ramones  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ramones+Blitzkrieg+Bop+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Ramones_-_Blitzkrieg_Bop_cover.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -231,15 +240,6 @@ field.
 **Producer:&ensp;Craig Leon**  
 **Length:&ensp;2:12**  
 **Label:&ensp;Sire/Abc**  
-
-### '76 Jun | "Zombie" — Fela Kuti  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Fela+Kuti+Zombie+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/FelaZombie.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Afrobeat**  
-**Producer:&ensp;Fela Kuti**  
-**Length:&ensp;12:26**  
-**Label:&ensp;Coconut**  
-<br>  
 
 ### '77 Feb | "Marquee Moon" — Television  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Television+Marquee+Moon+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Marquee_moon_album_cover.jpg" align="left" alt="cover" height="121px"/></a>
@@ -394,6 +394,15 @@ field.
 **Length:&ensp;3:55**  
 **Labels:&ensp;Bong Load Custom, Dgc**  
 
+### '94 Mar | "Closer" — Nine Inch Nails  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Nine+Inch+Nails+Closer+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Closer_to_god_US.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Industrial Rock**  
+**Writer:&ensp;Trent Reznor**  
+**Producers:&ensp;Flood, Trent Reznor**  
+**Length:&ensp;6:13**  
+**Labels:&ensp;Nothing, Tvt, Interscope, Atlantic**  
+
 ### '96 Apr | "Mother North" — Satyricon  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Satyricon+Mother+North+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Nemesis divina - satyricon.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -420,15 +429,6 @@ field.
 **Producer:&ensp;Liam Howlett**  
 **Length:&ensp;4:45 (Edit), 5:43 (Album Version)**  
 **Labels:&ensp;Xl, Maverick, Sony**  
-
-### '00 May | "When the Curious Girl Realizes She Is Under Glass" — Bright Eyes  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Bright+Eyes+When+the+Curious+Girl+Realizes+She+Is+Under+Glass+song"> <img src="data/img/cover/Feversandmirrors_brighteyes.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Indie Rock, Indie Folk, Emo**  
-**Producer:&ensp;Mike Mogis**  
-**Length:&ensp;2:40**  
-**Labels:&ensp;Saddle Creek (Us), Wichita Recordings (Uk)**  
-<br>  
 
 ### '01 Aug | "Superstylin'" — Groove Armada  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Groove+Armada+Superstylin'+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Groove_Armada_Superstylin'_Single_cover.jpeg" align="left" alt="cover" height="121px"/></a>
