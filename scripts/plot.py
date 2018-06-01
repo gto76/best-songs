@@ -18,6 +18,7 @@ LIST_OF_SONGS = '../list_of_songs.txt'
 IMG_DIR = '../data/img'
 
 DEBUG = False
+PRINT_ORIGINS = False
 GENERATE_STACKED_BARPLOT = False
 NORMALIZE_BPM = True
 BPM_WINDOW = 2
@@ -48,6 +49,8 @@ def main():
     list_of_songs = get_file_contents(LIST_OF_SONGS)
     list_of_songs = get_list_of_songs(list_of_songs)
     songs = {k: v for k, v in songs.items() if k in list_of_songs} 
+    if PRINT_ORIGINS:
+        print_origins(songs)
     generate_plot(songs, 'released', get_year, 'years', get_year_xlabel, 
         ticks_filter=every_even, font_size_in=18)
     generate_plot(songs, 'released', get_month, 'months')
@@ -62,6 +65,14 @@ def main():
 def generate_piechart(songs, key):
     values = parse_releases(songs, key, parser=lambda x: x)
     generate_origin_piechart(Counter(values), filename=key)
+
+
+def print_origins(songs):
+    for song, a in songs.items():
+        if 'origin' not in a:
+            print('NO ORIGIN', song)
+            continue
+        print(song, a['origin'], sep=' - ')
 
 
 def generate_plot(songs, key, parser, xlabel, label_parser=None, 

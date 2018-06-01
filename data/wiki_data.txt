@@ -215,6 +215,9 @@
 | Name      = With a Little Help from My Friends
 | Cover     = With_a_Little_Help_From_My_Friends_-_Joe_Cocker.jpg
 | Artist     = [[Joe Cocker]]
+| Origin = England
+| Bpm = 142
+| key = D
 | Album = [[With a Little Help from My Friends (Joe Cocker album)|With a Little Help from My Friends]]
 | B-side     = Something's Coming On
 | Released    = October 1968 <small>([[United Kingdom|UK]])</small>
@@ -228,9 +231,6 @@
 | Misc = {{Extra chronology
 | Artist = [[Joe Cocker]]
 | Type = single
-| Origin = England
-| Bpm = 142
-| key = D
 | Last single  = "Marjorine"<br/>(1968)
 | This single  = "'''With a Little Help from My Friends'''"<br/>(1968)
 | Next single  = "Delta Lady"<br/>(1969)}}
@@ -337,7 +337,7 @@
 | released      = 10 October 1969
 | format        = [[7-inch single]]
 | recorded      = 1 & 20–21 August 1969
-| Origin = Central United States
+| Origin = England
 | Bpm = 131
 | key = C
 | genre         = <!------All genres are referenced under the musical structure section------>*[[Progressive rock]]

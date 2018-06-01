@@ -197,6 +197,9 @@
     "name": "With a Little Help from My Friends",
     "cover": "With_a_Little_Help_From_My_Friends_-_Joe_Cocker.jpg",
     "artist": "Joe Cocker",
+    "origin": "England",
+    "bpm": "142",
+    "key": "D",
     "album": "With a Little Help from My Friends",
     "b-side": "Something's Coming On",
     "released": "October 1968 (UK)",
@@ -328,7 +331,7 @@
     "released": "10 October 1969",
     "format": "7-inch single",
     "recorded": "1 & 20–21 August 1969",
-    "origin": "Central United States",
+    "origin": "England",
     "bpm": "131",
     "key": "C",
     "genre": [
