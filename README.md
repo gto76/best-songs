@@ -1,4 +1,4 @@
-50 Greatest Songs From '54 to '04
+38 Greatest Songs From '54 to '04
 =================================
 
 
@@ -16,15 +16,6 @@ field.
 playlist</a> is also available.</b>
 <br><br>
 
-
-### '54 Jul | "That's All Right" — Elvis Presley  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Elvis+Presley+That's+All+Right+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/That's_All_Right.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Rockabilly**  
-**Writer:&ensp;Arthur Crudup**  
-**Producer:&ensp;Sam Phillips**  
-**Length:&ensp;1:57**  
-**Labels:&ensp;Sun (Original), Rca Victor (Reissue)**  
 
 ### '54 Oct | "Mr. Sandman" — The Chordettes  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Chordettes+Mr.+Sandman+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Mr Sandman (Chordettes) .png" align="left" alt="cover" height="121px"/></a>
@@ -44,15 +35,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;2:50**  
 **Label:&ensp;Sun**  
 
-### '58 Apr | "Rumble" — Link Wray & His Ray Men  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Link+Wray+His+Ray+Men+Rumble+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Rumble (instrumental).png" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Rock And Roll, Surf Rock**  
-**Writers:&ensp;Milt Grant, Link Wray**  
-**Length:&ensp;2:25**  
-**Label:&ensp;Cadence 1347**  
-<br>  
-
 ### '62 Apr | "Miserlou" — Dick Dale  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Dick+Dale+Miserlou+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Miserlou - Dick Dale single_alt.png" align="left" alt="cover" height="121px"/></a>
 
@@ -70,24 +52,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Andrew Loog Oldham**  
 **Length:&ensp;3:45**  
 **Labels:&ensp;London (Us), Decca (Uk)**  
-
-### '65 Dec | "California Dreamin'" — The Mamas & the Papas  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Mamas+the+Papas+California+Dreamin'+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Disco de vinilo - California dreamin'_alt2.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Sunshine Pop, Folk Rock**  
-**Writers:&ensp;John Phillips, Michelle Phillips**  
-**Producer:&ensp;Lou Adler**  
-**Length:&ensp;2:38**  
-**Label:&ensp;Dunhill Records**  
-
-### '66 Aug | "Tomorrow Never Knows" — the Beatles  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+Tomorrow+Never+Knows+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Tomorrow Never Knows sheet music cover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Psychedelic Rock, Raga Rock, Hard Rock, Avant-Pop**  
-**Writer:&ensp;Lennon–Mccartney**  
-**Producer:&ensp;George Martin**  
-**Length:&ensp;2:58**  
-**Label:&ensp;Parlophone**  
 
 ### '66 Dec | "Sunday Morning" — The Velvet Underground  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+Sunday+Morning+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Sunday_Morning_(The_Velvet_Underground_record).png" align="left" alt="cover" height="121px"/></a>
@@ -134,15 +98,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;5:12**  
 **Label:&ensp;Verve**  
 
-### '67 May | "A Day in the Life" — the Beatles  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+A+Day+in+the+Life+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Sgt_Pepper's_Lonely_Hearts_Club_Band.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Art Rock, Psychedelic Rock**  
-**Writer:&ensp;Lennon–Mccartney**  
-**Producer:&ensp;George Martin**  
-**Length:&ensp;5:35**  
-**Labels:&ensp;Parlophone, Capitol**  
-
 ### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -170,15 +125,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;5:11**  
 **Label:&ensp;Regal Zonophone**  
 
-### '69 Feb | "Kick Out the Jams" — MC5  
-<a target="_blank" href="https://www.youtube.com/results?search_query=MC5+Kick+Out+the+Jams+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/MC5_-_Kick_Out_the_Jams_1969_single.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Garage Rock, Proto-Punk, Hard Rock**  
-**Writers:&ensp;Michael Davis, Wayne Kramer, Fred "Sonic" Smith, Dennis Thompson, Rob Tyner**  
-**Producers:&ensp;Bruce Botnick, Jac Holzman**  
-**Length:&ensp;2:37**  
-**Label:&ensp;Elektra**  
-
 ### '69 Mar | "Pale Blue Eyes" — The Velvet Underground  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+Pale+Blue+Eyes+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Velvetundergroundthirdalbum.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -187,15 +133,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;The Velvet Underground**  
 **Length:&ensp;5:40**  
 **Label:&ensp;Mgm**  
-
-### '69 Jul | "The Soft Parade" — The Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+The+Soft+Parade+Essential+Rarities+song"> <img src="data/img/cover/The_Doors_-_The_Soft_Parade.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Psychedelic Rock, Progressive Rock, Blues Rock**  
-**Writer:&ensp;Jim Morrison**  
-**Producer:&ensp;Paul A. Rothchild**  
-**Length:&ensp;10:09 (Box Set, '69 Apr / '97 Oct), 8:34 (9:41 on remastered album)**  
-**Label:&ensp;Elektra**  
 
 ### '69 Oct | "21st Century Schizoid Man" — King Crimson  
 <a target="_blank" href="https://www.youtube.com/results?search_query=King+Crimson+21st+Century+Schizoid+Man+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/21st_Century_Schizoid_Man.jpg" align="left" alt="cover" height="121px"/></a>
@@ -260,24 +197,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;4:19**  
 **Label:&ensp;Sire**  
 
-### '78 Sep | "Blue Valentines" — Tom Waits  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+Blue+Valentines+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blue_Valentine.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Jazz, Blues**  
-**Writer:&ensp;Tom Waits**  
-**Producer:&ensp;Bones Howe**  
-**Length:&ensp;5:49**  
-**Label:&ensp;Asylum**  
-
-### '78 Sep | "Christmas Card from a Hooker in Minneapolis" — Tom Waits  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Tom+Waits+Christmas+Card+from+a+Hooker+in+Minneapolis+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blue_Valentine.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Jazz, Blues**  
-**Writer:&ensp;Tom Waits**  
-**Producer:&ensp;Bones Howe**  
-**Length:&ensp;4:33**  
-**Label:&ensp;Asylum**  
-
 ### '79 Jun | "California Über Alles" — Dead Kennedys  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Dead+Kennedys+California+Über+Alles+song"> <img src="data/img/cover/Dead_Kennedys_-_California_Über_Alles_cover.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -322,15 +241,6 @@ playlist</a> is also available.</b>
 **Producers:&ensp;Igor Vidmar, Pankrti**  
 **Length:&ensp;1:45**  
 **Label:&ensp;Rtv Ljubljana**  
-
-### '83 Apr | "Blister in the Sun" — Violent Femmes  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Violent+Femmes+Blister+in+the+Sun+song"> <img src="data/img/cover/Violent_Femmes.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Folk Punk, Anti-Folk, Alternative Rock, Progressive Folk**  
-**Writer:&ensp;Gordon Gano**  
-**Producer:&ensp;Mark Van Hecke**  
-**Length:&ensp;2:27**  
-**Label:&ensp;Slash**  
 
 ### '83 Oct | "This Charming Man" — The Smiths  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Smiths+This+Charming+Man+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Thischarmingmansingle.png" align="left" alt="cover" height="121px"/></a>
@@ -385,15 +295,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Butch Vig**  
 **Length:&ensp;4:11**  
 **Label:&ensp;Dgc**  
-
-### '93 Mar | "Loser" — Beck  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Beck+Loser+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Beck Loser.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Alternative Rock, Hip Hop**  
-**Writers:&ensp;Beck, Karl Stephenson**  
-**Producers:&ensp;Beck, Karl Stephenson, Tom Rothrock**  
-**Length:&ensp;3:55**  
-**Labels:&ensp;Bong Load Custom, Dgc**  
 
 ### '94 Mar | "Closer" — Nine Inch Nails  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nine+Inch+Nails+Closer+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Closer_to_god_US.jpg" align="left" alt="cover" height="121px"/></a>
@@ -457,15 +358,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;The Dfa**  
 **Length:&ensp;9:20 (Crass Version), 11:03 (Pretentious Version)**  
 **Label:&ensp;Dfa**  
-
-### '04 Mar | "Linzserenade" — Gustav  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Gustav+Linzserenade+song"> <img src="data/img/cover/Linzserenade.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Writer:&ensp;Eva Jantschitsch**  
-**Producer:&ensp;Eva Jantschitsch**  
-**Length:&ensp;4:12**  
-**Label:&ensp;Mosz**  
-<br>  
 
 Origin
 ------

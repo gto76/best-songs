@@ -3,8 +3,28 @@ Best Songs
 
 New Additions
 -------------
-THE ISLEY BROTHERS, "SHOUT"
+Os Mutantes (1968)- 02 A Minha Menina
+Booker T and the MGs – ‘Green Onions’
 
+Bauhaus - Bela Lugosi's Dead
+Pixies – ‘Cecilia Ann’
+The Sisters of Mercy - “Temple of Love”
+The Misfits - Die Die My Darling
+Nick Cave & the Bad Seeds - “The Mercy Seat”
+Sister Nancy - “Bam Bam”
+The Velvet Underground & Nico - “All Tomorrow’s Parties”
+THE CURE - A Forest
+Depeche Mode - Personal Jesus
+Joy Division - “Love Will Tear Us Apart”
+
+Miles Davis - So What
+The Dead Kennedys - Holiday in Cambodia
+
+Dave Brubeck - Take Five
+John Coltrane My Favorite Things
+Explosions in the Sky, “Your Hand in Mine”
+Beastie Boys – ‘Sabrosa’
+THE ISLEY BROTHERS, "SHOUT"
 rambo - balkan boy
 Rambo Amadeus - LM hit
 
@@ -127,7 +147,7 @@ waits - hooker
 ### 83 C/F * The Smiths, 'This Charming Man'
 "Raining Blood" - slayer
 ### 88 * Safet Isovic, 'Bosna Moja'
-Rambo Amadeus - Fala Ti Majko
+Rambo Amadeus - Fala Ti Majko (Prdez u kadi, dim na vodi)
 Hey - The Pixies
 ### 91 B/F * Nirvana, 'In Bloom'
 ### 93 A/B/C/D * Beck, 'Loser'
@@ -232,6 +252,7 @@ Nirvana - Lithium
 
 ### * Joy Division - Disorder
 Joy Division - Atmosphere
+Joy Division - Wilderness
 
 
 Too early/late
@@ -283,7 +304,6 @@ Beatles - come together
 Beatles - walrus
 Beatles - hard days
 breaks
-Depeche Mode - Personal Jesus
 Velvet Underground - waiting
 You spin me right round (like a record baby)
 The Band - The Weight
