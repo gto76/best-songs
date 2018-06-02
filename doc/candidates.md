@@ -258,17 +258,18 @@ Joy Division - Wilderness
 Too early/late
 --------------
 ### 09 * Poison Lips - Vitalic
-### * M.I.A. - Paper Planes
-
-### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
-### 10 * El Guincho - Bombay
-### 06 * LCD, 'freak out'
+### 17 * Alex Cameron - Candy May
 ### 49 * Profesor Longhair, 'Mardi gras in new orlean'
+
+### 10 * El Guincho - Bombay
+
+### * M.I.A. - Paper Planes
+### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
+### 06 * LCD, 'freak out'
 ### * Justice - D.A.N.C.E. - † 07
 ### * DIE ANTWOORD - BABY'S ON FIRE ?
 ### * DIE ANTWOORD - UGLY BOY
 ### 15 * Bovie - black ?
-### 17 * Alex Cameron - Candy May
 ### * Bloc Party - Banquet
 
 

@@ -1,5 +1,5 @@
-38 Greatest Songs From '54 to '04
-=================================
+35 Greatest Songs of All Time
+=============================
 
 
 <br>
@@ -44,15 +44,6 @@ playlist</a> is also available.</b>
 **Label:&ensp;Deltone Records**  
 <br>  
 
-### '65 Jun | "(I Can't Get No) Satisfaction" — The Rolling Stones  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Rolling+Stones+(I+Can't+Get+No)+Satisfaction+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Satisfaction-us.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Rock, Hard Rock**  
-**Writer:&ensp;Jagger/Richards**  
-**Producer:&ensp;Andrew Loog Oldham**  
-**Length:&ensp;3:45**  
-**Labels:&ensp;London (Us), Decca (Uk)**  
-
 ### '66 Dec | "Sunday Morning" — The Velvet Underground  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+Sunday+Morning+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Sunday_Morning_(The_Velvet_Underground_record).png" align="left" alt="cover" height="121px"/></a>
 
@@ -79,24 +70,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Paul A. Rothchild**  
 **Lengths:&ensp;7:06 (Album Version), 2:52 (Single Version)**  
 **Label:&ensp;Elektra**  
-
-### '67 Feb | "White Rabbit" — Jefferson Airplane  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Jefferson+Airplane+White+Rabbit+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Jeffair_single.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Psychedelic Rock**  
-**Writer:&ensp;Grace Slick**  
-**Producer:&ensp;Rick Jarrard**  
-**Length:&ensp;2:31**  
-**Label:&ensp;Rca Victor**  
-
-### '67 Mar | "Venus in Furs" — the Velvet Underground  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Velvet+Underground+Venus+in+Furs+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Velvet_Underground_and_Nico.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Garage Rock, Avantgarde**  
-**Writer:&ensp;Lou Reed**  
-**Producer:&ensp;Andy Warhol**  
-**Length:&ensp;5:12**  
-**Label:&ensp;Verve**  
 
 ### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>

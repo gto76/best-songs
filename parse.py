@@ -101,7 +101,7 @@ def generate_files(albumData, listOfAlbums):
         table_html += f'<br><br><br><br><hr>{plots_html}'
         table_md += plots_md
     no_albums = len(listOfAlbums)
-    title = f"{no_albums} Greatest Songs From '54 to '04"
+    title = f"{no_albums} Greatest Songs of All Time"
     template = ''.join(get_file_contents(TEMPLATE))
     out_html = template.format(title=title, table=table_html)
     out_md = get_out_md(table_md, title, template)
