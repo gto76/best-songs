@@ -89,6 +89,7 @@ def get_year_xlabel(value):
     value = str(value)[-2:]
     return f"'{value}"
 
+
 def get_bpm(value):
     bpm = int(value)
     if NORMALIZE_BPM:
@@ -197,7 +198,7 @@ def generate_release_dates_chart(listOfYears, filename=None, ticks_filter=None,
 
     if filename:
         label = filename[:-1] if filename not in ['minutes', 'bpm', 'key'] \
-                                  else filename
+                    else filename
         label = label.capitalize()
         if filename == 'bpm':
             label = 'BPM'

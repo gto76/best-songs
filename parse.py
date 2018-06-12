@@ -92,9 +92,13 @@ def sort_by_date(listOfAlbums, albumData):
 def generate_files(albumData, listOfAlbums):
     table_html, table_md = generate_list(listOfAlbums, albumData)
     if ADD_PLOTS:
+        # names = [('Origin', 'origin'), 
+        #          ('Release Date — Year', 'years'),
+        #          ('Release Date — Month', 'months'),
+        #          ('Key', 'key'),
+        #          ('Tempo', 'bpm')]
         names = [('Origin', 'origin'), 
-                 ('Release Date — Year', 'years'),
-                 ('Release Date — Month', 'months'),
+                 ('Release Date', 'years'),
                  ('Key', 'key'),
                  ('Tempo', 'bpm')]
         plots_html, plots_md = get_plots(names)

@@ -3,11 +3,20 @@ Best Songs
 
 New Additions
 -------------
+PARANOID ANDROID radiohead
+
+The Rolling Stones, paint it black
+
+Surfer Rosa. 13 - Brick Is Red
+Surfer Rosa. 12 - I'm Amazed
+pixies - Broken face
+
+Cream - White Room
+
 Os Mutantes (1968)- 02 A Minha Menina
 Booker T and the MGs – ‘Green Onions’
 
 Bauhaus - Bela Lugosi's Dead
-Pixies – ‘Cecilia Ann’
 The Sisters of Mercy - “Temple of Love”
 The Misfits - Die Die My Darling
 Nick Cave & the Bad Seeds - “The Mercy Seat”
@@ -62,6 +71,7 @@ idoli - kenozoik
 
 pixies - Here Comes Your Man
 pixies - where is my mind
+Pixies – ‘Cecilia Ann’
 The Doors - Cars hiss
 doors - music's over
 Waiting for the Sun - The Doors
