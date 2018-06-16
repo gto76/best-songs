@@ -1,3 +1,26 @@
+{{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Bela Lugosi's Dead
+| Cover          = Bela_Lugosi's_Dead_Cover.jpg
+| Artist         = [[Bauhaus (band)|Bauhaus]]
+| B-side         = "Boys"
+| Released       = 6 August 1979
+| Recorded       = 26 January 1979 at Beck Studios in [[Wellingborough]], [[Northamptonshire]], England
+| Genre          = [[Gothic rock]]
+| Length         = 9:36
+| Label          = [[Small Wonder Records|Small Wonder]]
+| Writer         = {{flatlist|
+* David Haskins
+* Kevin Haskins
+* [[Peter Murphy (musician)|Peter Murphy]]
+* [[Daniel Ash]]
+}}
+| This single    = "'''Bela Lugosi's Dead'''"<br/>(1979)
+| Next single    = "[[Dark Entries]]"<br/>(1980)
+| Origin = England
+| Bpm = 150
+| key = B
+}}
+####
 {{Infobox album|
 | name       = Fala ti majko
 | type       = studio

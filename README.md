@@ -1,4 +1,4 @@
-25 Greatest Songs of All Time
+24 Greatest Songs of All Time
 =============================
 
 
@@ -35,15 +35,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;2:50**  
 **Label:&ensp;Sun**  
 
-### '66 Dec | "Sunday Morning" — The Velvet Underground  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Velvet+Underground+Sunday+Morning+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Sunday_Morning_(The_Velvet_Underground_record).png" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Pop**  
-**Writers:&ensp;Lou Reed, John Cale**  
-**Producer:&ensp;Tom Wilson**  
-**Length:&ensp;2:53**  
-**Label:&ensp;Verve**  
-
 ### '66 Dec | "The Ecstasy of Gold" — Ennio Morricone  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ennio+Morricone+The+Ecstasy+of+Gold+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Good_the_Bad_the_Ugly_soundtrack.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -52,15 +43,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Ennio Morricone**  
 **Length:&ensp;3:22**  
 **Labels:&ensp;Emi America, Capitol Records**  
-
-### '67 Jan | "Light My Fire" — The Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Light+My+Fire+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Lightmyfire67.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Psychedelic Rock**  
-**Writers:&ensp;Jim Morrison, Robbie Krieger, John Densmore, Ray Manzarek**  
-**Producer:&ensp;Paul A. Rothchild**  
-**Lengths:&ensp;7:06 (Album Version), 2:52 (Single Version)**  
-**Label:&ensp;Elektra**  
 
 ### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9+song"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
@@ -151,6 +133,15 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Dead Kennedys**  
 **Length:&ensp;3:26 (Single Version), 3:03 (Album Version, Rel. '80 Sep, re-recorded)**  
 **Labels:&ensp;Alternative Tentacles (Us), Fast Product (Uk)**  
+
+### '79 Aug | "Bela Lugosi's Dead" — Bauhaus  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Bauhaus+Bela+Lugosi's+Dead+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Bela_Lugosi's_Dead_Cover.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Gothic Rock**  
+**Writers:&ensp;David Haskins, Kevin Haskins, Peter Murphy, Daniel Ash**  
+**Length:&ensp;9:36**  
+**Label:&ensp;Small Wonder**  
+<br>  
 
 ### '79 Sep | "Rapper's Delight" — The Sugarhill Gang  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Sugarhill+Gang+Rapper's+Delight+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Rappersdelight.jpg" align="left" alt="cover" height="121px"/></a>

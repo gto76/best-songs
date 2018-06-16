@@ -1,4 +1,26 @@
 {
+  "Bela Lugosi's Dead": {
+    "name": "Bela Lugosi's Dead",
+    "cover": "Bela_Lugosi's_Dead_Cover.jpg",
+    "artist": "Bauhaus",
+    "b-side": "\"Boys\"",
+    "released": "6 August 1979",
+    "recorded": "26 January 1979 at Beck Studios in Wellingborough, Northamptonshire, England",
+    "genre": "Gothic rock",
+    "length": "9:36",
+    "label": "Small Wonder",
+    "writer": [
+      "David Haskins",
+      "Kevin Haskins",
+      "Peter Murphy",
+      "Daniel Ash"
+    ],
+    "this single": "\"'''Bela Lugosi's Dead'''\", (1979)",
+    "next single": "\"Dark Entries\", (1980)",
+    "origin": "England",
+    "bpm": "150",
+    "key": "B"
+  },
   "Fala ti majko": {
     "name": "Fala ti majko",
     "type": "studio",

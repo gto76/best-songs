@@ -3,6 +3,27 @@ Best Songs
 
 New Additions
 -------------
+++ Bauhaus - Bela Lugosi's Dead
++- ### 10 * El Guincho - Bombay
+
+Max Romeo - Chase The Devil
+crosroads
+charlie parker - ornithology
+AZEALIA BANKS - 212
+
+For the Damaged Coda - blonde redhad
+
+I bet you look good on the dancefloor! - arctic monkeys
+toto - africa
+
+mr tambourine man
+
+"O Fortuna" from "Carmina Burana"
+Ride of the Valkyries wagner
+
+boom boom hooker
+boogie chillen
+
 PARANOID ANDROID radiohead
 
 The Rolling Stones, paint it black
@@ -16,7 +37,6 @@ Cream - White Room
 Os Mutantes (1968)- 02 A Minha Menina
 Booker T and the MGs – ‘Green Onions’
 
-Bauhaus - Bela Lugosi's Dead
 The Sisters of Mercy - “Temple of Love”
 The Misfits - Die Die My Darling
 Nick Cave & the Bad Seeds - “The Mercy Seat”
@@ -230,6 +250,8 @@ ZZ Top - La Grange
 ### 70 * Black Sabath, 'Paranoid' ?
 ### 81 * THE GUN CLUB - GHOST ON THE HIGHWAY ?
 
+### 76 D * Fela Kuti, 'Zombie' (?)
+### 49 * Profesor Longhair, 'Mardi gras in new orlean'
 
 By Band
 -------
@@ -252,7 +274,6 @@ Tom Waits - Heartattack And Vine
 The Rolling Stones, 'Jumpin' Jack Flash'
 The Rolling Stones - Gimme Shelter
 
-### 76 D * Fela Kuti, 'Zombie' (?)
 Fela Kuti - No Agreement Part 2
 Fela Kuti-Shuffering And Shmiling (Part 2) 
 Fela Kuti - Sorrow Tears & Blood 
@@ -265,20 +286,17 @@ Joy Division - Atmosphere
 Joy Division - Wilderness
 
 
-Too early/late
+Too late
 --------------
 ### 09 * Poison Lips - Vitalic
 ### 17 * Alex Cameron - Candy May
-### 49 * Profesor Longhair, 'Mardi gras in new orlean'
-
-### 10 * El Guincho - Bombay
-
 ### * M.I.A. - Paper Planes
 ### 05 E/C * LCD Soundsystem, 'Too Much Love' ?
 ### 06 * LCD, 'freak out'
 ### * Justice - D.A.N.C.E. - † 07
 ### * DIE ANTWOORD - BABY'S ON FIRE ?
 ### * DIE ANTWOORD - UGLY BOY
+'I FINK U FREEKY' by DIE ANTWOORD
 ### 15 * Bovie - black ?
 ### * Bloc Party - Banquet
 
@@ -307,7 +325,6 @@ sarlo - niko
 desaparacidos - manana
 dogs n sledges - million dan
 arcade rebelion
-'I FINK U FREEKY' by DIE ANTWOORD
 Fatboy Slim - Push The Tempo
 Shocking Blue - Venus
 Beatles - Help of friends
@@ -562,7 +579,6 @@ rehab
 papa was a roling stone
 roling stone
 boys are back in town
-cry me a river
 stevie wonder: higher ground, superstition
 peter gabriel sledghamer
 talking heads: psychokiler, Burning down the house, Road To Nowhere
