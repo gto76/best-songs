@@ -3,6 +3,8 @@ Best Songs
 
 New Additions
 -------------
+tribe called quest - Excursions
+
 ++ Bauhaus - Bela Lugosi's Dead
 +- ### 10 * El Guincho - Bombay
 

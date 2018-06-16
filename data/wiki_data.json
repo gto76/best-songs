@@ -1,4 +1,41 @@
 {
+  "Excursions": {
+    "name": "Excursions",
+    "type": "studio",
+    "artist": "A Tribe Called Quest",
+    "cover": "ATribeCalledQuestTheLowEndtheory.jpg",
+    "released": "September 24, 1991",
+    "recorded": "1990–91",
+    "writer": "Jonathan Davis",
+    "origin": "East Coast",
+    "bpm": "96",
+    "key": "B",
+    "studio": "Battery Studios, Greene St. Recording and Soundtrack Studios in New York City",
+    "genre": [
+      "East Coast hip hop",
+      "alternative hip hop",
+      "jazz rap"
+    ],
+    "length": "3:55",
+    "label": "Jive",
+    "producer": [
+      "A Tribe Called Quest",
+      "Skeff Anselm"
+    ],
+    "last album": "''People's Instinctive Travels and the Paths of Rhythm'', (1990)",
+    "this album": "'''''The Low End Theory''''', (1991)",
+    "next album": "''Midnight Marauders'', (1993)",
+    "misc": {
+      "name": "The Low End Theory",
+      "type": "studio",
+      "single 1": "Check the Rhime",
+      "single 1 date": "September 9, 1991",
+      "single 2": "Jazz (We've Got)",
+      "single 2 date": "November 27, 1991",
+      "single 3": "Scenario",
+      "single 3 date": "March 13, 1992"
+    }
+  },
   "Bela Lugosi's Dead": {
     "name": "Bela Lugosi's Dead",
     "cover": "Bela_Lugosi's_Dead_Cover.jpg",

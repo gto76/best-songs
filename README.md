@@ -1,4 +1,4 @@
-24 Greatest Songs of All Time
+25 Greatest Songs of All Time
 =============================
 
 
@@ -187,6 +187,15 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Gil Norton**  
 **Length:&ensp;3:31**  
 **Labels:&ensp;4Ad, Elektra (Initial U.S. Distribution)**  
+
+### '91 Sep | "Excursions" — A Tribe Called Quest  
+<a target="_blank" href="https://www.youtube.com/results?search_query=A+Tribe+Called+Quest+Excursions+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/ATribeCalledQuestTheLowEndtheory.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;East Coast Hip Hop, Alternative Hip Hop, Jazz Rap**  
+**Writer:&ensp;Jonathan Davis**  
+**Producers:&ensp;A Tribe Called Quest, Skeff Anselm**  
+**Length:&ensp;3:55**  
+**Label:&ensp;Jive**  
 
 ### '91 Sep | "In Bloom" — Nirvana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+In+Bloom+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/InBloom.jpg" align="left" alt="cover" height="121px"/></a>
