@@ -1,4 +1,31 @@
 {
+  "L.A. Woman": {
+    "name": "L.A. Woman",
+    "cover": "The_Doors_-_L.A._Woman.jpg",
+    "artist": "the Doors",
+    "album": "L.A. Woman",
+    "released": "April 19, 1971",
+    "track_no": "5",
+    "recorded": "December 1970-January 1971",
+    "genre": [
+      "Rock and roll",
+      "Blues rock"
+    ],
+    "length": "7:49 (original version), 7:59 (40th anniversary edit)",
+    "label": "Elektra",
+    "writer": "Jim Morrison",
+    "producer": [
+      "The Doors",
+      "Bruce Botnick"
+    ],
+    "prev": "\"Cars Hiss By My Window\"",
+    "prev_no": "4",
+    "next": "\"L'America\"",
+    "next_no": "6",
+    "origin": "West Coast",
+    "bpm": "170",
+    "key": "A"
+  },
   "Excursions": {
     "name": "Excursions",
     "type": "studio",

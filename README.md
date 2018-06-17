@@ -1,4 +1,4 @@
-25 Greatest Songs of All Time
+24 Greatest Songs of All Time
 =============================
 
 
@@ -53,15 +53,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;5:32**  
 **Labels:&ensp;Track (Uk), Reprise (Us)**  
 
-### '68 Jul | "Five to One" — The Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Five+to+One+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/The_Doors_-_Waiting_for_the_Sun.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Psychedelic Rock, Hard Rock, Blues Rock**  
-**Writer:&ensp;Jim Morrison**  
-**Producer:&ensp;Paul A. Rothchild**  
-**Length:&ensp;4:24**  
-**Label:&ensp;Elektra**  
-
 ### '69 Oct | "21st Century Schizoid Man" — King Crimson  
 <a target="_blank" href="https://www.youtube.com/results?search_query=King+Crimson+21st+Century+Schizoid+Man+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/21st_Century_Schizoid_Man.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -70,6 +61,15 @@ playlist</a> is also available.</b>
 **Producer:&ensp;King Crimson**  
 **Length:&ensp;6:45 (Live in Mexico City, '96 / '99), 7:20 (Album Version)**  
 **Label:&ensp;Island**  
+
+### '71 Apr | "L.A. Woman" — the Doors  
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Doors+L.A.+Woman+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/The_Doors_-_L.A._Woman.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Rock And Roll, Blues Rock**  
+**Writer:&ensp;Jim Morrison**  
+**Producers:&ensp;The Doors, Bruce Botnick**  
+**Length:&ensp;7:49 (original version), 7:59 (40th anniversary edit)**  
+**Label:&ensp;Elektra**  
 
 ### '72 Nov | "Walk on the Wild Side" — Lou Reed  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Lou+Reed+Walk+on+the+Wild+Side+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/wows1_alt.jpg" align="left" alt="cover" height="121px"/></a>
@@ -187,15 +187,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Gil Norton**  
 **Length:&ensp;3:31**  
 **Labels:&ensp;4Ad, Elektra (Initial U.S. Distribution)**  
-
-### '91 Sep | "Excursions" — A Tribe Called Quest  
-<a target="_blank" href="https://www.youtube.com/results?search_query=A+Tribe+Called+Quest+Excursions+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/ATribeCalledQuestTheLowEndtheory.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;East Coast Hip Hop, Alternative Hip Hop, Jazz Rap**  
-**Writer:&ensp;Jonathan Davis**  
-**Producers:&ensp;A Tribe Called Quest, Skeff Anselm**  
-**Length:&ensp;3:55**  
-**Label:&ensp;Jive**  
 
 ### '91 Sep | "In Bloom" — Nirvana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+In+Bloom+song&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/InBloom.jpg" align="left" alt="cover" height="121px"/></a>

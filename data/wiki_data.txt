@@ -1,3 +1,25 @@
+{{Infobox song |
+| Name           = L.A. Woman
+| Cover          = The_Doors_-_L.A._Woman.jpg
+| Artist         = [[the Doors]]
+| Album          = [[L.A. Woman]]
+| Released       = April 19, 1971
+| track_no       = 5
+| Recorded       = December 1970-January 1971
+| Genre          = [[Rock and roll]], [[blues rock]]
+| Length         = 7:49 (original version)<br/>7:59 (40th anniversary edit)
+| Label          = [[Elektra Records|Elektra]]
+| Writer         = [[Jim Morrison]]
+| Producer       = The Doors<br/>[[Bruce Botnick]]
+| prev           = "Cars Hiss By My Window"
+| prev_no        = 4
+| next           = "L'America"
+| next_no        = 6
+| Origin = West Coast
+| Bpm = 170
+| key = A
+}}
+####
 {{Infobox album
 |Name = Excursions
 |Type = studio
