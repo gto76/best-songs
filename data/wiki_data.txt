@@ -1,3 +1,31 @@
+{{Infobox single
+| Name = Smells Like Teen Spirit
+| Cover = Smells_Like_Teen_Spirit.jpg
+| Artist = [[Nirvana (band)|Nirvana]]
+| Album = [[Nevermind]]
+| Origin = West Coast
+| Bpm = 118
+| key = F
+| B-side = {{hlist|"[[Drain You]]"|"Even in His Youth"|"[[Aneurysm (song)|Aneurysm]]"}}
+| Released = {{Start date|1991|09|10}}
+| Format = {{hlist|[[Compact disc|CD]]|[[Compact Cassette|cassette]]|[[Gramophone record|7"]]|[[12-inch single|12"]]}}
+| Recorded = May 1991
+| Studio = [[Sound City Studios]], [[Van Nuys, Los Angeles, California|Van Nuys, California]]
+| Genre = {{hlist|[[Grunge]]}}
+| Length = {{unbulleted list|{{Duration|m=5|s=01}} {{small|(album version)}}|{{Duration|m=4|s=36}} {{small|([[radio edit|single version]])}}}}
+| Label = [[DGC Records|DGC]]
+| Writer = [[Nirvana (band)|Nirvana]] 
+| Producer = [[Butch Vig]]
+| Last single = "[[Candy/Molly's Lips]]"<br />(1991)
+| This single = "'''Smells Like Teen Spirit'''" <br /> (1991)
+| Next single = "[[Come as You Are (Nirvana song)|Come as You Are]]"<br />(1992)
+| Misc = {{Extra track listing
+| Album = [[Nevermind]]
+| Type = studio
+| Tracks = {{Nevermind tracks}}
+}}{{External music video|{{Youtube|hTWKbfoikeg|"Smells Like Teen Spirit"}}}}
+}}
+####
 {{Infobox song |
 | Name           = L.A. Woman
 | Cover          = The_Doors_-_L.A._Woman.jpg

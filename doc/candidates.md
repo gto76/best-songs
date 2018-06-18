@@ -3,6 +3,14 @@ Best Songs
 
 New Additions
 -------------
+skee-Lo - I Wish
+de La Soul - A Roller Skating Jam Named Saturdays
+Beastie Boys - Make Some Noise
+
+Bikini Kill, "Rebel Girl" (1993)
+Missy "Misdemeanor" Elliott,  "The Rain  (Supa Dupa Fly)" (1997)
+Beastie Boys, "Sure Shot
+
 tribe called quest - Excursions
 
 ++ Bauhaus - Bela Lugosi's Dead

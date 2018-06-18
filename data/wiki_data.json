@@ -1,4 +1,43 @@
 {
+  "Smells Like Teen Spirit": {
+    "name": "Smells Like Teen Spirit",
+    "cover": "Smells_Like_Teen_Spirit.jpg",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "origin": "West Coast",
+    "bpm": "118",
+    "key": "F",
+    "b-side": [
+      "\"Drain You\"",
+      "\"Even in His Youth\"",
+      "\"Aneurysm\""
+    ],
+    "released": "1991.09.10",
+    "format": [
+      "CD",
+      "cassette",
+      "7\"",
+      "12\""
+    ],
+    "recorded": "May 1991",
+    "studio": "Sound City Studios, Van Nuys, California",
+    "genre": [
+      "Grunge"
+    ],
+    "length": [
+      "5:01"
+    ],
+    "label": "DGC",
+    "writer": "Nirvana",
+    "producer": "Butch Vig",
+    "last single": "\"Candy/Molly's Lips\", (1991)",
+    "this single": "\"'''Smells Like Teen Spirit'''\" ,  (1991)",
+    "next single": "\"Come as You Are\", (1992)",
+    "misc": {
+      "album": "Nevermind",
+      "type": "studio"
+    }
+  },
   "L.A. Woman": {
     "name": "L.A. Woman",
     "cover": "The_Doors_-_L.A._Woman.jpg",

@@ -230,14 +230,14 @@ def get_img_link(albumName, albumData):
 
 
 def get_yt_link(albumName):
-    hd = get_hd_filter(albumName)
     for title, mod in YT_MOD.items():
         if title in albumName:
             albumName += f' {mod}'
     albumName = albumName.replace('&', '').replace('-', '')
     albumName = re.sub('[ ]+', '+', albumName)
+    hd = get_hd_filter(albumName)
     out = '<a target="_blank" href="https://www.youtube.com/results?' \
-          f'search_query={albumName}+song{hd}"> '
+          f'search_query={albumName}{hd}"> '
     return out
 
 
