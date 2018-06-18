@@ -28,7 +28,7 @@
 ####
 {{Infobox song |
 | Name           = L.A. Woman
-| Cover          = The_Doors_-_L.A._Woman.jpg
+| Cover          = The Doors - L.A. Woman.jpg
 | Artist         = [[the Doors]]
 | Album          = [[L.A. Woman]]
 | Released       = April 19, 1971

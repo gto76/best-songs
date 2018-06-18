@@ -63,7 +63,7 @@ playlist</a> is also available.</b>
 **Label:&ensp;Island**  
 
 ### '71 Apr | "L.A. Woman" — the Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Doors+L.A.+Woman&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/The_Doors_-_L.A._Woman.jpg" align="left" alt="cover" height="121px"/></a>
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Doors+L.A.+Woman&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/The Doors - L.A. Woman.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genres:&ensp;Rock And Roll, Blues Rock**  
 **Writer:&ensp;Jim Morrison**  
