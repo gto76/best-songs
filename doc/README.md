@@ -14,6 +14,10 @@ How to add a song
     the `Name` and `Length` fields. Also check if the album with the song was 
     released before the single.
 
+3b. Add link field, that links to the Wikipedia article about song or album. If
+    link is in the form https://en.wikipedia.org/wiki/[SONG_NAME], then the
+    field is not needed.
+
 4. Add optional `Origin`, `Bpm` and `Key` fields to the entry.
 
 5. Save image of the cover into `data/img/cover` and update the `Cover` field

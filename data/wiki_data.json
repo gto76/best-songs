@@ -39,6 +39,7 @@
     }
   },
   "L.A. Woman": {
+    "link": "https://en.wikipedia.org/wiki/L.A._Woman_(song)",
     "name": "L.A. Woman",
     "cover": "The Doors - L.A. Woman.jpg",
     "artist": "the Doors",
@@ -412,6 +413,7 @@
     "key": "A"
   },
   "Hey": {
+    "link": "https://en.wikipedia.org/wiki/Doolittle_(album)",
     "name": "Hey",
     "type": "studio",
     "artist": "Pixies",
@@ -795,6 +797,7 @@
     }
   },
   "Lust for Life": {
+    "link": "https://en.wikipedia.org/wiki/Lust_for_Life_(Iggy_Pop_song)",
     "b-side": "\"Success\"",
     "name": "Lust for Life",
     "cover": "Lust for Life.jpg",
@@ -844,6 +847,7 @@
     "origin": "East Coast"
   },
   "Walk on the Wild Side": {
+    "link": "https://en.wikipedia.org/wiki/Walk_on_the_Wild_Side_(Lou_Reed_song)",
     "name": "Walk on the Wild Side",
     "cover_alt": "wows1.jpg",
     "cover": "wows1_alt.jpg",
@@ -868,6 +872,7 @@
     "origin": "East Coast"
   },
   "Transmission": {
+    "link": "https://en.wikipedia.org/wiki/Transmission_(song)",
     "name": "Transmission",
     "cover": "Transmission_Joy Division2.jpg",
     "key": "C",
@@ -1142,6 +1147,7 @@
     "origin": "West Coast"
   },
   "Hurt": {
+    "link": "https://en.wikipedia.org/wiki/Hurt_(Nine_Inch_Nails_song)",
     "name": "Hurt",
     "artist": "Johnny Cash",
     "album": "American IV: The Man Comes Around",
@@ -1535,6 +1541,7 @@
     "origin": "East Coast"
   },
   "Yeah": {
+    "link": "https://en.wikipedia.org/wiki/Yeah_(LCD_Soundsystem_song)",
     "name": "Yeah",
     "cover": "LCD Soundsystem - Yeah cover art.jpg",
     "artist": "LCD Soundsystem",
@@ -1807,6 +1814,7 @@
     "origin": "International"
   },
   "London Calling": {
+    "link": "https://en.wikipedia.org/wiki/London_Calling_(song)",
     "name": "London Calling",
     "cover": "The Clash - London Calling.jpg",
     "caption": "Standard artwork, with yellow background used for one of original UK releases ''(12\" vinyl single pictured)''",
@@ -1887,6 +1895,7 @@
     "origin": "England"
   },
   "Marquee Moon": {
+    "link": "https://en.wikipedia.org/wiki/Marquee_Moon_(song)",
     "name": "Marquee Moon",
     "cover": "Marquee_moon_album_cover.jpg",
     "artist": "Television",

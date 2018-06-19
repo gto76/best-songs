@@ -14,6 +14,7 @@ import os
 import re
 import sys
 import matplotlib.pyplot as plt
+import urllib.parse
 
 
 # Songs that don't link to HD quality YouTube videos search.
@@ -24,6 +25,12 @@ NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
 
 YT_MOD = {'My Bitch Up': 'radio edit',
         'Soft Parade': 'Essential Rarities'}
+
+# Songs that don't have a link to karaoke site.
+NO_KARAOKE = ['The Ecstasy of Gold', 'If 6 Was 9', '21st Century Schizoid Man',
+                'Marquee Moon', 'Lust for Life', 'California Über Alles',
+                "Bela Lugosi's Dead", "Rapper's Delight", 'Transmission',
+                'Raining Blood', 'Hey', 'Smack My Bitch Up', 'Yeah']
 
 JSONIZE_WIKI_DATA = True
 SORT_BY_DATE = True
@@ -52,6 +59,9 @@ MONTHS = {'january': 1,
 
 HEIGHT_FACTOR = 24.333
 IMG_HEIGHT = int(HEIGHT_FACTOR*len(DISPLAY_KEYS)) # 123
+
+GENIUS_REPLACEMENTS = ((' ', '-'), ('.', ''), ('Ü', 'u'), ("'", ''))
+KARAOKE_REPLACEMENTS = ((' ', '-'), ('.', '-'), ('--', '-'))
 
 
 ###
@@ -188,10 +198,50 @@ def get_title(albumName, songName, bandName, albumData):
     month = get_month(releaseDate)
     month = '' if not month else calendar.month_abbr[int(month)]
     link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>" 
-    text = f"'{year} {month} | \"{songName}\" — {bandName}"      
-    title_html = f"<h2>{link}{text}</h2>\n"
+    text = f"'{year} {month} | \"{songName}\" — {bandName}"
+    genius = get_genius_link(bandName, songName)
+    karaoke = get_karaoke_link(bandName, songName)
+    wiki = get_wiki_link(songName,  albumData[songName])  
+    title_html = f"<h2>{link}{text} {genius} {karaoke} {wiki}</h2>\n"
     title_md = f"\n### {text}  \n"
     return title_html, title_md
+
+
+def get_wiki_link(song_name, song_data):
+    href = song_data.get('link', None)
+    if not href:
+        song_name = song_name.replace(' ', '_')
+        song_name = urllib.parse.quote_plus(song_name)
+        href = f'https://en.wikipedia.org/wiki/{song_name}'
+    return f'<a href="{href}" targe' \
+           't="_blank"><img src="data/img/wiki-icon.png" width="25" height=' \
+           '"25" style="position: relative;top: 2px"></a>'
+
+
+def get_genius_link(bandName, songName):
+    artist = replace_chars(bandName, GENIUS_REPLACEMENTS)
+    if artist == 'clash' or artist == 'Clash':
+        artist = 'the-clash'
+    if artist == 'The-Sugarhill-Gang':
+        artist = 'Sugarhill-Gang'
+    title = replace_chars(songName, GENIUS_REPLACEMENTS)
+    href = f'https://genius.com/{artist}-{title}-lyrics'
+    return f'<a href="{href}" targe' \
+           't="_blank"><img src="data/img/genius-icon.png" width="25" height=' \
+           '"25" style="position: relative;top: 2px"></a>'
+
+
+def get_karaoke_link(bandName, songName):
+    if songName in NO_KARAOKE:
+        return ''
+    artist = replace_chars(bandName, KARAOKE_REPLACEMENTS).lower()
+    if artist == 'clash' or artist == 'Clash':
+        artist = 'the-clash'
+    title = replace_chars(songName, KARAOKE_REPLACEMENTS).lower()
+    href = f'http://www.karaoke-version.com/custombackingtrack/{artist}/{title}.html'
+    return f'<a href="{href}" targe' \
+           't="_blank"><img src="data/img/karaoke-icon.png" width="25" height=' \
+           '"25" style="position: relative;top: 2px"></a>'
 
 
 ###
@@ -445,6 +495,12 @@ def write_to_file(fileName, contents):
     f = open(fileName,'w')
     f.write(contents) 
     f.close()
+
+
+def replace_chars(a_str, chars):
+    for ch_from, ch_to in chars:
+        a_str = a_str.replace(ch_from, ch_to)
+    return urllib.parse.quote_plus(a_str)
 
 
 if __name__ == '__main__':

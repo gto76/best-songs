@@ -27,6 +27,7 @@
 }}
 ####
 {{Infobox song |
+| link = https://en.wikipedia.org/wiki/L.A._Woman_(song)
 | Name           = L.A. Woman
 | Cover          = The Doors - L.A. Woman.jpg
 | Artist         = [[the Doors]]
@@ -401,6 +402,7 @@
 }}
 ####
 {{Infobox album
+| link = https://en.wikipedia.org/wiki/Doolittle_(album)
 | name       = Hey
 | type       = studio
 | artist     = [[Pixies]]
@@ -755,6 +757,7 @@
 }}
 ####
 {{Infobox single
+| link = https://en.wikipedia.org/wiki/Lust_for_Life_(Iggy_Pop_song)
 | alt = 
 | B-side        = "Success"
 | Name          = Lust for Life
@@ -817,6 +820,7 @@
 }}
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| link = https://en.wikipedia.org/wiki/Walk_on_the_Wild_Side_(Lou_Reed_song)
 | Name          = Walk on the Wild Side
 | Cover_alt         = wows1.jpg
 | Cover         = wows1_alt.jpg
@@ -840,6 +844,7 @@
 }}
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| link = https://en.wikipedia.org/wiki/Transmission_(song)
 | Name          = Transmission
 | Cover         = Transmission_Joy Division2.jpg
 | Alt           =
@@ -1080,6 +1085,7 @@
 }}
 ####
 {{Infobox single
+| link = https://en.wikipedia.org/wiki/Hurt_(Nine_Inch_Nails_song)
 | Name = Hurt
 | Artist= [[Johnny Cash]]
 | Album = [[American IV: The Man Comes Around]]
@@ -1451,6 +1457,7 @@
 }}
 ####
 {{Infobox single
+| link = https://en.wikipedia.org/wiki/Yeah_(LCD_Soundsystem_song)
 | Name           = Yeah
 | Cover          = LCD Soundsystem - Yeah cover art.jpg
 | Artist         = [[LCD Soundsystem]]
@@ -1681,6 +1688,7 @@
 }}
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| link = https://en.wikipedia.org/wiki/London_Calling_(song)
 | Name          = London Calling
 | Cover         = The Clash - London Calling.jpg
 | Caption       = Standard artwork, with yellow background used for one of original UK releases ''(12" vinyl single pictured)''
@@ -1767,6 +1775,7 @@
 }}
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| link = https://en.wikipedia.org/wiki/Marquee_Moon_(song)
 | Name           = Marquee Moon
 | Cover          = Marquee_moon_album_cover.jpg
 | Artist         = [[Television (band)|Television]]
