@@ -35,6 +35,15 @@ playlist</a> is also available.</b>
 **Length:&ensp;2:50**  
 **Label:&ensp;Sun**  
 
+### '65 Jul | "Like a Rolling Stone" — Bob Dylan  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Bob+Dylan+Like+a+Rolling+Stone&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Bob_Dylan_-_Like_a_Rolling_Stone.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Folk Rock**  
+**Writer:&ensp;Bob Dylan**  
+**Producer:&ensp;Tom Wilson**  
+**Length:&ensp;6:13**  
+**Label:&ensp;Columbia 43346**  
+
 ### '66 Dec | "The Ecstasy of Gold" — Ennio Morricone  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ennio+Morricone+The+Ecstasy+of+Gold&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Good_the_Bad_the_Ugly_soundtrack.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -43,15 +52,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Ennio Morricone**  
 **Length:&ensp;3:22**  
 **Labels:&ensp;Emi America, Capitol Records**  
-
-### '67 Dec | "If 6 Was 9" — the Jimi Hendrix Experience  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Jimi+Hendrix+Experience+If+6+Was+9&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Axiscover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Rock**  
-**Writer:&ensp;Jimi Hendrix**  
-**Producer:&ensp;Chas Chandler**  
-**Length:&ensp;5:32**  
-**Labels:&ensp;Track (Uk), Reprise (Us)**  
 
 ### '69 Oct | "21st Century Schizoid Man" — King Crimson  
 <a target="_blank" href="https://www.youtube.com/results?search_query=King+Crimson+21st+Century+Schizoid+Man&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/21st_Century_Schizoid_Man.jpg" align="left" alt="cover" height="121px"/></a>
@@ -62,13 +62,13 @@ playlist</a> is also available.</b>
 **Length:&ensp;6:45 (Live in Mexico City, '96 / '99), 7:20 (Album Version)**  
 **Label:&ensp;Island**  
 
-### '71 Apr | "L.A. Woman" — the Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Doors+L.A.+Woman&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/The Doors - L.A. Woman.jpg" align="left" alt="cover" height="121px"/></a>
+### '71 Apr | "Cars Hiss by My Window" — the Doors  
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Doors+Cars+Hiss+by+My+Window&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/The Doors - L.A. Woman.jpg" align="left" alt="cover" height="121px"/></a>
 
-**Genres:&ensp;Rock And Roll, Blues Rock**  
+**Genre:&ensp;Blues Rock**  
 **Writer:&ensp;Jim Morrison**  
 **Producers:&ensp;The Doors, Bruce Botnick**  
-**Length:&ensp;7:49 (original version), 7:59 (40th anniversary edit)**  
+**Length:&ensp;4:12**  
 **Label:&ensp;Elektra**  
 
 ### '72 Nov | "Walk on the Wild Side" — Lou Reed  

@@ -1,3 +1,71 @@
+{{Infobox album <!-- See Wikipedia:WikiProject_Albums -->
+| Name        = Cars Hiss by My Window
+| link = https://en.wikipedia.org/wiki/L.A._Woman
+| Origin = West Coast
+| Bpm = 72
+| key = E
+| Type        = studio
+| Artist      = [[the Doors]]
+| Cover       = The Doors - L.A. Woman.jpg
+| Released    = {{Start date|1971|4|19}}
+| Writer         = [[Jim Morrison]]
+| Recorded    = December 1970 – January 1971
+| Studio      = The Doors' Workshop, {{nowrap|[[Los Angeles]]}}, California
+| Genre       = [[Blues rock]]
+| Length      = 4:12
+| Label       = [[Elektra Records|Elektra]]
+| Producer    = [[The Doors]], [[Bruce Botnick]]
+| Last album  = ''[[13 (The Doors album)|13]]''<br />(1970)
+| This album  = '''''L.A. Woman'''''<br />(1971)
+| Next album  = ''[[Other Voices (The Doors album)|Other Voices]]''<br />(1971)
+| Misc        = {{Singles
+ | Name          = L.A. Woman
+ | Type          = studio
+ | Single 1      = [[Love Her Madly]]
+ | Single 1 date = March 1971
+ | Single 2      = [[Riders on the Storm]]
+ | Single 2 date = June 1971
+ }}
+}}
+####
+{{Infobox song
+| name       = Like a Rolling Stone
+| cover      = Bob_Dylan_-_Like_a_Rolling_Stone.jpg
+| alt        = An album cover with a black background. Diagonally aligned, a photo of a man runs across one side of the cover. He is in a brown shirt and looks at the camera, turning the left side of his body towards it. To the right of him are large words printed on the black background, reading: "Bob Dylan", "Like a Rolling Stone", and "Gates of Eden".
+| caption    = Cover of the 1965 French single
+| type       = single
+| artist     = [[Bob Dylan]]
+| album      = [[Highway 61 Revisited]]
+| B-side     = [[Gates of Eden (song)|Gates of Eden]]
+| released   = {{Start date|1965|7|20|mf=yes}}
+| format     = [[7-inch single]]
+| recorded   = June 15–16, 1965
+| studio     = [[CBS 30th Street Studio|Columbia Studio A]], New York City<ref name="CONSIDINE">Considine, Shaun, [https://www.nytimes.com/2004/12/03/opinion/03considine.html "The Hit We Almost Missed"], ''The New York Times'', December 3, 2004</ref>
+| venue      =
+| Origin = East Coast
+| Bpm = 96
+| key = C
+| genre      = [[Folk rock]]<ref>{{cite web|last=Unterberger|first=Richie|authorlink=Richie Unterberger|title=Great Moments in Folk Rock: Lists of Aunthor Favorites|publisher=www.richieunterberger.com|url=http://www.richieunterberger.com/turnlists.html|accessdate=2011-01-26}}</ref>
+| length     = {{Duration|m=6|s=13}}
+| label      = [[Columbia Records|Columbia]] 43346
+| writer     = Bob Dylan
+| producer   = [[Tom Wilson (producer)|Tom Wilson]]
+| prev_title = [[Maggie's Farm]]
+| prev_year  = 1965
+| next_title = [[Positively 4th Street]]
+| next_year  = 1965
+| misc       = {{Audio sample
+ | type = single
+ | file = Bob_Dylan_-_Like_a_Rolling_Stone.ogg
+}}
+{{Extra track listing
+ | album  = [[Highway 61 Revisited]]
+ | type   = single
+ | tracks = {{Highway 61 Revisited tracks}}
+}}{{#if:{{Highway 61 Revisited tracks}}||[[Category:Pages using extra track listing with no tracks]]
+}}
+}}
+####
 {{Infobox single
 | Name = Smells Like Teen Spirit
 | Cover = Smells_Like_Teen_Spirit.jpg

@@ -30,7 +30,8 @@ YT_MOD = {'My Bitch Up': 'radio edit',
 NO_KARAOKE = ['The Ecstasy of Gold', 'If 6 Was 9', '21st Century Schizoid Man',
                 'Marquee Moon', 'Lust for Life', 'California Über Alles',
                 "Bela Lugosi's Dead", "Rapper's Delight", 'Transmission',
-                'Raining Blood', 'Hey', 'Smack My Bitch Up', 'Yeah']
+                'Raining Blood', 'Hey', 'Smack My Bitch Up', 'Yeah',
+                'Cars Hiss by My Window']
 
 JSONIZE_WIKI_DATA = True
 SORT_BY_DATE = True

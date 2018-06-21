@@ -1,4 +1,66 @@
 {
+  "Cars Hiss by My Window": {
+    "name": "Cars Hiss by My Window",
+    "link": "https://en.wikipedia.org/wiki/L.A._Woman",
+    "origin": "West Coast",
+    "bpm": "72",
+    "key": "E",
+    "type": "studio",
+    "artist": "the Doors",
+    "cover": "The Doors - L.A. Woman.jpg",
+    "released": "1971.4.19",
+    "writer": "Jim Morrison",
+    "recorded": "December 1970 – January 1971",
+    "studio": "The Doors' Workshop,",
+    "genre": "Blues rock",
+    "length": "4:12",
+    "label": "Elektra",
+    "producer": [
+      "The Doors",
+      "Bruce Botnick"
+    ],
+    "last album": "''13'', (1970)",
+    "this album": "'''''L.A. Woman''''', (1971)",
+    "next album": "''Other Voices'', (1971)",
+    "misc": {
+      "name": "L.A. Woman",
+      "type": "studio",
+      "single 1": "Love Her Madly",
+      "single 1 date": "March 1971",
+      "single 2": "Riders on the Storm",
+      "single 2 date": "June 1971"
+    }
+  },
+  "Like a Rolling Stone": {
+    "name": "Like a Rolling Stone",
+    "cover": "Bob_Dylan_-_Like_a_Rolling_Stone.jpg",
+    "alt": "An album cover with a black background. Diagonally aligned, a photo of a man runs across one side of the cover. He is in a brown shirt and looks at the camera, turning the left side of his body towards it. To the right of him are large words printed on the black background, reading: \"Bob Dylan\", \"Like a Rolling Stone\", and \"Gates of Eden\".",
+    "caption": "Cover of the 1965 French single",
+    "type": "single",
+    "artist": "Bob Dylan",
+    "album": "Highway 61 Revisited",
+    "b-side": "Gates of Eden",
+    "released": "1965.7.20",
+    "format": "7-inch single",
+    "recorded": "June 15–16, 1965",
+    "studio": "Columbia Studio A, New York City",
+    "origin": "East Coast",
+    "bpm": "96",
+    "key": "C",
+    "genre": "Folk rock",
+    "length": "6:13",
+    "label": "Columbia 43346",
+    "writer": "Bob Dylan",
+    "producer": "Tom Wilson",
+    "prev_title": "Maggie's Farm",
+    "prev_year": "1965",
+    "next_title": "Positively 4th Street",
+    "next_year": "1965",
+    "misc": {
+      "album": "Highway 61 Revisited",
+      "type": "single"
+    }
+  },
   "Smells Like Teen Spirit": {
     "name": "Smells Like Teen Spirit",
     "cover": "Smells_Like_Teen_Spirit.jpg",
