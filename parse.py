@@ -202,10 +202,20 @@ def get_title(albumName, songName, bandName, albumData):
     text = f"'{year} {month} | \"{songName}\" — {bandName}"
     genius = get_genius_link(bandName, songName)
     karaoke = get_karaoke_link(bandName, songName)
-    wiki = get_wiki_link(songName,  albumData[songName])  
-    title_html = f"<h2>{link}{text} {genius} {karaoke} {wiki}</h2>\n"
+    wiki = get_wiki_link(songName,  albumData[songName])
+    allmusic = get_allmusic_link(albumData[songName])
+    title_html = f"<h2>{link}{text} {genius} {karaoke} {allmusic} {wiki}</h2>\n"
     title_md = f"\n### {text}  \n"
     return title_html, title_md
+
+
+def get_allmusic_link(song_data):
+    href = song_data.get('allmusic', None)
+    if not href:
+        return ''
+    return f'<a href="{href}" targe' \
+           't="_blank"><img src="data/img/allmusic-icon.png" width="22" height=' \
+           '"22" style="position: relative;bottom: 1px"></a>'
 
 
 def get_wiki_link(song_name, song_data):

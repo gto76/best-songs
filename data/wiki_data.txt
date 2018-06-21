@@ -30,6 +30,7 @@
 ####
 {{Infobox song
 | name       = Like a Rolling Stone
+| allmusic = https://www.allmusic.com/song/like-a-rolling-stone-mt0000694769
 | cover      = Bob_Dylan_-_Like_a_Rolling_Stone.jpg
 | alt        = An album cover with a black background. Diagonally aligned, a photo of a man runs across one side of the cover. He is in a brown shirt and looks at the camera, turning the left side of his body towards it. To the right of him are large words printed on the black background, reading: "Bob Dylan", "Like a Rolling Stone", and "Gates of Eden".
 | caption    = Cover of the 1965 French single
@@ -157,6 +158,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = Bela Lugosi's Dead
+| allmusic = https://www.allmusic.com/song/bela-lugosis-dead-mt0009311202
 | Cover          = Bela_Lugosi's_Dead_Cover.jpg
 | Artist         = [[Bauhaus (band)|Bauhaus]]
 | B-side         = "Boys"
@@ -471,6 +473,7 @@
 ####
 {{Infobox album
 | link = https://en.wikipedia.org/wiki/Doolittle_(album)
+| allmusic = https://www.allmusic.com/song/hey-mt0008271532
 | name       = Hey
 | type       = studio
 | artist     = [[Pixies]]
@@ -652,6 +655,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name           = California Über Alles
+| allmusic = https://www.allmusic.com/song/california-%C3ber-alles-mt0012539481
 | Cover          = Dead_Kennedys_-_California_Über_Alles_cover.jpg
 | Artist         = [[Dead Kennedys]]
 | from Album     = [[Fresh Fruit for Rotting Vegetables]]
@@ -826,6 +830,7 @@
 ####
 {{Infobox single
 | link = https://en.wikipedia.org/wiki/Lust_for_Life_(Iggy_Pop_song)
+| allmusic = https://www.allmusic.com/song/lust-for-life-mt0004864016
 | alt = 
 | B-side        = "Success"
 | Name          = Lust for Life
@@ -889,6 +894,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | link = https://en.wikipedia.org/wiki/Walk_on_the_Wild_Side_(Lou_Reed_song)
+| allmusic = https://www.allmusic.com/song/walk-on-the-wild-side-mt0011442996
 | Name          = Walk on the Wild Side
 | Cover_alt         = wows1.jpg
 | Cover         = wows1_alt.jpg
@@ -913,6 +919,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | link = https://en.wikipedia.org/wiki/Transmission_(song)
+| allmusic = https://www.allmusic.com/song/transmission-mt0001060137
 | Name          = Transmission
 | Cover         = Transmission_Joy Division2.jpg
 | Alt           =
@@ -1310,6 +1317,7 @@
 ####
 {{Infobox single
 | Name = Song 2
+| allmusic = https://www.allmusic.com/song/song-2-mt0005905209
 | Cover = Blur_song_2_CD1.jpg
 | Artist = [[Blur (band)|Blur]]
 | key = Ab
@@ -1403,6 +1411,7 @@
 | Name           = Folsom Prison Blues
 | Cover          = Folsom Prison Blues.png
 | Artist         = [[Johnny Cash]]
+| allmusic = https://www.allmusic.com/song/folsom-prison-blues-mt0002640120
 | key = F
 | bpm = 101
 | from Album     = [[With His Hot and Blue Guitar]], [[Sings Hank Williams]], [[All Aboard the Blue Train]], ''and'' [[I Walk the Line (1964 album)|I Walk the Line]]
@@ -1497,6 +1506,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | Name          = Blitzkrieg Bop
+| allmusic = https://www.allmusic.com/song/blitzkrieg-bop-mt0049561569
 | Cover         = Ramones_-_Blitzkrieg_Bop_cover.jpg
 | Cover_alt     = Ramones_-_Blitzkrieg_Bop_cover_alt.jpg
 | Border        = yes
@@ -1549,6 +1559,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject Songs -->
 | Name           = Rapper's Delight
+| allmusic = https://www.allmusic.com/song/rappers-delight-mt0031818518
 | Cover          = Rappersdelight.jpg
 | Artist         = [[The Sugarhill Gang]]
 | from Album     = [[Sugarhill Gang (album)|Sugarhill Gang]]
@@ -1623,6 +1634,7 @@
 ####
 {{Infobox single
 |  Name           = In Bloom
+| allmusic = https://www.allmusic.com/song/in-bloom-mt0000570264
 |  Cover          = InBloom.jpg
 |  Artist         = [[Nirvana (band)|Nirvana]]
 | origin     = West Coast
@@ -1757,6 +1769,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | link = https://en.wikipedia.org/wiki/London_Calling_(song)
+| allmusic = https://www.allmusic.com/song/london-calling-mt0002578360
 | Name          = London Calling
 | Cover         = The Clash - London Calling.jpg
 | Caption       = Standard artwork, with yellow background used for one of original UK releases ''(12" vinyl single pictured)''
@@ -1844,6 +1857,7 @@
 ####
 {{Infobox single <!-- See Wikipedia:WikiProject_Songs -->
 | link = https://en.wikipedia.org/wiki/Marquee_Moon_(song)
+| allmusic = https://www.allmusic.com/song/marquee-moon-mt0001385383
 | Name           = Marquee Moon
 | Cover          = Marquee_moon_album_cover.jpg
 | Artist         = [[Television (band)|Television]]
@@ -1928,6 +1942,7 @@
 ####
 {{Infobox single
 | Name        = Psycho Killer
+| allmusic = https://www.allmusic.com/song/psycho-killer-mt0013238347`
 | Cover       = Talking heads psycho killer USA vinyl.jpg
 | Caption     = U.S. vinyl edition cover
 | key = D

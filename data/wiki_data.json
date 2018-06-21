@@ -33,6 +33,7 @@
   },
   "Like a Rolling Stone": {
     "name": "Like a Rolling Stone",
+    "allmusic": "https://www.allmusic.com/song/like-a-rolling-stone-mt0000694769",
     "cover": "Bob_Dylan_-_Like_a_Rolling_Stone.jpg",
     "alt": "An album cover with a black background. Diagonally aligned, a photo of a man runs across one side of the cover. He is in a brown shirt and looks at the camera, turning the left side of his body towards it. To the right of him are large words printed on the black background, reading: \"Bob Dylan\", \"Like a Rolling Stone\", and \"Gates of Eden\".",
     "caption": "Cover of the 1965 French single",
@@ -167,6 +168,7 @@
   },
   "Bela Lugosi's Dead": {
     "name": "Bela Lugosi's Dead",
+    "allmusic": "https://www.allmusic.com/song/bela-lugosis-dead-mt0009311202",
     "cover": "Bela_Lugosi's_Dead_Cover.jpg",
     "artist": "Bauhaus",
     "b-side": "\"Boys\"",
@@ -476,6 +478,7 @@
   },
   "Hey": {
     "link": "https://en.wikipedia.org/wiki/Doolittle_(album)",
+    "allmusic": "https://www.allmusic.com/song/hey-mt0008271532",
     "name": "Hey",
     "type": "studio",
     "artist": "Pixies",
@@ -663,6 +666,7 @@
   },
   "California Über Alles": {
     "name": "California Über Alles",
+    "allmusic": "https://www.allmusic.com/song/california-%C3ber-alles-mt0012539481",
     "cover": "Dead_Kennedys_-_California_Über_Alles_cover.jpg",
     "artist": "Dead Kennedys",
     "from album": "Fresh Fruit for Rotting Vegetables",
@@ -860,6 +864,7 @@
   },
   "Lust for Life": {
     "link": "https://en.wikipedia.org/wiki/Lust_for_Life_(Iggy_Pop_song)",
+    "allmusic": "https://www.allmusic.com/song/lust-for-life-mt0004864016",
     "b-side": "\"Success\"",
     "name": "Lust for Life",
     "cover": "Lust for Life.jpg",
@@ -910,6 +915,7 @@
   },
   "Walk on the Wild Side": {
     "link": "https://en.wikipedia.org/wiki/Walk_on_the_Wild_Side_(Lou_Reed_song)",
+    "allmusic": "https://www.allmusic.com/song/walk-on-the-wild-side-mt0011442996",
     "name": "Walk on the Wild Side",
     "cover_alt": "wows1.jpg",
     "cover": "wows1_alt.jpg",
@@ -935,6 +941,7 @@
   },
   "Transmission": {
     "link": "https://en.wikipedia.org/wiki/Transmission_(song)",
+    "allmusic": "https://www.allmusic.com/song/transmission-mt0001060137",
     "name": "Transmission",
     "cover": "Transmission_Joy Division2.jpg",
     "key": "C",
@@ -1384,6 +1391,7 @@
   },
   "Song 2": {
     "name": "Song 2",
+    "allmusic": "https://www.allmusic.com/song/song-2-mt0005905209",
     "cover": "Blur_song_2_CD1.jpg",
     "artist": "Blur",
     "key": "Ab",
@@ -1487,6 +1495,7 @@
     "name": "Folsom Prison Blues",
     "cover": "Folsom Prison Blues.png",
     "artist": "Johnny Cash",
+    "allmusic": "https://www.allmusic.com/song/folsom-prison-blues-mt0002640120",
     "key": "F",
     "bpm": "101",
     "from album": "With His Hot and Blue Guitar, Sings Hank Williams, All Aboard the Blue Train, ''and'' I Walk the Line",
@@ -1576,6 +1585,7 @@
   },
   "Blitzkrieg Bop": {
     "name": "Blitzkrieg Bop",
+    "allmusic": "https://www.allmusic.com/song/blitzkrieg-bop-mt0049561569",
     "cover": "Ramones_-_Blitzkrieg_Bop_cover.jpg",
     "cover_alt": "Ramones_-_Blitzkrieg_Bop_cover_alt.jpg",
     "artist": "Ramones",
@@ -1640,6 +1650,7 @@
   },
   "Rapper's Delight": {
     "name": "Rapper's Delight",
+    "allmusic": "https://www.allmusic.com/song/rappers-delight-mt0031818518",
     "cover": "Rappersdelight.jpg",
     "artist": "The Sugarhill Gang",
     "from album": "Sugarhill Gang",
@@ -1711,6 +1722,7 @@
   },
   "In Bloom": {
     "name": "In Bloom",
+    "allmusic": "https://www.allmusic.com/song/in-bloom-mt0000570264",
     "cover": "InBloom.jpg",
     "artist": "Nirvana",
     "origin": "West Coast",
@@ -1877,6 +1889,7 @@
   },
   "London Calling": {
     "link": "https://en.wikipedia.org/wiki/London_Calling_(song)",
+    "allmusic": "https://www.allmusic.com/song/london-calling-mt0002578360",
     "name": "London Calling",
     "cover": "The Clash - London Calling.jpg",
     "caption": "Standard artwork, with yellow background used for one of original UK releases ''(12\" vinyl single pictured)''",
@@ -1958,6 +1971,7 @@
   },
   "Marquee Moon": {
     "link": "https://en.wikipedia.org/wiki/Marquee_Moon_(song)",
+    "allmusic": "https://www.allmusic.com/song/marquee-moon-mt0001385383",
     "name": "Marquee Moon",
     "cover": "Marquee_moon_album_cover.jpg",
     "artist": "Television",
@@ -2053,6 +2067,7 @@
   },
   "Psycho Killer": {
     "name": "Psycho Killer",
+    "allmusic": "https://www.allmusic.com/song/psycho-killer-mt0013238347`",
     "cover": "Talking heads psycho killer USA vinyl.jpg",
     "caption": "U.S. vinyl edition cover",
     "key": "D",
