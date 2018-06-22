@@ -200,11 +200,11 @@ playlist</a> is also available.</b>
 ### '92 Nov | "Wake Up" — Rage Against the Machine  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Rage+Against+the+Machine+Wake+Up&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/RageAgainsttheMachineRageAgainsttheMachine.jpg" align="left" alt="cover" height="121px"/></a>
 
+**Genres:&ensp;Rap Metal, Alternative Metal, Funk Metal**  
 **Writers:&ensp;Tim Commerford, Zack De La Rocha, Tom Morello, Brad Wilk**  
 **Producers:&ensp;Garth 'Gggarth' Richardson, Rage Against The Machine**  
 **Length:&ensp;6:04**  
 **Label:&ensp;Epic**  
-<br>  
 
 ### '97 Feb | "Song 2" — Blur  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Blur+Song+2&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blur_song_2_CD1.jpg" align="left" alt="cover" height="121px"/></a>
