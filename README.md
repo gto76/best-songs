@@ -188,15 +188,6 @@ playlist</a> is also available.</b>
 **Length:&ensp;3:31**  
 **Labels:&ensp;4Ad, Elektra (Initial U.S. Distribution)**  
 
-### '91 Sep | "Smells Like Teen Spirit" — Nirvana  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+Smells+Like+Teen+Spirit&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Smells_Like_Teen_Spirit.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Grunge**  
-**Writer:&ensp;Nirvana**  
-**Producer:&ensp;Butch Vig**  
-**Lengths:&ensp;5:01**  
-**Label:&ensp;Dgc**  
-
 ### '91 Sep | "In Bloom" — Nirvana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+In+Bloom&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/InBloom.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -205,6 +196,15 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Butch Vig**  
 **Length:&ensp;4:11**  
 **Label:&ensp;Dgc**  
+
+### '92 Nov | "Wake Up" — Rage Against the Machine  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Rage+Against+the+Machine+Wake+Up&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/RageAgainsttheMachineRageAgainsttheMachine.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Writers:&ensp;Tim Commerford, Zack De La Rocha, Tom Morello, Brad Wilk**  
+**Producers:&ensp;Garth 'Gggarth' Richardson, Rage Against The Machine**  
+**Length:&ensp;6:04**  
+**Label:&ensp;Epic**  
+<br>  
 
 ### '97 Feb | "Song 2" — Blur  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Blur+Song+2&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blur_song_2_CD1.jpg" align="left" alt="cover" height="121px"/></a>

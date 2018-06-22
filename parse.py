@@ -31,7 +31,7 @@ NO_KARAOKE = ['The Ecstasy of Gold', 'If 6 Was 9', '21st Century Schizoid Man',
                 'Marquee Moon', 'Lust for Life', 'California Über Alles',
                 "Bela Lugosi's Dead", "Rapper's Delight", 'Transmission',
                 'Raining Blood', 'Hey', 'Smack My Bitch Up', 'Yeah',
-                'Cars Hiss by My Window']
+                'Cars Hiss by My Window', 'Wake Up']
 
 JSONIZE_WIKI_DATA = True
 SORT_BY_DATE = True

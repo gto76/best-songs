@@ -1,4 +1,32 @@
 {
+  "Wake Up": {
+    "name": "Wake Up",
+    "link": "https://en.wikipedia.org/wiki/Wake_Up_(Rage_Against_the_Machine_song)",
+    "cover": "RageAgainsttheMachineRageAgainsttheMachine.jpg",
+    "artist": "Rage Against the Machine",
+    "album": "Rage Against the Machine",
+    "released": "November 3, 1992",
+    "track_no": "7",
+    "length": "6:04",
+    "writer": [
+      "Tim Commerford",
+      "Zack de la Rocha",
+      "Tom Morello",
+      "Brad Wilk"
+    ],
+    "label": "Epic",
+    "producer": [
+      "Garth 'GGGarth' Richardson",
+      "Rage Against the Machine"
+    ],
+    "prev": "\"Know Your Enemy\"",
+    "prev_no": "6",
+    "next": "\"Fistful of Steel\"",
+    "next_no": "8",
+    "origin": "West Coast",
+    "bpm": "85",
+    "key": "D"
+  },
   "Cars Hiss by My Window": {
     "name": "Cars Hiss by My Window",
     "link": "https://en.wikipedia.org/wiki/L.A._Woman",
