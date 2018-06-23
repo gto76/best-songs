@@ -5,7 +5,13 @@ New Additions
 -------------
 Beatles - hey jude
 THE ISLEY BROTHERS, "SHOUT"
+
+american recordins - cash
+bangles ?
 T La Rock - ‘It’s Yours’ 
+Licensed to Ill [full album]?
+raign in blood
+Wildflowers tom petty
 
 Bowie - heroes
 Bright Eyes - A Perfect Sonnet

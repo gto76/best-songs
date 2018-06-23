@@ -44,6 +44,15 @@ playlist</a> is also available.</b>
 **Length:&ensp;6:13**  
 **Label:&ensp;Columbia**  
 
+### '66 May | "Paint It Black" — the Rolling Stones  
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Rolling+Stones+Paint+It+Black&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/RStones-PiB-Decca.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Psychedelic Rock, Raga Rock**  
+**Writer:&ensp;Jagger/Richards**  
+**Producer:&ensp;Andrew Loog Oldham**  
+**Lengths:&ensp;3:19 (mono single mix), 3:22 (stereo album mix)**  
+**Labels:&ensp;Decca (Uk), London (Us)**  
+
 ### '66 Dec | "The Ecstasy of Gold" — Ennio Morricone  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ennio+Morricone+The+Ecstasy+of+Gold&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Good_the_Bad_the_Ugly_soundtrack.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -133,15 +142,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Dead Kennedys**  
 **Length:&ensp;3:26 (Single Version), 3:03 (Album Version, Rel. '80 Sep, re-recorded)**  
 **Labels:&ensp;Alternative Tentacles (Us), Fast Product (Uk)**  
-
-### '79 Aug | "Bela Lugosi's Dead" — Bauhaus  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Bauhaus+Bela+Lugosi's+Dead&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Bela_Lugosi's_Dead_Cover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Gothic Rock**  
-**Writers:&ensp;David Haskins, Kevin Haskins, Peter Murphy, Daniel Ash**  
-**Length:&ensp;9:36**  
-**Label:&ensp;Small Wonder**  
-<br>  
 
 ### '79 Sep | "Rapper's Delight" — The Sugarhill Gang  
 <a target="_blank" href="https://www.youtube.com/results?search_query=The+Sugarhill+Gang+Rapper's+Delight&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Rappersdelight.jpg" align="left" alt="cover" height="121px"/></a>

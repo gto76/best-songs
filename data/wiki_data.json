@@ -1,4 +1,56 @@
 {
+  "Paint It Black": {
+    "name": "Paint It Black",
+    "allmusic": "https://www.allmusic.com/song/paint-it-black-mt0013139355",
+    "cover": "RStones-PiB-Decca.jpg",
+    "type": "single",
+    "origin": "England",
+    "bpm": "159",
+    "key": "E",
+    "artist": "the Rolling Stones",
+    "b-side": [
+      "\"Stupid Girl\" (US)",
+      "\"Long, Long While\" (UK)"
+    ],
+    "released": [
+      "1966.05.06 (US)",
+      "13 May 1966 (UK)"
+    ],
+    "format": "45 rpm record",
+    "recorded": "6–9 March 1966",
+    "studio": "RCA, Hollywood, California",
+    "genre": [
+      "Psychedelic rock",
+      "Raga rock"
+    ],
+    "length": [
+      "3:19 (mono single mix)",
+      "3:22 (stereo album mix)"
+    ],
+    "label": [
+      "Decca (uk)",
+      "London (us)"
+    ],
+    "writer": "Jagger/Richards",
+    "producer": "Andrew Loog Oldham",
+    "chronology": "Rolling Stones US",
+    "prev_title": "19th Nervous Breakdown",
+    "prev_year": "1966",
+    "next_title": "Mother's Little Helper",
+    "next_title2": "Lady Jane",
+    "next_year": "1966",
+    "misc": {
+      "artist": "Rolling Stones UK",
+      "type": "single",
+      "prev_title": "19th Nervous Breakdown",
+      "prev_year": "1966",
+      "title": "Paint It Black",
+      "year": "1966",
+      "next_title": "Have You Seen Your Mother, Baby, Standing in the Shadow?",
+      "next_year": "1966"
+    },
+    "file": "The_Rolling_Stones_-_Paint_It_Black.ogg"
+  },
   "Wake Up": {
     "name": "Wake Up",
     "link": "https://en.wikipedia.org/wiki/Wake_Up_(Rage_Against_the_Machine_song)",

@@ -1,4 +1,61 @@
 {{Infobox song
+| name           = Paint It Black
+| allmusic = https://www.allmusic.com/song/paint-it-black-mt0013139355
+| cover          = RStones-PiB-Decca.jpg
+| type = single
+| Origin = England
+| Bpm = 159
+| key = E
+| artist         = [[the Rolling Stones]]
+| B-side         = 
+*"[[Stupid Girl (The Rolling Stones song)|Stupid Girl]]" (US)
+*"Long, Long While" (UK)
+| released       = 
+*{{Start date|1966|05|06|df=y}} (US)
+*13 May 1966 (UK)
+| format         = [[45 rpm record]]
+| recorded       = 6–9 March 1966
+| studio = [[RCA Records|RCA]], Hollywood, California
+| genre          = 
+*[[Psychedelic rock]]<ref>{{cite book|first= Jim |last= DeRogatis |authorlink= Jim DeRogatis |year= 2003 |title= Turn On Your Mind: Four Decades of Great Psychedelic Rock |chapter= The Stones' Ten Best Psychedelic Rock Songs |publisher= [[Hal Leonard Corporation]] |page= 54 |isbn= 0-634-05548-8 |chapterurl= https://books.google.com/books?id=U7cQmRsLgN8C&pg=PA54}}</ref>
+* [[raga rock]]<ref>[https://books.google.com/books?id=qEEUAQAAIAAJ&q=%22raga+rock+riot%22 {{"'}}Paint It, Black' a glorious Indian raga-rock riot that will send the Stones back to #1", Nicholas Schaffner, ''The British invasion: from the first wave to the new wave''], (McGraw-Hill, 1982) {{ISBN|0-07-055089-1}}</ref>
+| length         = 
+*{{Duration|m=3|s=19}} (mono single mix)
+*3:22 (stereo album mix)
+| label          = 
+*[[Decca Records|Decca]] (UK)
+*[[London Records|London]] (US)<ref name="500 Number One Hits">{{cite book | first= Jo | last= Rice | year= 1982 | title= The Guinness Book of 500 Number One Hits | edition= 1st | publisher= Guinness Superlatives Ltd | location= Enfield, Middlesex | page= 101 | isbn= 0-85112-250-7}}</ref>
+| writer        = [[Jagger/Richards]]
+| producer       = [[Andrew Loog Oldham]]<ref name="500 Number One Hits"/>
+| chronology = Rolling Stones US
+| prev_title    = [[19th Nervous Breakdown]]
+| prev_year = 1966 
+| next_title    = [[Mother's Little Helper]]
+| next_title2   = [[Lady Jane (song)|Lady Jane]]
+| next_year     = 1966
+| misc         = {{Extra chronology
+ | artist     = Rolling Stones UK
+ | type       = single
+ | prev_title = [[19th Nervous Breakdown]]
+ | prev_year  = 1966
+ | title      = Paint It Black
+ | year       = 1966
+ | next_title = [[Have You Seen Your Mother, Baby, Standing in the Shadow?]]
+ | next_year  = 1966
+}}{{Audio sample
+ | type = single
+ | file = The_Rolling_Stones_-_Paint_It_Black.ogg
+}}{{Extra album cover
+ | header  = Alternative cover
+ | type    = single
+ | cover   = Paintitblack.jpg
+ | border  =
+ | alt     =
+ | caption = US picture sleeve
+}}
+}}
+####
+{{Infobox song
 | Name = Wake Up
 | link = https://en.wikipedia.org/wiki/Wake_Up_(Rage_Against_the_Machine_song)
 | Cover = RageAgainsttheMachineRageAgainsttheMachine.jpg
