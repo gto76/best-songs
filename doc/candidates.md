@@ -3,6 +3,22 @@ Best Songs
 
 New Additions
 -------------
+Beatles - hey jude
+THE ISLEY BROTHERS, "SHOUT"
+T La Rock - ‘It’s Yours’ 
+
+Bowie - heroes
+Bright Eyes - A Perfect Sonnet
+ZZ Top - La Grange
+toto - africa
+Beatles - come together
+I bet you look good on the dancefloor! - arctic monkeys
+stairway to heaven
+highway to hell
+The Rolling Stones, paint it black
++- ### 10 * El Guincho - Bombay
+james brown - I got you
+
 like a roling stone
 TALKING HEADS – “ONCE IN A LIFETIME”
 radiohead - Idioteque
@@ -20,7 +36,6 @@ Beastie Boys, "Sure Shot
 tribe called quest - Excursions
 
 ++ Bauhaus - Bela Lugosi's Dead
-+- ### 10 * El Guincho - Bombay
 
 Max Romeo - Chase The Devil
 crosroads
@@ -28,9 +43,6 @@ charlie parker - ornithology
 AZEALIA BANKS - 212
 
 For the Damaged Coda - blonde redhad
-
-I bet you look good on the dancefloor! - arctic monkeys
-toto - africa
 
 mr tambourine man
 
@@ -41,8 +53,6 @@ boom boom hooker
 boogie chillen
 
 PARANOID ANDROID radiohead
-
-The Rolling Stones, paint it black
 
 Surfer Rosa. 13 - Brick Is Red
 Surfer Rosa. 12 - I'm Amazed
@@ -69,7 +79,6 @@ Dave Brubeck - Take Five
 John Coltrane My Favorite Things
 Explosions in the Sky, “Your Hand in Mine”
 Beastie Boys – ‘Sabrosa’
-THE ISLEY BROTHERS, "SHOUT"
 rambo - balkan boy
 Rambo Amadeus - LM hit
 
@@ -101,7 +110,7 @@ Bregovic - ederlezi
 Hava Nageela - Harry Belafonte
 The Cramps - Heartbreak Hotel
 
-Can't you hear me knocking- rolling stones
+Can't you hear me knocking - rolling stones
 Teenage Kicks - undertones
 idoli - kenozoik
 
@@ -125,7 +134,6 @@ Jay-Z - 99 Problems
 Butthole Surfers - Pepper
 ### Blur - Girls and Boys
 Squarepusher "The Exploding Psychology"
-Bright Eyes - A Perfect Sonnet
 
 Interpol - Evil
 Antenat - Slon
@@ -229,11 +237,9 @@ RATM - wake up
 
 Seatbelts - Clutch (japan big band)
 idoli - maljciki
-james brown - I got you
 war pigs
 Ram Jam - Black Betty
 led - comunication breakdown
-ZZ Top - La Grange
 ### 80 C * Pankrti, 'Sedemnajst'
 ### 99 C/F * At The Drive In, 'One Armed Scissor' ??
 
@@ -344,7 +350,6 @@ arcade rebelion
 Fatboy Slim - Push The Tempo
 Shocking Blue - Venus
 Beatles - Help of friends
-Beatles - come together
 Beatles - walrus
 Beatles - hard days
 breaks

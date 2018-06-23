@@ -42,7 +42,7 @@ playlist</a> is also available.</b>
 **Writer:&ensp;Bob Dylan**  
 **Producer:&ensp;Tom Wilson**  
 **Length:&ensp;6:13**  
-**Label:&ensp;Columbia 43346**  
+**Label:&ensp;Columbia**  
 
 ### '66 Dec | "The Ecstasy of Gold" — Ennio Morricone  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ennio+Morricone+The+Ecstasy+of+Gold&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Good_the_Bad_the_Ugly_soundtrack.jpg" align="left" alt="cover" height="121px"/></a>

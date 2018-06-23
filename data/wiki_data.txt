@@ -70,7 +70,7 @@
 | key = C
 | genre      = [[Folk rock]]<ref>{{cite web|last=Unterberger|first=Richie|authorlink=Richie Unterberger|title=Great Moments in Folk Rock: Lists of Aunthor Favorites|publisher=www.richieunterberger.com|url=http://www.richieunterberger.com/turnlists.html|accessdate=2011-01-26}}</ref>
 | length     = {{Duration|m=6|s=13}}
-| label      = [[Columbia Records|Columbia]] 43346
+| label      = [[Columbia Records|Columbia]]
 | writer     = Bob Dylan
 | producer   = [[Tom Wilson (producer)|Tom Wilson]]
 | prev_title = [[Maggie's Farm]]
