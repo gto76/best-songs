@@ -1,4 +1,4 @@
-25 Greatest Songs of All Time
+27 Greatest Songs of All Time
 =============================
 
 
@@ -61,6 +61,15 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Ennio Morricone**  
 **Length:&ensp;3:22**  
 **Labels:&ensp;Emi America, Capitol Records**  
+
+### '69 Sep | "Come Together" — the Beatles  
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+Come+Together&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Come_Together-Something_(single_cover).jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Blues Rock**  
+**Writer:&ensp;Lennon–Mccartney**  
+**Producer:&ensp;George Martin**  
+**Length:&ensp;4:19**  
+**Label:&ensp;Apple**  
 
 ### '69 Oct | "21st Century Schizoid Man" — King Crimson  
 <a target="_blank" href="https://www.youtube.com/results?search_query=King+Crimson+21st+Century+Schizoid+Man&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/21st_Century_Schizoid_Man.jpg" align="left" alt="cover" height="121px"/></a>
@@ -179,22 +188,22 @@ playlist</a> is also available.</b>
 **Length:&ensp;4:14**  
 **Label:&ensp;Def Jam**  
 
-### '89 Apr | "Hey" — Pixies  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Pixies+Hey&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Pixies-Doolittle.jpg" align="left" alt="cover" height="121px"/></a>
+### '88 Mar | "Bone Machine" — Pixies  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Pixies+Bone+Machine&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/SurferRosa.jpg" align="left" alt="cover" height="121px"/></a>
 
-**Genres:&ensp;Alternative Rock, Noise Pop**  
+**Genre:&ensp;Alternative Rock**  
 **Writer:&ensp;Black Francis**  
-**Producer:&ensp;Gil Norton**  
-**Length:&ensp;3:31**  
-**Labels:&ensp;4Ad, Elektra (Initial U.S. Distribution)**  
+**Producer:&ensp;Steve Albini**  
+**Length:&ensp;3:02**  
+**Label:&ensp;4Ad**  
 
-### '91 Sep | "In Bloom" — Nirvana  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+In+Bloom&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/InBloom.jpg" align="left" alt="cover" height="121px"/></a>
+### '91 Sep | "Smells Like Teen Spirit" — Nirvana  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+Smells+Like+Teen+Spirit&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Smells_Like_Teen_Spirit.jpg" align="left" alt="cover" height="121px"/></a>
 
-**Genre:&ensp;Grunge**  
-**Writer:&ensp;Kurt Cobain**  
+**Genres:&ensp;Grunge**  
+**Writer:&ensp;Nirvana**  
 **Producer:&ensp;Butch Vig**  
-**Length:&ensp;4:11**  
+**Lengths:&ensp;5:01 (album version), 4:36 (single version)**  
 **Label:&ensp;Dgc**  
 
 ### '92 Nov | "Wake Up" — Rage Against the Machine  
@@ -205,6 +214,15 @@ playlist</a> is also available.</b>
 **Producers:&ensp;Garth 'Gggarth' Richardson, Rage Against The Machine**  
 **Length:&ensp;6:04**  
 **Label:&ensp;Epic**  
+
+### '93 Sep | "Milk It" — Nirvana  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+Milk+It&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/In_Utero_(Nirvana)_album_cover.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Grunge, Alternative Rock, Noise Rock**  
+**Writer:&ensp;Kurt Cobain**  
+**Producers:&ensp;Steve Albini, Scott Litt**  
+**Length:&ensp;3:55**  
+**Label:&ensp;Dgc**  
 
 ### '97 Feb | "Song 2" — Blur  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Blur+Song+2&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blur_song_2_CD1.jpg" align="left" alt="cover" height="121px"/></a>

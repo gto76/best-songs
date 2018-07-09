@@ -1,4 +1,95 @@
 {
+  "Milk It": {
+    "name": "Milk It",
+    "type": "studio",
+    "writer": "Kurt Cobain",
+    "origin": "West Coast",
+    "bpm": "138",
+    "key": "A",
+    "link": "https://en.wikipedia.org/wiki/In_Utero_(album)",
+    "artist": "Nirvana",
+    "cover": "In_Utero_(Nirvana)_album_cover.jpg",
+    "alt": "A fairy with human innards is visible below the band's name. The title of the album, ''In Utero'', appears below the fairy.",
+    "released": "1993.9.21",
+    "recorded": "February 12–26, 1993",
+    "studio": "Pachyderm Studio, Cannon Falls, Minnesota, United States",
+    "genre": [
+      "Grunge",
+      "alternative rock",
+      "noise rock"
+    ],
+    "length": "3:55",
+    "label": "DGC",
+    "producer": [
+      "Steve Albini",
+      "Scott Litt"
+    ],
+    "prev_title": "Incesticide",
+    "prev_year": "1992",
+    "next_title": "MTV Unplugged in New York",
+    "next_year": "1994",
+    "misc": {
+      "name": "In Utero",
+      "type": "studio",
+      "single 1": "Heart-Shaped Box",
+      "single 1 date": "August 30, 1993",
+      "single 2": "All Apologies\" / \"Rape Me",
+      "single 2 date": "December 6, 1993",
+      "single 3": "Pennyroyal Tea",
+      "single 3 date": "April 19, 2014"
+    }
+  },
+  "Bone Machine": {
+    "name": "Bone Machine",
+    "link": "https://en.wikipedia.org/wiki/Surfer_Rosa",
+    "type": "studio",
+    "artist": "Pixies",
+    "writer": "Black Francis",
+    "cover": "SurferRosa.jpg",
+    "origin": "East Coast",
+    "bpm": "116",
+    "key": "D",
+    "released": "March 21, 1988",
+    "recorded": "November 1987, Downtown Recorders, South End, Boston; December 1987, Q Division, Somerville, Massachusetts",
+    "genre": "Alternative rock",
+    "length": "3:02",
+    "label": "4AD",
+    "producer": "Steve Albini",
+    "last album": "''Come On Pilgrim'', (1987)",
+    "this album": "'''''Surfer Rosa''''', (1988)",
+    "next album": "''Doolittle'', (1989)",
+    "misc": {
+      "name": "Surfer Rosa",
+      "type": "studio",
+      "single 1": "Gigantic",
+      "single 1 date": "August 22, 1988"
+    }
+  },
+  "Come Together": {
+    "name": "Come Together",
+    "cover": "Come_Together-Something_(single_cover).jpg",
+    "caption": "1989 UK reissue picture sleeve",
+    "allmusic": "https://www.allmusic.com/song/come-together-mt0010100291",
+    "origin": "England",
+    "bpm": "88",
+    "key": "D",
+    "artist": "the Beatles",
+    "from album": "Abbey Road",
+    "a-side": "\"Something\" (double A-side)",
+    "released": "26 September 1969",
+    "format": "7-inch record",
+    "recorded": "21–30 July 1969,, EMI Studios, London",
+    "genre": "Blues rock",
+    "length": "4:19",
+    "writer": "Lennon–McCartney",
+    "producer": "George Martin",
+    "label": "Apple",
+    "misc": {
+      "filename": "Beatles cometogether.ogg",
+      "title": "\"Come Together\"",
+      "type": "single"
+    }
+  },
   "Paint It Black": {
     "name": "Paint It Black",
     "allmusic": "https://www.allmusic.com/song/paint-it-black-mt0013139355",
@@ -173,7 +264,8 @@
       "Grunge"
     ],
     "length": [
-      "5:01"
+      "5:01 (album version)",
+      "4:36 (single version)"
     ],
     "label": "DGC",
     "writer": "Nirvana",

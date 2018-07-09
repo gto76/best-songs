@@ -1,23 +1,35 @@
 Best Songs
 ==========
 
+Albums
+------
+arcadium rhcp
+audioslave
+
+zappa apostrophe
+american recordins - cash
+raign in blood
+Naked City - Naked City
+
+
 New Additions
 -------------
+Beatles - come together
+
+Lithium
+Where is my mind
+
+motherfucking wsp
+bye bye bably - blues (lightning?)
+baby, i dig you
+
 Beatles - hey jude
 THE ISLEY BROTHERS, "SHOUT"
-
-american recordins - cash
-bangles ?
-T La Rock - ‘It’s Yours’ 
-Licensed to Ill [full album]?
-raign in blood
-Wildflowers tom petty
 
 Bowie - heroes
 Bright Eyes - A Perfect Sonnet
 ZZ Top - La Grange
 toto - africa
-Beatles - come together
 I bet you look good on the dancefloor! - arctic monkeys
 stairway to heaven
 highway to hell
@@ -88,11 +100,14 @@ Beastie Boys – ‘Sabrosa’
 rambo - balkan boy
 Rambo Amadeus - LM hit
 
+milk it
+Frances Farmer Will Have Her Revenge on Seattle
+
+Very Ape
 scentles aprentice nirvana
+
 heart shaped box
 rape me
-Very Ape
-Frances Farmer Will Have Her Revenge on Seattle
 
 24 hour party - hapy mondays
 Peaches - Fuck the Pain Away
@@ -104,7 +119,6 @@ Love Her Madly
 Peace Frog
 Soul Kitchen
 Joanna Newsom - Peach Plum Pear
-Naked City - Naked City [Full Album]
 
 Faithless 'Insomnia'
 The Chemical Brothers 'Hey Boy, Hey Girl'
