@@ -14,6 +14,7 @@ Naked City - Naked City
 
 New Additions
 -------------
+Red Hot Chili Peppers - Give It Away
 Beatles - come together
 
 Lithium

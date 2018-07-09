@@ -1264,6 +1264,7 @@
 {{Infobox song
 | name       = White Rabbit
 | cover      = Jeffair_single.jpg
+| site = https://en.wikipedia.org/wiki/White_Rabbit_(song)
 | alt        =
 | border     = 
 | key = D

@@ -62,6 +62,15 @@ playlist</a> is also available.</b>
 **Length:&ensp;3:22**  
 **Labels:&ensp;Emi America, Capitol Records**  
 
+### '67 Feb | "White Rabbit" — Jefferson Airplane  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Jefferson+Airplane+White+Rabbit&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Jeffair_single.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Psychedelic Rock**  
+**Writer:&ensp;Grace Slick**  
+**Producer:&ensp;Rick Jarrard**  
+**Length:&ensp;2:31**  
+**Label:&ensp;Rca Victor**  
+
 ### '69 Sep | "Come Together" — the Beatles  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+Come+Together&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Come_Together-Something_(single_cover).jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -197,6 +206,15 @@ playlist</a> is also available.</b>
 **Length:&ensp;3:02**  
 **Label:&ensp;4Ad**  
 
+### '89 Apr | "Hey" — Pixies  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Pixies+Hey&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Pixies-Doolittle.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Alternative Rock, Noise Pop**  
+**Writer:&ensp;Black Francis**  
+**Producer:&ensp;Gil Norton**  
+**Length:&ensp;3:31**  
+**Labels:&ensp;4Ad, Elektra (Initial U.S. Distribution)**  
+
 ### '91 Sep | "Smells Like Teen Spirit" — Nirvana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+Smells+Like+Teen+Spirit&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Smells_Like_Teen_Spirit.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -214,15 +232,6 @@ playlist</a> is also available.</b>
 **Producers:&ensp;Garth 'Gggarth' Richardson, Rage Against The Machine**  
 **Length:&ensp;6:04**  
 **Label:&ensp;Epic**  
-
-### '93 Sep | "Milk It" — Nirvana  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+Milk+It&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/In_Utero_(Nirvana)_album_cover.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Grunge, Alternative Rock, Noise Rock**  
-**Writer:&ensp;Kurt Cobain**  
-**Producers:&ensp;Steve Albini, Scott Litt**  
-**Length:&ensp;3:55**  
-**Label:&ensp;Dgc**  
 
 ### '97 Feb | "Song 2" — Blur  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Blur+Song+2&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Blur_song_2_CD1.jpg" align="left" alt="cover" height="121px"/></a>
@@ -250,15 +259,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Rick Rubin**  
 **Length:&ensp;3:38**  
 **Labels:&ensp;American, Lost Highway**  
-
-### '04 Jan | "Yeah" — LCD Soundsystem  
-<a target="_blank" href="https://www.youtube.com/results?search_query=LCD+Soundsystem+Yeah"> <img src="data/img/cover/LCD Soundsystem - Yeah cover art.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Dance-Punk, Indietronica, Electroclash, Acid House**  
-**Writers:&ensp;Tim Goldsworthy, James Murphy**  
-**Producer:&ensp;The Dfa**  
-**Length:&ensp;9:20 (Crass Version), 11:03 (Pretentious Version)**  
-**Label:&ensp;Dfa**  
 
 Origin
 ------
