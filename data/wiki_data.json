@@ -1302,6 +1302,7 @@
   "White Rabbit": {
     "name": "White Rabbit",
     "cover": "Jeffair_single.jpg",
+    "site": "https://en.wikipedia.org/wiki/White_Rabbit_(song)",
     "key": "D",
     "bpm": "107",
     "type": "single",

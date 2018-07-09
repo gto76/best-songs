@@ -1,4 +1,4 @@
-27 Greatest Songs of All Time
+26 Greatest Songs of All Time
 =============================
 
 
@@ -205,15 +205,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Steve Albini**  
 **Length:&ensp;3:02**  
 **Label:&ensp;4Ad**  
-
-### '89 Apr | "Hey" — Pixies  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Pixies+Hey&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Pixies-Doolittle.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Alternative Rock, Noise Pop**  
-**Writer:&ensp;Black Francis**  
-**Producer:&ensp;Gil Norton**  
-**Length:&ensp;3:31**  
-**Labels:&ensp;4Ad, Elektra (Initial U.S. Distribution)**  
 
 ### '91 Sep | "Smells Like Teen Spirit" — Nirvana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+Smells+Like+Teen+Spirit&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Smells_Like_Teen_Spirit.jpg" align="left" alt="cover" height="121px"/></a>
