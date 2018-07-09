@@ -1,4 +1,4 @@
-26 Greatest Songs of All Time
+25 Greatest Songs of All Time
 =============================
 
 
@@ -97,15 +97,6 @@ playlist</a> is also available.</b>
 **Producers:&ensp;The Doors, Bruce Botnick**  
 **Length:&ensp;4:12**  
 **Label:&ensp;Elektra**  
-
-### '72 Nov | "Walk on the Wild Side" — Lou Reed  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Lou+Reed+Walk+on+the+Wild+Side&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/wows1_alt.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Writer:&ensp;Lou Reed**  
-**Producers:&ensp;David Bowie, Mick Ronson**  
-**Length:&ensp;4:12**  
-**Label:&ensp;Rca Records**  
-<br>  
 
 ### '75 Oct | "Bohemian Rhapsody" — Queen  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Queen+Bohemian+Rhapsody&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Bohemian_Rhapsody.png" align="left" alt="cover" height="121px"/></a>
