@@ -122,7 +122,7 @@ playlist</a> is also available.</b>
 **Genre:&ensp;Post-Punk**  
 **Writer:&ensp;Tom Verlaine**  
 **Producers:&ensp;Andy Johns, Tom Verlaine**  
-**Length:&ensp;10:40 (Re-issue without fadeout, Rel. '89), 9:58**  
+**Length:&ensp;9:58, 10:40 (Re-issue without fadeout, Rel. '89)**  
 **Label:&ensp;Elektra**  
 
 ### '77 Aug | "Lust for Life" — Iggy Pop  

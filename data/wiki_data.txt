@@ -2049,7 +2049,7 @@
 | Format         = [[Gramophone record|12"]]
 | Recorded       = A & R Studios, NYC
 | Genre          = [[Post-punk]]
-| Length         = 10:40 (Re-issue without fadeout, Rel. '89)<br>9:58
+| Length         = 9:58<br>10:40 (Re-issue without fadeout, Rel. '89)
 | Label          = [[Elektra Records|Elektra]]
 | Writer         = [[Tom Verlaine]]
 | Producer       = [[Andy Johns]], Tom Verlaine
