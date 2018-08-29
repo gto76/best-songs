@@ -62,14 +62,23 @@ playlist</a> is also available.</b>
 **Length:&ensp;3:22**  
 **Labels:&ensp;Emi America, Capitol Records**  
 
-### '67 Feb | "White Rabbit" — Jefferson Airplane  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Jefferson+Airplane+White+Rabbit&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Jeffair_single.jpg" align="left" alt="cover" height="121px"/></a>
+### '67 Jan | "Light My Fire" — The Doors  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Doors+Light+My+Fire&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Lightmyfire67.jpg" align="left" alt="cover" height="121px"/></a>
 
 **Genre:&ensp;Psychedelic Rock**  
-**Writer:&ensp;Grace Slick**  
-**Producer:&ensp;Rick Jarrard**  
-**Length:&ensp;2:31**  
-**Label:&ensp;Rca Victor**  
+**Writers:&ensp;Jim Morrison, Robbie Krieger, John Densmore, Ray Manzarek**  
+**Producer:&ensp;Paul A. Rothchild**  
+**Lengths:&ensp;7:06 (Album Version), 2:52 (Single Version), Live versions preferred**  
+**Label:&ensp;Elektra**  
+
+### '67 Mar | "Heroin" — the Velvet Underground  
+<a target="_blank" href="https://www.youtube.com/results?search_query=the+Velvet+Underground+Heroin&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Velvet_Underground_and_Nico.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genre:&ensp;Experimental Rock**  
+**Writer:&ensp;Lou Reed**  
+**Producer:&ensp;Andy Warhol**  
+**Length:&ensp;7:12**  
+**Label:&ensp;Verve**  
 
 ### '69 Sep | "Come Together" — the Beatles  
 <a target="_blank" href="https://www.youtube.com/results?search_query=the+Beatles+Come+Together&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Come_Together-Something_(single_cover).jpg" align="left" alt="cover" height="121px"/></a>
@@ -88,15 +97,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;King Crimson**  
 **Length:&ensp;6:45 (Live in Mexico City, '96 / '99), 7:20 (Album Version)**  
 **Label:&ensp;Island**  
-
-### '71 Apr | "Cars Hiss by My Window" — the Doors  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Doors+Cars+Hiss+by+My+Window&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/The Doors - L.A. Woman.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Blues Rock**  
-**Writer:&ensp;Jim Morrison**  
-**Producers:&ensp;The Doors, Bruce Botnick**  
-**Length:&ensp;4:12**  
-**Label:&ensp;Elektra**  
 
 ### '75 Oct | "Bohemian Rhapsody" — Queen  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Queen+Bohemian+Rhapsody&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Bohemian_Rhapsody.png" align="left" alt="cover" height="121px"/></a>
@@ -179,6 +179,15 @@ playlist</a> is also available.</b>
 **Length:&ensp;3:18**  
 **Label:&ensp;Cbs 8087**  
 
+### '82 Jul | "The Message" — Grandmaster Flash and the Furious Five  
+<a target="_blank" href="https://www.youtube.com/results?search_query=Grandmaster+Flash+and+the+Furious+Five+The+Message&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/grandmaster_flash_message.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Old School Hip Hop, Electro**  
+**Writers:&ensp;Edward G. Fletcher, Grandmaster Melle Mel, Sylvia Robinson, Clifton "Jiggs" Chase**  
+**Producers:&ensp;Edward G. Fletcher, Sylvia Robinson**  
+**Length:&ensp;7:10**  
+**Label:&ensp;Sugar Hill**  
+
 ### '86 Oct | "Raining Blood" — Slayer  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Slayer+Raining+Blood&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Reign_in_blood.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -187,15 +196,6 @@ playlist</a> is also available.</b>
 **Producers:&ensp;Rick Rubin, Slayer**  
 **Length:&ensp;4:14**  
 **Label:&ensp;Def Jam**  
-
-### '88 Mar | "Bone Machine" — Pixies  
-<a target="_blank" href="https://www.youtube.com/results?search_query=Pixies+Bone+Machine&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/SurferRosa.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genre:&ensp;Alternative Rock**  
-**Writer:&ensp;Black Francis**  
-**Producer:&ensp;Steve Albini**  
-**Length:&ensp;3:02**  
-**Label:&ensp;4Ad**  
 
 ### '91 Sep | "Smells Like Teen Spirit" — Nirvana  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Nirvana+Smells+Like+Teen+Spirit&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Smells_Like_Teen_Spirit.jpg" align="left" alt="cover" height="121px"/></a>

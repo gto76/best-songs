@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import urllib.parse
 
 
-# Songs that don't link to HD quality YouTube videos search.
+# Songs that don't have a HD quality YouTube video.
 NO_HD = ['Sedemnajst', 'Blister in the Sun', 'Kiss', 'Curious Girl', 'Yeah',
          'Linzserenade', '6 Was 9', 'One Armed Scissor', 'My Bitch Up',
          'Psycho Killer', 'Dead Kennedys', 'Raining Blood', 'Soft Parade',
@@ -31,7 +31,8 @@ NO_KARAOKE = ['The Ecstasy of Gold', 'If 6 Was 9', '21st Century Schizoid Man',
                 'Marquee Moon', 'Lust for Life', 'California Über Alles',
                 "Bela Lugosi's Dead", "Rapper's Delight", 'Transmission',
                 'Raining Blood', 'Hey', 'Smack My Bitch Up', 'Yeah',
-                'Cars Hiss by My Window', 'Wake Up', 'Bone Machine', 'Milk It']
+                'Cars Hiss by My Window', 'Wake Up', 'Bone Machine', 'Milk It',
+                'Heroin', 'The Message']
 
 JSONIZE_WIKI_DATA = True
 SORT_BY_DATE = True

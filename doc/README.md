@@ -16,7 +16,11 @@ How to add a song
 
 3b. Add link field, that links to the Wikipedia article about song or album. If
     link is in the form https://en.wikipedia.org/wiki/[SONG_NAME], then the
-    field is not needed.
+    field is not needed. Optionally add allmusic link to 'allmusic' field.
+
+3c. Songs that don't have a HD quality YouTube video and songs that don't have 
+    a link to karaoke site have to be added to lists at the top of 'parse.py'
+    file.
 
 4. Add optional `Origin`, `Bpm` and `Key` fields to the entry.
 

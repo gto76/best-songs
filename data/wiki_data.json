@@ -1,4 +1,67 @@
 {
+  "The Message": {
+    "name": "The Message",
+    "cover": "grandmaster_flash_message.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Message_(Grandmaster_Flash_and_the_Furious_Five_song)",
+    "origin": "East Coast",
+    "bpm": "101",
+    "key": "C#",
+    "artist": "Grandmaster Flash and the Furious Five",
+    "album": "The Message",
+    "b-side": "\"The Message\" (Instrumental)",
+    "released": "July 1, 1982",
+    "format": "12-inch single",
+    "recorded": "1982",
+    "genre": [
+      "Old school hip hop",
+      "Electro"
+    ],
+    "length": "7:10",
+    "writer": [
+      "Edward G. Fletcher",
+      "Grandmaster Melle Mel",
+      "Sylvia Robinson",
+      "Clifton \"Jiggs\" Chase"
+    ],
+    "label": "Sugar Hill",
+    "producer": [
+      "Edward G. Fletcher",
+      "Sylvia Robinson"
+    ],
+    "chronology": "Grandmaster Flash and the Furious Five",
+    "last single": "\"Scorpio\",  (1981)",
+    "this single": "\"'''The Message'''\", (1982)",
+    "next single": "\"New York, New York\", (1982)",
+    "misc": {
+      "type": "single",
+      "filename": "The Message.ogg",
+      "title": "\"TheMessage\""
+    }
+  },
+  "Heroin": {
+    "name": "Heroin",
+    "allmusic": "https://www.allmusic.com/song/heroin-mt0005630413",
+    "link": "https://en.wikipedia.org/wiki/Heroin_(The_Velvet_Underground_song)",
+    "origin": "East Coast",
+    "bpm": "146",
+    "key": "C#",
+    "cover": "Velvet_Underground_and_Nico.jpg",
+    "artist": "the Velvet Underground",
+    "album": "The Velvet Underground & Nico",
+    "released": "1967.03.12",
+    "recorded": "May 1966",
+    "studio": "T.T.G. Studios, Hollywood, California",
+    "genre": "Experimental rock",
+    "length": "7:12",
+    "label": "Verve",
+    "writer": "Lou Reed",
+    "producer": "Andy Warhol",
+    "misc": {
+      "filename": "TheVelvetUndergroundHeroin.ogg",
+      "title": "\"Heroin\"",
+      "type": "song"
+    }
+  },
   "Milk It": {
     "name": "Milk It",
     "type": "studio",
@@ -1370,6 +1433,7 @@
     "artist": "The Doors",
     "album": "The Doors",
     "b-side": "\"The Crystal Ship\"",
+    "allmusic": "https://www.allmusic.com/song/light-my-fire-mt0002699162",
     "key": "Eb",
     "bpm": "125",
     "format": "7\" vinyl",
@@ -1378,7 +1442,8 @@
     "genre": "Psychedelic rock",
     "length": [
       "7:06 (Album Version)",
-      "2:52 (Single Version)"
+      "2:52 (Single Version)",
+      "Live versions preferred"
     ],
     "label": "Elektra",
     "writer": [

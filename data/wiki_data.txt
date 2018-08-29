@@ -1,3 +1,54 @@
+{{Infobox single <!-- See Template:Song infobox -->
+| Name           = The Message
+| Cover          = grandmaster_flash_message.jpg
+| link = https://en.wikipedia.org/wiki/The_Message_(Grandmaster_Flash_and_the_Furious_Five_song)
+| Origin = East Coast
+| Bpm = 101
+| key = C#
+| Artist         = [[Grandmaster Flash and the Furious Five]]
+| Album          = [[The Message (Grandmaster Flash and the Furious Five album)|The Message]]
+| B-side         = "The Message" (Instrumental)
+| Released       = July 1, 1982
+| Format         = [[12-inch single]]
+| Recorded       = 1982
+| Genre          = {{hlist|[[Old school hip hop]]<ref>{{cite web|url=http://www.allmusic.com/style/electro-ma0000002571|title=Electro Music Genre Overview - AllMusic|website=AllMusic|accessdate=26 August 2017}}</ref>|[[Electro music| Electro]]}}
+| Length         = 7:10
+| Writer         = {{hlist|[[Duke Bootee|Edward G. Fletcher]]|[[Grandmaster Melle Mel]]|[[Sylvia Robinson]]|[[Clifton "Jiggs" Chase]]}}
+| Label          = [[Sugar Hill Records (rap)|Sugar Hill]]
+| Producer       = [[Duke Bootee|Edward G. Fletcher]], [[Sylvia Robinson]]
+| Chronology     = [[Grandmaster Flash and the Furious Five]]
+| Last single    = "[[Scorpio (Grandmaster Flash and the Furious Five song)|Scorpio]]"<br /> (1981)
+| This single    = "'''The Message'''"<br />(1982)
+| Next single    = "New York, New York"<br />(1982)
+| Misc           = 
+{{Extra music sample
+| type           = single
+| filename       = The Message.ogg
+| title          = "TheMessage"
+}}
+}}
+####
+{{Infobox song
+| name            = Heroin
+| allmusic = https://www.allmusic.com/song/heroin-mt0005630413
+| link = https://en.wikipedia.org/wiki/Heroin_(The_Velvet_Underground_song)
+| Origin = East Coast
+| Bpm = 146
+| key = C#
+| cover       = Velvet_Underground_and_Nico.jpg
+| artist          = [[the Velvet Underground]]
+| album           = [[The Velvet Underground & Nico]]
+| released        = {{Start date|1967|03|12}}
+| recorded        = May 1966
+| studio = [[T.T.G. Studios]], Hollywood, California
+| genre           = [[Experimental rock]]<ref name="zak">{{cite book|last=Zak|first=Albin|enlaceautor= |title=The Velvet Underground Companion: Four Decades of Commentary|url=https://books.google.com/books?id=BA3da2UPobgC&dq=heroin+velvet+underground&hl=es&source=gbs_navlinks_s|accessdate=1 March 2014 |year=2000|publisher=Music Sales Group|isbn=978-0028646275}}</ref>
+| length          = {{Duration|m=7|s=12}}
+| label           = [[Verve Records|Verve]]
+| writer          = [[Lou Reed]]
+| producer        = [[Andy Warhol]]
+| Misc = {{Extra music sample|filename=TheVelvetUndergroundHeroin.ogg|title="Heroin" |Type=song}}
+}}
+####
 {{Infobox album
 | name       = Milk It
 | type       = studio
@@ -1321,6 +1372,7 @@
 | Artist        = [[The Doors]]
 | Album         = [[The Doors (album)|The Doors]]
 | B-side        = "[[The Crystal Ship]]"
+| allmusic = https://www.allmusic.com/song/light-my-fire-mt0002699162
 | key = Eb
 | bpm = 125
 | Format        = 7" vinyl
@@ -1329,7 +1381,8 @@
 | Genre         = [[Psychedelic rock]]<ref>{{cite news|title= Forty years on, Jim Morrison cult thrives at Paris cemetery |newspaper= [[The Independent]] |date= July 1, 2011 |accessdate= September 14, 2017 |url= https://www.independent.co.uk/arts-entertainment/music/forty-years-on-jim-morrison-cult-thrives-at-paris-cemetery-2305977.html}}</ref>
 | Length        = {{Plainlist|
 * 7:06 (Album Version)
-* 2:52 (Single Version)}}
+* 2:52 (Single Version)
+* Live versions preferred}}
 | Label         = [[Elektra Records|Elektra]]
 | Writer        = [[Jim Morrison]], [[Robbie Krieger]], [[John Densmore]], [[Ray Manzarek]]
 | Producer      = [[Paul A. Rothchild]]
