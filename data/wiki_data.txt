@@ -1609,6 +1609,8 @@
 | Cover          = Satisfaction-us.jpg
 | origin     = England
 | Artist         = [[The Rolling Stones]]
+| karaoke = https://www.karaoke-version.com/custombackingtrack/the-rolling-stones/i-can-t-get-no-satisfaction.html
+| genius = https://genius.com/The-rolling-stones-i-cant-get-no-satisfaction-lyrics
 | key = D
 | bpm = 136
 | B-side         = {{plainlist|

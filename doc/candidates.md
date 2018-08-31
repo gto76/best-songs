@@ -1,22 +1,6 @@
 Best Songs
 ==========
 
-TODO
-----
-
-### Add
-message
-heroin
-
-### Change
-cars his by my window - light my fire
-
-### Remove
-white rabbit
-pixies
-
-
-
 Albums
 ------
 arcadium rhcp

@@ -35,6 +35,15 @@ playlist</a> is also available.</b>
 **Length:&ensp;2:50**  
 **Label:&ensp;Sun**  
 
+### '65 Jun | "(I Can't Get No) Satisfaction" — The Rolling Stones  
+<a target="_blank" href="https://www.youtube.com/results?search_query=The+Rolling+Stones+(I+Can't+Get+No)+Satisfaction&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Satisfaction-us.jpg" align="left" alt="cover" height="121px"/></a>
+
+**Genres:&ensp;Rock, Hard Rock**  
+**Writer:&ensp;Jagger/Richards**  
+**Producer:&ensp;Andrew Loog Oldham**  
+**Length:&ensp;3:45**  
+**Labels:&ensp;London (Us), Decca (Uk)**  
+
 ### '65 Jul | "Like a Rolling Stone" — Bob Dylan  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Bob+Dylan+Like+a+Rolling+Stone&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Bob_Dylan_-_Like_a_Rolling_Stone.jpg" align="left" alt="cover" height="121px"/></a>
 
@@ -43,15 +52,6 @@ playlist</a> is also available.</b>
 **Producer:&ensp;Tom Wilson**  
 **Length:&ensp;6:13**  
 **Label:&ensp;Columbia**  
-
-### '66 May | "Paint It Black" — the Rolling Stones  
-<a target="_blank" href="https://www.youtube.com/results?search_query=the+Rolling+Stones+Paint+It+Black&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/RStones-PiB-Decca.jpg" align="left" alt="cover" height="121px"/></a>
-
-**Genres:&ensp;Psychedelic Rock, Raga Rock**  
-**Writer:&ensp;Jagger/Richards**  
-**Producer:&ensp;Andrew Loog Oldham**  
-**Lengths:&ensp;3:19 (mono single mix), 3:22 (stereo album mix)**  
-**Labels:&ensp;Decca (Uk), London (Us)**  
 
 ### '66 Dec | "The Ecstasy of Gold" — Ennio Morricone  
 <a target="_blank" href="https://www.youtube.com/results?search_query=Ennio+Morricone+The+Ecstasy+of+Gold&sp=EgIgAQ%253D%253D"> <img src="data/img/cover/Good_the_Bad_the_Ugly_soundtrack.jpg" align="left" alt="cover" height="121px"/></a>

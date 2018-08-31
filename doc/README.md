@@ -32,3 +32,6 @@ How to add a song
 7. Run `./parse.py`. Some fields might not get parsed corectly. Try to simplify
     the values if this happens.
 
+8. If karaoke and genius links don't work due to naming difference between,
+    sites, then add links to 'karaoke' or/and 'genius' fields in
+    'wiki_data.txt' file.

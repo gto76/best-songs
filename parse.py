@@ -201,8 +201,8 @@ def get_title(albumName, songName, bandName, albumData):
     month = '' if not month else calendar.month_abbr[int(month)]
     link = f"<a href='#{album_name_abr}' name='{album_name_abr}'>#</a>" 
     text = f"'{year} {month} | \"{songName}\" — {bandName}"
-    genius = get_genius_link(bandName, songName)
-    karaoke = get_karaoke_link(bandName, songName)
+    genius = get_genius_link(bandName, songName, albumData)
+    karaoke = get_karaoke_link(bandName, songName, albumData)
     wiki = get_wiki_link(songName,  albumData[songName])
     allmusic = get_allmusic_link(albumData[songName])
     title_html = f"<h2>{link}{text} {genius} {karaoke} {allmusic} {wiki}</h2>\n"
@@ -230,7 +230,7 @@ def get_wiki_link(song_name, song_data):
            '"25" style="position: relative;top: 2px"></a>'
 
 
-def get_genius_link(bandName, songName):
+def get_genius_link(bandName, songName, albumData):
     artist = replace_chars(bandName, GENIUS_REPLACEMENTS)
     if artist == 'clash' or artist == 'Clash':
         artist = 'the-clash'
@@ -238,12 +238,14 @@ def get_genius_link(bandName, songName):
         artist = 'Sugarhill-Gang'
     title = replace_chars(songName, GENIUS_REPLACEMENTS)
     href = f'https://genius.com/{artist}-{title}-lyrics'
+    if 'genius' in albumData[songName]:
+        href = albumData[songName]['genius']
     return f'<a href="{href}" targe' \
            't="_blank"><img src="data/img/genius-icon.png" width="25" height=' \
            '"25" style="position: relative;top: 2px"></a>'
 
 
-def get_karaoke_link(bandName, songName):
+def get_karaoke_link(bandName, songName, albumData):
     if songName in NO_KARAOKE:
         return ''
     artist = replace_chars(bandName, KARAOKE_REPLACEMENTS).lower()
@@ -251,6 +253,8 @@ def get_karaoke_link(bandName, songName):
         artist = 'the-clash'
     title = replace_chars(songName, KARAOKE_REPLACEMENTS).lower()
     href = f'http://www.karaoke-version.com/custombackingtrack/{artist}/{title}.html'
+    if 'karaoke' in albumData[songName]:
+        href = albumData[songName]['karaoke']
     return f'<a href="{href}" targe' \
            't="_blank"><img src="data/img/karaoke-icon.png" width="25" height=' \
            '"25" style="position: relative;top: 2px"></a>'
